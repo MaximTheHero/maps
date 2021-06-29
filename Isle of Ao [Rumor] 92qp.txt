@@ -1,0 +1,524 @@
+Isle of Ao [Rumor]
+Dirs: Wayhaven, 7w, 8s, e, charter ao
+
+      B
+       \
+        x
+       / \
+      1   x-3-x
+     /|   |/| |\
+    x x---2-x-4 E
+    | |   |/ \
+  7-6 x---8   5
+   \      |  /
+    x     9 D
+     \    |  \
+      x---A---C
+      |
+      x
+
+
+
+1: Krug
+2: Sqeek
+3: Mollig
+4: Faelst
+5: Zaubernuss
+6: Gesundheit
+7: Ubel
+8: Widerlich
+9: Fly (or use rong of levitation)
+   Aasgeier
+A: enter, 2u
+   bow pooki for a +1 wis boost
+   kneel pooki - to start Crystals of Ao (quest)
+   proffer crystals - to end quest
+B: boat back to Wayhaven
+C: Phester
+   Search grass for Luerk
+   Search corner in Luerk's room for Ebonite Marble
+D: Spuue
+   Slide drop to get to Maelicious and Gibbergeist
+E: Dragon Labyrinth
+
+
+Krug   36851
+This bleary-eyed goblin looks like he has been drinking goblin ale,
+buckets full, from the smell of him. Drool dribbles from the corners
+of his slack-jawed mouth and his pink eyes are rimmed in a dark red
+color that doesn't look at all healthy. His nose twitches regularly,
+as if some dim part of his senses remain, trying to tell him just how
+bad he stinks and how desperately he needs to sober up. He wears the
+torn remains of a leather jerkin and codpiece, covering just enough of
+his scaly green hide to avoid being truly obscene.
+
+Sqeek     48553
+This thieving little goblin likes nothing better than to steal
+trinkets from his fellow goblins whenever he thinks he can get away
+with it. Chances are he'll see you as easy meat. His eyes flit
+greedily over your person, assauging just how much you might be worth,
+and how best to deprive you of that figure. He constantly rubs his
+filthy green hands together, apparently in anticipation of his crime.
+He wears a ratty overcoat that hangs down past his scabby knees and
+its pockets appear to be bulging. Probably full of goodies he's stolen
+recently.
+
+Mollig    41384
+This bulky goblin isn't much more than five feet tall, but must weigh
+at least three hundred pounds. His porcine features include hanging
+jowls, beady pink eyes and a snout that takes up the majority of his
+face. Two tusks protrude from the corners of his puckered mouth that
+look sharp enough to do some serious damage in close quarters. His
+mottled body is garbed in ragged leathers and protected by his
+traditional goblin army shield and spear.
+
+Faelst    56310
+This foul creature looks as if he is covered in buckets of slime.
+Slick droplets of goo coat his green hide and seem to ooze from his
+over-sized pores. His pink eyes gleam as he looks you over and his
+wide nostrils flare upon every labored breath. His rotten teeth show
+as his mouth seems to be left perpetually open, apparently to better
+allow him to breathe. He is clothed in drab gray leathers that cover
+most of his torso, but little else. Wiry black hair sprouts from his
+head, arms, and legs and the droplets of slime hang from the ends,
+waiting to be shaken free.
+
+Zaubernuss     49168
+This ancient female goblin wears a permanent scowl on her haggard
+face. Her hair is long and gray, hanging from her scaly green scalp in
+greasy clumps. Her hunched back stoops her over in a posture that
+makes her resemble a carrion crow, hungry for dead flesh. Her rotting
+yellow teeth show from between her chapped purplish lips and her milky
+pink eyes seem to nearly burn a hole through you with the intensity of
+her gaze. Her hands end in long, unkept, claw-like nails that look
+capable of gouging your eyes out and she clasps a crooked green wand
+that looks a bit menacing.
+
+Gesundheit    51342
+This poor goblin looks violently ill. His green skin is mottled a
+sickly brown and puss oozes from open sores covering his face and
+arms. His slitted pink eyes are puffy, almost swollen shut, and his
+bulbous nose seems to run constantly. His gaunt chest heaves with
+every painful breath and he seems to look at you with bitter hatred.
+As if you are the cause of his suffering. He wears a ragged loincloth
+and what might be the remains of a pair of boots. He is wielding a
+long spear and looks as if he'd happily kill you with it if you
+tempted him.
+
+Ubel    48417
+Standing over seven feet tall and weighing at least 400 pounds, this
+goblin is one of the largest you've ever seen. Tufts of white hair
+stand out wildly from atop his dark green scalp and his bright red
+eyes seem to blaze as he looks upon you. Unlike most goblins, Ubel is
+far from unintelligent. Having once studied with the Mages of old,
+Ubel went on to become a priest to his kind. Having learned a great
+deal of magic during his apprenticeship, Ubel was torn between his
+fellow goblins and the Mages they escaped from when they came to the
+Isle of Ao. He now practices his arcane art in relative obscurity,
+sworn to protect the interests of the goblins and driven quite mad by
+his abandonment of the Mages that guided him.
+
+Widerlich    46000
+This abomination still vaguely resembles a goblin, but he has been
+horribly mutated. Not being known as an attractive breed in the first
+place, this creature seems to have grown spikes along his back and
+chest and an elongated snout on his face to further add to his hideous
+appearance. His red eyes glare at you in utter madness as his spikes
+bristle in annoyance. Poison drips from the ends of the spikes,
+steaming and hissing as it falls onto the ground at his feet. The
+scaly green skin around his snout looks raw and swollen and his thin
+mouth is curled in a permanent snarl beneath. His hands end in long
+unkept claws that look capable of tearing you limb from limb.
+
+Aasgeier    45521
+This bizarre creature stands on two powerful legs when earthbound, but
+spends most of his time flying. Unlike most of his comrades, Aasgeier
+has a pair of leathery wings growing from his shoulder blades that
+extend the length of his scaly body. In flight, these membranous wings
+have a span of over eight feet, giving him an eerie resemblance to a
+giant bat. These wings end in small hook-like claws on both top and
+bottom, giving Aasgeier a fearsome arsenal when coupled with his
+four-clawed hands and feet and his ability to attack from above.
+
+Phester     58223
+This lanky goblin has pale green skin and long black hair that covers
+the majority of his head and body. Dark yellow eyes sit just over his
+long snout and his ears lie flat atop his head. Sharp but rotten teeth
+protrude from his jaw and his hands end in equally dangerous-looking
+claws. He is clothed in filthy rags and a pair of boots that are
+probably stolen. He is armed with a wicked-looking spear and you can
+bet that he knows how to use it.
+
+Spuue     36126
+Spuue barfs up a load of pink and green liquid all over the ground.
+This wretched creature is known as Spuue. He got this monikor from his
+rather nasty habit of vomiting on a regular basis. It seems he has a
+bad stomach and vomiting makes him feel better. Comfort aside, his
+vomiting hasn't earned him many friends or admirers, even in the
+company of goblins. He is covered in wet pink chunks of vomit from
+head to toe and he smells terrible. Just being near him is enough to
+make you queasy. He wears a soiled loincloth over his sickly frame and
+fresh vomit oozes from his thick green lips.
+
+Maelicious    93365
+This goblin stands well over seven feet in height, his golden eyes
+glaring down at you from above. Well armoured both naturally from his
+thick green hide as well as by his worn equipment, Maelicious poses a
+serious threat to anyone hoping to pass him into the inner sanctum of
+Gibbergeist. Wielding a goblin spear and looking eager for blood, he
+is known by all of Ao's denizens as a goblin to be feared. His taut
+muscles are clenched as he guards his lord within and spittle drools
+down from his partially open mouth, wetting his chest and making him
+look quite mad.
+
+Luerk    61191
+This squat green-skinned creature has beady yellow eyes and slitted
+nostrils that resemble a snake's. Three small horns protrude from his
+lumpy, misshapened forehead and the ragged hole that is his mouth is
+full of rotting teeth. Both his hands and feet have four dirty claws
+attached and his filthy loincloth and jerkin barely cover his scaly
+hide. He smells horrendous.
+
+Gibbergeist    97075
+Possibly the most fearless Goblin General in the history of the Goblin
+Army, Gibbergeist survived the century old Mage Wars only to wind up
+an outcast on the Isle of Ao. Driven from the mainland by the threat
+of annihilation once their Dark Mage leaders were defeated, he wound
+up bringing his remaining tribe to the island and has remained here
+ever since. While the tribe follows him to this day, he has been
+driven insane by the island's dark magic, oblivious to their lack of
+aging, their loss of speech and their inability to return home. His
+knotted ponytail of white hair sits high atop his pale green scalp. He
+wears platemail over his massive upper body and wields a huge
+double-bladed axe. His yellow eyes regard you coldly and his pointed
+teeth are bared in obvious aggression.
+
+Ophidian Worker      95137
+This green Ophidian is tasked with mining the tunnels of the Labyrinth
+for minerals to be used for fuel. Its skin is scaly and covered in
+dust and grime from the hard work it does every day buried deep in the
+underground caverns. It looks tired and beaten, but still wouldn't
+hesitate to kill any intruders that wandered into the caves.
+
+Ophidian Warrior     144996
+This creature's blue skin designates it as a member of the warrior
+caste within Ophidian society. Larger and more agile than its green
+worker brethren, this snakeman's duty is to protect those workers,
+killing any intruders it finds within the Labyrinth. It brandishes a
+long wooden pike and is garbed head-to-toe in leather armour.
+
+Ophidian General      275209
+This monstrous snakeman is one of the leaders of the tribe. Its status
+is easily recognized by its glistening red scales. As large as the
+warriors, it also is armed with a highly venomous bite and a
+wicked-looking sword. Armored from sleek head to clawed toe, this
+creature represents the very finest and most dangerous the Ophidians
+have to offer in warriors.
+
+Ophidian Shaman     129491
+This gold Ophidian stares at you with bright green eyes full of a dark
+intelligence. It is cloaked in a long red garment decorated with
+golden symbols. The scaly hands extending from the sleeves of the robe
+are long and clawed. Its angular face regards you with mild curiosity
+mixed with a hard look of violent intent. This shaman heals its
+Ophidian brethren, but will have no mercy on you.
+
+Ophidian Guardian      265055
+This monstrous creature is as black as night and easily over seven
+feet in stature. Its hypnotic green eyes regard you coldly and its
+tongue continually slithers out of its wide mouth, as if tasting the
+air for the flavor of your fear. It wields a long thin whip and is
+well armoured. Its sworn duty is to protect the masters of the
+Labyrinth. You'll have to best this snakeman if you wish to live until
+tomorrow.
+
+Char, the Fire Dragon of Ao     647620
+You look upon one of the most ancient and feared creatures in the
+realm of Fantasy's great history. Char, the Fire Dragon of Ao. Born
+thousands of years ago, this dragon once terrorized the lands,
+plundering its treasures and razing its cities. He came to sleep
+beneath the Isle of Ao only after running out of amusements on the
+mainland, finding this lair hundreds of years before you were born. He
+dwarfs you, one of his clawed feet is larger than the whole of your
+body. His dark red scales glisten in the firelight of the cave and his
+molten eyes stare down at you with regal disdain.
+
+Ophidian Tracker     167088
+This bronze Ophidian is lanky and lean, standing as tall as a man, but
+much thinner. Its eyes regard you with a look full of guile and
+cunning. This snakeman is a tracker, a leader of hunting parties. It
+will hunt its prey without hesitation and rarely misses a chance to
+kill. It is experienced in combat, a fact well documented by the dents
+and scratches apparent in the shield strapped to its left arm.
+
+Lixvius, the Sea Dragon of Ao    649737
+This monstrous creature is the ancient sea dragon of Ao, one of four
+dragons that once terrorized the mainland before settling in this
+Labyrinth to slumber through the centuries. Her green scales glitter
+in the dark confines of this lair, their hard surface slick with
+moisture. Her golden eyes are slit open, just enough to look down upon
+you, regarding your presence with simmering hatred. Muscles ripple in
+her massive frame, her feet clawed and flexing as they prepare to
+defend her horde. Every time she opens her mouth to exhale the hot
+breath that heats these passages, you catch sight of hundreds of
+razor-sharp teeth.
+
+Nimbus, the Sky Dragon of Ao    652288
+This fearsome creature is the ancient sky dragon of Ao. Long ago, he
+ravaged the lands of Fantasy, bringing death from above to all that
+stood in his path. For the past several centuries he has slumbered
+here in the Labyrinth, content to doze atop his mountain of plundered
+riches. It looks like you've awakened him. His globe-like eyes stare
+at you, calmly measuring you as you stand before him. His blue scales
+shine brightly in the sunlight, his thick spiked tail wrapped around
+his muscular body, poised to strike you at any moment. His forked
+tongue occasionally licks its way along his gleaming white teeth,
+giving the appearance he is eager to taste your flesh.
+
+Stygion, the Stone Dragon of Ao   747288
+The mightiest of the four Dragons of Ao, Stygion stands before you in
+dark majesty. His scales are the purest black, the color so deep, his
+body seems to be a hole in the very fabric of reality. He towers above
+his mountain of riches, his size dwarfing you, leaving you feeling
+like a mere mouse in the presence of a monster of such gigantic
+proportions. Every swish of his massive spiked tail creates a wind
+that knocks you off your feet. Every blast of fire from his enormous
+mouth bakes the very ground on which you stand. This creature is so
+powerful, so ancient, he leaves most that observe him in frozen awe.
+And in that state, he destroys them with nary a thought.
+
+Ophidian Hunter    351464
+This Ophidian roams the hunting grounds looking for prey. You're as
+good as any, so be on your guard. Its black scales make it nearly
+invisible in the darkness of these tunnels. Wielding a long whip and
+wearing thick armor on its midsection, this creature is more than
+capable of killing you if you aren't prepared for a fight. It carries
+a stack of pelts draped across one shoulder, is yours next?
+
+Choker      95372
+This nasty underground predator is covered in mottled grey flesh and
+is vaguely humanoid in appearance. It stands about eight feet tall,
+but has a very small body, its height made almost completely by its
+extremely long legs. It is skeletal, having very little body fat, its
+bones protruding noticeably along its spine and ribcage. Its most
+startling feature are its arms. They are actually huge tentacles,
+measuring over nine feet in length and ending in claws bearing large
+spiny pads that help it climb the cave walls and ceiling as well as
+choke its intended victims.
+
+
+
+
+Goblin ale
+This is a jug of foul smelling, bubbling, goblin ale.
+[100/100 Heal]
+
+Goblin Spear
+This four foot long wooden spear has a sharp iron-tipped head and
+an iron tailspike to match. The wood is roughly hewn, as if taken
+straight from the tree with little fanfare or thought towards
+craftsmanship. The iron tip is a sharpened blade approximately six
+inches long and the tailspike is half that size, sharpened as well
+to act as a second means of attack. This weapon was made by goblin
+ironsmiths and is standard issue for most Goblin troops.
+
+Goblin Shield
+This round shield is made of some unknown hammered
+metal and has a leather strap on the inside allowing
+its bearer to wear it into battle. The shield is
+designed with a red background and two black axes
+crossed atop the red field. This is the ensignia of
+an ancient batallion of Goblin warriors that disappeared
+from the mainland following the Mage Wars. This shield
+is very old, but still looks capable of offering good
+protection.
+
+random ring
+[ring of levitation]
+
+A Poison wand
+A Poison wand. You may be able to use it, if you know the command word.
+To use this wand you must hold it.
+
+Goblin Robe
+This flowing robe is made from a heavy solid black material
+of unknown origin. It is quite large, looking like it was
+made for a creature of at least seven feet in height. It clips
+around the neck and covers its wearer from neck to ankle. It
+once belonged to a powerful magic user and seems to retain some
+measure of magical protection.
+
+Ebonite Staff (enchanted)
+This nine foot staff is made of solid black ebonite, forged by the
+Mages of old and given to only to those apprentices that prove
+themselves adept at the arcane art of magic. Silver runes are engraved
+along the staff, decorating it from end to end in a language unknown
+to you. The staff feels light in your hands, yet strong. It seems to
+vibrate slightly, as if it holds a magic of its own within its inky
+black surface.
+
+Goblin Gauntlets
+These lightweight gauntlets cover the wearer's hands and arms
+in a metal coated with a magical white powder. The powder is
+said to offer superior protection against acidic damage and seems
+to have made these gauntlets surprisingly good armour. The
+gauntlets are slightly larger than a pair ideally suited for a
+man, obviously created for the goblins that gave them their name.
+Painted in blood upon each is the image of a raging dragon in flight,
+spitting acid at a cowering warrior beneath.
+
+Beaked Helmet
+This funny looking helmet is made from scraps of leather
+and fur attached to a thick metal frame that surrounds the
+head and extends out over the nose like a giant beak.
+Although the result is the wearer looking more than a
+little ridiculous, it provides excellent protection from
+the elements and anyone attempting to batter the wearer's
+head. Go ahead, put it on. No one will laugh...much.
+
+Goblin Boots
+These heavy leather boots are remnants from the Mage Wars. Worn
+by the soldiers of the Goblin Army, these boots were crafted by
+dark elves on the orders of Erthorpion. Now ancient, they still
+seem to be in relatively good shape, offering fair protection to
+anyone that wears them. They are black in color and have metal
+plates in the heel and toe for added strength. They look larger
+than any boot made for a man, which makes sense considering the
+size of a typical goblin's feet.
+
+Energy Amulet
+This magical amulet is stolen booty from the time of the Mage Wars.
+Worn by the elven forces supporting the Light Mages, this amulet
+was designed to offer maximum protection against the spells of
+Strahd and his undead horde. Many of these magical treasures were
+lost in the aftermath of the destruction of that time. Items were
+stolen by looters, taken as war prizes or buried with the dead. This
+particular piece seems to still be in excellent condition. Made of
+shining mithril and hung on a thickly woven leather string, it indeed
+looks to be quite a find.
+
+Skulkarver (enchanted)
+Three feet of absolute menace. This nasty double-headed battle axe
+looks like it could easily split a skull in two. Hence the name given
+it by its original goblin owner. The axe heads gleam with razor-sharp
+precision and the wooden handle has the kind of heft only a true warrior
+can manage with any degree of skill. The handle is deeply stained with
+the blood of all those it's chopped down in its long history and it is
+so large it takes both hands to wield it in battle.
+
+Goblinmail
+This enchanted platemail was created for the generals of the Goblin
+Armies during the Mage Wars. Crafted from the strongest metals and
+held together with the finest leather, this armour serves its wearer
+well. Before being given to the Goblins, it was infused with magic by
+Dark Mage Adepts. This magic made the armour not only more durable,
+but more reliable against the powers the Goblins had to face from the
+Light Mages in battle. The armour has a few nicks and scars from the
+combat it's seen over the past century or more, but it still looks
+very functional.
+
+Ophidian Pickax
+This pickax is used for breaking the rock of the
+Labyrinth's caverns. Ophidian workers use these tools
+until they're too dull to function, only to replace
+them with another. While you aren't likely to face that
+drudgery yourself, you might still find some use for
+this tool as a weapon.
+
+Aon Pike
+This weapon consists of a sharp metal head at the
+end of a long wooden pole. The pole is notched and
+scratched but still looks like it is solid enough
+to wield. The head is made of Aon, a strong metal
+that is mined from the Isle of Ao.
+
+Aon Battle-Axe
+Made from the precious black ore known as Aon, this
+huge weapon is capable of doing massive amounts of
+damage, but it is rather crudely crafted. Unlike the
+fine Aon blades wielded by Ophidian generals, this
+axe was intended for the lower caste warriors and is
+therefore, not as well designed nor as dangerous.
+
+Aon Helmet
+This helmet is made from the shiny black ore known
+as aon. The helmet fits closely to its wearer's scalp,
+covering the ears and partially obscuring the forehead.
+On either side of the helmet is the gold emblem of a
+dragon, its wings open as if it were about to take
+flight.
+
+Shaman Robe
+This long red garment covers its wearer from neck to
+ankle. Made from some type of animal hide, it's been
+treated and dyed until it now looks like a very well
+crafted robe. It is decorated with golden symbols and
+was once worn by an ophidian shaman. It looks like it
+would provide excellent protection.
+
+Flesh Whip (enchanted)
+This whip was crafted from the shed skin of
+an Ophidian warrior. Twisted, cured, and then
+enchanted by a shaman, the skin is now over
+five feet in length, very flexible, and quite
+strong. This weapon looks like it packs quite
+a sting when wielded correctly.
+
+Red Crystal of Ao
+This large red crystal glows with a soft brilliance.
+Beautifully cut, it seems to possess a magic aura.
+Perhaps this ancient gem is part of a larger mystery.
+
+Aon Shield
+Formed from the black ore known as aon, this long
+oval-shaped shield is meant to protect its possessor
+from virtually any form of frontal attack. Etched in
+gold along the front of the shield is an emblem of a
+crouching dragon, its eyes glaring toward its foe.
+The shield is dented and scratched, a testament to
+its blood-soaked history.
+
+Aon Bracers
+These bracers are made from the shiny black ore
+known as aon. Mined from deep beneath its island
+namesake, this ore is transformed into wonderfully
+protective armour and razor-sharp weapons by the
+Ophidian craftsman that dwell in the recesses of
+the caves from which the ore is drawn. This armour
+looks like it would protect your hands and arms
+quite well.
+
+Green Crystal of Ao
+This large green crystal glows with a soft brilliance.
+Beautifully cut, it seems to possess a magic aura.
+Perhaps this ancient gem is part of a larger mystery.
+
+Blue Crystal of Ao
+This large blue crystal glows with a soft brilliance.
+Beautifully cut, it seems to possess a magic aura.
+Perhaps this ancient gem is part of a larger mystery.
+
+Shaman Amulet
+This sparkling jeweled amulet hangs from a necklace of
+twisted black leather. The jewel itself is deep green
+in hue and it reflects light in a dazzling display that
+glints in the eye of the beholder. It was created and
+worn by an Ophidian shaman. Its purpose was to focus the
+shaman's magic while protecting it from similar forces.
+
+Aon Blade (enchanted)
+This sleek blade was crafted from the finest aon.
+The black ore was smelted and formed until this
+black sword was born. Honed to a wicked edge, a
+talented swordsman could do quite well with this
+weapon. Engraved in the pommel at the end of the
+sword's grip is the terrible eye of a dragon,
+gazing back at you with a look of cold hatred.
+
+Heart of Christos
+This decomposing heart was once responsible for pumping
+the life-blood of one of Fantasy's most devious dark mages,
+Christos Perfidios. It appears that the dark mage is dead.
+Many of the realm would say good riddance.
+
+

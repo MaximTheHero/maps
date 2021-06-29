@@ -1,0 +1,62 @@
+sci,enter,u,3e,d,e,path,14e,18n,6e,bridge
+
+                       3 
+                      /
+   x-x---x---2-x---x-x
+   | |   |   | |   | |
+ 1-x 4-9 5-x-5 x   x x-6
+   | |   | | | |   | |
+   | |   | x | x   | |
+   | |   |   | |   | |
+   | |   |   | x-s | |
+   | |   |   | |   | |
+   B-d---x---x-x---D-x
+    \    |   | |
+     \   |   | |
+      C  x   x x
+       \ | 7 | |
+        \|/  | |
+         x---x-A
+          \  |
+           \ |
+            \|
+             8
+
+1 - Whorehouse [Doh]
+2 - Toy Store [Smoof]
+3 - Mantle Corps [Maphingis]
+4 - Carnegie Hall
+5 - Rockefeller Center
+6 - United Nations
+7 - Subway Sandwich Shop [Malaclypse]
+8 - NYPD [Pfunk]
+9 - Wax Museum [Pfunk]
+s - subway
+A - Aegis Global [Rumor]
+B - Bridge (entrance/exit)
+C - A run-down old warehouse (Syndicate Headquarters - Cyborg)
+D - enter building - NASTAR [Stercus]
+
+
+Police Officer     1635
+An NYPD officer of the law.
+
+Giant Mack Truck    998
+A giant mack truck, trying to kill you.
+
+A busy pedestrian   92
+This man has a look of concentration. He doesn't appear to notice you
+staring at him. He is used to New Yorkers, they all stare rudely too.
+
+A UN Diplomat
+A man in his late 60's, wearing an expensive suit.
+
+
+
+
+
+
+
+
+
+.

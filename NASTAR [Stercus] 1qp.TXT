@@ -1,0 +1,104 @@
+sci,enter,u,3e,d,e,path,14e,18n,6e,bridge,6e,enter building
+
+
+      u          d         u         d        u      2
+      |          |         |         |        |
+      x-x      x-x       x-x-x     x-x-x      x
+      | |      |            \|       |        |
+    x-x-x      x-x-x     x x x     x-x-3      x
+    | | |      |   |     |/|\|     | |        |
+    x-x-x      x 1-x     x x x     4 x        x
+      |          |         |         |        |
+      E          u         d         u        d
+
+
+1: say open (south)
+2: down, whistle (helicopter to predators - not in game, no parachute)
+3: search paperwork, wear spectacles
+4: switch on lamp, look at light, get sphere
+
+Clerk of NASTAR   4187
+This uniformed man sits behind a large desk. He has monitors of the
+entire building in front of him. He seems apathetic and ignores you.
+
+4-Armed Guard    26415
+This man looks normal in every way except for the fact that he has two
+mechanical metal arms surgically attached to his torso. You wonder why
+someone bothered to spend so much money on such an intricate
+procedure.
+
+A Mean Janitor (mean)    11615
+This is the mean old janitor who cleans the NASTAR building. He is
+sooo NASTY! You hate him. You want to kill him. Go ahead! Kill him!
+Make this place happier for everyone.
+
+Video-Camera    6124
+This is a very high-tech video camera, with laser beam cannons mounted
+beneath it. It does not look very tough, but would probably blow the
+hell out of you if you tried to actually destroy it.
+
+Robotic sparring partner     7150
+It looks like this is what the guards use to practice their moves on.
+It can take a hell of a beating.
+
+Fighting Master     24632
+This is the man who trains all the guards who work for Mr. Swain. He
+trains them in both body and mind. He looks like he knows what he is
+doing.
+
+5-Armed Guard   43400
+This man looks normal in every way except for the fact that he has
+three mechanical metal arms surgically attached to his torso. You
+wonder why someone bothered to spend so much money on such an
+intricate procedure.
+
+Mainframe    30167
+This computer is huge. While it is made mostly of silicon, glass, and
+plastic, it seems to be alive. Perhaps this is the source of all the
+wealth of this NASTAR corporation. Artificial intelligence.
+
+Mr. Swain - unkillable
+This is Mr. Swain. He is the sole owner NASTAR inc. He is very
+wealthy, and very powerful. Like a Bill Gates who could kick your ass.
+You probably should just do what he tells you.
+say hi, yes, sure
+
+
+
+
+
+
+Robotic arm (enchanted)
+This mechanical arm, used by the guards in NASTAR can be wielded as a
+weapon.  It seems to have a mind of its own.
+
+Silicon armour
+This armour is made from the same stuff that they put in computers.
+Cheap, but effective.
+
+A Pair of Spectacles (worn)
+An electronic pair of grey spectacles, with the logo 'Photech'
+and the inscription 'ultraviolet sensors 9400' on them. They look
+extremely expensive and high-tech.
+
+A note
+A note with writing on it. Perhaps you could read it.
+read note
+Thank you for killing this clerk. He was lazy but
+kind, and I did not have the heart to fire him.
+Since you are here, I assume you are looking for work.
+If I am right, please proceed to the 5th floor, and
+meet me in the big office room. I will fill you in on
+the details when you get here.
+
+Just come on in and say 'hi'
+
+
+                   Signed,
+                          Mr. Swain.
+
+
+
+
+
+.

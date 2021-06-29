@@ -1,0 +1,134 @@
+wanders - A Chocolate Cake, indulge cake
+
+
+     x 3 4   5
+      \| |  /
+       x x x
+        \|/
+     2-x-E-A-6
+        / \
+       x   B
+      /     \
+     1       7
+
+
+A: rattle knocker
+B: set 6 6 6
+E: start - redeem myself - exit
+1: sloth - summons Sloth
+2: lust - summons Lust
+3: gluttony - summons gluttony
+4: pride - summons pride
+5: wrath - summons wrath (aggro)
+6: envy - summons envy
+7: greed - summons greed
+
+
+
+A Skanky Ho (underage)   163
+Ewww, this underage skanky ho has managed to sneak in here, do the
+club a favor and get rid of her.
+
+A man (sinning)   2789
+An inhabitant of Sin City.  You're not sure what sin this man is
+committing, but it's fairly safe to assume that because he lives here,
+he is indeed a sinner.  Shuffling along with his head down and his
+trenchcoat pulled tightly around him, he is exactly the sort of person
+you expected to find here.  If you can't beat them, join them.  Go
+ahead, live a little.
+
+Sloth   6172
+This is pure Sloth.  Just looking at this beast makes you yawn.  There
+is absolutely nothing of interest about it, as if whoever gave birth
+to it gave up half way through the creation process.  You are still
+offended by its presence here, and should probably do something about
+it, but sitting down and taking a rest seems a more viable option
+right now.
+
+Lust   8347
+This is pure Lust.  This is less of a beast, and more of a shadow.
+Its lithe figure sears across your vision like a knife through hot
+butter, leaving an impression of beauty and strength.  It is the
+solidification of a sin, and should be destroyed.  By you.  Unleash
+your Wrath.
+
+Gluttony   6515
+This is pure Gluttony.  This beast is repulsive.  It is a giant,
+heaving mass of obese flesh.  It waddles around with an awkward gait,
+threatening to topple over at any second.  You had better not be under
+it if it does fall over, you doubt you would live to tell the tale.
+It is the solidification of a sin, and should be destroyed.  By you.
+Unleash your Wrath.
+
+Pride   8477
+This is pure Pride.  It is gorgeous, though not as gorgeous as you
+thankfully.  Something about its silvery skin is attractive though,
+perhaps it is the way that you can sometimes almost make out your
+reflection upon the surface.  Or perhaps you are just vain.  It is the
+solidification of a sin, and should be destroyed.  By you.  Unleash
+your Wrath.
+
+Wrath   16842
+
+Envy  6118
+This is pure Envy.  This hulking beast glows so brightly red that you
+can hardly stand to look at it, and yet it is strangely beautiful.
+The way it moves is like liquid fire, sinuous and deadly.  It is the
+solidification of a sin, and should be destroyed.  By you.  Unleash
+your Wrath.
+
+Greed   6299
+This is pure Greed.  You had better keep a wary eye on this beast, as
+it will probably pick your pockets if you don't watch out.  This beast
+stands around 5 feet tall, and doesn't look all that tough.  However,
+something about the look in it's narrowed eyes suggests to you that
+perhaps you shouldn't underestimate it.  It is the solidification of a
+sin, and should be destroyed.  By you.  Unleash your Wrath.
+
+
+
+
+
+Essence of Sloth
+This is the distilled essence of the sin Sloth.  Someone must have
+defeated it to get this.  This lump of grey substance does nothing to
+inspire you, in fact, if you could be bothered, you would probably
+throw it away.
+
+Essence of Lust
+This is the distilled essence of the sin Lust.  Someone must have
+defeated it to get this.  Just holding this pulsing, pink essence of
+lust near you makes you hot under the collar.  Actually, the longer
+you hold onto this, the hotter it seems to become.
+
+Essence of Gluttony
+This is the distilled essence of the sin gluttony.  Someone must have
+defeated it to get this.  You can hear faint grunting sounds coming
+from its blotchy brown mass, and it smells vaguely of vanilla.
+
+Essence of Pride
+This is the distilled essence of the sin pride.  Someone must have
+defeated it to get this.  Just having this on your person makes you
+feel more sure of yourself, as if the bright silver of the essence is
+rubbing off on you, making you more attractive.
+
+Essence of Wrath
+This is the distilled essence of the sin wrath.  Someone must have
+defeated it to get this.  An angry crimson light throbs within this
+essence, irritating you no end.  It feels strangely heavy and cool to
+the touch.
+
+Essence of Envy
+This is the distilled essence of the sin Envy.  Someone must have
+defeated it to get this.  The essence pulses with red light as you
+hold it in your hands, somehow still looking tempting.
+
+Essence of Greed
+This is the distilled essence of the sin Greed.  Someone must have
+defeated it to get this.  It rustles as you hold it, sounding a lot
+like crinkly bits of paper.  A green light emanates from the essence,
+enticing you to keep hold of it.
+
+
+
+.

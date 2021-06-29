@@ -1,0 +1,366 @@
+icelands portal,e,n
+
+                           random exits         mountain       cave
+                demons      every boot 
+                              | | |                 6-x          x-x-x-x-x
+                  4          -x-D-x-                             | |   | |
+                  |           | | |                 x-c        E-x x A x B
+    1-x 3       x-x-x        -x-x-x-                               | | |
+    | | |         |           | | |               x-x-c            x-x x x
+  d-x-x-2         u          -x-x-R-                                 | | |
+    | | |                     | | |             x-c-x                x-x-x
+    x-x-x                    -x-x-x-                                   |
+   /                          | | |           5-c                    x-x
+  x
+   \
+    E
+
+1: climb mountain
+2: cave
+3: Verbeeg Chieftan
+   give Cryohydra hide to verbeeg
+4: enter circle
+R: Rip (entrance)
+D: Ice Devil
+5: mountain start
+6: enter - Verbeeg Shaman
+A: pry gem from west sculpture
+
+
+A small ice weasel    3820
+This small rodent has adapted to the coldness of the Icelands over
+many generations. A white fur coat covers the weasel to keep it warm
+and the gleaming white teeth allow the weasel to tear its prey apart.
+
+A bulky Verbeeg    33856
+A 'Dwarf' among the giant race, this ogre still looks like he could
+tear you limb from limb. The Verbeeg's skin is very tough and can
+withstand the coldness of the ice valley among other things.
+
+A Verbeeg   25945
+A 'Dwarf' among the giant race, this ogre still looks like he could
+tear you limb from limb. The Verbeeg's skin is very tough and can
+withstand the coldness of the ice valley among other things.
+
+Verbeeg cook   42880
+This Verbeeg seems to be the one that cooks the food for the rest of
+the giants. He cuts off chunks of mutton with a cleaver that he wields
+with the greatest of ease.
+
+Biggrin    58127
+They call him Biggrin for obvious reasons, his upper lip has been torn
+off giving him an evil looking grin. His massive bulk shows that he
+could easily smash anyone that dared attack him.
+
+A dangerous Verbeeg Sentinel   60312
+This is the largest Verbeeg you have ever seen. He stands about a foot
+taller then the other Verbeegs around the valley and he is almost
+twice as heavy. He is covered with pieces of metal armor that have
+been stitched into strategic places providing him with a good amount
+of protection. He carries a spiked club with him and a bundle of
+spears strapped to his back.
+
+The Verbeeg Chieftain
+This is the chieftain of the Verbeeg group. The chieftain is in charge
+of the group and makes all the decisions around here. The chieftain is
+usually chosen by his great experience and knowledge from the rest of
+the Verbeegs when the time comes. This overweight chieftain has gray
+whiskers showing up in his hair and one of his uneven eyes twitches a
+bit. He is covered with fine furs and hides which make him look fatter
+then he already is.
+
+Ice Golem   39528
+A Golem constructed out of solid ice. Its body has a clear blue tint.
+This being was probably created by a powerful mage.
+
+A cave bat   12273
+A bat that lives in dark caves.
+
+A larva   17100
+A slimy looking worm type creature with a black pupil on the front for
+an eye. The larva is very plump and is about the same size as your
+arm.
+
+Azalin (lich)   248916
+Azalin WAS trying to summon a demon from the nine planes of hell but
+his plans have been interrupted by your presence. He doesn't seem too
+happy about it either.
+
+Lesser Ice Demon   24525
+The demon's yellow eyes are the only colors which separates themselves
+from the icy blue skin of the creature. The claws of the demon are
+solid ice as well as the entire body of the demon. These are the
+things Azalin must have been trying to conjure, or was it something
+else?
+
+Greater Ice Demon   18440
+The demon's yellow eyes are the only colors which separates themselves
+from the icy blue skin of the creature. The claws of the demon are
+solid ice as well as the entire body of the demon. These are the
+things Azalin must have been trying to conjure, or was it something
+else?
+
+Gigantic Ice Devil (bloodthirsty)   88344
+Towering high above you, this ice devil has lived its life in the
+ether, waiting for some unsuspecting wizard to release it from its
+prison. The devil shows some resemblance to the ice demons you ran
+into but this creature is made out of flesh and ice and is four times
+larger. The beast also shows signs of intelligence and has a
+shortsword strapped to his side.
+
+A pack of snow leopards  56038
+These graceful cats are hunting for their next victim while huddled
+together. Their sharp teeth drip with blood, matching the color in
+their evil radiating eyes. The leopards slowly circle around you,
+making agile steps with their short legs in order to minimize off
+balance time. The cats continually let off a rolling growl to let you
+know they mean business.
+
+A snow leopard    9409
+The leopard is a graceful cat with a long body and relatively short
+legs. The cat's fur is tinted with a smoky gray color and it is
+decorated with dark rosette shaped spots.  Its huge feet are equipped
+with razor sharp claws and the feline's bushy tail wags violently in
+sharp, brisk swings.
+
+A deadly horde of winter wolves   67089
+A pack of snarling beasts lie in your path. Each wolf stares at you
+with its glowing red eyes, licking their chops in delight. The wolves
+are arranged in formation as they communicate with each other with
+their high pitched barks.  The pack's size and foul emanation
+overwhelms you.
+
+A snarling winter wolf   15300
+The winter wolf is a masterpiece when it comes to animal designs. The
+wolf's glistening white fur is accompanied by its powerful jaw, wide
+strong teeth, bushy tail and round pupils. As the wolf pants, a frosty
+cloud emanates from its breath due to the wolf's cold disposition.
+
+A wild goat herd      44428
+This collection of bloodthirsty goats were once peaceful animals that
+grazed the mountainside in harmony but now are possessed fiends with
+soulless red eyes. The goats vary in size but they all have muscular
+legs and their thick coats are darken with filth. The goats fight as
+one and don't appear to be led by any goat leader.
+
+A charmed mountain goat   8379
+The goat fights with passion and seems set on killing its foe. The
+goat is protected by a thick winter coat which provides ample
+protection against the harsh climate of the Icelands. The goat stomps
+its powerful legs into the ground while thrusting its slightly curved
+horns into the air. The goat stares coldly at you with its pulsating
+red eyes.
+
+A six headed Cryohydra   177872
+An immense reptilian monster stands before you blocking the entrance
+way into the stone tower.  The monster is arranged with multiple
+heads, each consisting of crimson eyes and yellow white teeth that can
+rip through anything.  Each head is attached to a long snake-like neck
+that gives the cryohydra a tactical advantage in combat.  The armored
+skin of the hydra is purplish-brown in color and the underbelly is a
+dark shade of yellow.  The cryohydra and their race are very rare but
+you don't feel today is the day to preserve their species. Each of the
+cryohydra's six heads are alive and well.
+
+A renegade Verbeeg Shaman    174687
+A seasoned Verbeeg, the shaman has long gray hair and his thin body is
+showing signs of forming age spots. The giant isn't as large as most
+Verbeeg but his height allows him to move around in the tower with
+freedom and still look tall. The shaman is lightly clothed, wearing a
+leopard skin cloak over a plain outfit. The Verbeeg stands with
+confidence, for he wields great power within. In his left hand, he
+grips a glowing stone that pulsates with mystical energy.
+
+A raving Ice Gremlin   8475
+The ice gremlin looks like a hybrid between a troll and an elf. The
+gremlin stands about three feet tall with a rigid blue hide that can
+withstand the harsh cold environment of the cavern. With the oversized
+ears attached to the gremlin's head, it can sense movement extremely
+well in any amount of light. The elongated arms of the gremlin flail
+about as it giggles insanely.
+
+A frisky Ice Gremlin    8647
+The ice gremlin looks like a hybrid between a troll and an elf. The
+gremlin stands about three feet tall with a rigid blue hide that can
+withstand the harsh cold environment of the cavern. With the oversized
+ears attached to the gremlin's head, it can sense movement extremely
+well in any amount of light. The elongated arms of the gremlin flail
+about as it giggles insanely.
+
+A Monstrous Yeti    60476
+The yeti stands eight feet tall and is covered in long white fur. Its
+feet and hands are wide and flat which helps it disperse its great
+weight on the snow. It travels on all fours but fights very
+comfortably standing erect. The yeti has a strong musky odor. The yeti
+eyes are icy blue to almost colorless, and its claws and flesh are
+ivory white.  It has a transparent second eyelid which allows the
+creature to see in blowing snow and prevents its eyes from freezing in
+the extreme cold of this arctic tundra.
+
+Deadly White Pudding 36562
+The pudding is a voracious mass which continually shifts its globular
+form. This cold loving creature is easily mistaken for ice and snow,
+guaranteeing surprise even under the best of conditions. They can live
+by devouring any living or vegetable matter; even ice provides them
+with enough nutrition to exist.
+
+A wooden club
+A club crafted from a thick piece of wood.
+
+Ice Gloves
+These gloves have been sewn together with fibers made out of ice. You
+don't know how it was made but they seem very sturdy and protective.
+
+A meat cleaver (ensharpened)
+A sharp knife used for cutting thick slabs of meat. There are blots of
+blood scattered on the blade of the cleaver. This one has seen much
+use.
+
+Ice Boots
+This pair of boots are made out of solid ice. The boots are well made
+and don't show any signs of melting.
+
+Ice Armor
+A sheet of ice crafted to be worn over the body and protect.
+
+Ice club
+A club carved from solid ice.
+
+A roasted macaque carcass
+  This is a fine piece of meat indeed.  Perfectly roasted over an open
+fire, and seasoned to perfection.
+
+A spiked club
+The club is made out of a sturdy piece of wood with metal spikes
+forced into the wood in random places.
+
+Dagger of gold (enchanted)
+A finely crafted dagger made of pure gold. You sense a greed in the
+blade for gold.
+
+A chunk of ice - worth 20sp
+This is a fist sized chunk of ice. This is no ordinary chunk of ice
+though, it is a piece of a slain ice demon which dwells in the ether.
+If you are thirsty enough, you could probably suck on it.
+
+A winter wolf pelt
+This beautiful white pelt was recently skinned off a wolf and is in
+very good condition. A good price could be fetched for this item at
+the market for it can be made into wonderful clothing by a fine
+craftsman.
+
+An unprepared leopard skin
+The skin is decorated with rosette shaped spots, bringing such beauty
+to such a body part as skin.
+
+A chunk of wolf meat
+This is a rather nasty looking piece of raw meat. The odor from the
+meat is rather strong and a few flies buzz around it. The meat doesn't
+look very appetizing but it will satisfy your hunger.
+
+A torn wolf ligament
+Before you is a collection of firm, fibrous tissue attached to some
+unknown body part, hopefully, a leg. There is little to no skin on
+this piece of meat, exposing it to the fast decaying process. Better
+eat it before it spoils.
+
+A torn leopard ligament
+Before you is a collection of firm, fibrous tissue attached to some
+unknown body part, hopefully, a leg. There is little to no skin on
+this piece of meat, exposing it to the fast decaying process. Better
+eat it before it spoils.
+
+Head of Cryohydra
+This is the severed head of Cryohydra. You notice it has a few large
+teeth, some off-white from the stains of the blood of its meals. You
+might be able to pull some out as a souveneir of your battle.
+
+Scaly hide of a Cryohydra
+This is a large section of skin from a cryohydra. The skin is made up
+of thousands of thin, flat, bony outgrowths that overlap and form a
+nearly complete covering. Each scale is a slightly different shade of
+color from the next scale giving the hide a overall color of a
+purplish-brown. The skin is magical in nature, making it flexible and
+very tough.
+
+Powerstone
+The powerstone was created as a focal point of magic by a mage
+who is long deceased. The stone is pitch black but a strange
+energy is radiated from the object giving it a bluish glow.
+While understanding and mastering the true powers of the stone
+would take years, the object does provide a fuel source for
+your magical energy. This regeneration of magical energy does
+come at a cost though for the powerstone will slowly eat away
+at your soul. If your soul has been eaten away enough so you
+become very weak, the stone will overcome you and send you to
+the grim reaper. You feel holding the stone would provide the
+ideal case in which the power of the stone would flow through
+you.
+
+Dermal Boots of the Cryohydra
+These boots were hand crafted out of the skin of a cryohydra. The
+boots are covered by thousands of thin, flat, bony outgrowths that
+overlap and form together. Each scale is a slightly different shade of
+color from the next scale giving the boots a overall color of a
+purplish-brown. The cryohydra skin is very tough and makes an
+excellent material for making these boots potentially indestructible.
+
+Dermal Gloves of the Cryohydra
+These gloves were hand crafted out of the skin of a cryohydra. The
+gloves are covered by thousands of thin, flat, bony outgrowths that
+overlap and form together. Each scale is a slightly different shade of
+color from the next scale giving the gloves an overall color of a
+purplish-brown. The cryohydra skin is very tough and makes an
+excellent material for making these gloves potentially indestructible.
+
+Dermal Helmet of the Cryohydra
+This helmet was hand crafted out of the skin of a cryohydra. The
+helmet is covered by thousands of thin, flat, bony outgrowths that
+overlap and form together. Each scale is a slightly different shade of
+color from the next scale giving the helmet an overall color of a
+purplish-brown. The cryohydra skin is very tough and makes an
+excellent material for making this helmet potentially indestructible.
+
+Dermal Cloak of the Cryohydra
+This cloak was hand crafted out of the skin of a cryohydra. The cloak
+is covered by thousands of thin, flat, bony outgrowths that overlap
+and form together. Each scale is a slightly different shade of color
+from the next scale giving the cloak an overall color of a
+purplish-brown. The cryohydra skin is very tough and makes an
+excellent material for making this cloak potentially indestructible.
+
+Dermal Shield of the Cryohydra
+This shield was hand crafted out of the skin of a cryohydra. The
+shield is covered by thousands of thin, flat, bony outgrowths that
+overlap and form together. Each scale is a slightly different shade of
+color from the next scale giving the shield an overall color of a
+purplish-brown. The cryohydra skin is very tough and makes an
+excellent material for making this shield potentially indestructible.
+
+A frosty blue gem
+You hold in your hand a beautiful blue gem. The gem seems to absorb
+surrounding heat giving it an icy touch. As you gaze towards the gem's
+core, you feel as if it can achieve infinite coldness.
+
+A glow stick
+This is a magically enhanced glow stick used for spelunking. You've
+heard tales of such sticks being sold by wizards to adventurers for
+exploring dark places where air was in short supply. When bent and
+shaken, the stick comes to life and emanates a soft blue glow that
+provides just enough illumination to explore even the darkest of
+caves. The light the stick provides is only useful in limestone caves
+since its glow radiates off the limestone rocks. It is not active.
+It looks light.
+
+A glob of goo
+This glob of goo is about the size of your head and has a transparent,
+milky texture to it. The goo stays solidified rather well and only
+slightly shifts its shape when you apply pressure to it. You guess
+that the goo came from a shape shifting creature but the goo doesn't
+have much life to it being away from its live host. The goo contains
+magical properties and you could fetch a large fee at the market for
+it.
+
+
+
+.

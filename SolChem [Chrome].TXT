@@ -1,0 +1,103 @@
+sci,enter,u,4n,d,27n,2w,enter
+
+main floor:   basement:     2nd floor:
+
+    S x-x-x   u-x-x         d-x-x
+    | |   |                   | |
+  E-x-x   1                   x-x
+      |   |                     |
+      x-x-x                     2
+
+1: enter hole
+2: search drawers - Electrum Marble
+
+
+A rager member   14653
+This is a rough looking guy indeed.  Wearing grimy jeans that must
+once have been blue, dirty boots and a soiled cracked leather jacket,
+you figure he hasn't had a bath for a _long_ time.  He sports an
+erratic insane glint in his eye.
+
+A DMR member   25094
+This member of the DMR gang is wearing black polished combat boots,
+black leather pants and a black leather jacket.  Her hair is in a
+short boyish cut and dyed black.  She is standing in a relaxed
+fighting stance.
+
+A huge rager member   45025
+The gang member towering above you pretty much blocks out the sun...
+..for the entire state.  He is wearing mismatching shades of standard
+military issue surplus pants and jacket, and the hugest pair of boots
+you've seen in your life.  Looking upwards, under a stubbled shaved
+head you fail to make out any signs of sanity in his eyes.
+
+A quick rager member   18430
+Never standing still, this quick looking rager could probably plant
+a foot in your face before you could say "uh".  She is wearing loose
+fitting smelly jeans clothing and a malicious grin.  Not to mention
+a glint in her eye, devoid of any resemblence of sanity.
+
+A tough rager member   27247
+This tough looking rager looks like he could tear a phone book in half
+and not even grunt.  Over his bulging muscles he wears a flannel and
+torn jeans, and a pair of cracked boots.
+He's got that insane glint in his eye.
+
+The rager leader   41752
+The hulking monster before you must be a rager, judging by the lack
+of a left pinky, which you by now have figured to be a sure sign of a
+rager.  In fact, this mountain of muscles must be their leader.  She
+is wearing a thick leather jacket and pants and spiked bracelets.  Her
+boots could probably crack mountains.
+She is standing in front of the exit.
+
+A slick DMR member   27063
+Her dyed-black short hair slicked back, slick leather clothing the
+blackest of black, this member of the DMR is a slick one indeed.  With
+great cunning she wields her plasma whip.
+
+A righteous DMR member
+The knowledge of being a soldier of the righteous shines in this man's
+eyes.  Though he's not very big, this fanatic could probably muster some
+strength from his lunacy.  He wears the standard black leather of the DMR
+and wields his plasma whip like an adept.
+
+DMR leader
+Before you stands a leader of the DMR.  He is a large man, by anyone's
+standard.  He wears the standard black leather of the DMR, and he wields
+the standard DMR plasma whip as well.  But he wears his leather like he
+was born to it, and he wields his whip as if he was born with it clutched
+in his hands.  This man is a warrior.
+
+DMR scientist   92
+This is the resident DMR scientist, working on beneficial chemical
+compounds for the DMR.  He doesn't look very tough, being short, frail,
+and quite old.  He's very knowledgable when it comes to the products he
+has been working on, though.  If you describe the chemical you want
+information about, he'd surely tell you.
+
+
+
+
+A vial of dark red fluid
+This is a clear vial of some dark red fluid.
+
+Level Alpha entry card
+This is an entry card of access level alpha.
+
+Level Beta entry card
+This is an entry card of access level beta.
+
+A heavy leather trenchcoat
+This is a heavy leather trenchcoat, with plasteel plates sewn into the
+more vulnerable areas. This decent piece of armour is commonly worn by
+the members of the DMR, as it was designed and made by them.
+A red hammer is painted on the back.
+
+Plasma whip
+This fearsome weapon developed by the DMR has a durable black plasteel
+grip.  From this a 7 foot tail hangs, glowing with white hot plasma.
+On the grip, a small red hammer is painted.
+
+
+.

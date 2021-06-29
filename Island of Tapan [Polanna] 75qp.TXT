@@ -1,0 +1,97 @@
+
+
+         x-x-x-F-x-x
+        /| | | | | |\
+       x-x-x-x-x-x-x-x
+       | | | | | | | |
+       2-x-x-x-x-x-1-x
+         | |/ \| | | |
+       x-x-x   x-x-x-x
+       | |/      | | |
+       x-x     x-x-x-x
+      /|/        | | |\
+     x-x       x-x-x-x-x
+     |/          | | | |
+     x           x   x-x
+     |               | |
+     x               x-3
+     |               | |
+     x               x-x
+     |\              | |
+     x-x-x           x-x
+     |   |          /|/
+     x   R       x-x-x
+
+
+
+R: River
+1: search skeleton
+2: climb cliff
+3: climb cliff.  cave - if you don't kill the red dragon it will carry you to Prismatic Jewel quest
+
+Mobs:
+Boa Constrictor
+A spider monkey
+A toucan bird
+A Tapan Native
+A jungle plant
+A tarantula
+An iguana lizard
+A giant harpy
+A Temple guard that looks like it would KILL you
+
+Items:
+Forked tongue
+A snake skin
+Toucan bill
+A feather
+A well made spear
+A plant needle
+Tarantula fangs
+Spider leg
+Iguana tail
+A lizard skin
+Talons of the Harpy Eagle
+
+
+qinfo:
+From forest portal go 5w,enter, east talk to nyette, she'll direct you 
+to the library. from nyette, go w,garden,shed, kill the gardener and grab 
+the rope/shovel those are important for later. go out, enter, leave, 5e, portal, 
+portal, 7w, 9s, e, k sailor, get chain, pay tapan, ...wait (levtar, 
+zeilik, and rao or something.)
+4) on the island, to get the chain, go 3w,sw,s,climb cliff, 
+search nest. 5) tooth: down, 7e, 5s, e, climb down, search remains
+make necklace with tooth.
+
+        1) on the beach, search sand in all rooms on the beach.  
+        2) search the skeleton that is 2e,2s from ferryman on tapan.  
+
+Go 2n, 2w, say either zeilik, levtar, or rao
+7) go east, get the tea leaves and only the tea leaves. 
+8) Now go, 4n, 4w, s, 2w, 2s, w, nw. once you go nw, after that first nw, 
+go nw,sw,sw,sw,sw,nw,w and you'll be at the snake demon. kill the demon if 
+you go west again you'll be ni a roo m with 6 colored tapan snakes...don't 
+touch them yet thats later. 9) goto the witch doctor, from the temple guard 
+he is e,3s, west for the swamp and he is on the western most part of the 
+swamp. give the tea leaves to him and he'll tell you to get a certain 
+colored snake to bite you.  go back to the snake cave in 8 d get that snake 
+to bite you by "kill  tapan snake" 10) now you get to make the tapan 
+potion. blood is from the witch doctor, e,n,ne, kill mosquitos tail is from 
+iguana you can find that fangs are from spider....also cake like forked 
+tongue is from anaconda or boa...easy water comes in the cauldron al ready. 
+beak is from toucan...shouldn't be too tough. tapan crystal is in 
+rastafan's area.its on the first floor of the maze, all east,s,e,n about. 
+make the tapan potion and you are practically done. 11) one more ting 
+you'll need is the flower pot. from the temple guard it is n,2w, search 
+pottery, get pot 
+12) goto the river on the sw side of the island.  go river 
+and all the way south to the protector(will have to kill 1 jungle spirit to 
+get past) note if you didn't get the proper tapan snake to bite you, you 
+are gonna die in the river. 13) sprinkle p otion on the protector. 14) 
+climb tree 15) drop everything but the rope, the pot, and the shovel. (even 
+guild items, no more fighting, but if you carry to much you die) 16) climb 
+out to the branch 17) tie the rope to the branch 18) climb down the branch 
+19) DIG up the flower, don't pick it 20) climb back up the tree 21) get off 
+the branch, (leave the rope, it isn't important anymore) 22) go to mira and 
+if ya have the flower in the flower pot, you get the qps ;)

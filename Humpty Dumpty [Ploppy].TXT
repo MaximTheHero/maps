@@ -1,0 +1,347 @@
+chaos,2s, open book, read chapter 3
+
+
+
+
+                     x   2
+                      \ /
+                       x 4              4: Rampaging Omelette (omelette)
+     x-x-x-x-x         | |              5: King's Man (eating lunch) (quiche)
+     | | | | |         x-x
+     x-x-x-x-x         |
+     |       |         x
+     x       x        /|\
+     |       |       5 x 3
+     x       x         |
+     |       |         L
+     x-x-1-x-x
+        \|/
+       x-x-x
+         |
+         x       x-x
+         |       | |\
+       x-x-x   x-x-x-x
+       | | |\ /| | |
+       x-x-x-x x-x-x
+       | | |/
+       x-x-x
+         |
+         E
+
+
+
+1: castle
+2: read book (Limbo)
+3: Humpty Dumpty
+E: Entrance/exit
+L: leave castle
+R: return
+
+
+    Oval 1    Oval 3    Oval 5    Oval 7    Oval 9    Oval 11   Oval 13
+     R-x       u-x       u-x       u-x       u-x       u-x         u
+    /   \     /   \     /   \     /   \     /   \     /   \        |
+   x     x   x     x   x     x   x     x   x     x   x     x      hole(exit)
+   |     |   |     |   |     |   |     |   |     |   |     |
+   x     x   x     x   x     x   x     x   x     x   x     x
+    \   /     \   /     \   /     \   /     \   /     \   /
+     x-d       x-d       x-d       x-d       x-d       x-d
+
+    Oval 2    Oval 4    Oval 6    Oval 8    Oval 10   Oval 12
+     d-x       d-x       d-x       d-x       d-x       d-x
+    /   \     /   \     /   \     /   \     /   \     /   \
+   x     x   x     x   x     x   x     x   x     x   x     x
+   |     |   |     |   |     |   |     |   |     |   |     |
+   x     x   x     x   x     x   x     x   x     x   x     x
+    \   /     \   /     \   /     \   /     \   /     \   /
+     x-u       x-u       x-u       x-u       x-u       x-u
+
+Egbert the Wizard <?>
+Egbert the Wizard is a real Egghead, if truth be told.  He is tall and
+gaunt with a long brown beard.  He is dressed in yellow and white
+robes.  Egbert was hired by King Albert to put Humpty Dumpty together
+again.  Perhaps you could assist him by asking if he has any missions
+for you to perform.
+
+1 ) Save Humpty Dumpty   |  Get Piece of Omelette                    : 0/1
+                         |  Get Piece of Quiche                      : 0/1
+                         |  Get Piece of Fried Egg                   : 0/1
+                         |  Get Piece of Hard-Boiled Egg             : 0/1
+                         |  Get Piece of Over Easy Egg               : 0/1
+                         |  Get Piece of Poached Egg                 : 0/1
+                         |  Get Piece of Scrambled Egg               : 0/1
+
+Harden Boyle, PI     9044
+Harden Boyle is a private investigator following up on the Humpty
+Dumpty case.  He is a haunted soul -- as all noir heroes are --
+stubbly and red-eyed, sporting a worn fedora, a wrinkled suit and a
+staunch conviction that Humpty's fall was no accident.
+
+Fried Egg    5504
+Fried Egg is an egg who has had a little too much of everything life
+has to offer in a chemical form.  Red rimmed eyes and a goofy smile
+swim in a slightly undercooked albumen, a pot belly of yellow yolk,
+all seasoned with a blend of suspicious looking herbs.  This egg is
+seriously fried.
+
+Over Easy Egg   2841
+This is Over Easy Egg, the local village prostitute.  Business is
+pretty slow for a hooker in a land inspired by Mother Goose, but she
+does okay.  She has been dyed with complex patterns, making her a
+truly beautiful egg; however, she looks pretty ridiculous dressed in a
+tube top and denim shorts.
+
+King's Man   4339
+This man was once a proud soldier of King Albert's army, but no more
+since the Humpty Dumpty debacle.  Now, this aimless soul wanders
+Eggland looking for an opportunity to redeem himself and his pathetic
+egg reconstruction skills.
+
+Mother Dumpty    7675
+This little hen is Mother Dumpty, the mother of Humpty Dumpty.  King
+Albert has made sure that she receives everything she needs since the
+great fall of her son.  Her favorite activities are eating corn and
+complaining about the difficulties of giving birth to such a large
+egg.
+
+King's Horse     3067
+This horse was once a noble steed of King Albert's army, but no more
+since the Humpty Dumpty debacle.  Now, this creature sits in the Royal
+Stable reflecting on how difficult it was to reassemble an egg with
+two hooves and no opposable thumbs.
+
+Free-Range Egg    5506
+This is a happy, innocent Free-Range Egg.  He wanders around the Royal
+Forest in complete bliss, unaware that evil Egg Poachers lurk in the
+shadows, waiting to kidnap him and eat him as soon as they get the
+chance.
+
+Egg Poacher
+The Egg Poacher is a thief with a false sense of entitlement.  He
+wanders around the Royal Forest looking for easy prey in the form of
+naive Free-Range Eggs that he can steal and eat.
+
+Meringue Monster   15910
+The Meringue Monster is an abhorrent swamp creature formed from the
+organic soup of the Sulfur Swamp.  After seeing this four-foot tall
+mound of living egg whites, you may never eat a slice of lemon pie
+again.
+
+King Albert Bumen the XII    7906
+King Albert Bumen the XII, or King Al to his friends, is the current
+reigning monarch of Eggland.  He is a squat little man who looks a bit
+like an egg himself.  He is dressed in yellow robes and a white cape,
+and wears a crown on his head.  He appears upset about something, most
+likely the recent Humpty Dumpty fiasco.
+
+Chef Louis L'Oeuf    7680
+It is the Great French Chef, Louis L'Oeuf.  A short, stocky man
+dressed in a white hat and apron.  He keeps fidgeting and pulling on
+his thin mustache, looking very distraught about something.
+
+Rampaging Omelette    8053
+The Rampaging Omelette is a creation of the great French Chef Louis
+L'Oeuf,  a masterpiece of culinary magic run amuck.  Standing at well
+over seven feet, this undulating mass of egg, cheese, butter, and
+herbs smells delicious, but presents an immediate danger to the
+kitchen and anyone in the nearby vicinity.
+
+King's Man (eating lunch)     4157
+This man was once a proud soldier of King Albert's army, but no more
+since the Humpty Dumpty debacle.  When he is not on his lunch break,
+this aimless soul wanders Eggland looking for an opportunity to redeem
+himself and his pathetic egg reconstruction skills.
+
+Unused Egg (Extra Large)   2643
+The Unused Egg is as unremarkable as his environment.  An oval body
+begrudgingly bears apathetic facial features.  His gray shell is
+hardly discernible from the surrounding mists.  If you have to break a
+few eggs to make an omelette, he is the one egg that remains unbroken.
+
+Unused Egg (Small)    983
+The Unused Egg is as unremarkable as her environment.  An oval body
+begrudgingly bears apathetic facial features.  Her gray shell is
+hardly discernible from the surrounding mists.  If you have to break a
+few eggs to make an omelette, she is the one egg that remains
+unbroken.
+
+Deviled Egg     4701 - 29561
+The Deviled Egg is an Egg-Ferno minion, sworn to serve and protect
+these unholy realms.  Shelled and bisected, his innards crushed into a
+mixture of Dijon mustard and chili powder, his cruelty is a reflection
+of his own eternal torment.
+
+Expired Egg (Small)    2252
+The Expired Egg is an egg whose time has come and gone.  In her former
+life, whenever opportunity knocked, she couldn't muster up enough
+energy to walk over to the refrigerator door.  Now, she spends her
+afterlife running in an eternal loop, trading her sloth for cowardice.
+
+Expired Egg (Peewee)   1298
+The Expired Egg is an egg whose time has come and gone.  In his former
+life, whenever opportunity knocked, he couldn't muster up enough
+energy to walk over to the refrigerator door.  Now, he spends his
+afterlife running in an eternal loop, trading his sloth for cowardice.
+
+Fertilized Egg (Small)    4088
+The Fertilized Egg is a corrupt soul, guilty of the sin of insatiable
+lust.  In her mortal life she willingly participated in carnal acts of
+unspeakable perversion.  Now, in the afterlife, she has been
+transformed into an embodiment of unrelenting chicken lust and must
+carry a hatchling in her tortured body for an eternity.
+
+Fertilized Egg (Large)   5506
+The Fertilized Egg is a corrupt soul, guilty of the sin of insatiable
+lust.  In her mortal life she willingly participated in carnal acts of
+unspeakable perversion.  Now, in the afterlife, she has been
+transformed into an embodiment of unrelenting chicken lust and must
+carry a hatchling in her tortured body for an eternity.
+
+Fertilized Egg (Extra Large)  8308
+The Fertilized Egg is a corrupt soul, guilty of the sin of insatiable
+lust.  In her mortal life she willingly participated in carnal acts of
+unspeakable perversion.  Now, in the afterlife, she has been
+transformed into an embodiment of unrelenting chicken lust and must
+carry a hatchling in her tortured body for an eternity.
+
+Double Yolk Egg (Jumbo)  8313
+The Double Yolk Egg is a sinner of massive proportions, guilty of
+overindulgence of the pleasures of the palate.  As punishment, she
+spends her afterlife wading through a never ending trough of unhealthy
+foodstuffs and the consequences of her high fat, high cholesterol
+lifestyle.
+
+Overpriced Egg (Extra Large)   9273
+The Overpriced Egg comes from a long line of specialty store eggs who
+believe that name and legacy is more important than quality.  In her
+mortal life she pursued material wealth heedless of its pointless,
+transient nature.  Now she spends her afterlife surrounded by the
+illusions of an affluent lifestyle, not unlike her former existence.
+
+Grade AA Egg (Jumbo)   8109
+The Grade AA Egg is a prime example of beauty and the self-deception
+of vanity.  He believes he is superior to others based upon attributes
+not earned, but dealt out to him by a game of luck.  He denies the
+transient, fickle nature of beauty and has dedicated a lifetime to
+pursuing a lost cause.  Now, he spends his afterlife among images of
+eggs superior to him in both beauty and value, a lesson in humility
+and the pointless nature of a life consumed by vanity.
+
+Grade B Egg (Peewee)   8765
+The Grade B Egg is an egg deficient in both size and spirit.
+Imprisoned by self-contempt, his mortal life was dominated by a false
+conviction that all of his failures and personal problems were the
+result of a conspiratorial, universal bias beyond his control, instead
+of the inevitable consequences of a lifetime of poor personal
+decisions.  Now, he spends his afterlife with his eyes sewn shut, in
+an attempt to curb both his covetous nature and his false sense of
+entitlement.
+
+Bad Egg (Extra Large)  17428
+The Bad Egg is an egg of little patience and much fury.  She prefers
+the adrenaline rush of righteous indignation to compassion and spends
+so much time indulging in impulsive ignorance that she fails to
+understand the negative impact her childish tantrums have on those
+around her.  Now she spends eternity tortured by the physical
+embodiment of her mortal wrath.
+
+Friar Chicken   16578
+Friar Chicken is an actual fryer chicken, as well as the spiritual
+leader of the Holy Church of Chicken Faith.  Standing at about five
+feet tall he is covered with white and black feathers everywhere
+except a tonsure on his head.  Here in Egg-Ferno he conducts his
+eternal Auto-Souffle, saving the souls of heretic eggs by torturing
+and killing them.
+
+Inquisitor Chicken   25342
+The Inquisitor Chicken is a silent minion of Friar Chicken.  He is a
+six-foot tall black rooster dressed in matching robes.  Among the most
+fanatic and foulest of fowls, this dark-cowled cockerel is more than
+willing to crack a few heretic eggs in order to make a Spanish
+Omelette Inquisition.
+
+In Vitro Egg (Medium)(Tortured)   71
+While most eggs are fertilized by natural processes, the In Vitro Egg
+was parented by technology and science.  As such, he chose a mortal
+life of chicken denial.  Now, he spends his afterlife as a chained
+prisoner and torture victim of the infamous Holy Church of Chicken
+Faith, paying eternally for a life of blasphemy and heresy.
+
+Cracked Egg (Small)    18904
+The Cracked Egg is an egg of negligible compassion.  He prefers the
+sadistic pleasure of hurting others in any way that he can imagine.
+As a result of his corruptible mortal indulgences, he now spends his
+afterlife in an eternal war zone, suffering through an external
+manifestation of his own violence.
+
+Chocolate Egg (Extra Large)   31075
+The raw eggs are a physical manifestation of the truth, a reminder of what a
+real egg is and what a chocolate egg is not.  The eggs appear to be flowing in a
+current, creating a small river of albumen and yolk.
+
+Rotten Egg (Jumbo)    42302
+The Rotten Egg is an egg of low scruples, completely unworthy of
+anyone's trust.  He prefers to build his relationships upon deceit and
+manipulation, sacrificing the general well-being of his fellow eggs
+for his own personal gain.  Now, he spends eternity tortured by the
+physical embodiment of his mortal treachery.
+
+Million-Year-Old Egg    49640
+The Million-Year-Old Egg is probably much older, although he doesn't
+look a day over 750,000.  His shell has long ago turned to a
+gelatinous sludge coating his semi-transparent, green albumen.  His
+yolk sits in the middle of his body, as black as his diabolical soul.
+He regards you with mild amusement, most likely wondering what you are
+doing in his domain.
+
+
+
+Piece of Hard-Boiled Egg 
+This is a piece of hard-boiled egg, wise guy.  It's good for you, see?
+So stop flapping yer gums, stuff it in your gob, button yer lip and
+chew before I pop ya one in the kisser and gives ya a fat lip.
+
+Piece of Omelette
+Zis iz a pee-ACE of ohm-LATE: zee AGS wiz zee SHEEZE, flay-VARED wiz
+zee AIRBZ and boo-TARE.  Eet lukes vah-HREE tess-TEE, no?
+
+Piece of Over Easy Egg
+This is a piece of egg cooked over easy.  It looks delicious, but you
+are wary since you don't know exactly where it has been.
+
+Piece of Fried Egg
+This is a piece of fried egg, dude.  It's like, all white and yellow,
+and, get this, man, it's like you are TOTALLY looking at a complete
+microcosm of chicken existence in the palm of your hand.  You
+seriously want to nosh it.
+
+Piece of Quiche
+This is a piece of quiche, leftover from the lunch of a King's Man.
+He didn't eat it because he was a REAL man, but don't let that stop
+you; it looks delicious.
+
+Nest Egg (Packed In Tiny Nest)
+This is Mother Humpty's nest egg.  She had all of her gold melted down
+and remolded into this solid gold egg.  As long as you have no moral
+conflicts with stealing retirement funds from an elderly hen, you can
+sell this golden egg for some retirement money of your own.
+The egg is currently packed in a nest for safe keeping, but you could
+unpack it if you wanted to.
+
+Tiny Nest
+This is a Tiny Nest.  If you happen to have a small, fragile object
+that you needed to protect, this nest would be perfect for packing it.
+
+Nest Egg
+This is Mother Humpty's nest egg.  She had all of her gold melted down
+and remolded into this solid gold egg.  As long as you have no moral
+conflicts with stealing retirement funds from an elderly hen, you can
+sell this golden egg for some retirement money of your own.
+
+Rod of Sulfur (enchanted)
+The Rod of Sulfur consists of a foot-long, gold-plated shaft, crowned
+by an egg-shaped crystal of pure sulfur.  The gemstone glows with a
+delicate chartreuse essence and is capable of smiting foes with the
+deadly power of sulfur.
+
+

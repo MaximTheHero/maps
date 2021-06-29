@@ -1,0 +1,177 @@
+wforest portal, 2e,5s,6w
+
+
+
+
+                              x-x-x-x-x
+                             /| | | | |\
+                            x-x-x-x-x-x-x
+                            | | | | | | |\
+                            x-x-x-x-x-x-x-x-x
+                           /| | | | | | | | |
+                          x-x-x-x-x-x-x-x-x-x
+                         /| | | | | | | | | |\
+                        x-x-x-x-x-x-x-x-x-x-x-x
+                       /| | | | | | | | | | | |\
+            x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+           /| | | | | | | | | | | | | | | | | | |\
+          x-T-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+         /| | | | | | | | | | | | | | | | | | | | |\
+        x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+        | | | | | | | | | | | | | | | | | | | | | | |
+        x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-U-x-x-x-x-x-Z
+        | | | | | | | | | | | | | | | | | | | | | | |
+        x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+        | | | | | | | | | | | | | | | | | | | | | | |
+        x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+        | | | | | | | | | | | | | | | | | | | | | | |
+        x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+        | | | | | | | | | | | | | | | | | | |/
+        x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+        | | | | | | | | | | | | | | | | | | |
+        x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+        | | | | | | | | | | | | | | | | | | |
+        x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+        | | | | | | | | | | | | | | | | | | |
+        x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+         \| | | | | | | | | | | | | | |/
+          x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+           \| | | | | | | | | | | | |/
+            x-x-x-x-x-x-x-x-x-x-x-x-x
+             \| | | | | | | | |/
+              x-x-x-x-x-x-x-x-x
+              | | | | | | | |/
+              x-x-x-x-x-x-x-x
+               \| | | | | |/
+                x-x-x-x-S-x
+
+                        M
+                         \
+                          x   Troll Forest [Xanthil]
+                          |     |
+                          x   x-x
+                           \ /   \
+                            x     x-x
+                           \|        \
+                            1         x-x-Fantasy
+                            |
+                            x
+                            |
+                            x
+                            |
+                            x
+                            |
+                        B 3-x 4 6 x  
+                         \  | | | |
+                        x-x-x-x-x-x   D
+                         /| | | |     |
+                        x x x-S 7-8 E-G-x-x-
+                        |   |         |
+              x-x-x-x-x W-2-x-x-5     F
+                | 
+                x
+                |
+                C
+          
+                E
+                |
+              x-x-x
+             /  |  \
+            u x-x-x u
+                |
+              H-A-x
+
+
+
+               x-u x-x           x
+                 | |             |
+               x-x x-x-x   x-x-u-x
+               |   |   |   |     |
+               x-x-x-x x-x x-x x x
+                       |   | | |
+                   x-x-x-x-x x-x
+
+
+Elf Tree:
+floor 2
+ x-x-d
+
+
+floor 1
+  
+   x
+   |
+   s-u-E
+
+basement 1
+
+   x
+   |
+   s-x
+   |
+   x
+
+basement 2
+
+   d
+   |
+ Q-u
+
+basement 3
+
+  door (exit)
+
+
+Castle in the Mountain
+
+
+   exit-x-
+
+
+1: clear log - path to Westersea
+2: Well
+3: Guardhouse
+4: Blacksmith
+5: Commander Wilson
+6: Meat Market
+7: Shop
+8: Willow's House of Wonders
+
+S: Statue
+W: Climb Wall.  either fly over or buy rope from shop
+C: Castle.  need to 'insert <something> into slot' into open porticullis.  whatever will break.  guard has crystal sword.  use that
+A: Wzeliven the arch mage - robes are mediocre cloak
+B: Shack
+D: down, search boards, get mold
+E: search barricade, get iron
+F: search benches, get strip, break statue, get key
+G: search rubble, get broom
+M: climb up, climb up
+Q: Queen Maleena
+S: Start of mountain area
+T: Elf Tree
+U: Hut
+Z: Catle built into the mountain
+
+
+
+Go to statue, say 'perplexus' 3 times, read note
+Go to Commander Wilson, say 'hi, castle'
+Go to Wzeliven, say 'hi, perplexus, angel, key, demon, dungeon, job, angelo, bandits, men, yes'
+you get an amulet to prove you are a bandit
+Go to blacksmith, say 'key, mold, iron'
+Go to B, enter shack, Adam is there.  say perplexus, show pendant to adam
+follow path.  get items at d,e,f,g
+back to blacksmith, give mold/iron to bob
+Go back to Wzeliven, kill him, unlock door, go to H
+Say hi, help, free, kargile.  get sword
+backtrack to town, head up the mountain,
+Go to Elf Tree.  talk to queen maleena, say hi, help perplexus, yeltor, hut
+Go to hut, say maleena, help, haven
+Go to Z (castle), 
+
+
+
+
+
+

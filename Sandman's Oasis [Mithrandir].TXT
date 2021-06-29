@@ -1,0 +1,35 @@
+sci,4n,d,n,w,2s,3w,s,se
+
+      E x-x
+       \| |
+        1-x
+
+E: exit
+1: climb - The Ascended Guild [Ascended]
+
+
+A Sandman riding a Furry Animal   17565
+This is Thaigan the sandman riding a strange animal. In his left hand
+he is holding what seems to be a glass crystal. The crystal shines
+brightly in the hot desert sun and the sunrays concentrate around the
+strange object. In his right hand he is holding a rope that is tied
+around the neck of a fearful creature. The enormous animal serves as a
+transportation vehicle for the sandmen and it has been trained to serve
+and obey everything its master commands. It is said that the sandmen earn
+their living by searching out the deserts for strange objects which they sell
+to mad scientists to help them in their wicked projects. The sandman speaks
+to himself. Maybe you should listen to him, it might be interesting.
+
+
+A small crystal
+A small crystal. It shines with a power of its own. The light
+fades from blue to green. A strange forcefield surrounds the
+crystal and you aren't sure what would happen if you held the
+strange object in your hands.
+hold crystal
+A strange feeling of protection hits you as you grab the crystal
+and close your hand around it. A thin energy field surrounds
+you and makes your skin emit a faint blue light. You suddenly
+feel more protected.
+
+.

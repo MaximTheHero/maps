@@ -1,0 +1,121 @@
+sci,enter,2u,board shuttle,exit,4w,2d,w,enter pod
+*note* mobs scale with uptime.
+
+  F-x-x
+      |
+      x-x-x
+      |   |
+      x   x
+      |   |
+      x-x-1
+          |
+          x-x-x
+              |
+              x
+              |
+          E-x-x
+
+
+
+
+E: Entrance/Exit
+F: Firebat
+1: Door number: 3, Access Code: <random>
+
+
+Terran SCV -{docile}- 
+Initially used during the reconstruction of the Tarsonian Orbital
+Platforms, the T-280 SCV (Space Construction Vehicle) became a staple in
+Intra-Colonial construction and engineering due to its ability to perform a
+multitude of tasks. These tasks include the construction of new buildings
+and the transportation of raw resource materials. It is this versatility,
+and an unmatched reliability, that make the SCV an invaluable tool in
+rapidly establishing Marine encampments and strike bases on any terrain.
+The SCV looks like a large robot with rocket thrusters where its feet
+should be. It has a plasma cutter in the place of one arm, and what looks
+to be a claw with a vacuum for a palm in place of the other.
+
+Terran Marine -{docile}- [wounded]
+This one time criminal has undergone mandatory neural resocialization.
+Freed from any previous allegiances or ideologies, this fearless trooper is
+ready to defend Confederate interests with his life. The 8mm C-14 'Impaler'
+Gauss Rifle that he is carrying should make you think twice about attacking
+him. He looks like an astronaut in his armoured suit. His hood is pulled
+back to reveal a scarred face. It is hard to think of anything capable of
+leaving those hideous scars.
+
+Terran Firebat -{docile}- 
+Like standard Marine Infantry, Firebats are typically 'culturally
+challenged persons' who have been resocialized by the Confederate
+government. Equipped with powerful, arm-mounted flame throwers, they serve
+as assault troopers in the various Terran Militias. Although their attack
+has a limited range, the flame throwers can cause considerable damage to
+any target caught within the stream of fire. The woman who stands before
+you in her suit that makes her look like an astronaut in armour makes you
+wish you were back in your mother's loving arms. She looks like a genetic
+experiment gone awry. Maybe its just the armoured suit, but she looks like
+an amazon. Her face is old and wrinkled, and her eyes gleam like fresh made
+steel. You see no pity in the looks she gives you, and you know beyond a
+shadow of a doubt that she could kill you, and wouldn't think twice.
+
+Zerg Zergling -{docile}- 
+The small, savage dune-runners of the sand-world Zz'gash were incorporated
+into the Zerg Swarm to serve as scouts' initial assault troops. Although
+the Zerglings are little more than feral animals, they work well in large
+groups under the command of larger Zerg warriors. The voracious Zerglings
+are fond of ripping enemies to shreds with their razor-limb sickles and
+fangs. The Zergling has a head that looks like it belongs on a small dragon
+and is a little bit larger than a small calf. It has a fat lizard-like tail
+behind a powerful set of hind legs that are its primary source of movement.
+In front where you would expect to see another pair of legs, there are two
+sets of limbs. One set that starts downward, and another set that raises up
+behind its head. There are two razor sharp claws at the end of each front
+appendage.
+
+Huge Terran Firebat -{docile}- 
+Like standard Marine Infantry, Firebats are typically 'culturally
+challenged persons' who have been resocialized by the Confederate
+government. Equipped with powerful, arm-mounted flame throwers, they serve
+as assault troopers in the various Terran Militias. Although their attack
+has a limited range, the flame throwers can cause considerable damage to
+any target caught within the stream of fire. The man who stands before you
+reminds you of a grandfather. He looks like the frail shell of a man
+sitting inside that suit of armour he wears. His old face is wrinkled and
+scared. Do not be mistaken, he will kill you as easily as he would spank
+you and send you off to your room without supper.
+
+
+8mm C-7 Potent 'Stinger' Pistol (enchanted)
+The C-7 Stinger is a terran gauss pistol that fires 8mm ice cold spikes
+designed to provide maximum penetration of all armor types. It is the
+standard issue sidearm of Alliance marines.
+
+8mm C-7 Rare 'Stinger' Pistol (enchanted)
+The C-7 Stinger is a terran gauss pistol that fires 8mm psionic spikes
+designed to provide maximum penetration of all armor types. It is the
+standard issue sidearm of Alliance marines.
+
+A piece of paper
+The piece of paper is covered with blood, and it is hard to read.
+
+Small Kevlar Ring
+This ring is composed of various polymers and kevlar, but also has
+a synthetic-asbestos to provide additional protection from heat and
+flame.
+
+A glowing ensignia on the ring's face emits orange light:
+
+                          O
+                          |
+                        __|__
+                       |     |
+                  O----|  O  |----O
+                        \___/
+                       /  |  \
+                      /   |   \
+                     O    |    O
+                          O
+
+
+
+

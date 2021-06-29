@@ -1,0 +1,89 @@
+sci,enter,u,3e,d,e,path,14e,18n,6e,bridge,e,3se,enter
+
+     u    u/d   u/d
+     |     |     |
+     E     1     x
+     |     |     |
+     2     3     x
+
+
+1: Locked Cell
+2: search desk - fingerprint powder
+3: search toilet, dust ball, get ball - Grease Marble
+
+Officer Baker    15022
+Although Officer Baker certainly passed out of the Academy, one might wonder
+how effective a crime fighter he would be...his girth is a bit excessive, and
+his sloped eyes and heavy cheeks could scarcely intimidate a donut, let alone
+one of New York's hardened scofflaws.
+
+Officer Swope   14600
+Of Native American heritage, Officer Swope -- who also goes by the moniker
+'Swooping Eagle' -- is just one of the many diverse personalities that make
+up the melting pot that is the First Precinct.  His cheekbones are high and
+prominent, and his sloping brow gives way to slick, long black hair.  He
+stands proudly, a stoic reminder of a noble, once-prolific race.
+
+Officer Richards    14812
+Officer Richards is fresh out of the Academy -- his face is clean-shaven and
+his hair neatly combed.  His eyes are bright with enthusiasm, although one
+can tell that they are almost certainly destined to dim as the years of New
+York City crimefighting and paperwork will no doubt take their toll.
+
+Officer White    15261
+This is one of the NYPD's finest.  As far as cops go, these guys have one of
+the toughest beats around.  He is trained to intimidate and dominate you if
+given the slightest provocation.
+
+Officer Jones    15917
+The only African-American on the squad, Officer Jones has repressed a whole
+lot of rage all these years.  He has been on the force for over 15 of them,
+and chronically appears as though ready to snap at any given moment.  He
+wears his uniform well, and every inch of his wide body is packed with
+muscle.  A formidable specimen of the NYPD.
+
+A convicted mugger   17831
+This is one scary looking guy.  You wonder how many cops it took to bring him
+in.  He has a tattoo on his arm that says, 'Frank Sinatra Forever'.  Mayor
+Guiliani is getting tough on crime and it may mean the extinction of this
+type of criminal.
+
+A Subway Pickpocket    26825
+This slime spends his days robbing people on their way to and from work.  He
+usually works with a partner but it looks like his partner got away.  It's
+amazing the cops haven't beaten this guy to death.  That's how they treat
+criminals in the Big Apple.
+
+Officer Brown    14418
+Notorious for an incident in which he frightened a detained suspect so badly
+that the kid fainted, Officer Brown is the tallest man in the precinct.  He
+towers over even the most skyscraping criminals, which accounts partly for
+his relegation to the interrogation squad.  He could get you to confess to
+anything just by clenching his fist.
+
+Captain Starsky   37105
+You are in the company of one of the most decorated men in all of NYPD
+history.  A legendary crime fighter, he once busted Guiliani for shoplifting
+but let him off to save the city from shame.  If you mess with him, you'd
+better have a badass lawyer or a top-notch paramedics unit at your immediate
+beckon.
+
+
+A large iron key
+This is a large iron key that looks like something out of the middle ages.
+
+Fingerprint Powder
+A fine white dust utilized by detectives to identify fingerprints.
+  The substance works by lightly spreading it over an object.  To
+  use, just type 'powder <object>'.
+
+Grease ball
+A sickly little ball of grease covered with hair, dirt and general
+  grime.  Wow, this must be your lucky day.
+
+Captain Starsky's Badge
+This is Captain Starsky's Badge.  It is pure silver and has the crest of the
+NYPD imprinted on it.  It is attached to a silver chain and can be worn
+around the neck.
+
+.

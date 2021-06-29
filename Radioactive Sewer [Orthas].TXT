@@ -1,0 +1,85 @@
+chaos,2e,s,d
+
+               x-1
+              / 
+           x-x
+          /   \
+       x-x     x
+      /   \   /
+   u-x     x-x
+      \   /
+       x-x
+
+1: Struggling Realities [Orthas]
+
+
+A big black fly (mutator)   92
+This fly seems to thrive in this environment, it is more than three
+inches wide and doesn't seem to be afraid of you. It looks like easy
+prey.
+
+
+A green slimy frog (mutator)
+This is a very flat frog, it almost resembles a plate. The big mouth,
+spanning more than halfway around the frog, is slightly opened in a
+grin barely exposing the coiled up tongue that takes up most of the
+room in the mouth. Its eyes protruding from the top of its head are
+constantly darting back and forth. It would probably be easy to kill.
+
+A mosquito buzzing about (mutator)
+The mosquito is circling you, obviously looking for food. It would
+probably be easy to kill.
+
+A glowing firefly with long legs (mutator)
+This insect has legs almost three feet long, with which it stalks the
+surface of the river. It has big wings as well, but its body is
+disproportionally small, measuring only about four inches in diameter.
+A bright, yellowish-green light shines from the body. It would
+probably be easy to kill.
+
+
+A mutation (mutator)  156
+This "being" does not look like something that should be alive.
+Several eyes on protrude from the mass of flesh. It seems to float on
+top of the river, while letting in some of the slimy water, as if it
+is digesting the river itself. It would probably not be too hard to
+kill.
+
+A floating thingie (mutator)
+This thingie is hard to spot, floating just below the surface of the
+river. It uses water for propulsion, sucking it in at its front and
+jetting it out through its rear, enabling it to move very fast even
+though it lacks limbs. It would probably not be too hard to kill.
+
+A scrawler scrawling about (mutator)   183
+The scrawler looks a bit like a mix between a tarantula and a lobster
+with dark hair growing between the scales covering its body. There are
+several bulbs along its legs, apparently holding air to keep it
+afloat. It would probably not be too hard to kill.
+
+
+A large green maggot (mutator)
+This pale green maggot has a brighter glow to it than the surrounding
+fluorescent slime. It looks like easy prey.
+
+A fat transparent worm (mutator)
+The front part of this worm is one big mouth, engulfing some of the
+largest lumps in the water with ease. The worm is transparent, and you
+can study the work of its intestines. It swallows big lumps, chewing
+them a bit before sending them further down its digestion channels the
+lumps are dissolved and processed through a long coiled tube from
+where it is excreted back into the river in a steady flow. It looks
+like easy prey.
+
+
+The glowing gore of the fly
+This is the gore of a mutator. It is glowing slightly with radiation.
+The smell from this slimy piece of gore reminds you of the place where
+you picked it up.
+
+The glowing gore of the scrawler
+This is the gore of a mutator. It is glowing slightly with radiation.
+The smell from this slimy piece of gore reminds you of the place where
+you picked it up.
+
+.

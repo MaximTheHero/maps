@@ -1,0 +1,72 @@
+
+
+
+                   5
+                   |
+                 x-x
+                 | |
+               x-x-x
+               | | |
+               x-x-x
+               | | |
+             x-4-x-x-x
+               | | | |
+           x-4 x-x-x-x
+           | |   | | |
+         x-x-x-x x-x-x
+         | | | |   | |
+         x-x-x-x-x x-x
+         | | | | |
+         x-x-x-x-x-x   x-x                   7
+           | | | | |   | |
+         x T-x-x-x-x x-x-x                 x-7-x
+         |   | | | | | | |                 |   |
+         x-x x-x-x-x x-x-x                 x-x x-x
+         | |   | | | | | |                   |   |
+         x-x-x F-x-x x-x-x                 B C   x
+         | | |   | | | | |                 | |   |
+         x-x-x 3 x-x x-x-x                 x-x   x
+         | | | |     | | |                       |
+         x-x-x-F     x-x-6                 x-x-x-x
+                     | | |                   | |
+                 F-x-x-x-x                 1-x x-x
+                 | | | | |
+         x-x-x-x-x-x-x-x-x                 1-x
+         | | | | | | | | |                 | |
+         x-x-x-x-x-x-x-x-x                 x-x
+         | | | | | | | | |                 | |
+         x-x-x-x-x-x-x-x-x           x-x-x-x-x
+         | | | | | | | | |           | | | | |
+         x-x-x-x-x-x-x-x-x   x   x-x-x-x-x-x-x
+         | | | | | | | | |\  |   | | | | | | |
+         x-x-x-x-x-x-x-x-x x-6   x-x-x-x-x-x-x
+             | | | |       | |   | | | | | | |
+             x-x-x-x x-x-x-x-x   x-x-x-x-x-x-x
+               |     | | | |  \  | | |
+               x     x-x-x-x   \ x-x-x
+                       | | |    \| | |
+                       x-x-x   x-x-x-x
+                         | |   |
+                         x-x   x
+                           |   |
+                           x x x x x
+                           |  \| |/
+                     W-x-x x x-x-x-x
+                     | |   |   |X|
+                     x x-x-x x-x-L-x
+                         |    /| |\
+                         x-x x x x x-E
+
+
+1: Jump Pilings
+2: Enter Copse
+3: Ravelwood/ford
+4: Row Boat
+5: First Mark Bardol
+6: Aliantha Bush
+7: Jump Boat (Foamfollower)
+E: Entrance
+L: Lena
+W: enter stairwell (winds)
+B: Binas
+T: Terrill

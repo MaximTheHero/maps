@@ -1,0 +1,276 @@
+sci,enter,u,3e,d,e,path,14e,5n
+
+
+            x---------E
+            |         |
+    x-x-x-x-x  x-x-x  |
+    | | | | |    |    |
+    x x x x x--x-x-x  |
+    | | | | |    |    |
+    x x x x x  x-x    |
+    | | | | |    |    |
+    x x x x x  x-x x  x
+    | | | | |    | |  |
+    x x x x x  x-x-x  |
+    | | | | |    | |  |
+    x x x x x  x x-x  |
+    | | | | |    |    |
+    x x x x x  x x-x  x
+    | | | | |  | |    |
+  5-4 x x x x->x-x-1  |
+    | | | | |  | |    |
+    x x x x x  x x    |
+    | | | | |    |    |
+    x x x x x    x    |
+            |    |    |
+            3    x    |
+                      |
+            2----x----x
+
+1: search urinal, get keycard
+2: fill out application
+3: give application to richard
+4: insert keycard
+5: drink potion - random stat boost, 2 per boot per player
+
+
+
+Bob Smith - Security Guard     373
+This old security guard shakes and quivers as he notices your
+approach.  As he notices you, he begins to wave you back while looking
+around nervously.  He appears to be unarmed and at his age, isn't
+likely to put up much of a fight.
+
+Chicken Guard      25377
+This mutated enormous chicken is tasked with keeping order around the
+area.  He isn't likely to take any guff from humans and holds his
+stun baton at the ready.  The guard blinks his single mutated eye as he
+looks you over.
+
+Richard Kluckenthal - Director of Human Resources     48828
+Strangely, this large mutated chicken has all black feathers. His
+mutated eye blinks as he looks at you in disgust.  He wears the remains
+of what was once a nice suit, and on his breast wears a tag that says
+Richard Kluckenthal, Director of Human Resources.  As he notices you he
+stops pacing about the room to see what you want.
+
+Plant work crew   15748
+This crew of workers works in unison as they balance the loads and
+unloads from the bin to the plant conveyer belts.  Each of the workers
+are covered in blood and chicken guts.  They all carry welts and scars
+from the numerous beatings of the chicken plant guards.
+
+Workcrew member    1310
+This plant worker is nearly falling over from exhaustion.  The
+chickens have likely beaten him for days straight.  Now that his work
+crew is gone, he decides to take his aggravations out on you.
+
+Chicken Foreman     17705
+This large chicken carries a whip and appears to be watching all the
+workers within the plant.  His newly developed digits at the end of
+his wings fondle the whip nervously and he appears to be itching for an
+excuse to use it.  His mutant eye blinks as he takes notice of you.
+Deciding you aren't working hard enough, he raises the whip in your
+direction.
+
+Plant worker     5380
+This malnourished human is covered in chicken guts.  He smells like he
+hasn't had a bath in weeks and is nearly falling over from sleep
+deprivation.  There are many scars from the foreman's electric whip on
+his back.  He works at cleaning the chicken guts as they fall from the
+conveyer belt, but he is losing the battle.
+
+A group of telemarketers    29565
+This mob of people tends to leap frog over each other bouncing from
+phone to phone carrying leads.  They appear to talk in some kind of
+foreign language as they race to get the best leads to the sales
+staff.  Each of them carries a phone which they use to follow their
+leads.  The group moves at such a fast pace that it's difficult to
+follow any single one of them.  It is obvious that the chicken
+leadership drives this human sales force like slaves.
+
+A teenaged telemarketer    2306
+This skanky teen in torn up rags is trying to make a living via
+telemarketing sales.  From the look of her clothes and overall stench,
+she is isn't doing a very good job at it.  The teen holds a cellular
+phone for which she tries to gain leads for the sales force.
+
+Karen Cluckerina - Executive Secretary    12513
+Karen stands a little over a meter tall.  A bit of makeup is spread
+over her brow and cheeks in an attempt to make herself look more
+glamorous.  Her long beak is pointed and sharp.  Strangely the end of
+it seems to have some kind of a callus built up.  Apparently as an
+executive secretary she uses her beak rather than her newly mutated
+fingers for typing.
+
+Conrad Clucker - Chief Executive Officer    17778
+
+Courtney Cluckerson - Vice President, Accounting & Finance    17322
+Courtney Cluckerson is a large chicken that mulls about the room
+looking through financial journals.  She rolls her single eye and gives
+you a look that tells you she has no clue what she's looking at.  She
+quickly attempts to recover and carry on her charade by shooting you
+with her eye beam.
+
+Charles Klucker - Vice President of Sales      15958
+Charles Klucker walks about the room with his beak up in the air.  He
+tries to carry a 'better than thou' attitude, but doesn't pull it off
+well.  He often stumbles, as if he wasn't used to his mutated chicken
+body quite yet.  As he notices your approach, he lashes out at you.
+
+Jeanette Gorman - Accounts Payable Clerk    7001
+Jeanette Gorman sits piled under a massive stack of paperwork.  A
+green screen computer terminal flashes in and out before her.  She is
+dressed in rags and looks as if she hasn't slept in weeks.  Her once
+beautiful brown hair is matted and in a scattered fray.  Looking
+closely you notice that she has been chained to her chair.  Obviously,
+the workers in this plant aren't treated very well.
+
+Pauline Westerfield - Accounts Receivable Clerk     6631
+This young woman with curly, black hair looks as if she hasn't slept in
+weeks.  She takes little notice of you and busily types away at her
+typewriter.  Taking a closer look, you notice that both of her eyes have
+been blackened and she has several bruises along her upper body.  She
+apparently is a slave to her work as a long chain runs from the desk to
+a handcuff around her wrist.  Obviously the workers in this plant aren't
+treated well.
+
+Mark Spalongi - file clerk    7188
+Mark's once gorgeous features have been scared by the many beatings he
+has received.  He carries with him a bunch of files, which he delivers
+to the executives throughout the office.  Although he isn't chained to
+his station like the other workers, he does wear a pair of leg shackles
+so he cannot run far.  Obviously the employees aren't well treated in
+this company.
+
+Collyeen Cluckerina - MIS Director    16078
+Collyeen Cluckerina flaps her wings in a panic as spools of green bar
+paper fly about the room.  Wild smudges of red makeup are spattered
+about her face in an attempt to make her look more glamorous.  Her
+single mutated eye is bloodshot and her mannerisms give you the
+impression that she doesn't handle pressure well.
+
+Maureen O'Boyle - Receptionist     7224
+Maureen O'Boyle is the plant receptionist.  Her once beautiful blonde
+hair has been shredded and frizzes about in every direction.  An
+expression of horror comes across her face as you enter the lobby and
+motions for you to leave quickly.  She wears a telephone headset,
+which she uses to answer calls.
+
+Michael Smitherton - Engineer     7119
+Michael sits on a small bench chained to a drawing table.  He appears
+to be working on drawing of new high tech machinery in an effort to
+increase plant production.  The bags under his eyes tell you he hasn't
+slept for days.  His hair is a mess, and the smell coming from his
+general direction says this guy needs a shower badly!
+
+Chris Klucker - Chief Sales Officer      17065
+This large chicken looks in good condition.  He prances about the room
+spouting something about upping current sales quotas.  He wears a
+large polo shirt with the letters G.D.S. across it.  His large mutant
+eye blinks uncontrollably.  Upon noticing you, he flies into a frenzy
+attacking you with vigor.
+
+Kristy Clucker - Assistant Sales Officer    13710
+This young chicken has what was once a beautiful designer business
+suit, stretched across her bulky mutated body. Her single eye is red
+and bloodshot.  She has white feathers that fly about as she flaps her
+wings in a flurry.  Looking your direction she takes notice of you and
+tries to decide if she is going to take her anger out on you or not.
+
+Paul Poultry - Sales Supervisor      15315
+The mutant chicken form of Paul Poultry looks tired and overworked.
+His single mutant eye is droopy and he walks with a slight hunch to his
+back.  Paul carries a golf club that he likes to play around with in-
+between sales.  He probably wishes he were on a golf course right about
+now.
+
+
+
+Kord XIV Stun Baton
+This Kord XIV Stun Baton carries a huge wallop!  Made of durable
+titanium and charged with a Kord Neverfail powercell.  This heavy
+baton will knock even the largest of creatures on its behind.
+
+Kord VII Electric Whip
+This Kord VII electric whip packs quite a punch.  Designed to keep
+livestock in line while herding, the whip would be lethal on any
+humanoid creatures.
+
+Tarnished Silver Locket
+A small amulet with a pendant.  The pendant is a small golden locket.
+The chain and locket are tarnished and doesn't look like it has
+survived the chicken mutant war well.  Opening the pendant you see a
+picture of a pretty oriental woman and in the opposite side of the
+locket is the picture of a handsome latin man.  The back of the locket
+is engraved, 'To Karen, love Rudy.'
+
+Torn Business Suit
+At one time this was a first class suit.  Dark gray in color, the suit
+is still wearable, even though it has several rips and tears within it.
+The fabric seems stronger than normal cloth.  It must be bonded with
+some kind of high tech polymer.
+
+A top hat
+This once elegant black top hat has seen better days.  It's crinkled
+and the silk lining has been heavily torn.
+
+Snake skin boots
+This pair of snake skinned boots has had all its seams busted.
+Apparently a foot much larger than intended was forced into them.  At
+one time, they were really nice boots, but are now next to useless.
+
+Kord 77x Typewriter
+This old typewriter must have been pulled out of a museum or something.
+Ones like this haven't been made in at least a hundred years.  It's a
+Kord model 77x with advance memory thought pattern design, the
+technology is ancient compared to today's standards.
+
+G.D.S. files
+This set of files has the letters G.D.S. written all over them.  As you
+glance through them they appear to be a set of expenditures.
+Apparently Murdock is sinking a lot of money into whatever this project
+is.
+
+Ream of Green Bar Paper
+This large stack of green bar paper appears to be a printout of the
+financial records of the Murdock Chicken Processing Plant.  Looking at
+the bottom line, this company is in some seriously bad shape.
+
+Kord 2200 Headset
+This small headset is used for operating a modern day switchboard.  It
+has the label of a Kord 2200.  The headset has an infrared antenna on
+it, which is probably used to pick up signals.
+
+G.D.S. Processing Drawing
+This drawing has the letters G.D.S. scrawled across it in several
+places.  It appears to be the design of some kind of new processing
+machine.  Most of the drawings are scribbled and it is very difficult
+to decipher.
+
+Murdock Security Keycard
+This small keycard has a black stripe on it.  It has the picture of a
+small and greying man.  The name under the picture reads J. R. Murdock.
+
+G.D.S. Shirt
+This large polo shirt is dyed a deep red and has the letters G.D.S.
+scrawled across it.  At first glance it appears to be made of normal
+wool, but upon touching it, you notice that it contains some high tech
+polymer fibers within it that makes it incredibly durable.
+The armour is in perfect condition.
+
+Brown business suit
+This brown business suit was once a very nice professional garment.  At
+first glance it looks to be made of normal cloth, but upon touching it,
+it would appear that modern high-tech polymer fibers have been woven
+into the fabric making it incredibly strong.  The suit includes a vest,
+skirt and blouse.
+
+Golf Club
+A high quality titanium head golf driver.  The club doesn't even look
+used at all.  Taking a couple of practice swings you find the club to
+be well balanced and sturdy.  Although meant for the game of golf, it
+would surely hurt to be hit with it.
+
+
+

@@ -1,0 +1,154 @@
+Science Mainland
+
+
+
+
+
+
+
+     x-x-x-x-x               x-x-x-x                                                     x-x
+     | | | | |               | | | |                                                     | |
+     x-x-a-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x                                                 u-x
+     | | | | | | | | | | | | | | | | | |                                                 | |
+     x-x-x-x-x-x-x-x-x-x-x-x-b-x-x-x-x-x-x-x-x-x-x     x-x-x                             x-x-x
+     | | | | | | | | | | | | | | | | | | | | | | |     |                                 | | |
+     x-x-x-x-x-x-x-x-c-x-x-x-x-x-x-x-x-x-x-d-x-x-x-x-x-x                               x-x-t-x
+     | | | | | | | | | | | | | | | | | | | | | | | |                                   | | |
+     x-e-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x     x-x                   s-x-x-x-x-x-x
+     | | | | | | | | | | | | | | | | | | | | | | | |     | |                   | | | | | |
+     x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x   x-x                 x-x-x-r-x-x-x
+     | | | | | | | | | | | | | | | | | | | | | | | |     | |                 | | | | | | |
+     x-f-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-g-x-x     x-x   x           x-x-x-x-j-x-x-x-x
+     | | | | | | | | | | | | | | | | | | | | | | | |     | |   |           | | | | | |
+     x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x     x-x-x-x       x-x-x-x-x-x-x-x
+     | | | | | | | | | | | | | | | | | | | | | | | |     | | | |       | | | | | | |
+     x-x-x-h-x-x-x-i-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x     x-k-x-l     x-x-x-x-x-q-x-x
+     | | | | | | | | | | | | | | | | | | | | | | | |     | | |       | | | | | | | |
+     x-x-x-x-x-x-x-x-x-x-x-x-x-x-j-x-x-x-x-x-x-x-x-x-x-x-x-x-x   p x-x-x-x-x-x-x-x-x
+     | | | | | | | | | | | | | | | | | | | | | | | | | | | | |   | | | | | | | | | |
+     x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-m-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-n-x-x-x-x-o-x
+     | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+     x-x-v-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-w-k-x-x-y-x-x
+     | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |   |
+     x-x-x-x-x-z-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-A-x-x   x
+     | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+     x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-B-x-x-x-x-x-x-x-x-C-x-x-x-x-x-x-x-x-x
+     | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+     x-D-k-x-x-x-x-x-x-x-x-x-x-x-E-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-F-x-x-x-x-G-x
+     | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |   |
+     x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-j-x   x
+     | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+     x-x-x-x-x-H-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-I-x-x-x-x-x-x-x-x-x-x-x-x-x
+     | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+     x-J-x-x-x-x-x-x-x-x-x-x-K-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-L-x
+     | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+     x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-M-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-N-x-x-x
+     | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+     x-O-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+     | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+     x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-P-x-x-x-x-x-x-x-x-x-x-x-Q-x-x-x-R
+     | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+     x-x-x-x-x-x-x-x-x-S-x-x-x-x-x-x-T-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+     | |       | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+     x-x       x-U-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-V-x-x-x-x-x-x-x-W-x-k-x-x-x
+     | |       | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+     x-x       x-x-x-x-x-x-x-x-X-Y-x-x-x-x-x-x-x-x-x-x-x-x-Z-x-x-x-x-x-x-x-x-x
+     | |       | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+     x-x       x-x-1-x-x-x-x-x-x-x-x-x-x-2-x-x-x-x-3-x-4-x-x-x-x-x-x-x-x-5-x
+     | |         | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+     x-x-x       x-x-x-9-x-x-x-0-x-x-x-x-x-x-!-x-x-x-x-@-x-#-x-x-x-x-x-x-x
+     | | |       | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+     x-x-x-x-k   x-x-x-x-x-x-x-x-x-$-x-%-x-x-x-^-x-x-x-x-x-x-x-x-x-x-&-*-x-(
+     | | | | |   | | | | | | | | | | | | |   | | |               |   | | | |
+     x-x-x-6-x-7-x-x-x-x-x-x-x-x-x-x-x-8-x   x-x-x               x   x-)-x-x
+     | | | | | | | | | | | | | | | | |           |                     | | |
+     x-x-x-x-x-x-x-=-x-x-x-x-é-x-!-x-j           x-x                   x-&-x
+               | | | | | | | | |                                         | |
+               x-â-x-x-x-x-x-x-x-x                                       å-x-x
+                 | |   | | | | |                                         | | |
+                 x-x   x-x-x-x-x                                         x-ç-x-x
+                         | | |                                             | | |
+                         ä-x-x                                             x-x-x
+                         | | |                                             | | |
+                         x-à-x                                             x-x-x
+                           | |
+                           x-x
+
+a: Valley [Kwuteg]
+b: Sol Chem [Chrome]
+C: MicroTech [Vaix]
+d: Hamilton Plant [Tuesdai]
+e: Jugger Guild
+f: Mountain Path [Polsy]
+g: Sewer [Ariakus]
+h: Alien Ship [Distortion] {X-Com}
+i: Barn [Vivianne]
+j: Hidden Bunkers [Thyros]
+k: A whirring terminal.
+l: Detroit [Pistil]
+m: Expansion Terminal [Pistil]
+n: Kilton Research, Inc. [Takamori]
+o: Military Camp [Ariakus]
+p: Fern Man [Vivianne]
+q: Environmentalist Camp [Nanook]
+r: Temple of Syrinx [Igor]
+s: Global Merc(Training Facility) [Dayln]
+t: Transformers [Tensor]
+u: Exobiology Laboratory [Ulme]
+v: Mercenary Tent [Mithrandir]
+w: Pittsburgh [Cletus]
+y: Black Tank.
+z: Lost City [Aserena]
+A: Megatech [Cletus]
+B: GenCorps [Pistil]
+C: Collapsed Subway [Ulme]
+D: Genetics lab [Tarin]
+E: ICARE Hospital [Polsy]
+F: Oil Storage Cave [Ulme]
+G: Air Force Base [Nanook]
+H: Crashed Satellite [Mithrandir]
+I: Mortimer's Church [Assassin]
+J: Contention [Hobbes]
+K: Bomb Shelter [Flaxen]
+L: A lone camp [Polsy]
+M: Camazots [Mischief]
+N: Toxic Dump [Vivianne]
+O: Aurora Missile Base [Skeet]
+P: Science Oasis [Lipscom]
+Q: Murdock Chicken Plant [Mischief]
+R: A Refugee House [Infiniti]
+S: Weather Station [Shadowlotus]
+T: Bombfreak's Abbey [Syd]
+U: Cybernetic Redneck Trailer [Lorderon]
+V: Crashed Plane [Ulme]
+W: Atlanta [Cletus]
+X: UED Installation [Heath]
+Y: Antimammonist Vault [Solo]
+Z: Bandit Camp [Gogmagog]
+1: Car Wars [Jeffo]
+2: Toxic Dump [Mithrandir]
+3: The Amazon Research Center [Samiel]
+4: Outlaw's Train [Talismon]
+5: Military Bunker [Chrome]
+6: Mars [Nanook]
+7: Bunker [Druss]
+8: Desert Mine [Vivianne]
+9: Gas Station [Angio]
+0: Incinerator [Tuesdai]
+!: Eastern US Hub [Mud]   <-------------------------------
+@: Swamp Lake [Mithrandir]
+#: Quiet Swamp [Polsy]
+$: Alien/Alpha [Slister]
+%: Old Guard Tower [Ulme]
+^: Swamp Gator [Vivianne]
+&: Swamp Tunnel [Ulme]
+*: Mantis Swamp [Rumor]
+(: Ruined Reactor [Scrubby]
+): Swede Research Center [Mithrandir]
+=: Water Tower [Xiola]
+é: Dan's Garage [Garet]
+â: Patch of desert [Polsy]
+ä: Sandman's Oasis [Mithrandir]
+å: Sinkhole [Delenn]
+ç: Disease Control Center [Tuesdai]
+

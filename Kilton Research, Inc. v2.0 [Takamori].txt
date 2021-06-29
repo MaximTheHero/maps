@@ -1,0 +1,177 @@
+sci,enter,u,3e,d,e,path,13e,15n
+"break glass" to get into Kilton 2.0
+
+
+Floor 1:
+
+ x-C-x 1 2 x-B-x
+ |   | | | |   |
+ x x-x-x-x-x-x x
+ | |   |     | |
+ x-x x-x-x   x-x
+   | | | |   |
+ u-x x-x-x   x-x
+   | | | |   |
+ x-x x-x-x   x-x
+ | |         | |
+ x x-x-x-x-x-x x
+ |   | |X| |   |
+ n-x-x E-x x-x-A
+
+1: Men's Restroom - +1 dex, -1 cha upon use
+2: Women's Restroom
+A: search box, get card (cyan)
+B: search crate, get card (magenta)
+C: turn on computer
+
+
+Floor 2:
+   
+   3 4-x
+   | | |
+ d-x x u
+   | |
+   2-5
+
+2: search desk, get keyboard
+   insert card (magenta) to go east
+3: squeeze behind mainframe (in and out)
+   'plug in cord' or 'plug in cord to socket'
+   enter <random letters>
+4: search papers, '<random letters>'
+   insert card to go east
+   researcher has yellow card
+5: search wiring, get cord
+
+Floor 3:
+
+   A-x
+   | |
+   B x-d
+     |
+   C-x
+	
+d: insert card to go west
+
+A: helmet/gloves - cyan card
+B: main/other - magenta card
+C: boots/shield - yellow card
+
+Raest's M934 Overclocked Cyber Strike Shield.
+Raest's C2646 Overclocked Cyber Strike Gloves.
+Raest's K1552 Overclocked Cyber Strike Armour.
+Raest's G1827 Overclocked Cyber Strike Belt.
+Raest's F3150 Overclocked Cyber Strike Boots.
+Raest's D421 Overclocked Cyber Strike Helmet.
+
+
+
+Rove and Secure MK 3    2290680
+A large floating silver cube with the words 'Rove and Secure MK 3'
+stamped on its side.  It has several glowing red lights on each side.
+Also, it looks like there is a square opening on each side that is
+covered by a sliding metal plate.  The cube is humming.
+
+<Girls Name>, A Cute Secretary   1504217
+A tall, shapely young woman.  She is wearing a smart business outfit.
+The short skirt accents her long thin legs.  A shock of soft curly red
+hair frames her face and accentuates her green eyes.  While her green
+eyes are pretty, they seem to convey a sense of emptiness.  You don't
+think you are just stereotyping secretaries in general.
+
+<Boys Name>, A Rugged Teamster   1726455
+A broad shouldered, rugged man.  He is wearing dark brown work pants
+and a tight fitting T-shirt, which shows his strong rippling physique.
+Short brown hair sets off his rugged features.  While his hazel eyes
+are handsome, they seem to convey a sense of emptiness.  You don't
+think you are just stereotyping laborers in general.
+
+A Security Guard   1399518
+This man is clearly a security guard.  He is wearing a white oxford
+style shirt and blue trousers.  He has a patch on each arm that reads
+Ton Co Security and has a gold colored badge on his shirt pocket.  His
+brown hair is combed perfectly, and his moustache is trimmed with
+precision.
+
+A Skinny Janitor   1831437
+A skinny middle-aged man wearing dirty blue overalls and no shirt.  He
+is holding an odd mop of some sort, it almost looks like it is metal.
+Hard to say though, the way he is clutching it to him.
+
+A Stern Security Guard   3497217
+A security guard with a stern look on his face is standing behind the
+large counter.  Ok, he doesn't just look stern, he looks enormous.
+Over seven feet tall with arms that are thick and corded with rock
+hard muscles, he dominates the room.  His white oxford shirt barely
+stretches over his chest, the buttons seem ready to pop off.
+
+A Mutant Android    3536242
+A most strange thing stands in front of you.  It appears to be a naked
+human, but it is missing a head and an arm.  Where the head and arm
+should be are just masses of wires.  The arm it does have is a bit
+odd, there are large fangs extending from the fingers.
+
+A Frantic Researcher   3660193
+A man stands here in a long white lab coat.  He looks quite disheveled
+and appears to be randomly walking around the room, searching for
+something.  A small plastic ID badge is attached to his coat.
+
+A Mutant Android   3658369
+This very bizarre robot is lumbering around the room haphazardly.  It
+seems basically humanoid, but it has four arms, instead of two, and
+glowing red eyes.  It seems to move with amazing speed, despite its
+off-balance construction.
+
+A large floating pyramid     10692182
+A large steel pyramid floats in front of you.  It is about five feet
+tall, from top to bottom, but hovers about 4 feet off the ground,
+giving it a towering stature.  There are several vents and ports on
+its charred and blackened surfaces.  Portions of the pyramid seem to
+be glowing red hot.
+
+A large floating sphere    10627419
+A large sphere floats in front of you.  There does not seem to be a
+single seam or opening on its entire surface.  Light reflects off of
+its perfectly clean alloy surface. It is spinning very slowly, almost
+nauseatingly slow, making it impossible to get a bearing on what might
+be the front of it.
+
+A large floating cylinder    10627419
+A large steel cylinder floats in front of you.  There are four ports
+on various portions of the cylinder's walls.  There seems to be heavy
+corrosion around each of the ports.  Fumes that burn your nostrils
+escape from a vent on the top of the cylinder.
+
+
+
+The Cyber Mop 2600 (Overclocked)
+This is one of the most advanced cleaning devices ever to have been
+developed. The handle is made of some sort of steel alloy. It is
+smooth to the touch and balanced for exact handling. The mop head is a
+mass of strong but flexible synthetic fibers. There is a small turn
+dial at the end of the handle.
+
+A Magenta Key Card (v2.0)
+A small magenta, plastic rectangle with a black strip on one side and
+the words "Kilton Labs -- Official Use Only" printed on the other
+side.
+
+A Cyan Key Card (v2.0)
+A small cyan, plastic rectangle with a black strip on one side and the
+words "Kilton Labs -- Official Use Only" printed on the other side.
+It looks light.
+
+A Yellow Key Card (v2.0)
+A small yellow, plastic rectangle with a black strip on one side and
+the words "Kilton Labs -- Official Use Only" printed on the other
+side.
+
+A red patch cable
+This looks like a regular network patch cord.  Though it probably
+could be used as an extension network cord too.
+
+An old plastic keyboard
+This is a very standard 101-Key Keyboard.  Well, standard except for
+the weird plug.  It certainly isn't a standard plug.
+
+

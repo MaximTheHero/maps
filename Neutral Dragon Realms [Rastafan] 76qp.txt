@@ -1,0 +1,103 @@
+magic,3e,8s,3w,6s,2w,s,3d,3n,ne,d,4e,s,e,s,e,s,2e,3s,vortex
+AREA NAME: Neutral Dragon Realms [Rastafan]
+AREA RATING -> Like taking Candy from a Baby
+Monster class range since inception: 574,350 to 32,572,600
+Monster class range for this boot  : 590,510 to 31,160,945  (Average: 2,609,806)
+
+
+                                      5 x-x-x x-x-6 x-x
+                                      | |   | |     | |
+                                      x-x-x x-x-x-x-x x
+                                      |           | |
+                                      x-7 x       x x-x
+                                      | | |       |   |
+                                    x-x x x       x-x x-x
+                                      |   |           |
+                                x x-x x-4-x-x-x-x-x-x x-x-x-x x x-x x-x-x-x
+                                | | |   |           | | |   | |   | |     |
+                              x-x-x x-x-x           x-x x x-x-x-x-x-x     3
+                                  |                     |     | | |
+                      F-x   B-x-x-x-x     x-x           x-x-x x x x
+                        |     | | | |     | |             | |   |
+                    H-x-x   x-x C x x-x x-x x     v       M-x x-x
+                      | |   |     |   | | | |    /          |
+                    I-x x-8-x-D x-x   x-x x x-x-x         x x x
+                      | |   |   |       |                 | | |
+                    J-x-x   x-x x A     x-x               x-x-x x
+                        |     | | |       |               |   | |
+                      G-x   E-x x-x x     x             x x x-x-x x
+                              |   | |                   |   | |   |
+                              x-x S-S-x x           x-x-x-x-x x x-x-x     2
+                                | | | | |           |   | | |   |   |     |
+                                x S-S x-x-x-x-x-x-x-x x-x x-x-x-x x-x-x-x-x
+                                    |                   |
+                                    x-x x-x       x-x x-x
+                                      | | |       |   |
+                                      x-x x       x x-x
+                                      |           | |
+                                      x-x-x x-x-x-x-x x
+                                      | |   | |     | |
+                                      x x-x-x x-x-1 x-x
+
+
+
+A - Ueheuh, Council Member of the Neutral Dragons.	Quartz
+B - Huvele, Council Member of the Neutral Dragons.	Pearl
+C - Felsieran, Council Member of the Neutral Dragons.	Opal
+D - Keudyv, High Lady of the Neutral Dragons.		Amethyst
+E - Osidei, Council Member of the Neutral Dragons.	Jade
+F - Gaadaan, High Lord of the Neutral Dragons.		Ruby
+G - Praedye, High Lord of the Neutral Dragons.		Sapphire
+H - Ziafen, Prince of the Neutral Dragons.		Diamond
+I - Nemoulu, King of the Neutral Dragons.		Topaz
+J - Dhulia, Princess of the Neutral Dragons.		Emerald
+
+1 - Hoofaralig, Titan Portal Warden.
+2 - fly east, Aurothon Guardian (50m, crushing damage only to kill)
+3 - Hopoate, the MindBender.
+4 - The heat from the room burns you.
+5 - Dive
+6 - Tinranor, Guardian of the Future.
+7 - fly east, safe room.  can't be hunted
+8 - dragon guards, have to kill them to enter castle
+
+M - Brimstone Marble
+S - Spire
+    challenge champion - drops Aura of Confidence
+
+
+
+Deacern's Amulet
+This is the amulet of the Titan God Deacern.  Only the mightiest of the
+Titan warriors is ever granted the amulet.  Should the amulet ever fall
+into the wrong hands, you can bet that Deacern will eventually come to
+claim it, and the life of the thief that acquired it.
+Bands of gold and platinum hold a wonderous gem in the center of this
+amulet.  The gemstone is hard to identify, although it almost appears
+as if some hybrid of the 4 precious stones: Emerald, Diamond, Ruby, and
+Sapphire.  The stone almost seems alive, it pulses softly and the
+colors shift and sway.  The necklace portion of the amulet is made
+from a mystical leathery material so strong that the sharpest of
+swords could not sever this cord.
+
+The Famerian Hammer (enchanted)
+This is an enormous hammer, with an 8' shaft and a head that must
+weigh 300 pounds.  One side of the head is a flat, round surface for
+pounding things smooth.  The other end is a curved spike for
+separating things that are melded together.  The hammer is blue with
+orange veins running through it.  The hammer is not well balanced for
+wielding as a weapon, though it is likely a phenomenal tool for a
+weapon smith, if said person could actually carry it.
+
+MindBender (enchanted)
+A very sinister looking dagger.  It shimmers and wavers from view,
+quickly reappearing.  The blade seems to pulse, growing and shrinking,
+metal blades extend and retract from the central blade.  Sharp iron spikes
+line the hilt of this weapon, making wielding it a dangerous action.
+
+Aura of Confidence
+The aura shimmers translucently in the light, while nearly weightless
+it exudes power and you feel compelled to wear it.
+
+
+

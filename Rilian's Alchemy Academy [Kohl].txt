@@ -1,0 +1,46 @@
+Rilian's Alchemy Academy [Kohl]
+Dirs: Wayhaven Portal, 7w, 3s, e, n
+
+Level 1:
+
+             x   x
+             |   |
+             x-S-1
+               |
+               x
+               |
+               E
+
+
+Level 2:
+
+
+             x 2 x
+             | | |
+             x-S-x
+
+
+S: Stairs
+E: Entrance/Exit
+1: Rilian, the Master Alchemist.
+2: With the key got from killing Rilian you can open a box and get
+   The Philosopher's Stone
+
+Monsters:
+The Cook
+An Apprentice
+Rilian, the Master Alchemist
+A Journeyman
+The Maid
+
+Items:
+A wooden spoon.
+An apprentice alchemist ring.
+A small knife.
+A master alchemist pendant.
+A curved cane.
+A journeyman alchemist pendant.
+A master alchemist ring.
+A journeyman alchemist ring.
+The Philosopher's Stone.
+[can 'transmute' stuff into solid gold]

@@ -1,0 +1,57 @@
+road portal, 2e,s,slide
+Monster class range since inception: 808,508 to 95,116,198
+
+     x
+      \
+     x x
+    / \|
+ E-x-x-x
+     | |\
+   x-d x x
+   |  /
+   x-x
+
+     1
+    /
+   x
+    \
+     x
+     |
+     u
+
+
+
+1: cave, Rimalkin King (2 lives, 95m)
+
+A small Rimalkin
+This is one of the smallest of the Rimalkin species.  It is very rat-like
+and stands about 1.5 feet high at the shoulder.  Its body is covered with
+mottled grey skin, with large hard sections on its 4 feet.  Each foot is
+made up of a large claw, which looks sharp enough to tunnel through rock.
+Its eyes glow reddish in the dim light, which peer at you, unblinking.
+
+A large Rimalkin
+This Rimalkin is slightly larger than its smaller cousins.  It is very
+rat-like and stands about 2.5 feet high at the shoulder.  Its body is covered
+with mottled grey skin, with large hard sections on its 4 feet.  Each foot
+is made up of a large claw, which looks sharp enough to tunnel through rock.
+It's eyes glow reddish in the dim light, which peer at you, unblinking.
+
+A very large Rimalkin
+This Rimalkin is the biggest and ugliest you have seen so far.  It is very
+rat-like and stands about 3 feet high at the shoulder.  It's body is covered
+with mottled grey skin, with large hard sections on its 4 feet.  Each foot
+is made up of a huge claw, which looks sharp enough to tunnel through rock.
+It's eyes glow reddish in the dim light, which peer at you, unblinking.
+
+The King of the Rimalkins
+This is the King of all Rimalkins. He is massively bigger than
+any other creature you have encountered in this cave. His massive
+rat-like claws gleam with an unholy light, and you see a glimmer
+of more than average intelligence coming from his ravenous gaze.
+
+
+Ring of Magical Deflection
+A golden band of metal, with a small diamond in its center.
+This armor provides special defense against melee attacks.
+

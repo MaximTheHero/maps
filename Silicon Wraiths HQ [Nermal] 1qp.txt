@@ -1,0 +1,257 @@
+Silicon Wraiths HQ [Nermal]
+Dirs: Science,u,3e,d,e,path, 8e, 17n, e, enter, 10e, 10ne, w, n
+
+Ground Floor:
+
+ x-s-x-x
+   |   |
+ x-x-x x
+   | |
+   M x-x
+   |
+   E
+
+E: Entrance/exit
+s: stairs
+M: look at walls,look at holes in west wall,hit west wall,get wood,break wood,identify knot (Wood Marble)
+
+
+First Floor:
+
+
+  x-s-x x
+    | | |
+  x x 1-x
+  |/ /|\
+  x s V x
+
+s: stairwell
+   Talon
+   say <name>
+   say authorized
+   say azrael
+1: search seams
+   press button
+   enter <number>
+V: elevator
+   
+Second Floor:
+
+  x-s-x 4
+  | | | |
+  x x 3 1
+   \ /  |
+  2-x-x-x
+
+1: unlock drawer 2
+2: search tools
+3: mob has a key
+   say test
+   say talon, kerrie, azrael
+   say basement
+   say megatech, sonybishi
+   you will get a random number code
+4: A metal armour rack
+
+
+Basement:
+
+  x---1
+   \ /
+    x
+    |
+    x
+    |
+    V
+
+1: Azrael
+
+A grungy gang-member (Carl)   17791
+This grungy man is wearing faded denim jeans, an oil-stained white
+T-shirt and a beaten up leather jacket.  His long, greasy hair does
+little to hide the scars on his face and his once-broken nose.  It
+looks as if this guy has been in a few too many fights.  From the
+breadth of his shoulders, he might have won some too.
+
+A hyper-alert gang member (Ted)   14468
+Standing before you is a slender man with slicked back black hair and
+a scraggly goatee.  He twitches constantly, as if he had fleas.  Given
+the state of the building, you aren't surprised.  He is wearing an old
+bomber jacket, ripped T-shirt and dirty jeans.  As you watch, he keeps
+looking around nervously.  It gives you the creeps.
+
+An ex-military gang-member (Talon)  59831
+This man stands well over 6' tall and has a chest so broad and deep
+that it must conceal dermal plating of some sort.  While he is tanned,
+muscled and sports several scars, knowing and friendly blue eyes stare
+out from under blonde hair.  The sheer size of him is increased by
+obvious cyberware and you'd swear that, as a guard, he is in constant
+communication with at least one other person.  However, for all his
+bulk, this man moves with the grace of a dancer, or a cat.
+
+A lithe and athletic gang-member  (Sarah)   42416
+This tall woman has short, dark hair and an intense gaze.  She moves
+with inhuman grace, never a wasted motion.  You notice her evaluating
+you as you check her out.  She smiles a fraction of a second before
+you look away.  Wired reflexers live in a world of their own.
+
+A small, wiry gang-member (Scott)   30102
+In front of you is a man of average height and wiry build.  He only
+seems short by contrast to the cybered hulks you have seen elsewhere
+around the place.  He has dark brown hair that needs washing and
+alert, green eyes.  This gang-member is dressed totally in black and
+has a disconcerting habit of twitching his eyes and body as he talks
+and moves.
+
+An amazon of a female gang-member (Ellen)   52172
+Tall and statuesque, this auburn haired beauty casually twirls a
+shotgun as she lounges against a wall.  Like many cybered individuals,
+you can see the tell-tale bulk of implanted plating under her skin.
+Looking up to her eyes, you catch her watching you.  She smiles thinly
+as she lights an evil smelling cigar.
+
+A very young gang-member (Mike)   14954
+This kid can't be more than seventeen and he's slender for that age
+anyway.  He has light brown hair and hazel eyes that seem older than
+his years.  As you look at him, he smiles shyly and subvocalises
+something.
+
+A bulky, heavily muscled gang-member (Stella Michaels)   52497
+You have to glance twice to assure yourself that this gang-member is a
+woman.  She has better muscle definition than many male bodybuilders
+and moves with a certain lethal grace.  Her shaved head draws
+attention to various battle scars that make a mask of her face.  As
+you look, she scowls at you and you see the characteristic bulk of a
+micromissile launcher on her shoulder.
+
+A quiet, pensive gang-member (Mitch)   19015
+This small man has black hair and brown eyes.  His skin is much darker
+than you'd expect an indoor person's to be.  As you move around, his
+eyes follow you but he gives no indication that he even cares about
+your presence.
+
+A nervous, twitchy gang-member (Todd)   19275
+A sandy blonde gang-member twitches in place as he stares at nothing
+in particular.  He barely registers your presence even as you step
+close.  His pale complexion and blue eyes are clouded in thought.
+
+A serene gang-member (Kerrie)   22073
+This woman is short and slight with blonde hair and grey-green eyes.
+She has an air of sadness about her, as if she has seen too much and
+had life's brutal realities thrust upon her.  You have absolutely no
+idea how old she is but she is in great shape, no matter what her age.
+
+An absolutely huge gang-member (Thor)   55682
+This man towers above you; he stands just on two metres tall.  His
+shaved skull leads into chiseled features and shoulders that look
+twice as wide as they should be.  You realise that he has had a linear
+frame implanted and guess that he must be incredibly strong.  His blue
+eyes reflect a sense of peace as he acknowledges your presence.
+
+An intently concentrating gang-member (Midnite)   16280
+Staring intently at nothing is a tiny woman without visible
+cybernetics.  Of Asian origin, she has fine bones and black hair.  Her
+eyes flicker randomly as she watches things you can't see and you
+occasionally see her subvocalise a statement.
+
+A quietly confident combat veteran (Imogen)   87642
+This woman is of medium height with short, straight black hair.  Her
+blue eyes hold a jaded look as she quickly sizes you up.  You notice
+that she rests lightly on the balls of her feet, as if perpetually
+ready to move in any direction.  She smiles slightly as you evaluate
+her and you decide that this lady is very dangerous even though she
+has no visible cybernetics.
+
+A hulking, chrome cyborg (Azrael)   168847
+Fear grips you as you stare at this human.  It is a primal fear, one
+you can't control.  It is the fear of the unknown, the fear of inhuman
+death.  Standing just under two metres tall, the man in front of you
+has reflective eyes and a chromed skull. His body is bulky in ways no
+human could be and he moves with a grace you can only envy.
+
+
+Items:
+A clip of 10mm ammo
+This long clip is designed to be loaded into the Glock series of
+autopistols.  It holds 35 rounds of 10mm ammo in a double row of
+bullets.
+You check the clip and see that 35 rounds remain.
+
+A Glock 20 10mm autopistol
+This sleek and deadly autopistol takes 10mm rounds and accepts a 35
+round clip.  Featuring a smooth trigger action, the Glock 20 is
+incredibly accurate.
+
+A bodyshield of translucent plaspex
+This moulded piece of translucent plaspex is hinged to snap closed
+around the body of the wearer.  The product of a technological
+society, it is resistant to many forces.  It is designed to cover the
+torso only but is relatively light and quite comfortable.
+
+A military shotgun
+Made of light weight plastic and carbon fibre steel, this shotgun is
+capable of firing many types of ammunition.  There is a mounting for a
+drum on top of the gun.
+
+A drum of basic shotgun rounds
+This is a compact drum of shotgun ammo.  It can hold up to 80 rounds.
+Each round has hundreds of tiny metal bearings inside.  These will
+scatter and virtually shred an unarmoured opponent.
+You check the drum and see that 80 rounds remain.
+
+A drum of solid-slug shotgun rounds
+This is a compact drum of shotgun ammo.  It can hold up to 80 rounds.
+Each round has a large, solid slug instead of the usual load of small
+metal bearings.  Such rounds are designed to give a little more
+'punch'.
+You check the drum and see that 80 rounds remain.
+
+A drum of phosphorus shotgun rounds
+This is a compact drum of shotgun ammo.  It can hold up to 80 rounds.
+Each round has many tiny pellets of phosphorus inside and will ignite
+on contact with air.  Such weapons are, of course, outlawed.
+You check the drum and see that 80 rounds remain.
+
+A cartridge of modified paintballs
+This is a compact drum of shotgun ammo.  It can hold up to 12 rounds.
+Each round has hundreds of tiny metal bearings inside.  These will
+scatter and virtually shred an unarmoured opponent.
+You check the cartridge and see that 25 rounds remain.
+
+A heavily modified skirmish rifle (enhanced)
+This is a small rifle that can be held in one hand.  Its plastic
+barrel and grip are designed for comfortable firing of paintball
+rounds.  It looks as if someone has made some modifications to this
+rifle to make it accept slightly larger paintballs than normal.
+
+A Sonybishi P-49a Pulse Dagger
+This slender dagger is somewhat heavy due to the powerpack in the
+hilt.  The dagger is not terribly sharp but it is very comfortable to
+hold and well balanced to either slash or stab.  You notice an
+intricate network of metallic veins running through the blade but are
+not certain what they mean.
+
+A small key
+A nondescript key made from brown metal.  Nothing on it gives any
+indication of what it would open.
+
+A Sonybishi Hi-E Energy Storage Cell
+This is a small tube of black metal with a silvery prong sticking out
+of one end.  On the side of the tube, near the base, you can see a
+tiny gauge.
+
+A Battleshroud(tm)
+This reflective cloak is made of some unknown material and is heavy
+and fairly cumbersome.  Obviously not designed for a weakling, it
+seems to almost mould to your body as it falls from your shoulders.
+Made by Sonybishi in a secret factory, this cloak was never meant to
+be worn by anyone who doesn't work for that corporation.   Down at the
+bottom of the Battleshroud(tm), you can see the Sonybishi logo.
+
+A baseball bat with several nails through it
+For cruelty value, the addition of several nails into a perfectly
+ordinary baseball bat must rate pretty highly.  Three nails have been
+hammered through the end of this wooden bat and spaced in such a way
+that it's almost certain that someone will be struck by one of them.
+
+

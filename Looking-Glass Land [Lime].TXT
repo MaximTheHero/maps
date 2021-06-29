@@ -1,0 +1,180 @@
+chaos,3e,4s,touch card,nw,w,touch mirror
+21/30 rooms
+
+       E
+        \
+         x   x-Z
+          \ /
+           x-3
+          /
+         x           x     x-x
+        /|           |\   /  |
+     4-1 u d(2)    d u 1-D   x-E
+                            /
+                         x-A
+                          \ \
+                           B C
+
+1: Looking-Glass Land Board
+2: move armchair, crawl through glass
+   chess game on table
+3: fresh mound of dirt
+4: something about the bushes and hedges
+B -> A
+C -> D
+E -> 1
+Z:read scribble
+Someone has for some reason scribbled a rough diagram of a chess game:
+
+      +--+--+--+--+--+--+--+--+
+      |  |  |  |  |  |  |RN|  |
+      +--+--+--+--+--+--+--+--+
+      |  |  |  |  |  |  |  |  |
+      +--+--+--+--+--+--+--+--+
+      |  |  |WK|  |  |  |  |  |
+      +--+--+--+--+--+--+--+--+
+      |  |  |  |  |  |WN|  |  |
+      +--+--+--+--+--+--+--+--+
+      |  |  |  |  |RK|  |  |  |
+      +--+--+--+--+--+--+--+--+
+      |  |  |  |  |  |  |  |  |
+      +--+--+--+--+--+--+--+--+
+      |  |  |  |WP|RQ|  |  |  |
+      +--+--+--+--+--+--+--+--+
+      |  |  |WQ|  |  |WR|  |  |
+      +--+--+--+--+--+--+--+--+
+read lesson
+It's a very strange version of a schoolchild's lesson:
+
+  He thought he saw a Rattlesnake
+    That questioned him in Greek:
+  He looked again and found it was
+    The Middle of Next Week.
+  'The one thing I regret', he said,
+    'Is that it cannot speak!'
+read map
+
+                THE QUEEN OF HEARTS'
+                    REAL GARDEN
+
+                        d
+                       / \
+                      d d-d
+                     /|  \|\
+                    d d-d d d
+                   / \   \   \
+                  d d-d d-d d-d
+                 / \   /   /   \
+                d d-d d-D d d-d d
+                 \ \      |  \ /
+                  d-d d d-d d d
+                   \ /   \  |/
+            s       d d-d d d     c-c-c
+           / \     / \ \  |/ \   / \  |\
+          s s-s   t   d-d d   t c-c c c c
+         / \ \ \ /     \ /     \ ) /   /|
+        s s-s s-s       d       c c C c-c
+       / \ \     \              |  \ \  |
+      s-s s s s-s s             c c-c c c
+     /   / /   \  |\             \   / /
+    s s s s-S s s-s s         c-c c c c c-c
+    |/ \ \     \   /|        / / \| | |/ / \
+    s s s s s-s s-s s       c c c-c c c c-c c
+    | | |  \| |     |       | |     |  \  | |
+    s-s s s s s s-s s       c c-c-c c c-c c c
+    |  / /|  /  |  \|       |\     \ \|   |/|
+    s-s s s-s-s s s s       c c c-c-c-c c c c
+     \  |/  |  \ / /         \|  /  |  \|  /
+      s-s   s   s-s           c-c   c   c-c
+           / \                     / \
+          s-s-s                   c-c-c
+             \                     /
+              t   h-h       h-h   t
+               \ /  |\     /| |\ /
+                h-h h h   h h-h h
+                |  /  |\ /|\   /|
+                h h-h h h h h h h
+                |   | | | | | | |
+                h h-h h h-h h h-h
+                |/   \ \   / \  |
+                h h-h h H h h h h
+                 \| | |   | | |/
+                  h h h-h-h h-h
+                   \ /| |  \ /
+                    h h h h-h
+                     \ /|\ /
+                      h h h
+                       \ /
+                        h
+
+
+
+
+a tabby Cat (Dinah)  3856
+A chubby tabby with long whiskers and inquisitive green eyes.  Her fur
+is quite soft - she must spend an awful lot of the time cleaning
+herself!  She is sure-footed and flicks her tail.
+
+a white Kitten (Snowdrop)   3649
+A snow white kitten with huge sapphire eyes.  She is spunky and seems
+excited and fascinated by absolutely everything.  Her fur is a little
+matted in places, as if she's been getting into things she shouldn't be
+and doesn't know how to clean herself up yet.
+
+a black Kitten (Kitty)  2491
+A coal black kitten with huge sapphire eyes.  He is full of mischief,
+scampering all over the place.  His tail twitches, as he looks around
+the room.
+
+Henry Liddell   6657
+A stern man in dark robes, Henry Liddell is the Dean of Christ Church at
+Oxford.  The top of his head is bald, with a halo of wispy white curls
+encircling his head.  Dark piercing eyes are set into pale wrinkled
+skin.  His nose is sharp and beak-like, and his mouth seems to be
+perpetually frowning.
+
+Charles Dodgson   5606
+Charles Lutwidge Dodgson is a man with a weak chin and a high forehead,
+with curly brown hair that's combed straight back.  He wears a long coat
+as he stands in his classroom.  His eyes are wide and twinkling, a
+brilliant pale blue.  His hands are clasped together and he looks to be
+lost in thought or dreams.
+
+Rose   13785
+The Rose towers mightily above the rest of the flowers in the bed, full
+of majestic confidence.  Her soft crimson petals open to reveal
+intelligent features with assessing eyes.  Her stalk is strong, and
+serrated leaves tip vicious looking thorny vines.
+
+Daisy   11388
+This Daisy is an understatedly beautiful flower.  She droops on a long
+narrow stalk and has short leaves.  Plentiful petals make a big white
+circle around her lemon yellow face.
+
+Violet   13906
+The sleepy Violet is curled up in her big leaves, staying low to the
+ground and out of the direct sunlight.  She has a tiny pert face amidst
+three beautiful purple leaves streaked with lemon.
+
+Tiger-lily   12420
+One of the more distinctive flowers in the garden, this Tiger-Lily
+stands proudly up in the bed.  Her speckled orange petals are swept back
+away from her cool beautiful face.  The blades of her leaves look wicked
+sharp.
+
+
+
+
+a pair of whiskers
+A pair of whiskers, without a kitty.  No matter how hard you look, you
+can't seem to find the cat!
+
+ball of worsted
+A ball of worsted.  The dark green yarn seems to have a few kinks in it,
+as though someone was messing with it.
+
+a flower petal
+A soft flower petal, moist with dew.
+
+
+.

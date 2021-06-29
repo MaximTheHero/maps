@@ -1,0 +1,108 @@
+Monster class range since inception: 28,747 to 43,471
+chaos,2w,2s,draw tile
+
+       x         x           x
+       |        /|\          |
+       x       x-x-x         x
+      /|\        |          /|\
+     x-x-x       x         x-x-x
+      \| |\     / \       /| |/
+       1-x-x   x x x     x-x-x
+       | | |\  |\|/|    /| | |
+       x-x-x-x-x-x-x-x-x-x-x-x
+       | | | | | | | | | | | |
+       x-x-x-x-x-x-x-x-x-x-x-x
+        \| | | | | | | | | |/
+         x-x-x-x-x-x-x-x-x-x
+         | | | | | | | | | |
+         x-x-x-x-P-x-x-x-x-x          
+             
+                 P
+                 |
+                 2
+                 |
+                 E
+
+
+1: Rake
+2: Princess Qi
+   redeem 25,000 rep for a Bihu (makes a weapon nobreak for boot)
+
+Golden Phoenix
+Representing virtue and grace, the phoenix or 'fenghuang' is the ruler
+of all birds. Often paired with the dragon, the phoenix symbolizes the
+power of the female. It has sharp talons and a cruel-looking beak. Its
+wingspan is at least six feet long and quite impressive to behold.
+
+Leaping Rat 
+While no larger than the size of your fist, this tiny creature is more
+than it seems. A traditional symbol of wealth, protection, and charm,
+it makes up for its size with its tenacity and natural aggression. Its
+beady eyes look at you with calm determination.
+
+Red Rabbit
+This quiet, well-mannered little creature is usually quite happy
+munching on plants and vegetables in the garden.  Its long floppy ears
+are a bit comical in appearance, but they often help the rabbit sense
+danger before it arrives.
+
+Gold Chinese Dragon
+This ancient creature is the symbol of masculine power and mystery.
+Long and snake-like, it prowls this place on four clawed feet.
+Razor-sharp teeth line its narrow snout and its whip of a tail looks
+capable of snapping you in half if you let it.
+
+White Tiger
+A symbol of power, fortune, and royalty, this sleek, dangerous beast
+is a wonder to behold. Its thick, beautiful fur coat ripples with each
+graceful movement of its muscular frame.  Its teeth are enormous and
+it licks its wide mouth in anticipation of its next meal.
+
+Charging Ram
+The mighty ram looks agitated right now and ready to charge at any
+moment. Covered in thick white hair, its most striking feature is the
+curved pair of horns sitting atop its angular head. The creature's
+stubby tail wiggles nervously as it watches you.
+
+Lumbering Ox
+Giant in stature, this menacing beast is a sign of hard work and
+prosperity. It has a pair of long horns on its head and deep brown
+eyes that look at you with practiced patience. It looks like it weighs
+a ton and smells like it could use a bath.
+
+Red Butterfly
+Delicate and beautiful, this creature is a symbol of joy and love. Its
+gossamer wings are many times larger than its slender body and are
+capable of lifting it in flight with nary an effort. The dazzling
+patterns along its wings nearly take your breath away.
+
+Red Chinese Dragon
+This ancient creature is the symbol of masculine power and mystery.
+Long and snake-like, it prowls this place on four clawed feet.
+Razor-sharp teeth line its narrow snout and its whip of a tail looks
+capable of snapping you in half if you let it.
+
+Blue Dolphin
+This gentle creature was nicknamed 'Goddess of the Yangtze' and is
+also called a baiji. Nearly extinct in the rivers of China, it remains
+alive and well here in the wondrous world of Mahjongg. Its small round
+eyes regard you with mild curiosity.
+
+Winged Horse
+This beautiful creature is one of Mahjongg's most majestic. Standing
+six feet tall at the shoulder, its white coat shines as if freshly
+brushed. It has a pair of angelic wings that allow it to soar above
+the treetops when it wishes.
+
+Sea Serpent
+Wily and wise, this serpent slithers through the seas of Mahjongg with
+wary attention to all its comings and goings. Have no doubt, it has
+already noticed you and sized you up in case you might be thinking of
+attacking it. Its red and black striped body slips through the water
+with hardly a ripple.
+
+
+
+
+
+

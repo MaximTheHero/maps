@@ -1,0 +1,179 @@
+chaos,w,2s,enter playhouse
+
+
+
+ x-x-x-x-x-x-x-x-x-x-x-x---x
+ |                         |
+ x                         |
+ |                         |
+ x                         x
+ |                         |
+ x                         |
+ |                         |
+ x                         |
+ |                         |
+ x                         x
+ |                         |
+ x                         |
+ |                         |
+ x                         |
+ |                         |
+ x                         x
+ |                         |
+ x                         |
+ |                         |
+ x                         |
+ |                         |
+ x                         x
+ |                         |
+ x                         |
+ |                         |
+ x                         |
+ |                         |
+ x                         x
+ |                         |
+ x                         |
+ |                         |
+ x                         |
+ |                         |
+ x                         x
+ |                        /
+ x-x-x-x-x-x-x-x-x-x-x-x-x
+                 |
+                 x
+                 |
+                 E
+
+
+Peggy Sue   92
+Peggy Sue is a sweet little girl with big blonde curls down to her
+shoulders.  She loves to wear overalls and today she is wearing a pair
+of blue overall shorts over a white blouse.  A matching blue headband
+holds the curls out of her face. She is wearing a red scarf around her
+neck and brown shoes.
+
+Max    1498
+Max is a cute little boy about 11 years old that loves to play with
+his blue parrot and his white bunny.  Max is very good at teaching the
+other kids their colors and shapes.  He is wearing a green sweater and
+blue shorts.  He has bright red hair that stands straight up on his
+head.
+
+Eddie    183
+Eddie is from the land of Little People.  He is a small boy about 8 or
+9 years old.  He has short blonde hair and big dark eyes.  He is
+wearing a red and white horizontally striped tee shirt with a short
+red sweater over it.  He has a bright green frog hanging out of the
+pocket of his blue pants.
+
+Jack the mechanic    1432
+Jack is the mechanic for the Little People.  He loves to fix cars and
+keep them in tiptop shape.  He has wavy brown hair, almost hidden by a
+backwards blue baseball cap.  His friendly smile is enhanced by his
+bushy brown mustache.  He is wearing green coveralls covered with
+pockets to carry all his tools.  A yellow nametag, bearing the name
+'Jack', is sewn on the left breast pocket. Even though he works on
+cars all day, his coveralls are surprisingly clean.
+
+Sonya Lee    327
+Sonya Lee is a short oriental girl with short black hair and beautiful
+dark eyes.  She is wearing a white blouse over a pink dress.  A
+matching pink headband is in her hair.  She has on white lace socks
+and black dress shoes.  She loves to say her ABC's.
+
+Trina the mail carrier    2995
+Trina is the town's mail carrier.  She is a young woman about 22 years
+old.  However, her young age has no bearing on the immense
+responsibility she has delivering the mail to all the Little People.
+She is wearing a white hat on her long red hair.  She has a mail bag
+full of mail across her blue postal uniform.
+
+Spot    14448
+Spot is the town's mascot.  Everyone knows him on sight. He is a cute
+white beagle dog with floppy black ears, a shiny black nose and a
+patch of black fur on his back.  He wears a red tag around his neck
+that says 'Spot', and for some reason, he can talk.
+
+Margaret   156
+Margaret loves to play in the rain.  Her wavy brown hair is almost
+hidden by her big yellow rain hat.  She has red, round-rimmed glasses
+over her big brown eyes.  Her yellow slicker and red galoshes are the
+perfect protection for playing in puddles.
+
+Sam the fire fighter    1495
+Sam is the head fire fighter in town. He has bright red hair and a
+matching bushy red mustache.  He has been a fire fighter for a long
+time.  He wears a red fire coat with yellow buttons and a yellow fire
+hat.  Luckily, there are hardly any fires in the land of Little
+People.
+
+Natalie    92
+Natalie is a cute little black girl about 5 years old.  She has curly
+black hair with a pink bow in it.  She loves to sing and play guitar
+and loves bathtime.  She sometimes even carries around a green and
+yellow striped washcloth.
+
+Laura the vet    1226
+Laura is the veterinarian for the Little People's animals. Since she
+is the only vet around, she knows a lot about every pet the town's
+people has.  She is an oriental lady, mother to Sonya Lee.  She has
+short black hair and is wearing a white pants, and a blue smock.  A
+stethoscope for checking the pets' vital signs hangs around her neck.
+
+Jedd the farmer    7825
+Jedd the farmer supplies all the crops for the town.  He is up before
+dawn every day, planting, picking, sowing and checking that all the
+crops are healthy.  He is wearing a big straw hat on his short brown
+hair.  He has a white tee shirt on under his blue overalls.  A red
+scarf is around is neck and brown shoes are on his feet.  He likes to
+play the guitar and sing with the kids when he's not busy working.
+
+Joe the Police Officer    7184
+Joe is the police officer for the land of Little People.  He is a
+friendly man that likes to keep the town safe.  He has a blue police
+officer's hat on his head.  He has shaggy gray hair and a thick gray
+mustache.  He is wearing a blue police uniform with a black belt and
+silver buckle.  A shiny police badge is pinned to his shirt.
+
+Amelia the pilot    2792
+Amelia is the town's pilot.  She loves to fly the people around in her
+plane.  She has long fire red hair which is almost completely covered
+by her brown leather pilot's cap.  She's wearing goggles over her eyes
+to keep her sight clear.  A long white scarf hangs around her neck.
+She is wearing blue pants and a brown leather flight jacket that
+matches her cap.
+
+Smiley the Clown    6458
+Smiley the Clown is the town's only clown.  He has a big red nose and
+white pancake make-up surrounding his mouth. His fire red hair is
+covered mostly by his huge purple hat with green band, a white flower
+with a yellow center sticking out of it.  The hat is so big it totally
+covers his eyes.  His yellow spinning tie is a nice compliment to his
+oversized purple jacket, bright red pants and green shoes.  He loves
+to count numbers and blow up balloons.
+
+Jim the train engineer    400
+Jim is a white male about 50 years old. He is the train engineer. His
+once brown hair is starting to gray.  He is wearing a blue and white
+striped conductor's hat with matching overalls, a white tee shirt and
+a red scarf around his neck.  A brass pocketwatch, that hangs from a
+chain, is kept in his left breast pocket.  It was a gift from his
+father, who was the train engineer before him.
+
+Jose    326
+Jose is a cute hispanic boy about 7 years old.  He wants to be a
+fisherman when he grows up.  He is wearing a brown fisherman's hat,
+with two red fish hooks sticking in it, on his short black hair.  He
+has also got on green shorts and a brown fishing vest over a white tee
+shirt.  He loves to carry around a big red bubble wand.
+
+
+
+Spot's Collar
+This shiny metal collar belongs to Spot from Little People town.  A
+bone-shaped tag with the name SPOT hangs down from it.  It may have
+mysterious powers seeing as Spot can talk while he's wearing it.  He
+must be one smart dog.
+
+
+.

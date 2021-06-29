@@ -1,0 +1,82 @@
+3e,2s,2e,n,3e,s,enter,2n,e,open door,shift lever 1 to 3, shift lever 2 to 2, push button, wormhole
+
+
+                    S
+                   /
+          x-x-x-x-x
+         /|/ \|X|/
+    x-x-x-x   x-x
+   /|X|X|X|\ /|/
+  x-x-x-x-x-x-x
+   \|/   \|/
+    1   x-x
+
+1: squeeze through opening
+   enter wormhole (exit)
+   search pool
+
+
+A gigantic, hairy spider with huge fangs       49138
+This spider is enormous!  More than just a spider, this thing has one hell
+of a mean disposition.  Possessing a round body, roughly three feet in
+diameter, dominated by two huge fangs, this spider means business.  Its
+body is supported by the eight solid legs, their exoskeletal covering
+looking like armour plating.
+
+A large hairy spider       19797
+The spider's extremely hairy body is about one foot in diameter, and about
+three inches thick.  Eight, hairy legs protrude from the body at regular
+intervals, each possessing four joints for freedom of movement.  Two large
+fangs protrude menacingly from below its small eyes.
+
+A small spider with long legs    19484
+Its body not much larger than a human fist, this spider looks quite
+harmless.  Looks can be deceiving though, as this spider doesn't seem
+to look afraid of you.  Its long legs seem slightly out of proportion
+to its body, being roughly one and a half feet long.
+
+A spider with fifteen legs and huge pincers      50899
+Looking more like a cross between a crab and a spider, this creature looks
+like it could be quite nasty when provoked.  Possessing two large pincers
+protruding from its body, and fifteen sturdy legs, you begin to wonder if
+the spiders here feed on other things apart from liquefied insects.
+
+A huge spider with nine legs and a scorpion's tail     49137
+At about three feet in size, this spider is very large indeed.  Most
+unusual about it is its scorpion-like tail, possessing a needle-like
+stinger at the end.  Supporting its bulk are nine legs, each covered
+with short hair, which looks more like spikes.  Two huge fangs, easily
+half a foot long, protrude from its head, no doubt ready to inject
+lethal poison.
+
+A tiny spider with big eyes     18309
+This spider is relatively small, its round body just four inches in
+diameter.  Two large eyes dominate its features, their surface tinted red,
+matching the moonlight.  Small, spindly legs support its weight, looking
+almost too frail to do so with any degree of stability.
+
+A baby black spider     18295
+At about three inches in size, this spider is somewhat smaller than what
+you would picture to live in this area.  Its disc shaped body is covered
+with a fine fur, as is its long, thin legs.  A set of fangs that clash with
+the rest of the spider's diminutive stature protrude a full inch from its
+small head, giving it an almost comical appearance.  Lighter patches in the
+spider's hairy covering continue to project this appearance, by forming the
+unmistakable shape of smiling faces on its back and under body.  Maybe one
+day it will grow large enough to suit its presently mismatched fangs.
+
+A red spider with yellow bands    18507
+About half a foot in diameter, this spider looks quite pretty with its
+bright colours.  Predominantly red, the spider also possesses numerous
+yellow bands, circling its legs and body.  Two small fangs glint in the
+moonlight, reminding you that it is a dangerous creature, despite its
+beauty.
+
+
+
+A bundle of spider's silk
+This damp bundle of spider's silk is made up of hundreds of glistening
+threads, currently packed rather loosely and about two inches in
+diameter.
+pack silk, pack silk, pack silk - Silk Marble
+.

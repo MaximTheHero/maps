@@ -1,0 +1,439 @@
+Science, The Houston-Midways Space Station
+
+
+Level 1:
+
+
+   x-x   x-x
+  /| |\ /| |\
+ x-x-x-x-x-x-x
+ | | | | | | |
+ x-x-x-d-x-x-x
+ | | | | | | |
+ x-x-x-x-x-x-x
+  \| |/ \| |/
+   x-x   x-x
+
+
+Level 2:
+
+
+    S
+
+S: Stairs up/down
+   
+
+Level 3:
+
+                  x   x
+                   \ /
+    1     x         x
+     \    |        / \
+      x-x-x-x-x-x-x   x
+      |\    |    /|
+      x x   x   x x
+      |  \     /  |
+    x-x   x   x x-x
+      |    \ /    |
+      x     S     x 
+      |    / \    |
+      x   x   x x-x
+      |  /     \  |
+    2-x x x     x x
+      |/  |      \|
+      x-x-x-x-x-x-x-x
+        |       |  /
+      3-x       x-4
+
+1: Angela Myers, the Midways station exec.
+2: The COMSTAR-Midways shuttle bay : Weather Station [Shadowlotus]
+3: enter pod : Warhammer 40,000 [Horus]
+4: Supply Shuttle [Talimar]
+S: Stairs up/down
+
+
+Level 4:
+
+     S
+
+S: Stairs up/down
+A whirring terminal.
+
+
+Level 5:
+
+         1
+         |
+         x
+        /|\
+       x x x
+      /  |  \
+     x   x   x
+    /    |    \
+ x-x-x-x-S-x-x-x-x-3
+    \    |    /
+     x   x   x
+      \  |  /
+       x x x
+        \|/
+         x
+         |
+         2
+
+S: Stairs up/down
+1: The Midways-Mars shuttle : Mars [Nanook]
+2: The Mega-Tokyo - Midways shuttle bay : Mega-Tokyo [Mischief and Artistocles]
+3: Houston - Midway Shuttlecraft
+
+Level 6:
+
+    S
+
+S: Stairs up/down
+
+
+
+Level 7:
+
+
+
+
+       2-3-4
+       | | |
+       1-S-5
+       | | |
+       6-7-8
+
+
+S: Stairs up/down
+1: Starcraft: Brood War : Starcraft:Broodwar [Arrion]
+2: Star Wars : StarWars [Gerin]
+3: DUNE : Dune [Leto]
+4: The Borg : Borg Cube [Cirrus]
+5: Fuzzy Aliens (Barney from another world) : Fuzzy Aliens [Ryft]
+6: The Living Planets : Space Simulator [Thumpson]
+7: Are you ready for 31st century warfare? : Codename: Kodiak [Dynon]
+8: Star Trek : Enterprise (TNG) [Tensor]
+
+
+Level 8:
+
+    S
+
+S: Stairs up/down
+
+
+Level 9:
+
+
+ 1-x-x
+ | | |
+ x-x-x-x
+ | | | |
+ x-x-S-x-x
+   | | | |
+   x-x-x-x
+     | | |
+     x-x-x
+
+1: Kirsten the Midways barkeep.
+
+
+Monsters:
+
+2611 : A lynx stalking its prey
+
+A small feline stalking something through the trees.  The small cat 
+is barely larger than a common housecat, apparently adjusting to 
+the smaller environment of the station.  It barely pays you any 
+notice as it slinks through the trees towards some unseen target.
+
+
+1386 : A python lying in ambush
+771 : A python lying in ambush
+287 : A python lying in ambush
+
+You've stumbled across one of the more dangerous members of the 
+gardens.  The python appears to be a rather small one, maybe only 
+nine feet long (good thing you didn't step on it).  Its tongue 
+flicks out to catch the scent of approaching prey, you feel 
+confident that you're not it, unless you provoke it of course.
+
+
+176 : A chirping sparrow
+
+A small sparrow, brought here from Earth to liven up the gardens.  
+The species has adapted very well to the artificial gravity and 
+simulated night and day.  The small bird chitters away, oblivious 
+to your presence.
+
+
+78 : A red tailed squirrel
+
+A small red tailed squirrel nervously looks your way as it 
+forrages for food.  It's smal hand-like paws shift through the 
+grass in search of fallen nuts or other food.  Every time you 
+move, it crouches, ready to sprint.  Apparantly mother nature 
+doesn't release her hold on things even in space.
+
+
+312 : An iguana lounging on a branch
+
+The light green skin of the iguana blends nicely with the leaves 
+surrounding it, nearly hiding it from your view.  This is yet 
+another of the transplanted creatures which has been found to 
+thrive in the artificial environment of the station.  As you watch 
+it it calmly moves further down the branch on its daily hunt.
+
+
+22934 : A space marine
+
+This is one of the fabled space marines.  These incredible 
+physical specimens are trained rigorously for any duty off of 
+Earth.  These men are charged to keep the peace within the 
+Martian colony until it has been established that it can support 
+its own police force.
+
+
+842 : A primly dressed secretary
+
+An attractive woman dressed in a conservative business suit.  The 
+darkened rings about her eyes are skillfully hidden beneath her 
+heavy makeup, though you can see the long workday is taking its 
+toll.  Still, she seems industrious enough and will probably work 
+her way out of this menial job soon enough.
+
+
+29177 : Angela Myers, the Midways station exec
+
+A tired looking woman with little sense of humor.  Her demeanor makes 
+it obvious that she's the one in charge here, and she's not going to 
+give up her position easily.  I wouldn't cross this woman.  That's 
+the last thing you need, a powerful woman ticked at you.
+
+
+6016 : A Midways technician
+
+A slip of a woman in baggy Midways coveralls.  She appears to 
+be on her way someplace, probably to assist in an inspection or 
+deliver reports.  Her determined stride gives you a sense of 
+confidence that the station workers are actually concerned with 
+keeping the place running.
+
+
+6016 : A corporate wage slave
+
+A nearly frantic looking corporate stooge.  You can't imagine what 
+would have someone so worried looking up here on the space station; 
+that is unless it's about to fall apart.  These folks definately 
+can't be getting paid what they're worth if this person's dedication 
+is any indication.
+
+
+6016 : A genetic engineer
+
+An anemic looking guy in a lab coat.  He seems absorbed in 
+his own work and barely pays you any notice.  He actually 
+seems a little irate that you're here at all.  Maybe you'd 
+better get out of his way.
+
+
+5993 : A weary station worker
+
+A tired looking man wearing coveralls emblazoned with the Midways 
+logo.  He seems to be taking a break from his work to lounge about 
+for a while.  You can only hope that what he's supposed to be 
+fixing isn't essential to keeping the space station safe.
+
+
+7256 : A retiree enjoying his free time
+
+A recently retired man looking like he's finally enjoying his 
+life.  He seems to be slightly overwhelmed by the sheer enormity 
+of the space station, spending more of his time looking about him 
+than at where he's walking.
+
+
+3070 : A haggard looking traveler
+
+A tired looking man in a treadbare overcoat.  He seems to be 
+some kind of low level executive, or perhaps an office lackey 
+on vacation off planet.  You think about it and decide this is 
+probably the result of this man's last four years of work, blowing 
+his whole savings on this one offworld trip.
+
+
+7668 : A weary looking man
+
+A weary looking man in a jumpsuit sprouting the Midways logo.  Of 
+course, half the people here are sporting some sort of Midways 
+logo, being one of the many people living here to maintain the huge 
+station.  He looks rather over worked and probably feels under paid.
+
+
+5993 : A tired woman sorely in need of her vacation
+
+This haggard woman looks like she's probably an executive 
+secretary or other office wage slave.  She seems restless and 
+eagar to move on to her final destination and begin that long 
+awaited vacation.
+
+
+7668 : A haggard looking traveler
+
+A tired looking man in a treadbare overcoat.  He seems to be 
+some kind of low level executive, or perhaps an office lackey 
+on vacation off planet.  You think about it and decide this is 
+probably the result of this man's last four years of work, blowing 
+his whole savings on this one offworld trip.
+
+
+1512 : A vr junkie
+
+An anemic looking teenager with sunken eyes and a nervous twitch.  
+This guy's got the classic symptoms of addiction to virtual reality 
+systems.  He's probably hanging around the arcade in the hopes of 
+getting someone to hook him up with his fix.
+
+
+6846 : A respectible looking station worker
+
+A rather respectable looking man dressed in a casual business 
+clothes.  He appears to be someone of some importance, probably a 
+shift supervisor or an office manager for the mining corps.
+
+
+13916 : A drunken station worker
+
+An unshaven man in a Midways jumpsuit stares at you through glazed 
+eyes as he cradles his beer in his hands.  His lips move silently, 
+muttering words that only he can hear.  He definately seems to want 
+to be alone.
+
+
+20264 : A burly looking man
+
+A huge man sporting a jacket emblazoned with the Midways logo.  
+You're not quite sure what he does to keep fit up here, but it's 
+definately working.  Even with that beer in his hand you're pretty 
+sure he'd be a tough fight.  Probably shouldn't mess with him.
+
+
+337 : A rastafarian
+
+This is the nappiest looking guy you have EVER seen. Dude's got
+big, funky dreadlocks and this crust around his eyes. What's
+that thing he's smoking?
+
+
+
+Items:
+A suit of body armour.
+A suit of body armour which is standard issue to the Space Marines. 
+It's a high density polymer with plenty of padding beneath it.  It 
+is enameled in a metallic substance for protection from the energy 
+weapons so common in their line of work.  It seems light and durable.
+
+A pair of combat boots.
+A pair of standard issue combat boots.  The best synthetic leather 
+and lightest soles make them rather durable and comfortable to wear.
+
+A plasma rifle.
+A compact weapon which appears to be cast from plastic.  It's 
+power source is lodged in the pistol grip, and seems to be nearly 
+infinite.  This is the standard issue weapon of the Space Marines.
+
+An electrified net.
+A large net made of silvery monofilament wire.  Each
+is the perfect conductor of electricity.  The net
+acts like a taser, attacking a person's nervous sustem
+and rendering them easier to subdue.
+
+A designer business suit.
+A stylish designer business suit made from silk harvested in 
+zero gravity.  You aren't quite sure why that makes the silk 
+any different, but it's the in thing lately, and it's obvious 
+that they're selling well.
+
+A pair of workboots.
+A pair of silvery boots.  They appear to be coated with 
+monofilaments of aluminium or similar metal to provide a heat 
+shield when working on the exterior of the Midways station.
+
+An environmental suit.
+An environmental suit used for work in harsh conditions such as 
+the void of space.  The suit is rather bulky and looks like it'd 
+be difficult to move about in.  The shuttle and moon logo of the 
+Midways station is stitches into the suit's breast.
+
+A black briefcase.
+An aging briefcase of synthetic leather.  The clasps are beginning 
+to lose their gold paint, and the handle looks like it's beginning 
+to tear a bit.
+
+An id card.
+A flimsy piece of plastic with a small magnetic strip and bar code 
+along one end and the Midways logo scrawled across the face of the 
+card.  It's not much to look at, but surely carries a great deal of 
+information.
+
+A large wooden crate.
+A large wooden crate still wrapped with metal straps and nailed shut.
+The splintered wooden boards of the crate are scarred where the shipping
+stencils were, leaving no indication of what was in, or might still be
+in the boxes.
+
+A white lab coat.
+A white lab coat often worn to keep a laboratory free of dirt that 
+a person might carry in with them.  It doesn't seem all the useful 
+for anything else.
+
+Heavy work gloves.
+A pair of heavy canvas work gloves.  They appear to have seen 
+extensive use, showing signs of burns and tears along thier palms 
+and fingers.  They're fairly comfortable though, you can understand 
+why they're still being used.
+
+A military style duffle.
+A bag of sturdy olive colored canvas.  It looks like it'll hold 
+a great deal of stuff in it.  Then again, I'm sure that's why the 
+military issues them to people.
+
+A tattered overcoat.
+A tattered looking overcoat that seems to have seen much better 
+days.  The garment looks warm and especially protective in the 
+rain.  Of course, the acid laced rainfall on Earth probably are 
+responsible for it looking like it does.
+
+A wide brimmed hat.
+A soft felt wide brimmed hat.  It seems to be in relatively good 
+shape, probably finding very little use.  It's a rather stylish 
+looking thing, really rather striking in the soft off white.
+
+A pair of gloves.
+A delicate pair of gloves made from some synthetic leather.  They 
+appear to be entirely too thin for anything but decoration.
+
+A VR helmet.
+A fully functional virtual reality helmet.  This is a deluxe model 
+complete with speakers and the optional neural interface.  A small 
+power jack is seated in the back of the helmet next to a data 
+slot.  The helmet completely isolates a person's senses of sight 
+and hearing.  I wouldn't recommend wearing one while driving.
+
+A grey jumpsuit.
+A grey jumpsuit of very thick material.  A patch with the Midways 
+logo is sewn just above the breast pocked and another across the 
+back of the suit.  The material seems very resistant to tear and is 
+probably very useful when working in tight places to keep from 
+getting scrapse and cuts.
+
+A roach.
+The roach from a joint. You don't have a lighter, but you could eat it.
+
+A jacket made of hemp.
+A jacket made from hemp. The rastafarian's probably cold now.
+
+A peace pipe.
+This wooden pipe is beautiful. It has ivory inlays, and hits so
+smooth. No wonder the rastafarian loved it so much!

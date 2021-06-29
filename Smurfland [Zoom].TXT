@@ -1,0 +1,74 @@
+chaos,e,s
+
+
+
+       |
+       S
+       |
+       1
+       |
+       2
+       |
+     4-3-5 x
+       |   |
+     7-6-8-9
+        /  |
+       A   x
+        \  |
+     D C-B-x
+     |   | |
+   x-x-x-x-x-x-x-x
+     | | | | | |
+   x-x-x-x-x x-x-x
+     | | | | | |
+     x-x x-x-x x-x
+     | |   | | |
+   x-S-x-x-x-S-x
+     | | | | | |
+   x-x-x-x x-x-x-x
+     | | | | | |
+     x x x Z x x
+     | |     | |
+     x x     x x
+
+         x-Z-x
+           | 
+         x-Y-x
+           |
+         x-x-x
+           |
+         x-x-x
+           |
+         x-x-x
+           |
+         x-x-G
+           |
+         x-x-x
+
+
+S: Start
+1: Brainy Smurf
+2: Smelly Smurf
+3: Papa Smurf
+4: Vanity Smurf
+5: Smurfette
+6: Jokey Smurf
+7: Handy Smurf, ClockWork the Robo-Smurf
+8: Clumsy Smurf
+9: Hefty Smurf
+A: Crafty Smurf
+B: Tracker Smurf
+C: Slimy Smurf
+D: Creepy Smurf
+S: An Ugly and Disgusting Smurf-eater
+Z: Gargamels Castle
+Y: Azreal
+G: Gargamel
+E: Exit back to 1
+
+items:
+Gargamel's Staff
+A Smurf Berry
+A long grey beard
+A Silver Mirror
+A Large Cog

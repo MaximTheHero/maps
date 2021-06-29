@@ -1,0 +1,204 @@
+chaos,2w,s,count 123
+
+                   x
+                   |
+           x   x   x   4
+           |   |   |  /
+       x   x-x-x-2-x-x
+       |  /  |       |
+   E-H-x-x   x-x-x-x 3
+       |  \        |
+       x   1     x-x-x
+
+
+1: search next - Yellow Marble
+2: trash can - kick can
+3: Bert and Ernie's
+4: Shop
+H: hook up firehose, spray someone on the mud with water
+
+
+Gordon   339
+This is Gordon. He is one of the human adults which lend Sesame
+Street some good old fashion role models. Gordon is black, with
+a bald shiney head. He's not as tall as Big Bird, but he still
+makes the little kids look even smaller.
+
+Suzy   163
+This is Suzy. She is a cute little purple girl with long blond hair.
+She is happily sitting on the steps and playing jacks all alone. She
+is wearing a pretty little pink dress and black leather maryjanes.
+
+Elmo  176
+Elmo is a small gangly red thing. He looks a lot like Grover, only
+a different colour and with a eggshaped head. He is riding a tricycle
+around the street.
+
+Big Bird   732
+This is Big Bird. He is a hero for all children. He demonstrates goodness
+and peace between your neighbours. He never fights with people and
+everybody loves him. His yellow feathers radiate happiness.
+
+Snuffleupagus   338
+Snuffleupagus is a HUGE wooly-mammoth type monster with shaggy brown
+fur growing all over him. He has very long eyelashes and looks very
+docile. His bright blue eye lids almost blind you, but you quickly
+get over the light change as he continues to stare and blink at you.
+
+Alice   92
+This is Alice. She is Snuffleupagus' girlfriend. She looks almost
+exactly like him, but is a lighter shade of brown and wears a
+huge pink bow on one of her furry ears.
+
+Slimey the Worm   80
+Slimey is a tiny worm. He doesn't talk, but he can understand what
+people say to him. He just nods to whatever anyone says and crawls
+around on the wall.
+
+Telly   416
+Telly is a really large maroon monster. He is kinda round.. actually
+you guess you'd say he's more egg-shaped. He has an elongated orange
+nose and tall, silly feathers protruding from the top of his head.
+
+Grover   183
+Grover is a furry blue monster with quite a large mouth. He has some
+really red lips as well. He likes to pretend he is a farmer, and this
+farm is the perfect place to make-believe. He is wearing a red bandana
+tied around his neck and a pair of rubber boots on his feet. The sharp
+pitchfork in his hand looks pretty deadly.
+
+Super Duck   390
+It's a bird.. It's a plane.. It's SUPER DUCK! Wait.. he IS a bird. Oh,
+well. He is a hero among the farm animals. If there ever is a problem,
+if the tractor gets stuck in a hole, if the rooster forgets to crow,
+SUPER DUCK is there to save the day!
+
+Pigana Ross   163
+This is Pigana Ross. She is wearing a shimmering red dress. It
+compliments her large hairdo nicely. She is standing in front
+of the microphone singing a song.
+
+Oscar the Grouch   327
+Oscar is a gross, dirty, furry, green monster with a big mouth and
+grubby hands. There is a horrible odour coming from him. He is holding
+the lid of his trash can in front of him as a shield.
+
+Cookie Monster   211
+Cookie Monster is a fat blue guy with big bubble eyes on the
+top of his head. His mouth is rather large as well, so he can
+stuff more cookies in, of course!
+
+Kermit the Frog   183
+Kermit is a green froggy. Everyone likes him because he is nice and
+friendly. He is here to visit his favourite buddies, Bert and Ernie.
+The fringe around his neck is a lighter green than the rest of him,
+which you find kinda odd.
+
+Bert   339
+This is Bert. He is a skinny yellow man with a freaked-out hair-do. He
+is sitting down in his armchair, listening to the radio. He is wearing
+a geeky white turtle-neck shirt with a striped shirt over it. His
+fashion sense sucks.
+
+Ernie   389
+Ernie is the best. He never thinks he bothers Bert, but he sure does!
+He is singing at the top of his lungs while splashing around naked in
+the tub. He has his duckie with him, pretending he is a boat.
+
+Mary   183
+Mary is the owner of the clothing store. She doesn't do much business
+because she usually gives the stuff away instead of selling it!
+She is wearing one of the cool floppy hats she has in the front of
+the store.
+
+Rod Rodburger   156
+Rod Rodburger is the host of the Sesame Street gameshow. He is dressed
+in a tacky green jacket and a sparkly red tie. He holds a small card
+in his hand, which he reads the questions off of.
+
+Charlene the Contestant   92
+Charlene has yellow skin and a purple hair. Her nose is orange, giving
+her a very rainbow-like appearance. She seems really into this game
+and her eyes glaze over as she struggles to think of answers.
+
+The Count   156
+The is the Count. He counts everything he sees. He has a very large
+nose and his skin is a pretty purple colour. He wears a black cape
+and a monocle. He also has a bushy black goatee.
+
+
+
+
+A silver jack
+This is a small silver jack. It is used to play a cool game where
+you bounce a ball and try to pick up as many jacks as you can while
+still catching the ball. Little Suzy has thrown all the jacks at
+you so you don't have a full set with which to play. Too bad.
+
+A huge pink bow
+This is Alice's huge pink bow. It is so big that it will fit over the
+top of your small head.
+
+A pitchfork
+This is a pitchfork. It is quite plain. The wooden handle holds
+the metal prongs tightly, so they won't fall off. The points
+are quite sharp.
+
+A plastic ring
+This is a red plastic ring. There is an S ingraved on the front
+of it. It looks pretty special.
+
+A trash can lid
+This is a trash can lid taken from Oscar's house. It has some rather
+large dents in it, and there is a layer of muck covering the inside.
+Other than the smell, it makes a sturdy shield.
+
+A chocolate chip cookie
+This is a chocolate chip cookie. There is a huge bite out of it.
+
+Bert's shirt
+This is Bert's striped shirt. The stripes are vertical instead of
+horizonal, which distinguishes it from Ernie's. The V-neck makes it
+quite a fashion statement.
+
+A rubber duckie
+This is a cute little yellow rubber duckie. If you squeeze it, it
+will make a noise for you.
+
+A monocle
+This is the Count's monocle. When you wear it, you seem to notice
+the actions of people around you more than usual.
+
+A postcard
+------------------------------------------------------------------------------
+
+        G R E E T I N G S   F R O M   S E S A M E   S T R E E T ! ! !
+
+                  . -- .
+                 (      )
+                ( (/oo\) )
+                 ( \`'/ )      wwwwww                      WW
+                  ( \/ )     w"ww  ww"w                   /__\
+          ...    (      )   W   o""o   W                 | oo |   _WWWWW_
+        ."o o". (        )  W  ______  W     (o)(o)     (|_()_|) /  o o  \
+   oo   "  O  "(          ) "w \_\/_/ w"   w"      "w     \__/ (|  __O__  |)
+ w"()"w "-===-" (        ) ww""wwwwww""ww W  -====-  W   /|\/|\  \ \___/ /
+W -==- W "..."    ` -- '    ||||||||||||   "w      w"   |||||||| /-------\
+ "wwww" ."   ".    =  =     |||||||||||| w""""""""""""w |||||||||=========|
+w"    "w"     "    =  =     ||||||||||||W              W|||||||||=========|
+
+------------------------------------------------------------------------------
+
+A fire hose
+This is a short fire hose. If you had a fire hydrant, you could
+use this hose to shoot people with water.
+
+A stuffed Cookie Monster
+This is a cute little stuffed Cookie Monster. It's blue fur is
+very fuzzy and soft. There is a little string sticking out of
+the back of it, perhaps you can pull it.
+
+An Area Compass
+This is a cool compass which will show you the creator of the room
+you are in. Simply type 'whereami' to get a glimpse at the very fine
+wizard who spent time into making this mud such a cool place.

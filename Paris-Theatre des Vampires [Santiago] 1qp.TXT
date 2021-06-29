@@ -1,0 +1,22 @@
+chaos,3e,2s,2e,n3e,n,pick paris,s,sw,w
+
+     E-x-x-2-x-x-1
+
+1: Paris:Eiffel Tower [Santiago]
+2: search supports, kill santiago (for invitation)
+
+give invitation to usher
+
+      S
+      |
+    x-u-x      x-d-x
+
+
+
+
+
+#act {sandsand} {search sand;search sand;search sand;search sand;search sand;search sand;search sand;search sand;search sand;search sand}
+
+
+
+.

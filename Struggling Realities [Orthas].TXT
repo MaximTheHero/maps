@@ -1,0 +1,62 @@
+chaos,2e,s,d,e,ne,e,ne,e,ne,e
+
+
+               x-x-x
+               |X|X|\
+               x-x-x-x
+               |X|X|X|\
+               x-x-x-x-x-x-x-x-x-x
+               |X|X|X|X|X|/
+               x-x-x-x-x-x
+                \|X|/
+               1-x-x
+
+
+
+1: Radioactive Sewers [Orthas]
+
+
+A small flashing nibbler (mutator)    338
+The nibbler is chewing at the edges of reality, small changes to the
+composition of its immediate environment can be seen as it feeds. It
+is difficult to see exactly how the nibbler looks as it changes in
+appearance with every bite it takes. It is pretty small.
+
+An oily bobbler (mutator)   339
+The bobbler looks like a big oily bubble with three smaller bubbles
+attached. Two of the smaller bobbles seem to serve as eyes, and the
+third looks a bit like a nose. Bubbles frequently fly from the
+nose-like bubble. The large bubble of this semi-transparent creature
+is about half full of something that looks like water with bubbles on
+top. It is pretty small.
+
+A small squeeler (mutator)   338
+The squeeler looks like a velvet frog with a hole on its back. A
+high-pitched sound originates from this hole. The sound seems to
+distort the air like heat ripples. It is pretty small.
+
+
+
+A feathery gobler (mutator)
+The gobler is a bird-like being. It has long orange legs with a clumsy
+feathery body on top. There is a beak and two beady eyes on the front
+of the body. It would probably be easy to kill.
+
+A feathery hobler (mutator)
+The hobler is a sturdy looking quadropod with leathery grey skin. It
+has blue feathers protruding from its skin along its spine. An orange
+mane of feathers covers most of its head making it impossible to see
+its facial features. It would probably be easy to kill.
+
+A red topler (mutator)
+This quadropod is covered in colourful red feathers, except for the
+head which looks like a horses head with a short creme-coloured mane.
+It would probably be easy to kill.
+
+
+
+
+
+
+
+.

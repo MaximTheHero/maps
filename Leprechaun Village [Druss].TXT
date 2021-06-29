@@ -1,0 +1,130 @@
+chaos,s,e
+
+
+                                x
+                                |
+                        x   x   2
+                         \  |   |
+                          x-x-x-x-x-3
+                         /  |
+        1      H      u-x   x
+       /                |    \
+      x               x-x-x   x
+      |                 |
+    E-x                 x-x
+                        |
+                        x
+
+1: sleep circle
+2: End of the Rainbow bar
+3: search rocks - enter cave
+   free leprechaun
+H: down
+   wish out - exit
+
+Eoin Mac Neilis, the leprechaun fiddler - disapeared
+This is Eoin Mac Neilis, a leprechaun of average size, what's truly
+remarkable with this tiny little figure is his deep red beard and his
+twinkling deep blue eyes that sparkle with mischief. Legendary for his
+reels and jigs played on his fiddle, he looks just about ready to play
+another tune just for you ...
+
+An adult leprechaun   219
+This is an adult leprechaun , all 3 mischievous feet of him
+Right now he isn't quite sure what to make of you.  So
+you had best be careful lest one of these pesky little folk relieve
+you of some of your gold.
+
+A leprechaun child    92
+Have you ever wondered if all the little people are born old?  Well here
+is your answer for standing before you is a young leprechaun perhaps
+little more than 5 years old. As you look at this young creature you
+cant help but notice the mischievious twinkle in their blue eyes as
+they gaze up at you.
+
+A leprechaun warrior   399
+This is an adult leprechaun a little larger than common folk of this
+village, dressed in forest green, and carrying hurley sticks these
+leprechauns are dressed for war. Best not to get in their way.
+
+Cormac O'Riodan, King of the Leprechauns    5092
+This is Cormac or King Cormac to give him his proper title. For over
+300 years he has been the king of the little people in this fairy
+ring, now as the time draws near for him to pass on his crown,
+his smile has faded and he no longer looks happy. You wonder what
+ever could be the matter as surely these creatures are renown for
+their mirth and merrymaking.
+
+Shamus O'Flaherty the barkeep   3773
+This is Shamus, barkeeper and owner of the End of the rainbow bar.
+Judging by the muscles on the arm of this little red haired pest,
+he has probably had more than his fair share of unruly customers to
+deal with, so i wouldn't mess with him if i were you.
+
+The banshee   3496
+This is the dreaded banshee, the ghostly spirit in Irish folklore
+whose unearthly singing is the harbinger of death. As you look at
+the ghostly form of a woman floating before you, you sense her
+scanning your soul to see if you are her next victim.
+
+
+
+
+A golden fiddle.
+
+little silver emerald ring
+This is a tiny silver pinky ring, with an emerald carved into the
+shape of an shamrock inset into it.
+
+little green felt hat
+This is a little hat made out of green felt that has a black band with a nice
+shiney gold buckle running around the base of the hat just above its brim.
+Very cute indeed.
+
+A small shillelagh
+This looks like a small gnarly stick, fashioned a bit like a club.
+Time and many small hands have worn the knob of the shillelagh smooth.
+Since time began on the emerald isle the Shilieagh has been the weapon
+of the little people, who from time to time have been know to give us
+tall folks quite a nasty bruise (Especially on the knees !).  Who knows,
+maybe some of the magic of the little people might have rubbed off into
+this shillelagh.
+
+little green linen suit
+This is little pair of green trousers, with  green jacket and nice
+white shirt, all made of the finest Irish linen. Carefully stiched
+into the lapels of the jacket are 2 shamrock motifs. After pondering
+this for a moment you find yourself thinking ... ahhh be sur'en me
+thinkin if I be wearin' this then ill have the luck 'o the little
+people. Frightening isnt it.
+
+A hurley stick
+This a hurly stick (or hurl as it's called), it's normally used by
+the Celtic folks in one of their games called hurley, shaped a bit
+like a miniature version of an ice hockey stick and made of Irish Oak,
+these sticks can if swung with enough force hurt.
+
+A large shillelagh (glowing) (enchanted)
+At first inspection this looks like a larger version of the shillelagh's
+commonly used by the little people, however this one is fairly glowing
+with magical power and is inscribed with mystical runes along its length.
+One thing is for sure you don't want to get thwacked with this shillelagh
+as it would probably leave more than just a bruise.
+
+little green boots
+This is a pair of little green boots, made of some kind
+of material you cant quite identify, none the less they
+look sturdy enough.
+
+little green linen cloak
+This is a small green cloak made of the finest Irish linen.
+It looks far too small for someone as big as you to wear, but
+there's no harm in trying.
+
+A pot of gold
+This is a leprechaun's pot, made of solid gold and filled to
+the brim with golden nuggets.  To have one of these pots you
+must have caught one of the wee folk. Now that you have his
+pot of gold, you'll have to exchange it for coins.. few will
+take gold nuggets nowadays
+

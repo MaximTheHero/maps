@@ -1,0 +1,112 @@
+fantasy, 12e,2n,4w,n,4e,give 1000 coins to skillot, back to magic portal
+12n,leave,10n,7e,show identification to guard, enter
+
+      x-x-x-x-x
+      |   |   |
+    S-x   x   x-u
+      |   |   |
+      x   1   x
+      |       |
+      x       x
+      |       |
+      x-x   x-x
+        |   |
+        x-E-x
+
+
+1: Lord Furthe
+   give cube to statue 4
+S: stairs u/d
+   down has a locked door on east wall.  needs key
+
+
+Lord Furthe   6532
+A tall, handsome man.  His presence alone radiates a sense of authority
+His weather-worn face and muscular build hint of experience beyond
+the average adventurer.  He appears both wise and disciplined.
+
+Bodyguard   2719
+This is a large hulking figure of a man.  He looks well trained and
+very intimidating.  I wouldn't suggest underestimating him.
+
+Ravel the Guard  409
+This is a man who appears to be of elven stock.  His movements are
+graceful and precise.  His build is slight, yet muscular.  He
+exudes a pleasant disposition.
+
+Culvert the Guard   438
+This man possesses a startling physique.  There's a seriousness
+about his stance declares very little patience for foolishness
+while on duty.  His sharp, chiseled features match his unmistakeably
+disciplined nature.
+
+Porton the Guard   1573
+This is a man who appears to be of elven stock.  His movements are
+graceful and precise.  His build is slight, yet muscular.  He
+exudes a pleasant disposition.
+
+
+
+Glowing cube
+This is a small glowing cube.  It is deep blue and opaque.  It seems
+to almost pulse with life.
+
+Shortsword
+This weapon is approximately two feet in overall length and has a
+double-edged blade with a pointed tip, ideal for thrusting.  The hilt
+of this weapon easily accommodates one human-sized hand and is wrapped
+tightly in leather for a stronger grip.
+
+Ringmail armour
+This armour is made of interlocking metal rings and is commonly worn
+over a layer of padded fabric or soft leather to prevent chafing and
+to lessen the impact of blows.  Movement in this type of armour is
+restricted somewhat due to its weight.
+
+Scalemail armour
+This is a suit of overlapping scales of iron. Unlike ringmail, the
+protection offered by this armour is complete. However, due to the
+weight of the armour, it is very restricting when movement is
+involved.
+
+Goblin slayer (enchanted)
+This is an expertly crafted blade with a hilt made of the pure
+        white marble.  It radiates a faint glow, betraying its magical
+        nature.
+
+Scroll
+An officious-looking scroll.  Reading it might be informative.
+    The recent discovery of the subterranean lair interlinked
+    with our dungeons requires a fierce vigil.  The Mages have
+    enscorcelled the door to ward against entry into the keep.
+    However, the magical runes do not obstruct our access from
+    this end.  Though I do not anticipate the arrival of a fool
+    great enough to open that portal, we must maintain guards
+    against such an eventuality.
+
+    Let none pass beyond your post.  If that door is successfully
+    breached, the living hell that would be unleashed would quickly
+    overcome the meager defenses of this keep.  Report any and all
+    individuals who express interest in the dungeons or peculiar
+    noises which emanate from within the dungeon.
+
+                                Presiding Officer,
+                                        Lord Furthe
+
+Burgundy Marble
+Exquisitely crafted/magicked, this pristine little burgundy bauble is
+the whimsical, residual aftermath of peeronic thought.  Sadly, the
+entropic tendencies of such mental energies are difficult to grasp or
+maintain.  A marble will inevitably evanesce and reform in an infinite
+number of cryptic locations.
+
+A bag. You can put things in it.
+This is extremely light, and might be bugged, please 'bug' it.
+
+Goblin's scroll
+This is an ancient looking parchment written in goblin.
+   Perhaps you should try reading it.
+read scroll
+You can't read goblin!
+
+.

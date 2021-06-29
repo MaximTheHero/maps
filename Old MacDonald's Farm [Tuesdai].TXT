@@ -1,0 +1,106 @@
+chaos,4s,w
+
+        1-x-x
+        |   |
+        x   x-x
+        |     |
+        x     x
+        |      \
+        x       2-3      
+        |
+        x-x-1-x    
+               \     
+                x     Hall-x
+                 \
+                  x
+                   \
+                    E-x-4
+
+1: Rake
+2: Stable
+3: in to kitchen
+4: in to hall
+E: entrance/exit
+
+
+Barn mouse   92
+A cute little brown barn mouse.  It likes to run around the farm and
+in the barns looking for food and killing little insects.
+Unfortunately, for it, the cats like to kill it.
+
+Goat    163
+A grungy old goat.  He likes to dig around through the garbage and
+cause trouble on the farm.  He's got mangy fur and a bad temper.
+
+Sheep    389
+A white wooley sheep.  It is raised on the farm for its wool. And
+sometimes its meat.  It likes to run around making bah, bah noises and
+frolicking down on the green pastures.
+
+Cow    2641
+A heathy brown cow.  This cow is bred for its milk and meat.  It likes
+to spend its days grazing in the open meadows chewing on grass.
+
+Frog    2168
+A slimey green frog.  The frog likes to sit on its lily pad and catch
+flies and water bugs with its long tongue.  It spends most of the
+evening making loud croaking sounds and sometimes waking everyone up.
+
+Duck     1729
+A cute yellow duck.  It loves to waddle and swim in the pond.  It
+likes to eat the little pond creatures unable to be seen by the human
+eye.  It is very noisy sometimes, and makes delicious Duck l'Orange.
+
+Rabbit    384
+A cute fuzzy brown bunny rabbit.  It loves to sit in the garden and
+eat the fresh vegetables.  Old MacDonald does not care so much for
+this rabbit, as it destroys a lot of his crops.  It's probably a good
+thing you kill it.
+
+Old MacDonald    2981
+Old MacDonald is a middle-age man about 6' tall.  He has golden brown
+hair and piercing blue eyes.  His skin is tan and leathery from all
+the years in the sun.  Years of hard work has left him with many
+wrinkles and many muscles.  He is wearing blue denim overalls and a
+white tee-shirt.  On top of his head, is his signature straw hat.  He
+is a kind man with a warm heart.
+
+Chicken   176
+A typical farm chicken.  Its feathers are white and its beak is
+reddish-brown.  It is raised soley for eggs and its flesh. It doesn't
+do much more than peck at the ground and cluck.
+
+Pig    156
+A plump pink pig.  He's got little pig ears, little pig eyes and a
+little pig tail.  This pig loves to roll around in the mud and eat
+lots of food, which is good come holiday time.
+
+Horse    149
+A strong gray Worchestershire horse.  His eyes are dark and his mane
+is almost white.  His tail whips back and forth as he swats away
+horseflies.  His favorite snacks are carrots, apples, and the
+occassional salt lick.
+
+Mrs. Old MacDonald   1882
+Mrs. Old MacDonald is a middle-age woman about 5' tall.  She has
+golden brown hair and piercing blue eyes.  Her skin is pale and soft
+from all the years inside the house.  Years of hard housework has left
+her with many wrinkles and blisters on her hands.  She is wearing a
+blue denim dress and a white blouse.  She is a sweet woman with a warm
+heart and she bakes one mean cherry pie.
+
+Cat   374
+A beautiful short-hair american cat.  She is black with small patches
+of white on her paws and belly.  She loves to catch barn mice and
+sleep in open windows.  She also is good friends with the dogs.
+
+
+
+
+A duck feather
+A feather from a duck on Old MacDonald's farm.
+
+
+
+
+

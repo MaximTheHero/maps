@@ -1,0 +1,28 @@
+chaos,3w,3n,d,cave,sbs,n,ne,nw,n,ne,k phish, eat head, enter hole, n, pod 3
+
+
+
+
+   S-x
+   | |\
+   x-x-x
+   | | |\
+   x-x-x-x-x-x
+    \| | | | |\
+     x-x-1-x-x-x
+      \| | | | |\
+       x-x-x-2-x-x
+       | | | | | |\
+       x-x-3-x-x-x-D
+        \| | | | | |\
+         x-x-x-x-x-x-x
+              \| | | |
+               x-x-x-4
+
+S: Start
+1: Nightgaunts
+2: Mother Hydra
+3: Father Dagon
+4: Helmet of Berserking, hidden exit east inside. Avatar of an ancient god
+D: dropoff (exit) back to pod chamber
+

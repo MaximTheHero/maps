@@ -1,0 +1,60 @@
+science,enter,u,3e,d,e,path,14e,15n,4e,camp
+
+      x x 2-x
+      | | |
+      x x x
+     / \|/ \
+    1   x   1
+        |
+        E
+
+
+1: Ladder (watchtower)
+2: open wall
+
+
+A military policeman     8126
+A young military policeman dedicated to his duties. He looks
+intimidating in a uniform especially since he is looking you up and
+down ready to spit in your face.
+
+A crazed soldier       15384
+An insane soldier, left over from the war. He eyes you suspiciously,
+seeking to determine whether you are worth killing or not. His eyes
+are bloodshot and stands there as if he's just some brainwashed
+automaton.
+
+A secretary    3227
+This is the commanding officer's secretary. She seems quite friendly
+but not very excited to see you in here. She doesn't appear to be a
+threat to you.
+
+Commander Princkutt     21085
+An old army officer, veteran of the last war. He does not want to be
+bothered by the likes of you.
+
+
+
+
+
+A sturdy looking riot-baton
+A riot-baton that the MP use to keep intruders at bay.
+
+An M16 assault rifle
+An archaic Colt M16 assault rifle.
+Quite popular with armed forces before the war.
+
+An MP Passcard
+This is a military police passcard. This proves that you are a member.
+
+a bullet proof vest
+This is a bullet proof vest of the kind that was used by elite forces
+before the war. It sure offers great protection.
+
+A .357 Magnum
+Whoa! It's a real .357 Magnum, left over from the times before the war.
+
+A fragmentation grenade
+A fragmentation grenade.  Type throw grenade <direction> to use.
+
+.

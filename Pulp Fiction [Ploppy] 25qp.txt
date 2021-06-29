@@ -1,0 +1,178 @@
+
+Apartment:
+
+Floor 1
+
+
+           1-x-x-u
+
+Floor 2 
+
+                 u/d
+
+Floor 3
+
+                 u/d
+
+Floor 4
+
+           x-x
+             |
+           x-x   
+           | |
+           x-x   
+           |
+          -2-x-x-d
+
+
+
+1 - Exit
+2 - knock door
+
+
+
+
+City:
+
+             x-x-x
+             | | |
+             x A x J
+             |   | |
+             x-x-x-x-x
+             | | |   |
+             x G x-H x
+             |   |   |
+             x-x-x-x-x
+             |   | | |
+             B D-x C M-F
+                 |   |
+             K-x-x-x-x
+             |     |
+             L     E
+
+
+
+A - Apartment
+B - Sally LeRoy's
+C - Hawthorne Grill
+D - Apartment Complex
+E - Pawn Shop
+F - Teriyaki Donut
+G - Jimmie's House
+H - House (Mia Wallace)
+J - Jackrabbit Slim's
+K - 'pull corner'
+L - Homeless Man
+  - 'hi, 'donut
+M - Officer Marvin Nash
+  - 'give ear to nash' to learn hand 'signal'
+
+Roaming the city is an Acura NSX.  kill it.
+Winston Wolfe jumps out. 'recollect mr. white' - White Diamonds
+
+
+
+Jackrabbit Slim's:
+
+     1-x-x-x-x
+     |/     \|
+     x       2
+     |       |
+     x       x
+     |\     /|
+     x-x-E-x-x
+
+E - Exit
+1 - Joe Cabot, Eddie Cabot
+    give diamonds to joe X 6 and qp
+2 - Buddy Holly/Mr. Pink/Steve Buscemi - Pink Diamonds
+  - 'remember reservoir dogs'
+
+
+Jimmie's House:
+
+   x-E
+   |
+   x-x-x-x
+     | |
+     x x
+
+E - Exit, Jimmie Dimmick/Mr. Brown/Quentin Tarantino - Brown Diamonds
+  - 'recall quentin tarantino' 'recall mr. brown'
+
+
+
+Hawthorne Grill:
+
+        E-1-x
+        | | |
+        x-x-2
+
+1 - Pumpkin/Mr. Orange/Tim Roth - Orange Diamonds
+  - 'signal orange'
+  - Honey Bunny
+
+2 - Jules Winnfield
+
+
+
+House (Mia Wallace):
+
+
+    E-3-1
+      |
+    2-x-x-x
+
+1 - search refrigerator - Adrenaline Syringe
+2 - search boxes - Little Black Book
+  - 'read book'
+E - Exit/Mia Wallace (comatose)
+  - 'inject mia'
+3 - Budd/Mr. Blonde/Michael Madsen - Blonde Diamonds
+  - 'recognize mr. blonde'
+
+
+
+Pawn Shop:
+
+    E/d
+
+
+
+      x-x-x-x-x-x-x x-x-x 7-x
+      |   |   | | |   |     |
+      x 3 x-x-x x x-x-x-x x-x
+      | |   |   | |   |   | |
+      x-x x x x-x x x-x x-x x
+          | | |   | |   |   |
+      x-x x x x-x x x-x x-x x
+      | | | | | | |   | | |
+      x x-x-x x x x x-x x x 6
+      |   |   |   | |   |   |
+      x-x x-x x x-x x x-x x x
+        | | |   |   | |   | |
+      x-x-x x x-x-x-x x-x x-x
+      | |     |       |   |
+      x x x-x x x-x x-x-x-x-x
+      | | | | | |   | |     |
+      x x-x x x x-x-x x-x x-x
+      |     | | | |         |
+      x x-x-x x-x x x-x-x-x x
+      | |           | |   | |
+      x x-x x-x-x x-x x x-x-x
+      |   | |   | |   |     |
+      x x-x-x 2-x 4 x-x-x-5 x
+      |
+      1
+
+
+1 - Butch Coolidge (has a mission - For Sentimental Reasons|The Poisoned Apple|Samurai Sucker Punch|Redneck Rampage)
+2 - Eddie Bunker/Mr. Blue - Blue Diamonds
+  - identify blue
+3 - Large Trunk (locked)
+4 - Dead Redneck
+  - 'search body' for money and Red Apple Cigarettes
+5 - Zed
+6 - Maynard - Steel Padlock Key
+7 - Marsellus Wallace - Mysterious Briefcase (locked)
+

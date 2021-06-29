@@ -1,0 +1,107 @@
+chaos,3e,2s,2e,n3e,n,pick paris
+
+       E 
+       |
+       x
+      / \
+   2-x   x
+     |   |
+     x-1-x
+     |   |
+     x   x
+      \ /
+       x
+
+
+1: climb tower
+   comfort woman
+   hold woman
+   kill werewolf
+   get talisman
+   pry moonstone - Moonstone Marble
+2: Paris: Theatre des Vampires [Santiago]
+
+Happy Mime    11176
+Don't you just hate Mimes?!  This poor fellow is dressed in all black
+with a white clown's face.  He runs through his shtick at a mind
+numbing pace.  He pretends he's trapped in a box, pulling an imaginary
+rope, climbing an imaginary ladder.  After watching him for a few
+seconds all you can think about is putting this pathetic wretch out of
+his misery.
+
+Angry Mime   11428
+Don't you just hate Mimes?!  This poor fellow is dressed in all black
+with a white clown's face.  This mime seems very mad for some reason.
+Perhaps someone made fun of him, but regardless he's not happy and
+he's looking for someone to pay for his discomfort.
+
+Sad Mime   6187
+Don't you just hate Mimes?!  This poor lady is dressed in all black
+with a white clown's face.  You notice that she doesn't seem happy at
+all. Her makeup is running from the tears she sheds. You're not sure
+what's wrong, but killing her would probably make her happier.
+
+Drunk   4045
+This fellow is just disgusting.  A night of drinking and lying in the
+gutters makes for a not so aromatic smell.  He's shabbily dressed and
+looking for a place to take a nap.  He clutches his wine bottle like
+it was his only possession.  Come to think of it, it probably is.
+
+Quick Mime   9307
+Don't you just hate Mimes?!  This poor fellow is dressed in all black
+with a white clown's face. This mime is really fast! You barely see
+him before he's off to bring smiles to more unsuspecting tourists. If
+you want to slap this guy around, better do it fast!
+
+Black Pigeon    184
+
+Spotted Pigeon   184
+
+A beautiful woman
+Julie is a beautiful, demure young woman. Her sheer, loose fitting
+blouse outlines of her firm, supple breasts. Julie looks distressed.
+She is standing on the outside of the balcony looking down. She
+appears to be crying. You're not sure what is wrong with her, but you
+might want to try to comfort her.
+
+Werewolf     21065
+What was once a beautiful woman has, has changed into a mass of hair,
+claws and razor sharp teeth. Now you understand why Julie was so
+distressed. Perhaps you should have let her jump!
+
+
+
+Onyx Boots
+These boots are made from a single piece of carved onyx. They look
+extremely bulky, but upon wearing them they are quite light and easy
+to get around in. They are very delicate and should be handled with
+care.
+
+Onyx Gloves
+These are leather gloves with carved onyx plates to add protection.
+They're completely black with a polished reflective surface.
+They are very delicate and should be handled with care.
+
+Black Beret
+Oh! Berets are tres chic!  This one will fit you perfectly!
+They are great for wandering around Paris.  C'est magnifique!
+
+A bottle of cheap red wine
+It looks gross, but you could probably still get a buzz from it.
+
+Onyx Shield
+This is a flat smooth piece of onyx. It's black with a polished
+reflective surface. It is very delicate and should be handled with
+much care.
+
+Talisman of the Moon
+This is the legendary Talisman of the Moon. It is rumored to hold the
+power of the moon and stars. It looks delicate, but you can feel the
+power radiating from the moonstone embedded within the cold black
+steel.
+
+A small piece of moonstone
+A simple, but beautiful, piece of clear moonstone.  It
+has a brilliant blue sheen that seems almost ghostly.
+
+.

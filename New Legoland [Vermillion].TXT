@@ -1,0 +1,245 @@
+chaos,2e,3s
+
+Lego Moon:
+
+      \|/
+      -J-
+      /|\
+
+
+Legoland
+
+   x              aft      aft 
+   |               |        |
+   d     u x-B   dock    fore/aft
+   |     | |       |        |
+   3     x-x     fore/d     d
+         |
+         x 1
+         | | |
+       2-x-x x
+           | |
+          -x-x
+           | |
+             x
+
+
+1: A Toystore (shop)
+2: Lego Air Strip
+B: Lego Boat
+3: enter jet/push button
+
+
+     |-|-|-|-|-|-|-| Legoland  Toyshop |-|-|-|-|-|-|-|
+
+                 Description:    Price:
+         1. Lego Copter          500
+         2. A Slinky             200
+         3. Silly Putty          200
+         4. Pirate Eyepatch      19
+         5. Red Rubber ball      50
+         6. An IT                1000
+                ('buy #' to make a purchase)
+     |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+
+
+Ted, the Lego Toyshop Clerk
+You see behind the counter, a little Lego man with
+a bright, happy smile.  He wears blue pants and a
+white shirt with a painted-on loud bowtie.  He
+stands patiently awaiting your order.
+
+Lego Airstrip Attendant
+She's a short, blocky Lego woman wearing a brown
+plastic molded flight cap.  She glances up at
+you occasionally waiting for you to ask
+for assistance perhaps but then returns her
+attention to the computer screen in front of
+her.  She also glances back through the
+window occasionally.
+
+Eliza, the lego Cat   318
+She's a pretty little black lego cat.  She slinks
+around town chasing after Lego mice.  She meows
+at you inquiringly then acts like she didn't see
+you. Mostly she minds her own business as most
+cats do.
+
+Spot, the lego Dog    355
+It is a cute little white lego dog with a circle
+around his left eye representing a spot.  There
+is also a spot near his tail. He happily wanders
+around town wagging his plastic tail for anyone
+that passes.
+
+Legoland Resort Receptionist     951
+Legoland Resort's front receptionist eyes you
+through black rimmed glasses.  She seems to be
+dressed for business in a painted-on suit.  She
+welcomes you to Legoland's only resort and
+invites you to have a good stay.
+
+Lego Crocodile    4155
+The Lego crocodile is a plastic green wonder.
+You have never seen such a creature with a huge
+plastic maw.  It eyes you hungrily perhaps
+wondering what real meat tastes like.  Its
+tail twitches menacingly as it approaches.
+
+Young Lego Pirate    5889
+Ah, a young Lego pirate is here wondering what
+you are doing on his ship.  He does not look
+particularly friendly despite the big smile on
+his painted face.  It could be that plastic pistol
+he has pointed in your direction or it could be
+that long, curved gray plastic bardiche he has
+poised to strike.
+
+Hairy Lego Pirate    2977
+Wow!  It is a big hairy Lego pirate.  Well, he
+would be hairy if he weren't made of colorful
+plastic.  He seems to be enjoying a thick mug
+of Legoland's best imaginary rum.  Better look
+out, he appears to be carrying a faux plastic
+pirate pistol!
+
+A Fierce Lego Pirate   2925
+This Lego pirate is armed to the teeth!
+Knives, pistols, daggers, rapiers you name
+it, he's got it.  He's a walking Lego arsenal.
+He has black, shaggy hair drawn under his hat
+line and a whole lot of stubble on his chin.
+
+Lego Vacationer    2808
+This must be one of the resort patrons.  He
+relaxes in a plastic lounge chair in a big
+white shirt while sipping an imaginery drink.
+He has a cute little moustache painted on his
+face in place of a smile.
+
+Lego Babe     1908
+Whoa, what a Lego babe!  You don't remember
+Lego toys being like this!  A blonde Lego beauty
+is one of the summer resort's hostesses.  She
+scurries around in painted pink bikini serving
+imaginary cocktails.
+
+Jake, the Dashing Lego Spaceman   1884
+This is your typical star-jumper.  His uniform is
+all black and he has a big white plastic helmet
+with a clear visor that comes down to cover his
+face.  There is a painted zipper on the front of
+his uniform.  At the moment he is rather consumed
+with a conversation he is having with one of the
+resort's lovely hostesses.
+
+A Yellow Suited Lego Spaceman Moon Researcher    2249
+This is a Lego man in a space suit.  His suit is
+all yellow with a little moon symbol on his chest.
+Underneath his bright yellow helmet he wears a big
+smile which seems rather hard to believe given his
+situation.  He seems to be using some kind of
+plastic analyzer device that looks vaguely like
+a metal detector.
+
+A White Suited Lego Spaceman Moon Surveyor    2072
+This is a Lego man in a space suit.  His suit is
+all white with a little moon symbol on his chest.
+Like his fellows, he also grins broadly behind his
+big round bubble of a helmet.  This guy seems
+concerned with the shape of the terrain here.  As
+you watch him, you are tempted to pull apart some
+of the gray Lego blocks and build something really
+bizzarre just to freak him out.
+
+A Red Suited Lego Spaceman Survey Team Captain
+This is a lego man in a space suit.  His suit is
+all red with a little moon symbol on his chest.
+He wears a big red helmet.  He has the standard
+smiley-face underneath, which seems to grace
+virtually every lego man.  He is quite busy at
+the moment, at least trying to look as if he is
+busy supervising.  He has a radio in hand with
+which to contact the lego earth high command.
+
+
+
+A Bright Red Lego Cat Collar
+This slender collar once graced the neck of a Lego
+cat.  You probably haven't seen anything quite like it
+since your brief trip to Duploland.  Immediately,
+you realize that this plastic strap could never fit
+around your neck.  It will form a rather strange
+hat around the top of your head though.
+
+A Bright Red Lego Dog Collar
+This slender collar once graced the neck of a Lego
+dog.  You probably haven't seen anything quite like it
+since your brief trip to Duploland.  Immediately,
+you realize that this plastic strap could never fit
+around your neck.  It will form a rather strange
+hat around the top of your head though.
+
+A Lego Pistol
+This is a small, brown, molded Lego pistol.  It has
+a barrel that curves outward like a trumpet, a
+neatly curved handle, and a rounded trigger.  It
+does not look like a particularly powerful weapon,
+but you have little doubt that it can do some damage.
+
+A Lego Rapier
+It is a long, flattened gray blade made of the same
+molded plastic as gray legos.  It has a handle on
+one end with a guard.  The blade is not particularly
+sharp, but then plastic tends not to take a
+very good edge.
+
+Lego Pistol Energy Cartridge
+This is a small, brightly-colored, narrow block of
+legos that has strange, glowing legos on one side.
+Apparently, it is supposed to be some kind of ammo.
+A digital counter on the side displays the number "100"
+
+A piece of Lego Gold
+Unlike regular gold, lego gold is plastic with a
+shiny metallic gold coating.  Each piece is as big
+as your fist!
+
+A Lego Pistol
+This is a small, brown, molded Lego pistol.  It has
+a barrel that curves outward like a trumpet, a
+neatly curved handle, and a rounded trigger.  It
+does not look like a particularly powerful weapon,
+but you have little doubt that it can do some damage.
+
+A Lego Cocktail Glass
+It is a pretty clear plastic cocktail glass with
+a rounded depression in its base designed to fit
+together with the protrusions found on Lego
+blocks.  Strange, it seems to be empty.
+
+A Lego Serving Tray
+It is a small, plastic lego tray.  It is composed
+entirely of legos.  A sticker is on its side
+which reads:  Legoland Summer Resort.
+
+A Lego Laser Pistol
+It is a cosmic-shaped, molded Lego pistol designed
+to shoot those annoying Lego aliens.  It is all a
+uniform shade of gray with apparently no moving
+parts.  It is only as powerful as your imagination
+allows it to be.
+
+lego Soil Analyzer
+You see an unusually shaped lego tool with a round, flat
+disk-like bottom connected by a long stem at an angle to a
+handle.  It looks a lot like a metal detector.
+
+Lego Survey Goggles
+These are goggles designed for surveying unknown terrain.
+They are large and composed of thick plastic they appear
+as if they would prove to be a sturdy protection against
+blows to the head.
+
+
+

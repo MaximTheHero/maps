@@ -1,0 +1,239 @@
+chaos, 4e
+
+       1
+       |\
+       | x              3-u
+       |
+       x-x-x       S      d
+       | | |       |      |
+       x-x-x     x-x-x    4
+         | |       |
+         x-x   x-x-2
+           |   | | |
+         x-x-x-x-x-x
+           |
+           x
+           |
+          -x
+
+
+
+1: search grill (a location for a mop)
+2: enter door (north)
+3: Tattoo Artist
+4: Jag
+   search papers - paperclip
+   pick lock
+   open drawer
+   search drawer
+
+Dozer the doorman       45939
+A large man standing in at over 6'3 and weighing in at over 400 pounds.
+He wears a faded jean jacket, blue jeans, and a dirty white tee-shirt. A
+large chain runs from his belt loops to his wallet.  The standard dress
+of a Biker.  Dozer has been doing this job for over 10 years, and has
+stayed this long from not taking shit off anyone.  His skill at fighting
+is as scary as his appearance.
+
+Judy the ditzy hussie    32363
+Judy is a worn out woman in her late twenties.  Her hair is done up in
+that usual trashy bleach blonde, poodle-curl look.  She is well known
+among the patrons in the bar for having the least brains in the place.
+
+Jimmy the denim clad Biker    33913
+Jimmy is an average looking person unlike a lot of patrons of this bar.
+He favors denim over the biker standard of leather.  His jeans, jacket
+and hat are all made of faded denim.  Jimmy is a regular here and can
+always be found shooting a game of pool with his favorite beer in his
+hand.
+
+Tiny, who isn't so tiny    42908
+This abnormally large hulk of a man stands head and shoulders above
+anyone else in the bar.  It's obvious his friends have a good sense of
+humor to refer to him as Tiny.  He's dressed in jeans, a white
+tee-shirt, some black boots and a long wallet sticking out of his
+pocket.  The wallet has a chain attached to it that runs to his jeans.
+
+John Connor, the delinquent biker   31027
+John is a small boy of about twelve years of age.  He has long, oiled
+back blonde hair and dressed in a fancy denim outfit.  You have to
+wonder what standards this bar has as to let an underage kid in here.
+
+Richie the stoned biker     33410
+Richie is a dark and gloomy man in his late twenties.  Smoke seems to
+come off of him like a fog and judging by the grin on his face, he is
+pretty trashed.  He is often found in the company of Sharon and Tony,
+getting high, and making asses out of themselves every night.
+
+Sharon the stoned Hussie     40555
+A tall and skinny woman who looks much older than her 21 years of age.
+The effects of smoking so much weed and cigarettes has really brought
+her down.  Her hair is long and stringy and appears to have not been
+washed in quite a long time.  Her eyes have extremely dark circles and
+are puffed out and baggy.  All in all, a sad sight.
+
+Clarissa the dancing hussie   17319
+This used up waste of a woman spends all her time here in front of the
+jukebox trying to dance.  Her movements are quite grostesque in nature
+consisting of unusual hand movements with her thumbs sticking up,
+followed by stupid little front kicks.  She's very protective of the
+juke box behind her, and the only way you're going to stop the noise is
+by putting this ho out of her misery.
+
+Snake the badass biker   56241
+This mass of a man stands six feet eight inches tall and tips scale at
+over 300 pounds of rock solid muscle.  Snake has a very nasty reputation
+in the biker circles and no one in their right mind would mess with him.
+He is also well known for wearing spiked gloves that have disfigured
+many a face in his time.
+
+Hackney the old Biker     34893
+John Hackney is pretty far into his advancing years.  You would guess he
+has been cooking here for quite some time.  He works with a speed and
+expertise unmatched by most grill cooks these days.  He takes great
+pride both in his work, and in his kitchen.
+
+Bullfrog the bartender    50134
+This man has eyes of cold steel and one ugly ass face.  His face is
+round and wide and his nose is bashed in giving him a very unhuman look.
+He is not very friendly with people in general, and he definitely
+doesn't like to deal with the likes of you.
+
+Tony the pot dealer    41368
+Tony is a tall slender man in his early thirties.  He wears a goatee
+beard with a thin pencil line mustache.  His eyes are dark and droopy,
+probably from the years of smoking too much pot.  He is well known in
+biker circles for having the best shit people can get their hands on.
+
+Jason the nappy haired biker    48897
+Jason is one of the younger patrons of the bar.  He is well known for
+his hair, an eight inch thick fro that is unkept and quite nappy.
+Despite his hairs messy appearance, he is dressed very well in
+contemporary clothing.
+
+Russel the skinhead biker    43017
+Russel is a rather large man standing six feet six inches tall and
+weighs in at about three hundred pounds.  He earned his name from always
+having a shaved head.  His attitude is that of what you would expect
+from a skinhead, mean and nasty!
+
+Larry the drunk biker   47959
+Larry has long greasy hair that runs down to his shoulders.  He is in
+his usual intoxicated state and staggers around quite a bit.  His arms
+are covered with some very extravagant tattoo work and he is constantly
+showing off his 'arm art'.
+
+Mia the coked-up Hussie   33005
+Mia is a tall skinny woman in her early 20's.  Her hair is heavily
+moussed and she is wearing way too much makeup on her face.  She moves
+and talks very fast as her addiction to the coke has gotten the best of
+her.
+
+Owen the redneck biker    44757
+This is probably one of the dirtiest and sloppiest men you have ever
+laid your eyes on.  He is dressed in a filthy jeans, a brown stained
+tee-shirt covered with a faded checkered flannel shirt.  Overtop of all
+that is a cruddy looking vest.  His face is also dirty and there looks
+to be dried up snot stuck on his mouth.
+
+Jag - Owner of the bar and grill    84518
+Jag is a tall, heavy-set man in his mid-forties.  His hair is long and
+stringy and his body is covered with tattoos.  He is well known in the
+biker circles for having the fastest motorcycle ever known.  He opened
+this bar shortly after his retirement from his last gang and has enjoyed
+modest success from the bar.
+
+Michael Tarino the Tattoo Artist
+Michael is well known in the Biker Gang circles for doing the best
+artwork for years past.  He is a true craftsman at his work and has been
+doing it for the better part of 25 years.  His own body, what you can
+see of it, is well covered with tattoos of his own.  He could even do
+some work for you if you asked him nicely enough.  Being that he is the
+best tattoo artist around, his prices aren't cheap!
+
+
+Dozer's Crowbar
+This is Dozer's crowbar.  He's used this many times to keep the unwanted
+visitors from entering Jag's.  It is 3 feet long, very thick and weighs
+over 20 pounds.  It would make a very formidable weapon.
+
+A D'jeep lighter
+A short, wide lighter.  The pot-heads in Jags use for their smoking
+because of its long life compared to other lighters.  The only problem
+you have with this lighter, is that it will not work at all unless you
+you have a bowl and some weed to use it with.
+
+A vial of weed
+A small 35mm film canister containing some of the sweetest buds you've
+ever smelled in your life.  If you had a bowl you could 'pack' some of
+this stuff in and have yourself a great time.
+
+A pair of Biker sunglasses
+A pair of sunglasses.  The frames are very heavy and sturdy. The lenses
+are mirrored, allowing you to see clearly while hiding your eyes.  You
+would probably feel very cool wearing them.
+
+A Very Clean Mop
+A very, very clean mop.  It almost seems to shimmer with its own
+cleanliness.  You could mop up an ocean with this beauty and still it
+could mop more.  A curious thing indeed to find here.
+
+A steel key
+This is a steel key, it will probably unlock a door.
+
+Biker hat
+A short leather biker hat.  It is black leather with a lot of lines and
+cracks in it showing its age.  You have to wonder how cool you would
+look and feel in this hat.
+
+A small metallic bowl
+A small pipe made of crude plumbing joints.  The stem just below
+the elbow joint is very wide.  If you had some weed, you could
+'pack' some in this pipe and have yourself a great time.
+
+Biker clothes
+These clothes are made entirely of leather.  You wonder how cool you
+would feel wearing these threads.  They look a little aged, but very
+comfortable.
+
+An eight inch switchblade
+An eight inch switchblade.  The outer casing is made of chrome and onyx.
+A small button on the front of it will flip or retract the blade into
+position.
+
+A wooden pool cue
+A shiny wooden pool cue.  It's perfectly straight and you would shoot an
+awesome game of pool if you had the chance to.  It works equally well as
+a weapon since you will not be playing pool anytime soon.
+
+Biker boots
+A rough set of Biker Boots.  They are quite heavy and reach up past your
+ankles.  The boots are black in color and have heavy duty laces.  The
+soles are made of very tough and thick leather.
+
+Biker gloves
+A pair of black Biker gloves.  The gloves are made of heavy leather and
+are adorned with chrome spikes on all the fingers.  They could pack
+quite a punch and protect your hands very well.
+
+Biker jacket
+This jacket is made of very heavy leather.  It is black in color with a
+bright chrome colored zipper in the front.  On the back, is a large
+emblem of an eagle in flight.
+
+A set of keys
+The keys to Jag's fancy chopper.  You've waited a long time to get your
+hands on these things.  If you're feeling cool enough and up to it, you
+could probably take his bike now.
+
+A feather dart
+This is a massive dart of seven inches in length.  The feathers are
+multi-colored and add just the right amount of weight to the end of it
+to make it a very accurate instrument.  While you waste your time
+playing darts with this thing, it serves very well as a weapon if you
+'hurl' it at an enemy.
+
+A paper clip
+An ordinary paper clip.  This one is rather old as it is uneven and a
+little rusted.
+

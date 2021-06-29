@@ -1,0 +1,42 @@
+Shaolin Temple [Zhaoyun]
+Dirs: Eforest, 2w, 3n
+
+
+        4
+        |
+        3
+        |
+    x-x-x-x-1-2
+    | | | | |
+    x-x-x-x-x
+    | | | | |
+  x-x-x-x-x-x
+    | | | | |
+    x-x-x-x-x
+        |
+        x
+        |
+
+
+
+
+1: Jueben, the old monk.
+2: Pull lever, stairs, get book {Book of Wisdom}
+   need light
+3: Juewei, the old monk.
+4: Move Closer
+   Sea of Suffering [Zhaoyun]
+
+Monsters:
+A young monk
+A strong monk
+A middle-aged monk
+A middle-aged monk
+Jueben, the old monk
+Juewei, the old monk
+A buddhist
+
+Items:
+Staff
+Random Ring
+Book of Wisdom

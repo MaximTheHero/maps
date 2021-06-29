@@ -1,0 +1,143 @@
+chaos,w,n,twist knob
+42 rooms
+
+         x-x-x-x
+               |
+   x-x-x-x-x-G-x
+   |
+   x-x-x-x-x-x-x
+               |
+   x-x-x-x-x-x-x
+   |
+   x-x-x-x-x-x-x
+               |
+   E-x-x-x-x-x-x
+
+
+G: gate
+   turn light on
+   open door
+
+Fuzzy Squirrel    385
+The squirrel flicks his bushy tail around while sniffing
+the air. His favorite pastimes are eating gumdrops and
+jelly beans and playing with the rabbits on the mountain.
+This squirrel is brown and very fuzzy.
+
+Furry Bunny Rabbit   398
+The bunny rabbit wiggles his little tail around while
+sniffing the air. His favorite pastimes are eating
+gumdrops and jelly beans and playing with the squirrels on
+the mountain. This bunny rabbit is blue and very furry.
+
+Marshmallow Fluff Swamp Monster    7230
+This jolly white fellow is permanently attached to the
+marshmallow fluff that he lives in. He is a big blob of
+white, sticky fluff with a ready smile and friendly eyes.
+Around his neck, he wears a green and red polka-dot tie.
+The lower part of his body melts into the fluff swamp
+keeping him in place. He enjoys morphing into other things
+and spending time with frogs and cute jelly bears that
+come to visit him.
+
+Grandma P. Nut   15031
+Grandma P. Nut is the nicest woman that lives on Kandy
+Mountain. Her curly red hair is gently pulled back into a
+bun and a blue bonnet with white lace protects her face
+from the sun. Her skin is porcelain white and her big blue
+eyes rest gently on you. She is short and on the plump
+side. She wears a blue and white dress which matches her
+bonnet perfectly. Her sausage-link fingers firmly grasp a
+small basket as she spends her days tending to her candy
+garden. On her feet are a pair of wooden clogs.
+
+Plummy    9826
+Plummy is a squat, chubby, green monster that guards and
+tends to the sugarplum trees in the park. He is covered
+with green fur and wears a pink necklace with a large,
+plum-colored jewel that dangles from it. He sports a long
+green moustache that hangs down to his broad chest. He has
+a high-pitched, cartoon voice and a friendly smile. His
+feet are bare, save for the fur.
+
+Sergeant Pepper Mint   18634
+Sergeant Pepper Mint is a tall, thin man who is dressed
+head to toe in pastel pink and kandy kane-striped clothes.
+He is wearing little pink boots on his feet and kandy
+kane-striped stockings on his pencil-thin legs. His bushy
+hair is the color and texture of cotton candy. He wears
+pink gloves on his hands and a pink sash across his bony
+chest. His button red nose stands out prominently on his
+face, as do the two pink circles of color in his cheeks.
+He proudly carries a kandy kane stick around like an
+orchestral conductor. He is the sole protector of the
+Kandy Kane Forest.
+
+Elie the Ice Kream Princess    2905
+Elie is the King's pride and joy. She is a sweet young
+girl about 12 years old. Her long blue hair flows down to
+her waist. Her skin is that of a Bisque doll. Her blue
+eyes shine brightly and her lips are bright red. She wears
+a long blue dress which is overlaid with delicate white
+lace. A gold crown, decorated with little gumdrops, rests
+gently on her head. A blue snowflake sits on top of her
+princess sceptre.
+
+Ice Kream King   26173
+The Ice Kream King stands proudly in front of his Ice
+Kream Kastle. A giant cupcake crown sits prominently on
+his head. His face is plump and round and sports a fine
+moustache and beard. His long blue cape envelopes his
+portly body. His kind eyes and ready smile make it clear
+that he is not an enemy, but a friend. He is wearing a
+pink bauble around his neck and his waist. A pair of
+striped boots adorn his pudgy feet. A candycane-striped
+sceptre rests in his left hand. The sceptre is topped with
+a cupcake.
+
+Kount Licorice    25987
+Kount Licorice is a bone-thin man with an oversized nose
+and inflated sense of self. He sports a goatee and thin
+moustache on his long face. His ears flare out to the
+sides and each lobe is adorned by big gold hoops. His feet
+are shoved into knee-high black boots that are decorated
+with red licorice whips. His legs are covered with tight
+black stockings and he wears a black sash over his bright
+red uniform. A black necklace with a red jewel hangs down
+from his neck. On his head sits an oversized black hat
+which keeps his red bandana in place. A blood red cape
+drapes down his scrawny back. He likes to pretend he is
+tough, but he cowers in fear when the lights are turned
+off.
+
+Licorice Bat    164
+The licorice bats come in two colors. This bat is black
+and is made from licorice whips and other assorted
+licorice and candy pieces. They aren't really scary, but
+rather, annoying. The stench of licorice fills the
+nostrils, making it hard to breath. Their beady
+candybutton eyes rest heavily on you. What could they be
+after? Hopefully, not your blood.
+
+
+
+Licorice
+This small piece of black licorice must have gotten
+misplaced.
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.

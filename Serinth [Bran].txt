@@ -1,0 +1,1561 @@
+magic, 7w,8s,e,charter serinth
+
+                    E
+                     \
+                      x
+                       \
+                        x-x-x-x-x
+                         \| | | |
+                          x-x-x-x-1
+                            | |
+                            x-x
+                            | |
+                            x-x
+                            | |
+                          x-x-x-x
+                          | | | |
+                          x-x-x-x
+                          | | | |
+                        x-x-x-x-x-2
+                          |
+                          x
+                          |
+                      x   x   4
+                       \  |   |
+                        x-x-x-3-x-x-5-x
+                          | | | |/
+                          x-x-x-x
+                            |\|/|
+                            x-x-x
+                            |/ \|
+      x             x     x-x   x
+      |\             \    | |   |
+      x-x     x-x-x-x-x-x-x-x   R
+      | |\    |/ /           \
+      x-x-x-x-x-x             x-6
+      | | | | |
+    x-x-x-x-x-x     x
+    | | | | | |      \
+  x-x-x-9-x-x-x       x
+ /| | | | | | |\      |
+x-x-x-x-x-x-x-x-x-x-x-7-x
+ \| | | | | | | | | | | |
+  x-x-x-x-x-x-x-x-x-x-x-x
+    | | | | | | | | |  \|
+    x-x-x-x-x-x-x-x-x   x-x-x-x
+          | | | | | |\         \
+          x-x-x-x-x-x-x-x-x-x-x x
+              | | | | | | | | |
+  x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x   8
+  | | | | | | | | | | | | | | | |\   \
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x x-x-x   x
+| | | | | | | | | | | | | | | | | |  /|
+x-x-x-x-B-x-x-x-x-x-x-x-x-x F x-x-x-x-x
+  | | | | | | | | | | | | | | | |    \|
+  x-x-x-x-x-x-x-x-x-x-x-x-x x x-x     x
+  | | | | | | | | | | | | |\    |     |
+  x-x-x-x-x-x-x-x-x-x-x-x-x-x-x x     x
+  | | | |           | | | | | | 
+  x-x-x-x           x-x-x-x-x-x 
+    | |  \             \| | | |
+    x-x   x-x           x-x-x-x
+            |            \| | |
+            x-x-x-x       x-x-x
+           /    | |          \|
+        x-x     x-x-x-x       x-x
+        | |     | | | |\        |
+      x-x-A   x-x-x-x-x-x       x-x-x
+     /| | |  /| | | | |/        | |/
+    x-x-x-x x-x-x-x-x-x       x-x-x
+    | | |   |                 |
+  x-x-x-x x-x                 x
+ /| | |   |/
+x-x-x-x   x
+    | |
+    C-x
+    | |
+    x x
+
+
+E - Entrance
+1 - Desaren's ruined tower
+2 - Raric
+3 - Keyloncia
+4 - Porih
+5 - Ivory Keep
+6 - Flinia
+7 - Wexsmuk
+8 - Waff
+9 - Razorin
+A - Sopem
+B - Zolifo
+C - Pieb
+F - Fort in the Woods [Mischief]
+R - A mud encrusted rake
+
+
+Red-bellied sapsucker   5148
+This species of bird is particularly well-adapted to living in forests.
+Its feet are modified for clinging on to vertical tree trunks, with the
+first and fourth toe pointing backwards and the second and third
+forwards.  The feathers of its tail are short, thick-quilled, and stiff,
+so that the tail as a whole serves as a prop.  Its bill is sharply
+pointed, like a pick.  The bird clings upright on the trunk, listening
+intently for the tiny sounds that will give away the presence of a
+moving insect.  The bird flicks its tongue out revealing a barb at the
+end of it.  The sapsucker goes back to drilling holes in the tree and
+lapping up the sap that trickles out.  The sap, resinous or sweet
+according to the kind of tree, attracts insects which the sapsucker
+collects and then mixes with the sap to produce a little sweetmeat, rich
+in both sugars and proteins.
+
+Mouse deer   1143
+In the forest of Eldain there is one species of mammal that finds enough
+nuts, fruits and leaves to live on - the mouse deer.  This animal is
+related to primitive ruminants.  It is about the size of a hare with
+pencil-thin fragile-looking legs that end in sharp hooves so that the
+animal appears to be running on tiptoe.  It is a nervous mammal,
+freezing when alarmed and it sometimes sprints away in frantic zigzags
+across the forest floor.  It uses tiny, impatient stamps of its feet to
+signal other mouse deer.
+
+A wolf   71
+This small grey wolf just wanders aimlessly.
+
+Brownleaf gnome   14158
+The brownleaf gnomes are one of the most well known, and documented
+faeries of the forests of Serinth.  Many years ago the brownleaf gnomes
+dwindled in numbers due to a plague which almost wiped them out.  Now
+they only reside in the tall tree forests of Eldain.  This gnome is
+about half a foot tall but with its brown cap on it appears much taller.
+Its feet are somewhat pigeon toed which gives it an extra edge on speed
+and agility through the leaf littered floor.  The brownleaf gnome really
+has no great enemy except the troll, which he can easily outsmart.  With
+its uncanny strength, speed and sight, the brownleaf gnomes can help
+care for wounded animals of the forest such as mouse deer and
+sap-suckers.
+
+Farmer    9692
+This farmer comes from one of the nearby homesteads that garnish the
+Eldain countryside.  Due to the arduous toil he must endure to support
+his family, his overalls have become thoroughly soaked in sweat.  Below
+his hat you can see a face that is deeply tanned from constant exposure
+to the sun.  He is dirty and in dire need of a bath and doesn't appear
+to welcome your presence.
+
+Sedge viper    9460
+This is a reasonably long and solid-looking snake about six feet long.
+The colour of its body is grey-green, with rows of black spots
+surrounded by yellow rings.  It is quite an aggressive snake, raising
+its body and spitting when menaced.  On occasion, it plays dead in order
+to distracts its enemies.  It lives in the thick grasses and fields of
+Eldain to catch its prey of crop insects and small birds.  During the
+cold season it hibernates, coiled up inside a cavity in the ground or
+under the leaf-litter.
+
+Torician beetle   3483
+This is the primary inhabitant of the forest floor of Toric.  The
+Torician Beetle typically resides in rotting logs on the ground which
+are occasionally consumed by fires started by the Sunset Pygmies.  The
+beetle itself is about four inches long with antler like mandibles that
+are sometimes employed in combat but mainly used to dig holes in rotting
+cedar.  These mandibles are as long as the body of the insect itself.
+The beetle is raven-black with thin white stripes lining its back and
+hind legs. It seems fairly harmless.
+
+Ittehgobdabiliangaps (blob)    5227
+Only in the bleak, stagnant swamps of Toric will you find the most
+freakish creatures of all Serinth.  The Ittehgobdabiliangaps is the
+archetype of bizarre.  This .. blob .. looks almost like the waters of
+the swamp it inhabits making it hard to distinguish.  When it shifts
+along the surface you can make out its silhouette: circular, about two
+feet in diameter and an inch or two in girth.  It has a diet of just
+swamp water and by no means craves your body for food however it does
+think of the swamp as its domain, thus making it intensely territorial.
+
+Swamp troll   786
+This is one ugly swamp troll. His skin looks green and tough.
+
+Lizard man   784
+This is a humanoid about the size of a human.  He looks very much like a
+lizard and thus his name.  He doesn't seem to like you.
+
+Sunset Pygmy   11581
+This pygmy is much smaller than your typical human; looking more like a
+gnome the sunset pygmy has become a product of its environment - small,
+dark and weak.  Its eyes have a downward tilt and have red irises set
+against a black eye ball.  The ears of this pygmy are slightly extended
+and come to sharp points at the tip.  Its skin is a dark brown and its
+hair is black.  High arching eyebrows and sharply pointed cheekbones and
+noses make this pygmy look very evil.  The pygmy has a tattoo on its
+forearm, possibly a symbol of its clan or family.  It is wearing a dark,
+short-sleeved shirt of some light fabric which drapes below its knees.
+It is a weak creature, so despite its hostility towards you, it will not
+attack.
+
+Yellow tetrihopper   96
+The tetrihopper is a small winged insect that feeds on the meadow
+grasses of Losaic.  The hopper is about three to four inches long with
+strong hind legs especially adapted for jumping.  The legs are also used
+for creating chirping noises to attract other hoppers.  Along the back
+is a greatly elongated dorsal shield to give it some protection against
+predators.  On its head there are long antenna for sensory purposes to
+give advanced warning about approaching animals.  The legs of the
+tetrihopper are considered a delicacy by herders in this area.
+
+Bogon lizard   8484
+This is a smooth, shiny lizard that sun-bakes all day long.  At first
+glance the lizard resembles a small snake due to its tiny limbs and
+cylindrical body.  The body of the lizard is dark pink whereas the tail
+is a much brighter pink, a good lure to keep any predator from attacking
+its head.  On its tiny paws there are small, sharp claws but the real
+danger lies in its powerful jaw which can be hard to unlock if the
+lizard gets a good grip on you.
+
+Puma   33822
+This hill-lion is one of the largest pure carnivores in Serinth.  It is
+about eight feet in length and looks much heavier than yourself.  You
+can distinguish this cat by its tawny colour and very long tail.  Its
+ears and tail are black tipped.  The puma sizes you up as a possible
+next meal.
+
+Gray Ranger (questing)   15415
+It is a marvel you are in the company of one of the warriors of the
+finest heritage in the realm.  Before you is a Gray Ranger, an
+enigmatic, chivalrous man who is adept in the arts of pathfinding.  He
+has pale skin, black hair, a set of gray eyes with a matching gray
+cloak.  Beneath the cloak is graymail.  The ranger is very tall, about
+seven feet and looks underfed.  He has a longsword sheathed by his side.
+
+Black dragon   5096
+This is a small black dragon.  Acid spills from his mouth as he looks at
+you hungrily.
+
+Gonlom worm (famished)   982
+The Gonlom Worm is a thick, long herbivore which inhabits the Forests of
+Toric.  It is about one foot in diameter and roughly fifteen feet long.
+It crushes decaying plant life and dead wood, then consumes it in its
+long digestive tract.  These worms do not burrow into the ground,
+preferring instead to crawl along the damp forest floor.  The worm has a
+bone coloured skin and a dirty brown underbelly with a small but elastic
+mouth capable of ingesting large objects.  The Gonlom Worm is a slow
+mover thus making it an easy target for predators, especially the Sunset
+Pygmies who can make a week's food from one corpse.  Although classified
+as herbivores, the Gonlom worms have on occasion been known to devour
+unsuspecting animals - even unsuspecting Sunset pygmies - when famished.
+
+Crop spider    300
+The body of the Crop spider is divided into two distinct parts: a main
+torso which bears six legs; and an abdomen which contains spinnerets.
+The skin is hairy, some hairs functioning as sensory structures.  At the
+fore of the torso is a set of black fangs which are capable of
+deliviring a painful, sometimes lethal blow to their enemy.  The Crop
+spider prefers the wet environment of the Collioke fields where it can
+capture small insects which feed on the crops.
+
+Electrapede   7788
+This electrapede is a two feet long centipede with extraordinary
+electrical powers.  It has a hard, royal blue exoskeleton that makes it
+very difficult to hit any vital organs.  Black tiny legs run down each
+side of the body and provide it with fast speed through the fields.
+Occasionally, the electrapede's body glows then spurts forth sparks in
+random directions.  Take caution fighting this monster in close
+hand-to-hand combat.
+
+Collioke Mosquito Trap    374
+This carniverous plant depends on animals, not soil, for nitrogen.  It
+gets its name from its most common victim - the mosquito.  The leaf
+blade resembles a steel trap in its action, the two halves snapping
+together and the marginal bristles interlocking like the teeth of a
+trap.  There are hairs on the upper leaf surface when touched cause the
+trap to shut and capture the victim.  The trap then secretes digestive
+juices to consume the animal.  This trap is large - about two feet in
+diameter - and has been known to eat forest goblins.  Do not study the
+trap.
+
+Griffon vulture    10054
+The Griffon Vulture is a large predator bird whose presence is a sure
+sign that other animals are here somewhere, for without the animals the
+vulture would surely starve.  The bird has a great wingspan of some
+seven feet and a deadly set of claws with which to maul his victims -
+usually carcasses.  When the vulture is deprived of carcasses it must do
+its own killing.  It ascends high up in the sky and examines the ground
+beneath for the slightest movement that may betray the presence of a
+rodent.  When it selects its prey it dives on it at great speed and hits
+it with a powerful blow to the neck that instantly kills the animal.
+After stripping the carcass, the vulture picks up the bones, carries
+them to a considerable height and then drops them on a rock, cracking
+them to expose the marrow on which it feeds.  The Griffon Vulture has a
+beautiful array of golden brown feathers which are often used as
+decorations with head-wear.
+
+Surus   2746
+The Surus is a giant squirrel that exists solely in the Torrin forest.
+Due to the abundance of nut trees available to pick from, the Surus'
+have become unusually large.  This Surus is so obese it cannot climb any
+of the trees here.  Instead, it sits around and waits for ripe nuts to
+drop to the ground.  The surus has a large bushy tail and a set of
+needle sharp claws which have become quite redundant now that it no
+longer can climb trees.
+
+Hermit   2788
+Before you is a dirty old hermit.  He is wearing travel-stained clothes
+and is bare foot.  Hermits are common in the forest of Torrin as the
+food here is quite plentiful, shelter can be found and usually there is
+nobody around to disturb you.  The hermit was taking a nap before you
+intruded and now keeps a watchful eye on you.  Beside him there is a
+small, leather bag.
+
+Howler monkey   7440
+This is the Howler monkey of the Collioke Forest.  It has a powerful
+characteristic roar which can be heard miles away.  The howler is very
+large for a monkey, about three feet in length which does not include
+the long tail.  It is a heavy monkey with a black face bearded with long
+black hair.  Its lower jaw is wide and the fat neck looks swollen.  The
+howler monkey lives in groups among the trees and feeds on fruit seeds,
+leaves and small animals.
+
+Forest goblin   445
+This small, two feet tall goblin is part of a tribe that has chosen to
+dwell in the Forest of Collioke.  It is dark skinned, has war paint on
+its cheeks and white paint throughout its hair.  The goblin is wielding
+a bloody axe and doesn't look too friendly.
+
+Herder   3262
+One of the few livestock herders that dwell in the countryside of
+Losaic.  He is unshaven and filthy.  The man looks engrossed in deep
+thought.  Perhaps it would be unwise to disturb him.
+
+Lomite   180
+This lomite is only one inch long with six legs - three on either side
+of a body consisting of three segments which are the head, body and
+tail.  The skin of the lomite is thin and does not retain moisture very
+well.  That is why lomites are rarely seen during the day.  They prefer
+to build large mounds which protect them from the sun in a damp, dark
+environment.  The lomite has a small mouth that contains very sharp
+teeth and an acidic saliva which can cause quite a sting.  If you are
+examining a lomite it can only be assumed you have rudely disturbed its
+home.
+
+Cow  327
+This is your typical cow: black and white patches mark its hide, small
+horns protrude from its skull, and a straight spine which supports its
+massive body.  Large udders dangle from the body which produce milk for
+its young to feed on.  Maybe if you milked the cow you could receive
+some milk too.
+
+Fog rat   376
+The fog rat is a loathsome rodent.  The disease ridden rat scavenges
+anything that resembles food and even sizes you up.  It has a slimy coat
+of dark fur and a five inch long tail.  Its yellow eyes are very good at
+night and even during the day in this dim forest.  The rat nibbles on
+something on the ground and you notice its small but sharp teeth.  Try
+to avoid physical contact with this foul inhabitant of the Diantian
+forest.
+
+Forest walker   15057
+What a strange ..  thing? .. human?  All you can see is a pair of pants
+and nothing else walking around.  The forest walkers, in tales, are
+angry druid spirits that roam the Diantian forest.  Its pants are green
+and the invisible legs filling them seem to be solidly built.  It would
+be unwise to approach the walker.
+
+An orc   92
+This orc is a small humanoid with a pig-like face.  It seems to be more
+afraid of you than you are of it.  It tries to mind its own business.
+
+Ebony werewolf   36624
+This is a great beast - about seven feet long, it is covered with thick
+ebony fur from head to tail.  Black irises set against red eyes give
+this wolf a truly baneful aspect.  Its claws are like none you have
+witnessed before: the talons are the length of your own finger and curl
+at a razorsharp tip.  When the werewolf exposes its set of fangs, you
+notice blood dripping from them.
+
+Mist snail   92
+The mist snail has a grey-white, spiral shell which surrounds its
+fragile, slimy body.  Two pairs of tiny tentacles are fitted to breathe
+air.  The snail looks absolutely harmless as it moves ever so slowly
+along the dirty ground in search for dead leaves.
+
+A kobold   92
+This small humanoid creature looks very lost.  You wonder what he's
+doing out in the middle of a forest.
+
+Villager   14045
+This is a villager from one of the homesteads in Diantia.  He is wearing
+a pair of leather sandals, torn pants and no shirt.  You notice the man
+is well built due to the laborous work he does for his family.  He has
+long hair and is unshaven.  The man appears to be the friendly sort.
+
+Villager ghost   25917
+This is the ghost of a deceased villager.  The phantasm's silhouette is
+hard to distinguish considering the environment of fogs and mists which
+prevail in the Diantian plains.  The ghost does have a face - a set of
+pitch black eyes.  The ghost doesn't appear amicable.  Maybe you are
+treading over a sacred burial ground.
+
+
+
+
+Mouse Deer Claws
+These claws are from a poor, innocent mouse deer in the forest of
+Eldain.  When you look closely at them you notice just how sharp they
+are.  The short, black, arched claws look like an effective weapon to
+wield.
+
+Sucker Sap
+This syrupy fluid is the lifeblood of the trees of the forest of Eldain.
+It has an orange tinge and looks like it would remedy light wounds
+inflicted from combat.
+
+A fanor tree
+The fanor tree is common throughout the forest of Eldain.  It has a thin
+trunk which rises about ten feet before branching out.  The branches of
+the tree spread horizontally with verdant circular shaped leaves
+sprouting from their tips.  The bark is a white thin papery substance
+and the gray wood beneath is popular for building weapons and tools.
+
+Brownleaf Cap
+This pointy cap is as tall as the gnome that wore it.  It is light-brown
+and blends in well with the surrounding forest whence the gnomes lived.
+It doesn't appear to be hard-wearing yet may provide good protection
+against elements of the forest.
+
+A tear in the fabric of time
+More a wavering in the air before you, this is a tear in the fabric of
+time.  Seen through the tear, the landscape shifts back and forth and
+changes its appearance as you view the area around you at different
+points in time.  It looks as if you could enter it.
+
+Farmer's Rake
+This is a traditional farmer's rake.  It has a hand forged plow, is
+about three and a half feet long and has a grey fanor handle.  It looks
+like it would be a handy weapon for an adventurer without anything else
+to wield.
+
+A tuft of surus grass
+Dotted around the open, treeless country where there is nearly always a
+breeze is the Surus grass.  The surus grass prefers these conditions to
+distribute its pollen.  Since the grass does not need to attract animal
+pollinators, its flowers are not conspicuous or brightly coloured.
+Instead, they are small and drab, with tiny scales instead of petals,
+and grow in clusters on top of the stem which resemble the tail of the
+Losaician Surus Squirrel.
+
+Beetle Mandibles
+These are the saw-like mandibles of the Torician Beetle.  They are very
+small but razor sharp.  The beetle uses the mandibles primarily for
+digging through wood but on occasions they are employed in combat.  The
+mandibles look like an effective weapon for close hand-to-hand combat.
+
+A black reed
+The black reed is the predominant plant life of the swamps of Toric.  It
+is a thin, rubbery reed which will thrive no matter how dire the
+environment is in which it resides.  The reed is about two feet high but
+can grow up to five feet in height.  The tip of the reed curls into a
+sharp poisonous point which should be avoided completely.  Many careless
+adventurers have disregarded this bleak reed and within a few seconds of
+brushing against the tip have nearly perished.
+
+Shortsword
+This weapon is approximately two feet in overall length and has a
+double-edged blade with a pointed tip, ideal for thrusting.  The hilt
+of this weapon easily accomodates one human-sized hand and is wrapped
+tightly in leather for a stronger grip.
+
+Small shield
+This shield is comprised mostly of wood with metal reinforcements
+radiating out from the center of the shield, like spokes.  While only
+being about two feet in diameter, it offers some protection from melee
+and ranged attacks.  It is worn by sliding the off-weapon forearm
+through a strap and gripping a small, metal handle attached to the
+back of the shield.
+
+A rubywood tree
+The rubywood tree is common throughout the forest of Toric.  It has a
+bloated trunk which measures approximately nine feet in diameter.  This
+trunk serves to retain water when rainfall is infrequent.  Thick arms
+protrude at the plateau of the trunk in a symmetric manner.  Each branch
+is tipped off with a dark red leaf.  The dark brown bark covers an
+extremely moist, ruby-red wood which has become popular among settlers
+in the forest for constructing their weapons.
+
+Sunset Scepter (burning)
+This scepter is only two feet long due to the tiny height of the pygmies
+who wielded it.  It is carved from rubywood and looks sturdy.  At the
+tip of the scepter there is an enduring glow that lights up a small
+sphere around you.  You can feel a crackling, evil energy emanating from
+the weapon.
+
+Legs of the Tetrihopper
+These are the legs of the Tetrihopper of the plains of Losaic.  They are
+about two inches long and feel sinewy.  Cattle herders from Losaic
+consider these a delicacy so they are bound to fetch a good price at any
+market.
+
+A torrina shrub
+The torrina shrub is a contrast to the dry landscape it inhabits.  The
+pretty, pastel pink flowers are very attractive and are often referred
+to as sweetheart rose by locals villagers.  The shrub grows to about
+three feet tall.  The flowers bloom in clusters with dark green foliage
+which creates a magnificent fragrance.
+
+Bogon Tail
+To escape from predators trying to catch them, Bogon lizards have tails
+that break off easily.  The tail continues moving as an additional
+distraction while the lizard runs away.  This tail is very bright pink
+and would surely fetch a good price at the markets.
+
+Graymail
+This gray chainmail has to be one of the most uninspiring pieces of
+armour you have come by.  Loosely woven rings of gray steel form a layer
+of armour protecting its wearer from neck to waist.  The graymail does
+not make any sound at all when shaken, making it a good piece of kit
+when stealth is required.
+
+Graycloak
+The graycloak is very heavy for a cloak.  It feels like something else
+is weighing the cloak down beside its own mass.  The thick, woolen cloak
+looks like good protection from the elements.
+
+Gray Longsword
+The longsword is a sturdy, trusty weapon of the Gray Ranger.  It has a
+dull blade of about four feet in length with a wide hilt guard and a
+heavy pommel.  The blade is made from a light metal alloy which does not
+have the same devastating impact of heavier longswords but allows the
+ranger more freedom in movement and the ability to wield the sword with
+one hand effectively.
+
+Gonlom Hide
+The Hide of the Gonlom Worm is spongy, elastic and slimy.  The
+elasticity of the hide allows you to mould it into a piece of armour
+suitable for anyone to wear.  The hide is fairly thick and spongy which
+would provide good protection from crushing attacks.
+
+A walnut tree
+This is the deciduous, nut-bearing tree of Losaic.  It is a tall tree
+with large leaves and small, greenish flowers.  The nuts of the tree are
+quite edible and the tree itself is also grown as an ornamental in other
+parts of Serinth.  You could probably pull a nut from the tree.
+
+Royal Blue Exoskeleton
+This carapace shines a brilliant royal blue.  It looks metallic but when
+you tap it a dull sound is produced.  The once exoskeleton of an
+electrapede seems suitable to wear however it may restrict your movement
+somewhat.
+
+Some moss
+A lush cushion of soft, green moss.  It hugs the ground to prevent
+itself from being washed away during the massive deluges of rain.  The
+moss is beckoning you, it seems, to smell it.
+
+Griffon Feather
+This is one of the golden brown feathers of the Griffon Vulture of
+Torrin.  The feather feels like silk in your hands and glistens when the
+sun shines upon it.
+
+Leather Bag
+This is a small leather bag for carrying your personal paraphernalia in.
+
+Goblin Axe
+This is the bloody axe of a Forest Goblin.  It has a small, wooden
+handle and tied to the end with sinew is a notched blade.  The axe looks
+in poor condition, fit only for a measly goblin.
+
+A lomite mound
+Standing tall before you is a giant lomite mound.  This mud fortress is
+constructed by labouring lomites which create miniature mud bricks by
+chewing on dirt and mixing it with their own saliva.  This mound rises
+about five feet from the ground and is filled with hundreds of tiny
+ventilation tunnels to maintain fresh air inside and spent air to
+escape.  At the base of the mound is a muddy ground where lomite workers
+go to collect dirt for building.  This mound must contain thousands of
+lomites.  Whatever you do, don't kick the mound.
+
+Cow Hide
+This is the raw hide of a cow slain in Losaic.  It is shaggy on one side
+and on the other it is relatively smooth with a few fleshy pieces still
+attached.  If you molded this scrap of skin you might come up with a
+reasonably serviceable piece of armour.  Otherwise, it is a pretty
+useless piece of material.
+
+A small mushroom
+A small cream coloured mushroom sits among the damp ground.  It has a
+large flat umbrella shaped top and a short, thick stalk.  Mushrooms are
+an excellent vitamin source but some can be very poisonous.  Being an
+adventurer, not a horticulturist, you have no idea about it.  Trial and
+error is the only way of knowing.
+
+Green Pants of the Forest Walker
+The pants of the forest walker are a simple green colour.  They seem to
+be made from the fibres of a plant in the forest .. possibly the whip
+vine.  The green pants look like they would protect you a little.
+
+A whip vine
+The whip vine is a thin, strong and fibrous plant in the forest of
+Diantia.  The vines dangle from branches of other various trees and lay
+strewn along the forest floor.  Hunters that frequent this area use the
+vines to create ropes and clothing from their stringy wood.
+
+
+
+
+Desaren's Ruined Tower:
+
+
+    E-
+
+*can't life gate, qinfo?*
+
+
+
+City of Raric:
+                        Hurinteon's Tower
+           E            level 2    level 3
+           |               
+           x              2        1-d
+           |
+           x
+           |            A strange tower
+         4-x-5          level 1    level 2    
+           |               
+           x            leave/u      u/d
+           |
+           3            level 3    
+          / \           
+         x   x             x
+        /     \            |
+       x       x           d
+      /|        \
+     x x-u       x
+    /             \
+
+1: Hurinteon
+2: search boards
+3: relax
+4: Pub of Raric
+5: Healing shop
+
+Young cleric of Lleyanna    7908
+Standing in simple forest green robes with his head shaved and tucked
+into his hood, this young cleric is trying to be faithful to Lleyanna by
+wandering the streets of Raric and spreading the message of his deity,
+the patron of Hunting.  Someday he hopes to be a faithful cleric like
+Fredden.
+
+Young cleric of Morike    7097
+Standing in ornately cut white robes with his head shaved and tucked
+into his hood, this young cleric is trying to be faithful to Morike by
+wandering the streets of Raric and spreading the message of his deity,
+the patron of Life.  Someday he hopes to be a faithful cleric like
+Fredden.
+
+Young cleric of Ziose    7902
+Standing in severely cut midnight blue robes with his head shaved and
+tucked into his hood, this young cleric is trying to be faithful to
+Ziose by wandering the streets of Raric and spreading the message of his
+deity, the patron of Darkness.  Someday he hopes to be a faithful cleric
+like Fredden.
+
+Young cleric of Jodan    7970
+Standing in simple gray robes with his head shaved and tucked into his
+hood, this young cleric is trying to be faithful to Jodan by wandering
+the streets of Raric and spreading the message of his deity, the patron
+of Neutrality.  Someday he hopes to be a faithful cleric like Fredden.
+
+Young cleric of Solaris   7906
+Standing in ornately cut sky blue robes with his head shaved and tucked
+into his hood, this young cleric is trying to be faithful to Solaris by
+wandering the streets of Raric and spreading the message of his deity,
+the patron of Daytime.  Someday he hopes to be a faithful cleric like
+Fredden.
+
+Young cleric of Selene   7611
+Standing in ornately cut light yellow robes with his head shaved and
+tucked into his hood, this young cleric is trying to be faithful to
+Selene by wandering the streets of Raric and spreading the message of
+his deity, the patron of Lightness.  Someday he hopes to be a faithful
+cleric like Fredden.
+
+Young cleric of Nocturnis   7607
+Standing in severely cut dark purple robes with his head shaved and
+tucked into his hood, this young cleric is trying to be faithful to
+Nocturnis by wandering the streets of Raric and spreading the message of
+his deity, the patron of Nighttime.  Someday he hopes to be a faithful
+cleric like Fredden.
+
+Young mage of the Black Pearl school   7610
+Standing arrogantly in his black robes, his spell book clenched firmly
+in hand, this young mage is bragging heavily about his skill and the
+supremacy of the Black Pearl school.  He already thinks he's going to be
+the next Desaren, but he has quite a ways to go!
+
+Young mage of the Tyrian Vines school   7907
+Standing arrogantly in his green robes, his spell book clenched firmly
+in hand, this young mage is bragging heavily about his skill and the
+supremacy of the Tyrian Vines school.  He already thinks he's going to
+be the next Desaren, but he has quite a ways to go!
+
+Young mage of the Crimson Rose school   7831
+Standing arrogantly in his crimson robes, his spell book clenched firmly
+in hand, this young mage is bragging heavily about his skill and the
+supremacy of the Crimson Rose school.  He already thinks he's going to
+be the next Desaren, but he has quite a ways to go!
+
+Hurinteon the Grand Master Mage (Deadly!!!)     1429974
+Hurinteon is dressed in wealthy looking clothes. He is a very very
+powerful mage. He has mastered the art of magic and possesses certain
+magical energy within him. If you are weak, he could most likely kill
+you with a single word. Although he may be powerful, he is very nice. He
+knows what happens to those who cannot control their own ambitions and
+powers.
+
+Ghost of Hurinteon the Grand Master Mage (Deadly!!!)
+Ghost of Hurinteon the Grand Master Mage (Deadly!!!)
+Hurinteon is dressed in wealthy looking clothes. He is a very very
+powerful mage. He has mastered the art of magic and possesses certain
+magical energy within him. If you are weak, he could most likely kill
+you with a single word. Although he may be powerful, he is very nice. He
+knows what happens to those who cannot control their own ambitions and
+powers.
+He is dead already, so do not bother trying to kill his ghost.
+
+You say: hi
+Hurinteon smiles at you.
+
+You say: salinsha
+Hurinteon says: Salinsha is my sister. She lives somewhere in the city
+                of Keyloncia. I haven't seen her much lately.
+
+You say: desaren
+Hurinteon says: Desaren was my teacher.  I believe that he was the most
+                powerful mage to walk the face of Serinth.  He had
+                almost everything except control.
+
+You say: control
+Hurinteon lets out a deep sigh.
+
+Hurinteon says: I admired Desaren very much. He was powerful and
+                righteous.  The greed for power and magic turned into
+                greed for life.  He also wanted to live for ever.  So
+                sad is the price for immortality.
+
+You say: immortality
+Hurinteon looks deep into your eyes.
+
+Hurinteon says: Everyone wants to live forever.  Even if it means to
+                die.  He was good and pure, but then he turned evil and
+                greedy.  It is rare to find someone who is powerful but
+                righteous.
+
+You say: serinth
+Hurinteon peers at you quizzically.
+
+Hurinteon says: Serinth is the world we live in.  It is only a speck of
+                this material plane we exist on.
+
+You say: plane
+Hurinteon says: There are several planes that exist.  We live on the
+                prime material plane.  Others are negative, positive,
+                elemental, astral, and ethereal.
+
+You say: elemental
+Hurinteon says: There are four elemental planes. Air, earth, fire, and
+                water.  Creatures from those planes usually stay in
+                their own domain, but sometimes they come to the prime
+                material plane for some special reason or are summoned
+                here by a mage or cleric.
+
+You say: astral
+Hurinteon says: The astral plane is the pathway to the realm of the
+                gods.  Pathway to Heaven and Hell.  Ethereal plane is
+                the buffer to all the other planes that exist.  Many
+                creatures dwell in both these planes.
+
+You say: negative
+Hurinteon says: For example, undead creatures get their power from the
+                negative material plane.  The energy from negative plane
+                is associated with evil.  Where positive plane is of
+                good.  The light to drive away evil or undead.
+
+You say: positive
+Hurinteon says: For example, undead creatures get their power from the
+                negative material plane.  The energy from negative plane
+                is associated with evil.  Where positive plane is of
+                good.  The light to drive away evil or undead.
+
+You say: ethereal
+Hurinteon says: The astral plane is the pathway to the realm of the
+                gods.  Pathway to Heaven and Hell.  Ethereal plane is
+                the buffer to all the other planes that exist.  Many
+                creatures dwell in both these planes.
+
+You say: mage
+Hurinteon says: I am a master mage. I know many, many spells. I've
+                studied magic all my life.
+
+You say: magic
+Hurinteon says: Yes, all kinds of magic. Although I still can't use
+                magic to heal. I guess healing is just for the gods.
+
+You say: healing
+Hurinteon says: What I don't quite understand is what kind of magic
+                powers these gods have that is able to bind wounds so
+                well and to give life.
+Hurinteon ponders the mysteries of the Universe.
+Hurinteon says: Oh well, maybe I'll never know in this life time.
+
+You say: righteous
+Hurinteon says: Very rare. I've known only a few who had so much to live
+                for, yet gave it all up for others.
+
+Hurinteon shakes his head in grief.
+
+
+Hurinteon says: Keylon and Saleyic sacrificed themselves to save many
+                lives and to save the soul of their dear friend,
+                Desaren.
+
+You say: keylon
+Hurinteon says: Keylon and Saleyic died while fighting Desaren.  Saleyic
+                must have called upon the gods to destroy Desaren. 
+                Everything in a mile radius was destroyed.
+
+Hurinteon takes a moment to think.
+
+Hurinteon says:  The powers clashing between Desaren and Saleyic were so
+                great that they turned all magic into chaos.  No one was
+                able to cast a spell correctly.  Two new moons were
+                created. One of good and one of evil.  The split magic
+                of Desaren.  It is said that Saleyic had become a god.
+                Keylon, his spirit still roams around this realm.
+
+You say: mark
+Hurinteon's cheeks turn rosy pink.
+Hurinteon says: I was born with a birth mark in the symbol of the god of
+                magic. Desaren said I was chosen. He did not say what I
+                was chosen for.
+
+You say: chosen
+Hurinteon says: Well Desaren once told me that I possess strange and
+                powerful magic.  He said I was destined to help someone
+                do a very special quest.  He told me to create a special
+                scroll with two languages.  I call it the scroll of
+                knowledge.
+Hurinteon shrugs helplessly.
+
+You say: scroll
+Hurinteon tells you: It contains lizardman and ogre language.  It can be
+                     found in the room that is guarded by the Aerial
+                     servant.  Just speak the word 'knowledge' there and
+                     you will get one.
+
+
+sknowledge
+  __________________________________________________________
+( )_________________________________________________________)
+|                                                          |
+|   English                                                |
+|   -------                                                |
+|      A   B   C   D   E   F   G   H   I   J   K   L   M   |
+|      N   O   P   Q   R   S   T   U   V   W   X   Y   Z   |
+|                                                          |
+|   Lizardish                                              |
+|   ---------                                              |
+|      H   M   I   N   C   J   A   O   B   E   P   D   G   |
+|      F   R   S   W   Y   K   Z   X   T   L   U   Q   V   |
+|                                                          |
+|   Ogrish                                                 |
+|   ------                                                 |
+|      B   H   G   A   D   P   C   O   Q   F   J   I   X   |
+|      L   T   W   K   U   V   E   Y   S   M   N   Z   R   |
+|__________________________________________________________|
+( )_________________________________________________________)
+
+Aerial servant   27408
+This is an aerial servant.  This strange air elemental almost seems
+invisible.  Although it looks as if it won't do much damage, this
+creature can hurt you very badly!   It can and will attack with both its
+arms for a lot of damage.
+
+
+Silver key
+An old fashioned silver key on a ribbon.
+
+Night flame wand
+This strange wand seems to be made of some kind of horn.  You get a
+strange feeling it was made from a devil's horn, and that the wand is
+saying something to you:
+Wand says: <fireblast>      : Will hit everyone in room.
+Wand says: <firewind> <who> : Flames one enemy.
+Wand says: <fireshield>     : A fire elemental shields you from the
+enemy.
+Wand says: <30> : Charges left!
+
+An ancient parchment scroll
+An ancient parchment scroll rolled tight and sealed with wax.  The
+likeness of a Whirling Vortex is molded into the golden wax.
+break seal
+An ancient parchment scroll (unrolled)
+An ancient parchment scroll with flakes of golden wax upon it, the
+remnants of a broken seal indicating that it has been unrolled.  You
+read it and see in the middle of the text the word 'timewarp'.  You do
+not know what the nature of the spell locked in the scroll is, but you
+guess that it must be VERY powerful.
+
+Ring of spell storing
+This magical ring was enchanted to store magical energy until it is
+needed.  The ring can store up to 100 spell points.
+
+        <store>   [amount], or <store>   -> store max spell points.
+        <restore> [amount], or <restore> -> restore all from ring.
+
+        Spell points stored: 0
+
+
+City of Keyloncia:
+can enter northgate or southgate
+
+         NG              Castle          level 2        level 3      level 4
+         |
+       2 x x               E       
+       | | |               |
+       x-x-x               x-x              u              d/u          d
+         |                 |                |
+       x-x-x             x-x-x              x-x
+         |                 |                |
+       x-x-x               u                d
+      /  |  \              |                |
+     x   C   x           x-x-x-x            x
+     |       |             |                |
+   x-x       x-x         x-x                A
+     |       |             |                |
+     x   C   x             E                3
+      \  |  /
+       x-x-x
+         |
+         x
+         |
+         x-1
+         |
+         x
+         |
+         SG
+
+
+NG: Northgate
+SG: Southgate
+1: Pub of Keyloncia
+2: Salinsha Maduric the Mirage Knight (paladin)
+   Armour of Lucanus (8 hour spawn or something crazy)
+A: A small altar
+3: Syrena the high knight (queen)
+
+
+Gate guard   8203
+The gate guard is a faithful guard of Keyloncia.  He has been given
+orders to attack all evil creatures on sight.  He stands proud and
+guards intently.
+
+Citizen of Keyloncia   390
+He his a loyal citizen of Keyloncia.  He seems to be minding his own
+business.
+
+Salinsha Maduric the Mirage Knight (paladin)    842536
+Salinsha is completely armoured with full plate armour. The silver
+armour shines very brightly. She is one of the most powerful paladins to
+ever live. She is righteous and honorable. Even more so than Keylon. Her
+beauty and virtues are beyond mortal.
+
+Ghost of Salinsha Maduric the Mirage Knight (paladin)
+Ghost of Salinsha Maduric the Mirage Knight (paladin)
+Salinsha is completely armoured with full plate armour. The silver
+armour shines very brightly. She is one of the most powerful paladins to
+ever live. She is righteous and honorable. Even more so than Keylon. Her
+beauty and virtues are beyond mortal.
+She is dead already, so do not bother trying to kill her ghost.
+
+You say: hi
+Salinsha says: Hello.
+Salinsha gives you a warm smile.
+Salinsha says: A pleasure to meet you, Maxim.
+
+You say: hurinteon
+Salinsha says: Hurinteon is my brother.  We were separated at birth and
+               reunited when he was about 18.  He is now a powerful
+               mage.
+
+You say: mage
+Salinsha says: He is unlike any other mage.  His powers were as if they
+               were given to him by the gods.  As if he was destined to
+               be a mage.
+Salinsha shrugs helplessly.
+
+You say: destined
+Salinsha says: Yes, he was born with a strange birth mark.  Almost like
+               the symbol of the god of magic.  I believe that I too was
+               destined to be a paladin.
+
+You say: paladin
+Salinsha stands proudly.
+Salinsha says: I uphold law and order to maintain good.  Only a few are
+               worthy to be a paladin.  I shall remain honorable till
+               death!
+
+You say: keylon
+Salinsha says: My lord Keylon raised me as if I was his own daughter. 
+               He treated Syrena and I as an equal.  I owe everything to
+               him.  His glory shall live on forever.
+
+You say: syrena
+Salinsha smiles happily.
+Salinsha says: Syrena is Keylon's daughter and my best friend.
+
+You say: mark
+Salinsha says: You are gonna have to ask him about that one.
+
+You say: honorable
+Salinsha says: Death before dishonor.  Keylon has taught me what it
+               means to be honorable.
+
+You say: birth
+Salinsha says: You are gonna have to ask him about that one.
+
+
+Castle guard   7907
+The castle guard is a faithful guard of Keyloncia.  He has been given
+orders to attack all evil creatures on sight.  He stands proud and
+guards intently.
+
+Syrena the high knight (queen)   9344
+Syrena is dressed in a long white gown.  She is now the queen of
+Keyloncia.  She knows how to fight, how to rule, and how to be a lady.
+She is very beautiful and delicately built.  She hopes to be a fair and
+honest ruler just like her beloved father, Keylon.
+
+You say: hi
+Syrena says: Hello. How may I help you?
+
+You say: hurinteon
+Syrena says: Hurinteon is Salinsha's brother.  I do not know much about
+             him.
+
+You say: salinsha
+Syrena smiles at you.
+Syrena says: She is my best and closest friend.  She is a Paladin and
+             helps me to be fair and honorable.
+
+You say: crown
+Syrena says: I would like for you to return the lost crown of Keyloncia.
+             My father had it last when he went to deal with Desaren. 
+             Find it and place it upon the altar north of here.
+
+You say: desaren
+Syrena says: He was a very powerful mage. I never did get to know him
+             well.  He was always wrapped up in his work.
+
+You say: keylon
+Syrena looks at you with very sad eyes.
+Syrena says: Keylon was my father.  He died battling evil.  The sad
+             thing is, the evil being was his best and dearest friend.
+Syrena burst out crying.
+
+You say: evil
+Syrena says: The man was Desaren.  At one time he was good, but the dark
+             side took over.
+
+
+Halberd
+Consisting of a cleaver-like axe blade mounted on a solid oak staff a
+full six feet in length, this weapon may be employed as a thrusting or
+cutting weapon.  The axe blade is balanced at the rear with a fluke,
+and surmounted by a sharp pike of quadrangle design.
+
+Small shield
+This shield is comprised mostly of wood with metal reinforcements
+radiating out from the center of the shield, like spokes.  While only
+being about two feet in diameter, it offers some protection from melee
+and ranged attacks.  It is worn by sliding the off-weapon forearm
+through a strap and gripping a small, metal handle attached to the
+back of the shield.
+
+Chainmail armour
+This form of chain mail is made by sewing large, metal rings to a
+cloth or leather backing.  While not as effective as ringmail,  it
+offers considerable more protection than plain leather armour.   Being
+much lighter than platemail and allowing more freedom of movement,
+this armour is ideal for just about any adventure.
+
+Leather armour
+This is a strong, stiff suit of leather armour.  Unlike the metal
+armours, this suit allows more freedom of movement and, when properly
+fitted with cloth, a fairly noiseless environment for those who wish
+to remain silent as they pursue their objectives.
+
+A basic slayer (enchanted)
+This is a powerful basic slayer.  Its sole purpose is to destroy basic!
+Be thankful it's not a Raest slayer!  You can find out more about it by
+typing 'helpslayer'.
+
+A small altar
+This is a small marble altar.  It looks as if something is supposed to
+be placed on top of it.
+
+
+Town of Porih:
+                 Lighthouse
+                   level 1
+     1-x-u           u/d
+    /
+   x               level 2
+   |                  d
+   x-x
+   |
+   x
+   |
+   x
+   |
+   E
+
+1: Traveler
+   ll or lout            Shows the outside environment.
+   push 1                Port of Devil's Isle.
+   push 2                Port of Dragon Isle [Kohl]
+   push 3                Port of Flinia.
+   push 4                Port of Pieb.
+   push 5                Port of Porih.
+   push 6                Port of Waff.
+   push 7                Traveler's Choice.
+   *note* It costs 100 coins to fly this ship.
+
+
+Gate guard   7964
+The gate guard is a faithful guard of Keyloncia.  He has been given
+orders to attack all evil creatures on sight.  He stands proud and
+guards intently.
+
+Light keeper   8527
+This is the light keeper.  He is the one that takes care of the light
+house.  Although he has a simple job, he can put up a damn good fight.
+He used to be a great fighter.
+
+
+Halberd
+Consisting of a cleaver-like axe blade mounted on a solid oak staff a
+full six feet in length, this weapon may be employed as a thrusting or
+cutting weapon.  The axe blade is balanced at the rear with a fluke,
+and surmounted by a sharp pike of quadrangle design.
+
+Small shield
+This shield is comprised mostly of wood with metal reinforcements
+radiating out from the center of the shield, like spokes.  While only
+being about two feet in diameter, it offers some protection from melee
+and ranged attacks.  It is worn by sliding the off-weapon forearm
+through a strap and gripping a small, metal handle attached to the
+back of the shield.
+
+Chainmail armour
+This form of chain mail is made by sewing large, metal rings to a
+cloth or leather backing.  While not as effective as ringmail,  it
+offers considerable more protection than plain leather armour.   Being
+much lighter than platemail and allowing more freedom of movement,
+this armour is ideal for just about any adventure.
+
+
+Town of Flinia:
+
+
+
+          3 2
+        | | |
+        x-x-x
+        |
+        x
+        |
+  E-x-x-x-x
+          |
+          x
+          |
+          x
+          |
+          1
+
+1: Traveler
+   ll or lout            Shows the outside environment.
+   push 1                Port of Devil's Isle.
+   push 2                Port of Dragon Isle [Kohl]
+   push 3                Port of Flinia.
+   push 4                Port of Pieb.
+   push 5                Port of Porih.
+   push 6                Port of Waff.
+   push 7                Traveler's Choice.
+   *note* It costs 100 coins to fly this ship.
+2: Tyler (boy)
+
+
+Tyler (boy)   
+Tyler is a young son of Rycon.  He looks about the age of twelve and
+seems to be carefree about life in general.  He lives in the manor with
+his father, Rycon.
+
+Ghost of Tyler (boy)
+Tyler is a young son of Rycon.  He looks about the age of twelve and
+seems to be carefree about life in general.  He lives in the manor with
+his father, Rycon.
+He is dead already, so do not bother trying to kill his ghost.
+
+
+City of Razorin:
+                         level 3           level 4
+
+       E
+       |
+       u               d
+       |               |\
+       x               x x
+       |               |  \
+       x               x   x
+       |               |   |
+       x-x-u           x   d
+       | |             |    \
+       x x-x-1         x     x
+       | | |           |     |
+       x-x-x-u         x     d           x
+       |   |            \   /            |
+   u-x-x   x       d-x-x-S-x           x-d-x
+       |   |        \      |             |
+       x-x-x         x     x             2
+       | | |          \    |             |
+       u x u           d-x-d             3
+         |
+
+1: Pub - The Swampy drinks
+2: Satarus the Lizardmen King (royal)
+3: Boots of water walking
+
+Lizardman guard    26830
+This is an ugly lizardman guard.  If you were a lizardman you would
+still think this one is ugly.  He is in charge of keeping unwanted
+visitors from entering the village.  He looks mean and nasty.
+
+Common lizardman    7905
+He is a common lizardman.  He tries to just mind his own business and
+live peacefully among the villagers.
+
+Lizardman shaman    25015
+This is the lizardmen's shaman.  He dabbles a little bit in magic but no
+magic he does can harm people.
+
+Satarus the Lizardmen King (royal)   49010
+This is Satarus the Lizardmen King. He looks very old yet very strong
+and powerful.  It would be wise not to attack him.  I mean it, don't
+attack him.  He's not meant to be killed.
+
+
+Swamp boots
+These green boots look and feel very slick.  It seems very thin yet very
+strong.  Maybe due to is magical nature.  It is made from the hides of
+black dragons.
+
+Lizard platemail
+This lizardman's platemail is greenish in color.  It is made from a
+strange iron ore found in the swamps.  After it is created, it is dipped
+in a magical part of the swamp for 6 months.  Then it is blessed by the
+lizardman shaman to protect those who wear it from most forms of attacks
+and especially poison.
+
+
+City of Wexsmuk:
+ 
+                   x
+                  /
+                 x
+                 |
+                 x
+                 |
+                 x   x-x
+                 |   | |
+           x   x-x-x-x-x           x
+           |   | | | | |          /
+         x-x-x-x-x-x-x-x-x-1-x-x-x
+        /  |   | | | | | |        \
+       x   x   x-x-x-x-x-x         x
+      /            | | |
+     E             x-x-x
+                     |
+                     x
+
+1: Castle
+
+Minotaur Guard    49898
+Standing before you is a large minotaur guard. He is not your typical
+minotaur.  He is highly intelligent and not as savage as one might
+think.  He is dressed in full armor, and is ready to do battle with any
+unwanted intruders.
+
+Minotaur Citizen   21901
+This is a large minotaur citizen.  He may not be as tough as a minotaur
+guard, but he can surely fight well.
+
+Royal Minotaur Guard   78237
+Standing before you is a large minotaur guard.  He is not your typical
+minotaur.  He is highly intelligent and not as savage as one might
+think.  He is dressed in full armor, and is ready to do battle with any
+unwanted intruders.  He has been specially selected to be the royal
+guard.
+
+Umber Hulk   74470
+This huge umber hulk looks completely black all around except for its
+belly.  It has huge mandibles that looks like it can snap you in two
+with a quick snap.  He looks a lot bigger than most umber hulks.  He is
+highly dangerous and probably will eat you alive!
+
+Mind Flayer     17723
+
+
+Breast plate
+This breast plate of steel was specially crafted for the race of the
+Minotaurs of Wexsmuk.  It is rather large, and would most likely not fit
+well on an average person.
+
+Minotaur axe
+This is a large double edged battle axe used by the Minotaurs of
+Wexsmuk.  It is as deadly as it looks.
+
+
+Town of Waff:
+
+         1
+         |
+         x-2
+         |
+   x-x-x-x
+        /
+       x
+       |
+       x
+       |
+       E
+
+1: Traveler
+   ll or lout            Shows the outside environment.
+   push 1                Port of Devil's Isle.
+   push 2                Port of Dragon Isle [Kohl]
+   push 3                Port of Flinia.
+   push 4                Port of Pieb.
+   push 5                Port of Porih.
+   push 6                Port of Waff.
+   push 7                Traveler's Choice.
+   *note* It costs 100 coins to fly this ship.
+2: Pub of Waff
+
+A wealthy merchant   16455
+A wealthy merchant eyes your fine clothing and fat purse.  He tries to
+entice you into buying something, but you just know that he is a
+glorified thief and this his wares are crap.  He looks tough for a
+merchant.
+
+
+A silver longsword
+This well crafted blade is made of steel layered with silver.  Only the
+wealthy usually carry this sword.
+
+
+City of Zolifo:
+             
+             3
+             |
+             x
+             |
+             x
+             |
+             x-x
+
+             2     5
+              \    |
+               x-x-x
+               |
+               x
+               |
+               x-E
+               |
+               x
+               |
+             4 x
+             | |
+           x-x x
+             | |
+             x-x
+
+2: Zolifo Castle
+3: Brytex the hill giant king
+4: A very large Ogre (evil)
+
+Gruntt the Ogre guard (guarding)    44740
+This ogre looks extremely tough! He stands here and guards the gate into
+the city of Zolifo.  He looks almost undefeatable.  He stands here and
+looks as if he is waiting for you to say something.
+
+A hill giant   15440
+This hill giant stands almost 10 feet tall.  He is no ordinary hill
+giant.  He has been disciplined and trained in the art of combat.  All
+adventurers should think twice before attacking the inhabitants of
+Zolifo.
+
+A huge bugbear  14448
+He don't look too happy.  He sort of looks like a giant goblin.
+
+A hill giant guard    23895
+This hill giant stands almost 10 feet tall.  He is no ordinary hill
+giant.  He has been disciplined and trained in the art of combat.  All
+adventurers should think twice before attacking the inhabitants of
+Zolifo.  This giant is stronger than the other hill giants and that is
+why he is a guard.
+
+Brytex the hill giant king   75414
+This is Brytex the hill giant king.  He owns this city of Zolifo and
+much of the land in Collioke.  He is very powerful.  Some say he and
+Durantalist once fought a long time ago and he almost killed him.  He is
+very strong and very deadly, but he also possesses great treasures.
+
+An ogre guard    18274
+This ogre looks mean and tough.  He stands perfectly still as he guards
+the north exit.
+
+Sholitia Nothorin the Unseen Thief/Mage (good)    100598
+Sholitia Nothorin is dressed in common clothes.  She has this innocent
+look about her that almost makes you feel sorry for her.  This young
+lady is tall and slender and has the face of a child.  She is skilled in
+what she does and can make a deadly foe.
+
+You say: hi
+Sholitia turns around and motions for you to keep your voice down.
+Sholitia says: Hi there.
+
+You say: mage
+Sholitia says: I have learned that one needs magic to get certain
+               imaginable things done.
+Sholitia smiles.
+
+Sholitia says: Well, actually I don't like being called a thief.  I do
+               not steal from people.
+
+You say: steal
+Sholitia says: I don't steal or backstab others.  I just use certain
+               skills that thieves know to get things done.
+
+You say: skills
+Sholitia says: Well, things like moving silently and picking certain
+               locks that need to be picked.
+Sholitia grins.
+
+You say: imaginable
+Sholitia says: Yes, things like vanishing into thin air!
+Sholitia cackles with glee.
+
+
+Sopem:
+
+center, center, sleep on altar
+end up in a trap.  if you push button you WILL die
+search east wall as many times as it takes to find one spike longer than the rest.
+push spike, wait to fall
+
+
+      4
+      |
+      x         x
+      |         |
+      x     x-x-x
+      |    /
+      x-x-2-L-x
+          |   |
+          x   3
+          |
+        x-x
+          |
+          x
+          |
+          x
+          |
+          x
+          |
+        x-x-1
+
+1: stone well
+   enter well (to leave zone)
+2: push brick - west
+   pull brick - east
+L: pull lever - to open door
+3: Dorthinick Autuick the Death Knight (undead)
+   Gloves of Lucanus (8 hour respawn or something crazy)
+4: Skeletal Warrior Lord
+
+Small black bat   732
+A disgusting little black bat hangs from the ceiling.  Its little beady
+black eyes stare at you as it wraps its hideous little greasy, leathery
+wings tighter around its mangy body.  It yawns and displays a rather
+nasty set of fangs.
+
+Skeletal Warrior    506637
+This is a skeletal warrior. It is not your typical undead skeleton.
+These seem to possess stronger force from the negative plane than normal
+undead creatures.  It seems to be very powerful in nature.
+
+Dorthinick Autuick the Death Knight (undead)    792423
+Before you stands the awesome Death Knight named Dorthinick Autuick.  He
+is dressed in pitch black armour that looks as ancient as the gods
+themselves.  A dark helmet covers his face except for two glowing red
+eyes that seem to penetrate your very soul.  He is not bothered by you
+standing here before him.  It is said that only death will greet those
+who dare to fight such an unholy knight of power.
+
+Ghost of Dorthinick Autuick the Death Knight (undead)
+Before you stands the awesome Death Knight named Dorthinick Autuick.  He
+is dressed in pitch black armour that looks as ancient as the gods
+themselves.  A dark helmet covers his face except for two glowing red
+eyes that seem to penetrate your very soul.  He is not bothered by you
+standing here before him.  It is said that only death will greet those
+who dare to fight such an unholy knight of power.
+He is dead already, so do not bother trying to kill his ghost.
+
+Skeletal Warrior Lord
+This skeletal warrior is the lord of all the other skeletal warriors.
+He once was a great fighter, but then an evil being stole his soul.  He
+now remains on the prime material plane to search for his stolen soul.
+This is the fate of all skeletal warriors.  This one is different
+because of who he once was.
+
+
+Unholy Symbol of Dorthinick
+This dark unholy symbol seems to radiate dark magic.  It was created by
+Dorthinick so that he could use it to make people follow the ways of the
+evil.  It is evil indeed.
+
+Pitch Black Cloak
+This is a pitch black cloak that seems to be made from the shadows
+itself.  It seems to absorb all forms of light, yet it does not make the
+room dark.  It is strangely magical.
+
+Pitch Black Helmet
+This is a pitch black helmet that seems to be made from the shadows
+itself.  It seems to absorb all forms of light, yet it does not make the
+room dark.  It is strangely magical.
+
+Pitch Black Armour
+This pitch black armour is a well crafted plate armour.  It looks as
+ancient as time itself.  It is so dark, you could almost swear that it
+is nothing but a shadow.
+
+Pitch Black Gloves
+These pitch black gloves feel soft to the touch.  They are extremely
+light weight.  It looks as if it has a shadow cast on it permanently.
+
+
+
+
+
+
+
+

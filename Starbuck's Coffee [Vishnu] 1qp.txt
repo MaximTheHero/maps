@@ -1,0 +1,13 @@
+Starbuck's Coffee [Vishnu]
+Dirs:  Chaos, 3e, 2s, 2e, n, 3e, n, 2w, 3n, w
+
+ x-1-x-E
+
+E: entrance/exit
+1: Sugar bowl with the Sugar Marble in it
+
+Monsters:
+An overweight man with blue hair and a pierced navel, writing poetry
+An overweight boy with green hair and a pierced septum, sketching on a pad
+An indecisive customer
+

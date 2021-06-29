@@ -1,0 +1,612 @@
+Night of Colour [Stelari]
+Dirs: Chaos, n, climb tower
+
+
+
+
+
+
+                                 
+                    A           E
+                   /           /|\
+                  x           x-x-x
+                  |          /|X|X|\
+                  x         x-x-x-x-x
+                  |\       /|X|X|X|X|\
+            C     x-x     x-x-x-x-x-x-F
+           /|\    |X|    /|X|X|X|X|X|X|\
+          B-x-x   x-x   x-x-x-x-x-x-x-x-x
+         /|X|X|\  |X|   |X|X|X|X|X|X|X|X|\
+        x-x-x-x-x x-9   D-x-x-x-x-x-x-x-x-x
+       /|X|X|X|X| |X|   |X|X|X|X|X|X|X|X|X|\
+      x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+     /|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\
+    8-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-3-x-x-x-x
+     \|X|X|X|X|X|X|X| | |X|X|X|X|X|X|X|X|X|X|/
+      x-x-x-x-x-x-x-x D x-x-x-x-x-x-x-x-x-x-x
+       \|X|X|X|X|X|X|   |X|X|X|X|X|X|/   \|X|
+        x-x-x-x-x-x-x   x-x-x-x-x-x-x     x-x
+         \|X|X|X|X|/     \|X|X|X|X|/      |/
+          7-x-x-x-x       x-x-x-x-x       x
+           \|X|/ \|        \|X|X|/         \
+            6-x   x         x-x-x           x
+            |X|              \|/           /
+            x-x               1           4
+             \|
+              5
+
+1: Orange Spherule
+2: Enigma (Lady Rose)  [random location]
+3: Resonant
+4: Mournful (Dark Black)
+5: Signal
+6: Brown Spherule
+7: Ghost of Gold
+8: Majesty (Blue/Silver)
+9: Aspect
+A: Promise (Bronze)
+B: Aquamarine Spherule
+C: Phase
+D: Forlorn (Grey)
+E: Yellow Spherule
+F: Humble
+
+Monsters:
+
+48281 : Shadow
+
+Shadow curls around, darkness enveloping, welcoming, cold.
+The dark seems to lend an ominous appearance to everything, as if it
+were imbuing its horrible life within.
+
+
+28444 : Gloom
+
+Leathery rustling, a swish of air, is all that reveals a gloom is
+here.  Diving close, you see two specks of eyes, but they blink and
+are lost.  Wings as wide as you are tall, Gloom is not afraid, and the
+rustling circles above you, waiting for an opening.
+
+
+37585 : Impediment  [weak vs fire]
+
+Limbs thrashing, crushing, bashing, Impediment blocks your path. 
+Boughs thick and strong, laden with thorns, a deadly foe, a deathly
+wall.  Rooted in place, it cannot chase, but the only way is back the
+way you came.
+
+
+24250 : Furtive
+
+Eight legs of hunger, eight legs of pain.  Eight legs of desire, eight
+legs of reign.  Waiting death, ready to pounce upon his capture like a
+king at the feast, Furtive drips burning agony from his fangs like
+saliva.
+
+
+48154 : Dismal
+
+Soulless howling, a pain so great, wandering the land with no chance
+of escape.  A shade of grey, floating aloft, Dismal stares with
+unseeing eyes, unfeeling heart, uncaring mind.  It's touch, death, its
+embrace, damnation.
+
+
+28444 : Hostile
+
+Fading in and out of the night, a shadowy, lithe shape pads quietly. 
+Luminous yellow, eyes like fire, drawing you in, seducing in their
+beauty whilst the claws unsheathe and prepare for war.
+
+
+26067 : Snare
+
+Catching, sinking, grasping, clinging.  Snare is mud, but so very
+alive.  It waits for the unwary, and pulls them down, down, down. 
+Hardly a body, but a pool of living, a consciousness still, it
+radiates evil and joy at capture, hate and anger at escape.
+
+
+32409 : Bulwark
+
+Clothed in darkness, bejeweled with shadows, Bulwark guards the
+precious Black.  Evil eyes, darker than the night, follow, search and
+seek, always aware.  Big and bulky, but fast like lightning, Bulwark
+emerges from the night, imposing and frightening.
+
+
+25877 : Smoky Glimmer
+
+A streak of light, gone before it is even really here.  A fading tail,
+its trail burnt into your eyes, follows the bright, bulbous head. 
+Against the dark of night, the light of life shines bright.
+
+
+27031 : Timorous
+
+Lithe and lanky, Timorous leaps and bounds, from tree to tree to
+ground to tree.  Deep maroon fur matches the laughing call all too
+well, both rich and textured and filled with life.  Tail like a whip,
+but responsive and strong, another arm, almost, though without the
+strong leathery-palmed hands of the other four.  Small, black eyes
+watch you carefully from beneath craggy brows as he swings easily
+through the trees.
+
+
+54999 : Radiance
+
+Light embodied, glistening pure in the moonlight, Radiance prances
+proudly, silver hooves striking the ground like gunfire.  Spiral horn
+thrust skyward, catching the sun as gold, and throwing rainbows of
+warmth, Radiance neighs like a waterfall of laughter.  Such love, such
+heart is abundant that it seems to encompass the whole land, so long
+as Radiance is near.
+
+
+22769 : Paragon
+
+Glowing eyes, round, wise, focus on you, but yet see all else too. 
+Perched on a branch, Paragon watches over the land, head swivelling,
+body still.  Old, yet strong, Paragon stretches his wings to ease
+stiffness, feathers ruffling to show their mottled pattern.
+
+
+18560 : Peace
+
+White wings fluttering lightly, feathers rustling in the breeze, Peace
+coos lightly, the sound soothing and tranquil.  Curling tail feathers
+twitching slightly, Peace searches for food and shelter, and love. 
+Throwing more light than expected, Peace seemingly glows, white in the
+moonlight, white in the heart.
+
+
+79837 : Resilient
+
+Light grey, reflecting in the moonlight, Resilient moves slowly but
+surely, swinging its horn-laden head side to side, crushing trees. 
+Bulky, brawny, brainless - beady little eyes buried deep under craggy
+brows stare uninterestedly at you, food not.
+
+
+31283 : Swoop
+
+A dance of light, swept through the air on wings of pure white, Swoop
+breathes the clouds and consumes the sky.  All-seeing, she watches for
+prey, for knowledge, for fun.  Nimble, yet strong, she is ready to
+dive, and what a dive it can be, full of blood and of screams, full of
+gore and of glory.
+
+
+28444 : Rapid
+
+Prancing about on air-light hooves, Rapid flows from rock to rock with
+ease.  Curling rough horns arc over his head, hard and strong. 
+Bleating softly, his calls echo over the miles, and are returned in
+kind - alone here, but only a leap away from others.
+
+
+Items:
+
+Shadow material.
+Trapped in the land of the living, this remnant of the dead clouds the
+mind with darkness, sliding away from the light.  Light as a feather,
+and textured like woven shadow, alive once, you think.
+
+Timorous tail.
+A length of furred rope, but morbid and grotesque.  The tail of
+Timorous, thickly covered with maroon fur, velvet touch, but ice cold
+with the chill of death.  Rigor mortis touches it not, and flexible it
+remains.
+
+Gloom wing.
+Tough like leather, rough and ready, Gloom flew with this wing.  Half
+your height stretched, but rolled up barely several inches around, the
+tendons soft and supple, their support gone.
+
+Impediment branch.
+Splintered, cracked, heavy, limb of Impediment once strong, now gone. 
+Covered in black mould, dry and dusty, with wood beneath like
+petrified oak.  Lost as Impediment was felled, found for patient
+waiting.
+
+Dismal soul.
+A prize unclaimed, that should not be.  The soul of Dismal, a
+soulless, but yet it exists.  To use it is pain, to victim and dealer,
+and not only pain of the body, but the soul.  An orb of mist, it
+appears, but more it is, and less, for only partly in this realm, and
+partly in that of death.  More to it than meets the eye, perhaps.
+
+Hostile Pelt.
+Dusky, dark and rippling soft; a pelt like no other.  Light seeps into
+the velvet fur, absorbed, and never to return.  Thick and warm, yet
+light and tough, seemingly an impossibility, but lovely to wear.
+
+Snare mud.
+Life gone but not forgotten, mud of Snare is now merely mud, but not
+normal.  Dank and brown, sticky and foul, it clings and grasps still,
+but with no purpose.
+
+Bulwark shield.
+Taller than most men, and darker than most nights, the shield has a
+black on black etching, a dark flame.  Heavy, unwieldy, but strong and
+protective, Bulwark drew on dark strength to use the shield
+effectively.  Black metal face, with forged support struts behind, a
+handle of black leather at back.
+
+Bulwark sword.
+Forged from black metal, serrated along one sharpened edge, absorbing
+light to form a vicious shadow.  Designed to tear and rip as much as
+slice and cut, a blade to strike fear into hearts and pain into
+bodies.
+
+Glimmer Globe (dim).
+Essence of Glimmer, distilled from life.  Still warm to hold, and
+glowing dimly, the orb is slightly soft, but resilient.  Through the
+translucent skin, the luminous gel inside seems to respond to
+movement.
+
+Radiance horn.
+Spiralling light, a beautiful momento of Radiance.  Dusted with
+glittering sparkles, rainbows erupt from the horn carrying memories
+and warmth.  And yet sadness too, for the passing of Radiance, beast
+of light, bearer of love.  Her horn carries her spirit, and her noble
+grace lies within.
+
+Paragon feather.
+Mottled brown, and warm to touch, Paragon's feather is not worth much.
+It carries the memory of creature wise, he who watches and he who
+flies.
+
+Peace feather.
+Contradiction, the feather torn from Peace by violence, death bringing
+the feather into being, rather than part of the whole.  Light, white,
+it flutters in any breeze, beautiful and yet sad, a reminder of what
+was lost.
+
+Resilient hide.
+Dusky grey, shot with streaks of pure white, strong and heavy.  The
+weight, the strength, both aided Resilient in its life, though too
+little, perhaps too late.  Gone now, the hide remains, a gruesome
+reminder of the loss of life.
+
+Swoop eye.
+Round and wet, soft to touch, the eye of Swoop look on still, but sees
+no more.  An echo of life, sad now gone, the eye is a bloody trophy of
+the beautiful, noble Swoop.
+
+Rapid horn.
+A smooth curve, but rough in texture and hard as stone.  Pointed at
+one end, a crude dagger to tear and rip, but clumsy to use, to hold. 
+From the free, careless Rapid, the horn is torn and now a tool to kill
+another.
+
+
+-----------------------------------------------------------------------
+Lady Rose.
+Mysterious Lady Rose, swathed in the strange, clothed in the
+unexpected.  Unusually bright, light blue eyes pierce your soul as she
+looks through you, unsurprised by your presence.  Elegant in her
+movements, flowing and sweeping, Lady Rose seems out of her element,
+deep in a forest.
+
+You say: hi
+Rose tells you: I see you.  What brings you to my tent?
+
+You say: blue
+Rose tells you: She comes, she goes, who has her now, nobody knows.
+
+You say: silver
+Rose tells you: He is barely himself, his aura pale and wan.
+
+You say: green
+Rose tells you: I think he fancies me, you know.  He does make a dashing
+        piece of armour from Resilient hide, but I don't think he's my
+        type.
+
+You say: aura
+Rose tells you: I could read your aura, but you would need to sit down.
+
+sit down
+You sit yourself carefully on the cushions.
+
+You say: aura
+Lady Rose sweeps her hands around you, peering intently.
+Rose tells you: You have no aura.  How strange.
+
+You say: black
+Rose tells you: Strange one he, his aura both strong and weak.
+
+You say: grey
+Rose tells you: Beasts interest me not, they have no aura.
+
+-------------------------------------------------------------------------
+Resonant (u)
+
+You say: hi
+Someone says: hi
+
+You say: rose
+Someone says: mystical one
+
+You say: blue
+Someone says: divine beauty
+
+You say: silver
+Someone says: shining one
+
+You say: green
+Someone says: killer of small animals
+
+You say: black
+Someone says: heart of darkness
+
+You say: grey
+Someone says: great serpent of shadow
+
+You say: bronze
+Someone says: great dragon of light
+
+You say: gold
+Someone says: dead and gone
+
+You say: radiance
+Someone says: unicorn
+
+You say: dismal
+Someone says: ghoul
+
+You say: resilient
+Someone says: rhinocerous
+
+You say: impediment
+Someone says: treant
+
+You say: timorous
+Someone says: monkey
+
+You say: furtive
+Someone says: spider
+
+You say: bulwark
+Someone says: guard
+
+You say: rapid
+Someone says: mountain goat
+
+You say: gloom
+Someone says: bat
+
+You say: peace
+Someone says: dove
+
+You say: swoop
+Someone says: eagle
+
+You say: paragon
+Someone says: owl
+
+You say: glimmer
+Someone says: firefly
+
+You say: hostile
+Someone says: panther
+
+
+----------------------------------------------------------------------------
+Dark Black.
+Dark Black, hiding in the shadows, retreating from the light.  He yearns
+for more, power, darkness, death.  The light opposes, a foe so strong,
+alone he cannot win, but with help, how can he lose.  Fiery eyes, he burns
+his gaze into your soul, a question, a task, an answer.
+
+You say: hi
+Black tells you: An intruder into Mournful, how strange.  Welcome to the
+        castle of darkness, stranger.
+
+You say: green
+Black tells you: Hunter Green?  He matters not.
+
+You say: grey
+Black tells you: Grey?  I know him not.
+
+You say: rose
+Black tells you: She is a strange one.
+
+You say: blue
+Black tells you: Blue?  I know not of her.  Or he.  Whoever it is.
+
+You say: silver
+Black tells you: Silver!  That disgusting shining light, I would kill him
+        if the prying eyes of the sky didn't always warn him of my
+        coming!
+
+---------------------------------------------------------------------------
+Hunter green.
+Slinking through the forest, hiding amongst the trees, Green lives
+free, home with no home.  Wearing the spoils of his hunt, that which
+isn't edible, he goes without nothing he does not want.  Green eyes,
+matching his life, see everything, though they are strangely empty,
+impassive, uncaring.
+
+You say: hi
+Green tells you: Greetings.
+
+You say: black
+Green tells you: He's a strange one.
+
+You say: armour
+Green tells you: I can make a pretty good armour out of the hide of a
+        resilient.  Once you have the armour, I can also try to add
+        different components from the local wildlife to it.  Just give me
+        the hide to start, then give me the armour and the component you
+        want to add.
+
+You say: silver
+Green tells you: I hear he is distraught over Blue.
+
+You say: blue
+Green tells you: I don't know where Blue is.
+
+You say: grey
+Green tells you: We stay out of each others way.
+
+You say: rose
+Green tells you: I think she likes me.
+
+You say: bronze
+Green tells you: We stay out of each others way.
+
+You say: gold
+Green tells you: I haven't seen him for weeks.
+
+----------------------------------------------------------------------------
+The Ghost of Gold.
+Ghostly Gold, once solid as a rock, now floating incorporeal.  A shade
+of his former glory, a once proud knight of light now embraced by the
+plane of death.  Blank, faded, lifeless eyes cast their cold gaze upon
+you, drinking in the warmth.
+
+You say: hi
+Gold whispers icily to you: Life, lost, gone, cold.
+
+You say: black
+Gold whispers icily to you: His influence touches even the plane of
+        death.
+
+You say: death
+Gold whispers icily to you: Death, my cold, constant companion.  I
+        suffer.
+
+You say: grey
+Gold whispers icily to you: Soul of darkness, tainted by shadow.  He was
+        too strong for me, you would stand no chance.
+
+You say: silver
+Gold whispers icily to you: He is distraught over Blue, but he knows not
+        the pain of death.
+
+You say: blue
+Gold whispers icily to you: Silver and I grew up with Blue, blossomed
+        beautiful, but Silver won her while I was away.  Still, love her
+        I did.
+
+You say: green
+Gold whispers icily to you: A slippery one, but wise.  He claims to be
+        able to craft armour from the hide of a Resilient.
+
+You say: rose
+Gold whispers icily to you: Strange lady, I sense her sometimes, here in
+        the plane of death, and yet, she lives.
+
+----------------------------------------------------------------------------
+Dulled Silver.
+Dull, distraught and downcast, Silver is broken without his Blue.  If only
+for a little hope, he would live again, could breathe knowing she may have
+breathed the same air.  But now, nothing but emptiness fills Silver, his
+house is not a home, without her.
+
+You say: hi
+Silver tells you: Traveller, my house is open to you, but forgive my
+        preoccupation.  My Blue is gone, and without her I am nothing.
+
+You say: house
+Silver tells you: My house is echoing with the lack of Blue.  She made
+        this place a home, and now is gone.  I am hopeless without her.
+
+You say: blue
+Silver tells you: Oh, my beautiful Blue is gone!  She is my heart, my
+        everything.  Without her, my house is not a home, my heart is
+        cold, my life is nothing.
+
+You say: gold
+Silver tells you: Noble Gold, my brother in arms.  Fallen, slain, gone.
+
+You say: rose
+Silver tells you: The mysterious Lady Rose, a woman strange and powerful,
+        but I know little of her.
+
+You say: green
+Silver tells you: Hunter Green sees much.  He might be helpful, he might
+        not.
+
+You say: black
+Silver tells you: Black, the taint of darkness across the land is his, I
+        know.
+
+You say: phase
+Silver tells you: That is not for you.  Leave it be.
+
+You say: grey
+Silver tells you: Grey?  I know him not.
+
+You say: bronze
+Silver tells you: Bronze, legendary dragon, strong and true.
+
+---------------------------------------------------------------------------
+Bronze.
+The mighty dragon Bronze, owner of the sky, lord of Promise.  Scales
+of brilliant yellow and ochre flowing over his serpentine body and
+enormous powerful wings emerging from his back, Bronze is a sight like
+no other.  Behind luminous eyes shines a deep and ancient wisdom, and
+inside a cavernous mouth shines a thousand pointed deaths.
+
+You say: hi
+Bronze hisses at you: Greetings, brief one.  What brings you to Promise?
+
+You say: silver
+Bronze hisses at you: I hear he is light of heart, long may he live.
+
+You say: blue
+Bronze hisses at you: Such brief lives interest me not.
+
+You say: black
+Bronze hisses at you: Such brief lives interest me not.
+
+You say: green
+Bronze hisses at you: Such brief lives interest me not.
+
+You say: gold
+Bronze hisses at you: I remember the Gold one, a flash of brilliance, he
+        was.
+
+You say: grey
+Bronze hisses at you: Grey is a cursed presence in the land.
+
+You say: rose
+Bronze hisses at you: Such brief lives interest me not.
+
+----------------------------------------------------------------------------
+Grey.
+Slithering Grey, spawn of the dark.  Oozing slime covers his scaled
+body, protective and terribly foul.  Small black eyes, buried deep in
+the cavernous skull project a deep foreboding and ominous hatred of
+all that lives.  Soiled breath, icy cold, is expelled past forked
+tongue and billows through pointed teeth.
+
+You say: hi
+Grey hisses at you: Ssso sssoft, ssso tasssty.
+
+You say: bronze
+Grey hisses at you: Hisss brightnesss burnsss the ssshadow.
+
+You say: rose
+Grey hisses at you: I care not about them.
+
+You say: blue
+Grey hisses at you: Sssshe sssounds tasssty too.
+
+You say: silver
+Grey hisses at you: Ssssilver isss light.  Sssso painful.
+
+You say: black
+Grey hisses at you: Sssomeone insssignificant, no doubt.
+
+You say: green
+Grey hisses at you: I care not about them.
+
+You say: gold
+Grey hisses at you: Ssssay nothing, I will.
+
+You say: forlorn
+Grey hisses at you: Forlorn.  Ssso cold, ssso comforting.
+

@@ -1,0 +1,35 @@
+chaos,4s,2ne,4e
+
+
+      2 1
+      |/
+    E-x
+
+
+
+
+1: fertile dirt/A giant beanstalk
+   as you climb the beanstalk 'search pod'
+2: throw beans out window
+E: Forest of Wolves [Blazen]
+
+Jack    26831
+This is Jack. He's a BIG boy who looks to have outgrown his clothes.
+He is looking for his mother so he can show her what a great trade he
+made. Somehow you don't think his mom will be very happy when she
+finds out Jack traded her cow for a few measly beans.
+
+The Giant   51893
+This is the giant that lives at the top of the bean stalk.
+He has outlived the rest of the giants and spends his time
+composing music for his flute.
+
+
+
+
+Some magic beans
+Wow. Some magic beans.
+
+A round, magical bean
+A green bean from a magic beanstalk. Perhaps that's why it's
+so oddly shaped. You wonder what use it is, now.

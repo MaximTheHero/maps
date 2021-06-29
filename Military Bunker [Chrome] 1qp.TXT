@@ -1,0 +1,84 @@
+sci,enter,u,3e,d,e,path,14e,n,bunker
+
+         1
+         |
+         2
+         |
+ u       d
+ |
+ x
+ |
+ x
+ |
+ x
+ |
+ u     x-d-x
+         |
+         u     d
+         |
+         E
+
+1: search mud - A multi-purpose wrench
+2: search mud - Chrome Marble
+
+An outpost guard   16981
+
+An outpost trooper   25369
+This is one of the fort's troopers, a sturdy looking man, toughened
+by years of outpost life.  Always combat-ready, he is wearing a heavy
+suit of kevlar, heavy combat boots and a helmet with the dark visor
+lowered.  In his able hands rests an assault rifle, though his gloved
+hands look like more than adequate weapons.
+
+Sergeant Nachschub   69082
+The hulking mass of muscle glaring at you is the infamous supply sergeant
+Nachschub.  He looks like a tank with a heart beat; he could probably
+tear you to pieces with his teeth.  And you're standing in his supply
+room.  You're not going to find anything as long as he is here.
+
+General Krieger   86191
+Before you stands the tall and powerful General Krieger, the main man
+behind the defense of this fort.  Sensing bulging muscles under his
+general's stars-adorned gray uniform, you realize this guy did not become
+general through paper-pushing.  You size him up to be a more than
+formidable opponent.
+
+A machine gunner    40026
+This sturdy woman operates the machine gun at this military fort, and
+she is quite the adept; she proudly wears the silver crosshairs of a
+precision heavy machine gun operator on her grey uniform.  This being
+peacetime, she has not had much to shoot at lately.  She's almost
+drooling over the fact that she has someone to shoot at!
+
+An oilfield worker   7676
+This hugely muscled man is your typical unshaved oil worker, his pants
+and flannel jacket filthy and a cigarette hanging out of a corner of
+his mouth.  He even wears one of those helmets on his head.
+
+Mr. Anzug    1675
+The suit standing before you surveying his properties is Mr. Anzug,
+the oil tycoon him very self.  Though he looks like a regular frail
+suit, he could probably muster some surprising strength to defend his
+black gold, were you to threaten it.
+
+
+
+A clip of Gatling ammo
+This is a clip of heavy-gauge Gatling ammo.  To check the number of
+rounds left, use <check clip>.
+A digital counter on the side displays the number "50"
+
+A multi-purpose wrench
+This is your standard heavy-duty multi-purpose wrench.
+
+Chrome Marble
+
+Gatling Phalanx Cannon (enhanced)
+This is a Gatling Phalanx cannon, a wicked looking piece of machinery.
+With its rotating barrels it can spit fire at insane rates, doing some
+devastating damage.  This particular gun has been modified to be able
+to fire fully automatic <setgun auto>, semi-automatic <setgun semi>
+but also single shots <setgun single>.  It is generally a floor
+mounted gun, but if one is strong enough it could be held also.
+
+

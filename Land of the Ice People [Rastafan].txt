@@ -1,0 +1,28 @@
+icelands portal,4s,portal
+
+  x x-x-x   x-x-x-x
+  | |   |   |     |
+  x-x x x P x-x x-x
+    | | | |   | |
+  x-x x-x x x-x x-3-x
+  |     | | |     |
+  x-x x-x x x x-x-x
+    | |   |   | |
+1-2-x x-x 4 x-x x-x
+        | | |     |
+  x-x-x-x x x-x x-x
+    | |   |   |
+  x-x x-x x   x-x-x
+  |     | |   |   |
+  x-x x-x x x-x x-x
+    | |   |   | |
+  x-x x-x-x-x-x x-x
+
+               
+
+1: Crystal Elder
+2: search (to open west exit)
+3: search (to open east exit)
+4: portal (jump portal)
+
+

@@ -1,0 +1,27 @@
+sci,enter,u,3e,d,e,path,13e,s,enter
+
+     E-x
+     |  \
+     x   x-x
+    /    | |
+   x     x x-x
+   |     | |  \
+   x   x-1 x   x
+   |     |     |
+   x     x-x   x
+  /      |     |
+ x       x     x-x
+  \      |
+   x     x
+
+
+1: Wormhole or fiddle with nuclear warhead to open wormhole
+
+
+
+Giant Praying Mantis (interdimensional)
+This hideous mutant is positively massive in size. Easily as large as
+a small automobile, she still manages to move in complete stealth. A
+silent hunter bent on feeding her hunger, this is a deadly foe indeed.
+
+Huge Praying Mantis (interdimensional)

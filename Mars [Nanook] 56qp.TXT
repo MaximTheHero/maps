@@ -1,0 +1,138 @@
+
+sci,enter,u,4n,d,n,11w,n,nw
+
+
+
+Spaceport:
+
+EL-x       1
+   |      /          1: Earth Mining Complex Shuttle
+   x     x          SH: Shuttle to Midway Space Station
+    \   /           EL: Elevator
+     x-x
+    /| |
+ D-x-x-x-x-SH
+    \| |
+     x-x
+        \
+         x
+
+Colony:
+
+     8
+    / \
+   x   7
+   |   |
+   9   x
+    \ /               2: Doran's Outfitters - Environmental Suit
+     x                3: KRAK Broadcasting
+     |                4: Hotel
+     x                5: Surface Airlock
+      \               6: Nathan Hines
+       x              7: Purgatory Brothel - e,u,n,w,search bed (Crimson Marble)
+       |              8: Deever's Tavern [Pub]
+       x   x-x-u      9: A smoke house
+        \ /
+         x
+         |
+         x
+         |
+       x-x-x-3
+      /| |   |
+     6-x-x-4 x
+     | | |   |
+     x-x-x   x
+     |   |   |
+     5   x-x-x
+             |
+             2
+
+
+Mines:
+
+      EL-x
+         |
+         x           x
+         |          /
+         x-x       x
+         |  \      |
+       x-x   x     x
+       |     |    /
+       x   x-x   x
+      /   /   \ /
+     x   x     x
+    /     \     \
+   x       x     x
+   |      /|     |
+   x   x-x x     x
+    \ /    |    /
+     x     x   x
+     |      \   \
+     x       x   x   x-x
+                 |  /   \
+                 x-x     x
+                /       /
+               x       x
+
+Mountain Mine:
+
+
+    B x x     x   x
+    |/ \|    / \ /
+    x   x   x   x
+    |  /   /    |
+    x-x   x     x
+   /   \ / \   /
+  x     x   x-x            S: Surface to Airlock
+        |  /  |
+        x-x   x
+         \    |
+          x   x
+          |
+          S
+
+
+Mars Surface:
+
+    x-x
+    | |
+    x-x   x
+    |  \ /|\
+    x-A x-x-x
+    |   | | |
+  x-x   x-x-x
+  | |   | | |             A: Mountain Mine Entrance
+  x-x-x-x-x-x-C           C: Colony Entrance
+  | | | | | | |
+  x-x-x-x-x-x-x
+   \| | | | |/
+    x-x-x-x-x
+    |/ \|/
+    x   x
+
+
+Earth Mining Complex:
+
+  H
+  |
+  x
+  |
+  x-x-x                 ES: Earth Surface
+  |                      H: Shuttle to Mars Spaceport (1)
+  x
+  |
+  x
+  |
+ ES
+
+Earth Surface:
+
+  x-x-x
+  | | |
+  x-C-x                  C: Earth Mining Complex
+  | | |
+  x-x-x
+    | |
+    x-x-x
+         \
+          E

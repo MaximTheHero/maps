@@ -1,0 +1,50 @@
+wanders chaos.  channel 2 is normal, channel 4 is 2.0
+
+
+                      x-x-x-x
+                      | | | |
+                      x-x-x-x
+                        | |
+                      x-x-x-x
+                          |
+              x-3-x   x x 5 S
+              | | |   | | | |
+    u d       x-u x   x-x-x-x
+    | |         | |       |
+    x x     2   x-x     x-4   7
+    | |     |   |       | |   |
+    d u D 1-x-x-S-x-x-x-x-x-x-x
+              |     |   |      \
+    x-x-x     x   B-x   C       6
+    |   |     |     |   |
+    x x-9 9-x-8-x   x   x-x-x
+    |   |     | |   |
+    u x-x x x-A x   x
+          | |   |   |
+      x-d u-x   x x-x-x-x   x-B
+          |         |       |
+          x       x-x-x   x-x-x
+                   /| |     |
+                  x x x     x
+                   /
+                  x-x
+                  | |
+                  x-x
+
+
+S: Start
+1: Moe's Tavern
+2: Simpsons Expansion [Lostar]
+3: Out - Backyard -> Tree
+4: School
+5: Out to Schoolyard, Down to Lunchlady Doris
+6: Herman's Military Antiques (part of Simpsons Expansion [Lostar])
+7: Kwik-E-Mart, open case, up Paul McCartney for String of Love and Happiness
+8: Police Station
+9: Nuclear Plant
+A: Burns Manor (part of Simpsons Expansion [Lostar])
+B: Retirement home (part of Simpsons Expansion [Lostar])
+C: Church
+D: push button, at reactor core, move grate (to exit)
+S: Principal Skinner, kill him, open drawer - Alabaster Marble
+

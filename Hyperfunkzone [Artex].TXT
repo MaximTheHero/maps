@@ -1,0 +1,49 @@
+chaos, n, enter fog
+
+
+        S
+        |
+        x-x
+        | |
+      x-x-x-x
+      | | | |
+      x-x-x-x
+      | | | |
+      x-x-x-x-x-x-x-x-x-x-x-E
+      | | | | | | | | | |
+      x-x-x-x-x-x-x-x-x-x
+        | | | | | | |
+        x-x-x-x-x-x-x
+        | | | | | |
+        x-x-x-x-x-x
+          | | |
+          x-x-x
+
+
+S: Start
+E: Exit
+
+
+
+
+A dark blotch of nofunk   9517
+
+Funk on the Move    3027
+Don't mind this little funky dude. He is just chillin' like the illin' little
+villain on a saturday night. Cool baby. Real cool.
+
+A purple splotted four legged bush    734
+A purple splotted four legged bush happily munching on some detritus.
+
+A wadded up lump of pure funk   2726
+It appears you have stumbled on a lump of pure funk! What a find! Mankind
+could launch itself into a new era of funkdom if you can capture its essence.
+Watch out though; he can probably really slap you five!
+
+A funkmonk   4696
+Whoa! This lady is a student of funk. A master of disaster and a bass
+thumpin' pimpolicious with a capital 'F' spell this baby m U n k!
+Bow down and serve the righteous clergy of da masta!
+
+
+

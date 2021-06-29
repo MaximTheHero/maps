@@ -1,0 +1,58 @@
+chaos,w,3n
+
+  1
+  |
+  x-2
+    |
+    x
+    |
+  3-x-x
+    |
+    x
+    |
+    E
+
+
+1: Alfonzo's Nightmare [Alfonzo]
+2: jump over desk, open cabinet
+3: sit beanbag, dive pool
+   Polystyrene Marble
+Fred    220
+Its MR. Flintstone to you.
+
+Nurse    92
+This nurse is your typical gabby, dingy, and pristine nurse type.  She
+holds that icky thermometer, you know the one for your mouth.
+
+Skipper    387
+Boy, oh boy, does the skipper look different.  This man is standing
+here in boxer shorts soaking up the sun.  No sign of the little buddy
+anywhere.
+
+Bozo   220
+This man's orange hair is streaked with purple lines.  He holds a
+tennis racket but you can tell he's not into this at all.
+
+Batman   387
+Batman looks older, haggard, and sorta deranged.  It's almost as if he
+now had the Joker's smile.
+
+
+Valium
+This little orange pill will fade your pain.
+
+gown
+This is a hospital gown.  You know, the kind that leave your back side
+exposed.
+
+A thermometer
+A thermometer, but it's not the normal type.  This is the painful
+
+Darvocet
+This little grey pill will fade your pain.
+
+Tennis Racquet
+This racquet is a 1970's Bjorn Borg special. It's made of heavy wood
+and really sucks.
+
+

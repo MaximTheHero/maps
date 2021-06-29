@@ -1,0 +1,261 @@
+magic, road portal, 3e, 4n, path
+
+
+
+                 x
+                 |
+                 u
+
+                 4
+                 |
+u            d-x-x-x-u         x-d
+|              | | |           |
+x-x-x-x    x-1 2 x x-x         x-x
+    |      |     |
+    x-x    x-3-T-x-T
+               | | |
+               x-x-x
+                 |
+               x-x-x
+                 |
+               x-x-x-x   x
+                 | | |\ /
+             5-x-x-x-x-x
+               | | | | |
+               x-x-x-x-x
+                       |
+                       x
+                        \
+                         x-x-P
+
+1: Storm Giant Stable Master
+2: Armoury Master
+3: Gargoyle
+4: move stand
+5: Celestial Sorceress (darkened)
+   turn rune (if you haven't completed Free Stag
+
+
+Snowcat   424
+Before you stands a big cat. It's coat is furry and white, with
+little black spots in it. It has very large pads, they must contain
+some wicked claws. It is staring straight at you.
+
+Wandering Storm Giant   3942
+This is truly a giant. He must stand twenty feet tall, and weigh
+an incredible amount. He seems to be oblivious to the snow and cold. His
+robes billow out around him, even when the wind calms down. His hair is
+long and tied in the back, and he has a long beard.
+
+Storm Giant Guard   7830
+This giant looks big, bigger than most giants you've seen at least.
+He has long flowing brown black hair streaming out from under his helmet.
+He looks very strong and well trained. His beard is long and is braided
+down to his belt.
+
+Medlar Guard Captain (empowered)    855658
+This giant is actually gigantic believe it or not. You can tell that he is
+the Captain of the castle's guards by the emblem that he displays on his arm.
+He has long flowing silver-gold hair, and a powerful look in his eyes. He is
+here to keep anyone who has violated the castle in the past, from returning
+and causing any more damage. It would not be a smart thing for you to attack
+him, since he looks so much more powerful than you.
+
+Storm Giant Stable Master   3876
+This is the keeper of the stables for the Storm Giant Lord.
+He looks like he knows his business, and can keep any animal in line.
+
+Resident   4132
+This storm giant is a resident of Medlar castle. He works within
+the castle walls for the profit of the lord. He looks like he could take on
+just about anything. You wonder what could be out there that would make storm
+giants need to have a castle stronghold like this.
+
+Armoury Master   7827
+This storm giant looks like he has a purpose in life, to guard and care for
+the lord's equipment. He stands a little taller and wider than most of the
+other storm giants you've seen around here.
+
+Lord of Medlar   35746
+The Lord of Medlar stands tall and proud. This storm giant is the most
+powerful storm giant in the land. He holds reign over medlar and claims
+rights to all other regions of this realm. He has long flowing hair
+and a beard that seems to move on its own.
+
+Bodyguard   18692
+This is a tall, thin person. You can see a small bits
+of webbing between his fingers. He looks very agile, but
+a little stringy. He has a strange look in his eyes.
+
+Giant Cook   1363
+This storm giant helps to cook the meals for the castle. She provides a vital
+function for the castle and has more power than you can at first determine.
+
+Lady in Waiting   1881
+This female storm giant is the lady of the castle's personal assistant. It
+is her job to do all of the worrying for the lady. She also helps in
+managing the castle and its grounds.
+
+Lady of Medlar   25944
+The Lady of Medlar castle. She is the second most powerful
+storm giant in medlar, second only to the Lord. She looks very noble and
+beautiful. She almost shines. She looks very powerful.
+
+Prison Guard Giant   33900
+This is the storm giant who is in charge of guarding all of the
+captured enemies of Medlar. He looks like he has been through a lot.
+
+Hill Giant   3934
+This giant is oddly simian and barbaric in appearance, with overly long
+arms, stooped shoulders, and low forehead. Its limbs are very muscular and
+massive. It is not as tall as the storm giants, but it is still bigger than
+you.
+
+Puddlum   27329
+This is a strange man who stands in front of you. He stands about
+seven feet tall, but is very skinny. He wears a light green tunic, and a dark
+green pants with black boots. He has a shock of yellow hair that contrasts
+greatly with his dark skin. You notice that he has small pieces of webbing
+stretching across the gaps between his fingers. His eyes glow with a cunning
+that you have never seen before.
+
+A Rat   176
+These rats scurry around between the items in the room. It is
+quite a big rat, maybe the size of a small house cat. It has slick
+fur and beady little red eyes.
+
+Griffin   24088
+A large griffin with a gaping maw and large wings. It is the Lords'
+personal protector. What could it be protecting?
+
+The Azure Dragon (gleaming)   281000
+The Azure Dragon. He is a giant of a dragon, towering over the floor
+of the cavern. Its scales shine with a brilliant gleaming sky blue light.
+It has one green eye, and one red eye, each of which is glaring
+directly down at you. The wings of this dragon extend out and up for
+an unimaginable distance, while its wicked looking black claws dig
+into the earth. There are small wisps of dark orange smoke winding
+up and out of the dragon's nostrils.
+
+A Dragon Guardian  6864
+This appears to be a large knight, outfitted in full armour. The
+armour has a strange blue tinted magical glow about it, and you
+can see, as you look through the visor, you only blackness where
+eyes should be. There is a picture of the Azure dragon painted on this
+guardian's shield.
+
+
+
+
+Snowcat Fur
+This is the fur of the northern snowcat. It is big and bulky
+and very furry. It is white with little black spots on it.
+
+Cloud Cape
+This is the cape of the clouds. It looks and feels very light
+to your touch. It even seems to be blowing away, even when there is no wind.
+It looks like very good protection against the elements.
+
+Guard Key
+This is a rather large key. It is made out of a shiny metal.
+
+Medlar Guard Armour
+This is a very large piece of platemail armour. It looks like it
+would only fit a giant. On its face is etched the emblem of the house of
+medlar.
+
+Hurricane Helmet
+This helmet is very large. It must belong to someone who has a very
+big head. There are hazy gray black clouds that move slowly around the
+outside of the helmet.
+
+Copper Bracers
+The bracers shine with the gleam of newly polished copper.
+They are enormous. Who wears something this big?
+
+A massive sword
+This sword looks massive. You can not judge what kind of powers this
+weapon has. You'll have to identify it to learn more.
+Storm Sword
+A massive sword. You've never seen a sword so large. Its blade
+glows with the power of the storm, and when you look close you
+can see little wisps of clouds surrounding it.
+
+A whip
+This whip looks interesting.  You'll have to identify to learn more.
+Knife Edged Whip
+A large long whip with many sharp little blades on the end.
+
+Storm Armour
+This piece of armour looks increadibly well made. It will probably give
+very good protection. It is human size.
+
+Storm Staff (enchanted)
+A straight and narrow wooden staff. It has the symbols of clouds, rain,
+and lightning carved into it.
+
+Double Edged Blade
+This weapon looks well crafted. The metal of the blade shines of both edges.
+
+Trouble Wood
+This is a trouble wood. People use it to rub
+away their troubles by rubbing the wood.
+
+Ring of Medlar
+This is the ring of the Medlar Lady. It is enormous. Maybe you could slide
+it onto your arm.
+
+Lady's Gem
+This is the Lady of Medlar's personal jewel. It glows with the light of
+the sun.
+
+Warhammer
+The large hammer looks like a very imposing weapon for anyone who could
+wield it. Its' head is cubic in shape and looks like it is made out of some
+kind of solid stone. The handle looks to be made out of a strong wood.
+
+Dungeon Key
+A huge iron key. It doesn't look like it would go with a normal wooden door.
+
+Lord's Stone
+This is the Lord of Medlar's personal jewel. It glows with the power of a
+thunderstorm.
+
+Lightning Blade (enchanted)
+This weapon feels balanced and light in your hand.  It has a
+  simple hilt, and a long thin blade that looks very sharp. You can just
+  make out a faint blue hazy outline surrounding the weapon.
+
+Crystal of Tapan
+The crystal sparkles in the light. It is a clear quartz-like crystal
+yet there is a blue tinge in the very centre. You sense a magical
+quality to it.
+
+Bolt Shield
+A huge shield that covers almost all of your body when you hold it
+up to yourself. It has an etching of a lightning bolt on its face.
+
+Jewel of Medlar
+This is the legendary Medlar Jewel. It is larger than your fist, and glows
+with many different colors.
+
+Gold Bar
+A large bar of pure gold. It has the seal of Medlar on the top of it.
+
+Silver Bar
+A large bar of pure silver. It has the seal of Medlar on the top of it.
+
+A scale from the Azure Dragon
+A large sky blue dragon scale. It fills your hands and shines with
+an odd blue light. The scale itself is so brilliant that you can not
+bear to look directly at it for too long. It appears to be very fragile
+and looks like it could be broken very easily.
+
+An eye of the Azure Dragon
+This is a large hand-sized, ball-shaped sphere.
+It is very smooth to the touch. It has a strange
+blue green aura that clings to its surface. It
+looks very interesting.
+
+
+

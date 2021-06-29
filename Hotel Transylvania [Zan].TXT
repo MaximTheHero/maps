@@ -1,0 +1,111 @@
+3e,2s,3e,s,2w,theatre,e
+                      basement 1
+
+                        x-x-x-x-x-x-x-x-x
+                        | | | | | | | |
+                        x-x-x-x-x-x-x-x
+                        | | | | | | |
+                        x-x-x-x-x-x-x
+                        | | | | | |
+                        x-x-x-x-x-x
+                        | | | | |
+                        x-x-x-x-x
+    x-x  x   x-x        | | | |
+    |    |     |        x-x-x-x
+    x  x-x-x   x        | | |
+    \    |    /         x-x-x
+     d u-E-u d          | |
+                        d-x
+                        |
+                        E
+E: Entrance/exit
+   pull rug (down)
+
+
+   u-x-x-x-x-x-x-x
+   |X|X|/ \| |X|\
+   x-x-x-x-x-x-x-x
+   | |X|X|/|X|\
+   x-x-x x-x-x x-x-x
+   | |X| |   |      \
+   x x-x-x-x-x       x
+   | | |\|X|X|      /|\
+   x-x-x-x-x-x-x   x-x-x-x
+    \|X|X|X|X|/     \|/ /|
+     x-x-x-x-x       x x-x
+     |X| |X|        /|X|
+     x-x x-x       x-x-x
+     |X| |X|\     /|X|/
+     x-x-x-x-x-x-x-x-x-x-x-x-x
+     |/ \|X|/
+   x-x-x-x-x-x-x-x-x
+    \|X|X|X|X|X|/
+     x-x-x-x-x-x
+
+Frank   2722
+Frank is an unusually large man?  Could he really be called that?
+Frank is wearing a blue suit over a striped shirt.  His shoes are
+enormous.  What are those, size 36?
+
+Wayne  2996
+Wayne seems to barely have the energy to acknowledge your presence.
+Wayne is dressed in a blue collared, short sleeve shirt.
+His eyes are blood-shot and half closed.
+
+Count Dracula  26835
+Count Dracula towers above you.  You are mesmerized by his charm.
+He has pale skin, pointy teeth, and black hair slicked back.
+He must spend a fortune on hair products!
+
+Murray    2956
+Murray stands before you wrapped completely in bandages.  His eyes
+glow green and those pearly whites could use some orthodontics.
+Murray seems to have a constant smile.  How could anyone be so happy!
+
+Mavis    7949
+A cute young girl dressed in black and red striped tights, covered by a black turtleneck dress.
+Her short jet black hair frames cute yet gothic costumed face. She stands before
+you innocently, but we all know looks can be deceiving.
+
+A zombie cook looking for something to chop
+A zombie dressed up as a cook.  Its face seems to be stuck in a
+perpetual scowl.  Its eyes fail to focus on anything but it seems to
+be acutely aware of its surrounding.
+
+A zombie bell hop waiting to carry your things
+A zombie dressed up as a bell hop.  Its face seems to be stuck in a
+perpetual smile.  Oddly enough its teeth are perfectly straight and
+pearly white.  It wears a light blue uniform with stripes down the
+side.
+
+A zombie waiter offering drinks
+A zombie dressed up as a waiter.  It sways with a tray full of tasty
+beverages.  Apart from its starch white shirt and black pants, it
+would easily blend into a zombie crowd.
+
+A buff vampire 
+A vampire stands here ready to feed.  A gruesome sight to see, its
+skin is stretched over bones and muscle.  Red eyes look to be
+calculating the best feeding spot on its prey.
+
+An ugly vampire
+A vampire stands here ready to feed.  A gruesome sight to see, its
+skin is stretched over bones and muscle.  Red eyes look to be
+calculating the best feeding spot on its prey.  While vampires are not
+normally pretty by any stretch of the imagination, this one is
+particularly ugly.  A nasty predator indeed.
+
+A chubby vampire
+A vampire stands here ready to feed.  A gruesome sight to see, its
+skin is stretched over bones and muscle.  Red eyes look to be
+calculating the best feeding spot on its prey.  It looks as if it has
+eaten quite a bit, does this mean they need more than blood to
+survive?
+
+
+
+A silky cloak
+The cloak is made of fine silk.  It shimmers in the light, almost as
+if tiny vampires are fighting to escape.
+
+.

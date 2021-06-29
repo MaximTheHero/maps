@@ -1,0 +1,92 @@
+chaos,n,leap haze
+
+
+     S
+     |
+     x-x
+     | |
+   x-x-x-x
+   | | | |
+   x-x-x-x
+   | | | |
+   x-x-x-x-x-x-x-x-x-x-x-E
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x
+     | | | | | | |
+     x-x-x-x-x-x-x
+     | | | | | |
+     x-x-x-x-x-x
+       | | |
+       x-x-x
+
+S: A funky thingy.
+   This thingy is pretty funky all right. There's a round hole where
+   you can 'deposit' orb-shaped thingies. There's another, larger hole
+   labeled 'redeem'. It appears if you want to interact with this thingy
+   your options are pretty flippin' limited.
+   *also start room*
+E: Exit
+redeem blue
+redeem green
+redeem yellow
+redeem red
+redeem black
+redeem white
+
+Funk on the Move    78925
+Don't mind this little funky dude. He is just chillin' like the illin' little
+villain on a Saturday night. Cool baby. Real cool.
+
+A funkmonk   137710
+Whoa! This lady is a student of funk. A master of disaster and a bass
+thumpin' pimpolicious with a capital 'F' spell this baby m U n k!
+Bow down and serve the righteous clergy of da masta!
+
+A purple splotted four legged bush   99480
+A purple splotted four legged bush sporting some serious funkitude.
+Right now, it's happily munching on some polka-dotted detritus.
+Dig it.
+
+A wadded up lump of pure funk   116214
+It appears you have stumbled on a lump of pure funk! What a find! Mankind
+could launch itself into a new era of funkdom if you can capture its essence.
+Watch out though; he can probably really slap you five!
+
+A dark blotch of nofunk   179570
+Eeegad! This hunk of goo is made of pure anti-funk!
+Careful. It might drain you of your funkitude if you get close.
+
+
+
+A funky black orb
+What a funky orb! Its black color is, like, totally fascinating.
+You wonder if there's some sort of um, significance or, like, meaning
+behind it. Heavy, man.
+
+A funky blue orb
+What a funky orb! Its blue color is, like, totally fascinating.
+You wonder if there's some sort of um, significance or, like, meaning
+behind it. Heavy, man.
+
+A funky green orb
+What a funky orb! Its green color is, like, totally fascinating.
+You wonder if there's some sort of um, significance or, like, meaning
+behind it. Heavy, man.
+
+A funky red orb
+What a funky orb! Its red color is, like, totally fascinating.
+You wonder if there's some sort of um, significance or, like, meaning
+behind it. Heavy, man.
+
+A funky white orb
+What a funky orb! Its white color is, like, totally fascinating.
+You wonder if there's some sort of um, significance or, like, meaning
+behind it. Heavy, man.
+
+A funky yellow orb
+What a funky orb! Its yellow color is, like, totally fascinating.
+You wonder if there's some sort of um, significance or, like, meaning
+behind it. Heavy, man.
+
+
+.

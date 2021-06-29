@@ -1,0 +1,19 @@
+chaos,3w,2s,listen cd
+
+               Welcome!
+
+You find yourself inside a weird and wonderful
+place, one that does not follow the normal rules
+of moving around.  You must sing your way
+through the area, using the title of the song
+in which you are currently positioned.  If you
+get stuck, you can always try singing that oldie-
+but-goodie, We gotta get out of this place!
+It is hard to tell, but you could possibly
+wonder about how many songs you have seen.
+Remember, so long as you don't attack anything,
+this place is safe to explore!
+
+               Have fun!
+
+wonder - You think that you have made it to song 1, out of 17.

@@ -1,0 +1,33 @@
+Otyugh Cave [Kintax]
+Dirs: Chaos, 3w, 3n, d, cave, squeeze between stalagmites, n, ne,
+      nw, n, jump dam
+
+
+        x
+       /|\
+      x-x-x
+      |   |\
+      N P-x S-Exit
+      |   |/
+      x-x-x
+       \|/
+        x
+
+
+S: Start
+N: Neo-Otyugh (Ametrine Marble if you search body)
+P: Pile of Dung
+
+
+Monsters:
+Otyugh
+Neo-Otyugh
+Pile of dung
+
+Items:
+Fecal Armour.
+Fecal Cloak.
+Fecal Boots.
+Fecal Gloves.
+Fecal Helmet.
+Fecal Shield.

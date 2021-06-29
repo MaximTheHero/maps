@@ -1,0 +1,72 @@
+
+                 -x-x--S-x-
+                 /        \
+                x  -x-x-x- x
+               / \ /     \  \
+              x   x       x  x
+             /   / -x-x-   \  \
+            x   x  /   \    x  x
+          |/  |/  x   x P    \| \|
+          x   x |/ \ / \ \|   x  x
+          |   | x   x x x x   |  |
+          x   x |    \|/  |   x  x
+          |   | x     x   x   |  |
+          x   x |\       /|   x  x
+          |   |\  x     x    /|  |
+          x     x  \   /|   x    x
+          |\     \ -x-x-|  /    /|
+            x     x     | x    x
+             \     \    |/    /
+              x    -x-x-x-   x
+               \            /
+                x          x
+                 \        /
+                 -x-x--x-x-
+                  |
+                 exit
+
+S: start room
+P: (sw) pool
+
+Mobs:
+Dark Cleric
+Small Deer
+Small grey mouse
+Horned owl
+Small furry vole
+Cowled druid
+Blue magnetite menhir
+Yellow granite menhir
+Black basalt menhir
+Hunting hound
+Grey marl menhir
+
+Items:
+A deer's musk glands
+Acorn
+An owls beak
+Grub
+
+
+qinfo (allegedly)
+Go to the Wayhaven library and look up Cernunnos and runes.  Go north
+and east of Wayhaven and find the  druidic stones there (Tor - [Bran]),
+in the center of the stones there's a pebble, get it and rub it.
+Kill this incarnation of Cernunnos - Cernunnos is the Celtic
+leader of the hunt.  Okay, now go to the Cernunnos area (east forest
+portal/e/4s/w/2s/w/s (Menhirs [Bran]),there's a dark cleric, worship ernunnos.  Get into the
+forest and climb to the top of the hill-
+To get out of the forest you'll have to find a path at the bottom of the hill that leads south back to
+the entrance, it'll be hidden as well. Go to the top of the hill, look at the
+runes on the stones you pass and try and make head or tales of them.  At
+the top of the hill you'll have to rub your pebble again and itll say something
+about warming the stones. get a torch and light the fires at the bases of the
+stones. the rub the pebble again. it says you need something conductive,
+which is an amulet.  from here go w, nw, ne, e, se, sw, and search around for
+it. then go back to the top, rub pebble and kill cernunnos. this time though
+you get a sword and helmet when you kill him. Then to finish the quest kill all
+the menhir's but examine the rune on each one, finally you'll kill one with a @
+rune and you'll get the qps.  Don't leave the area until you kill the right one.
+They respawn fairly quick so just map the place and follow your map until you've
+killed each menhir.
+can't sort out what to do to 'master the runes'

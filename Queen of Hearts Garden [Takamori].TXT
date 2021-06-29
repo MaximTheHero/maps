@@ -1,0 +1,40 @@
+chaos,3e,4s,touch card
+
+       x-2
+      /   \
+     x     x
+     |     |
+     x     x
+      \   /
+       1-x
+          \
+           E
+
+1: Looking-Glass - touch mirror
+   Looking-Glass Land [Lime]
+2:  sit bench - exit
+
+
+The Queen of Hearts   1822
+The Queen of Hearts.  This is her garden.  She seems really grumpy and
+is complaining about all sorts of non-existent flaws in her garden.
+Be careful messing with her.
+
+The 6 of Hearts   384
+A gigantic playing card is standing here!  It is apparently wandering
+through the Queen's garden.  It has 6 hearts emblazoned on its chest.
+
+A Gardener   149
+A little man in overalls.  He is hard at work.  He is futilely
+attempting to fix every flaw in the garden before the Queen can
+possibly imagine one.  He is dressed in brown overalls and has a
+gardening tool in his hand.
+
+
+Gardening Hoe
+A standard gardening hoe.  It has a six foot long wooden handle with a
+metal spade on one end.  The wood is worn down from use. It would be
+unwieldy, but you could probably cause some damage with it.
+
+
+.

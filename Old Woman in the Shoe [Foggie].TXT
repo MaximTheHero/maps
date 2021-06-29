@@ -1,0 +1,115 @@
+chaos,2s,open book, read chapter 1
+
+
+
+      |
+  x-S-x-x
+    |
+    S
+    |
+    E
+
+
+E: entrance/exit
+   enter shoe(north)
+S: stairs
+
+An Old Woman    1495
+An old woman stands before you. She appears to be a kind hearted soul,
+yet you get an uneasy feeling when you meet her gaze. Her face is
+riddled with wrinkles from years of hard work, and raising several
+children. You might want to talk to her if you have a moment
+
+You say: hi
+Old Woman says: Welcome to my home, <Player>!
+
+You say: shoe
+Old Woman says: This is where my children and I live. I know it doesn't
+                look like much, but we love the shoe; it's our home.
+
+You say: children
+Old Woman says: Yes, my dear, I have several children. Some are playing
+                games in the shoe right now.
+
+You say: games
+The Old Woman says: My children love to play games in the shoe.
+                      Why don't you enter the shoe and join them?
+
+
+Julie    242
+Julie is the oldest of the siblings. She is wearing a pair of bell
+bottom dungarees, which have a butterfly patch ironed onto the left
+knee, and a pink and white tank top. A butterfly tattoo, which matches
+the patch on her pants, delicately surrounds her navel. She's holding an
+old jump rope.
+
+Jimmy    235
+Jimmy is Johnny's identical twin. Even their own mother gets them
+confused.  He is wearing a pair of dingy blue overalls. The overalls
+have many pockets, perfect for hiding a little boy's treasures.  Jimmy
+is holding three silver jacks, it looks like he misplaced the rest of
+them.
+
+Johnny     349
+Johnny is Jimmy's identical twin. Even their own mother gets them
+confused.  He is wearing a pair of dingy green overalls. The overalls
+have many pockets, perfect for hiding a little boy's treasures. A joke
+book is hanging out of one of the back pockets of Johnny's overalls.
+Maybe he'll tell you joke if you ask him to.
+
+Carl     155
+Carl is the smart one in the family, but not smart enough to keep from
+getting locked in that desk. He's wearing a pair of navy blue dockers
+and a freshly pressed white button down shirt. A pocket protector sits
+in his shirt pocket along with several pens and pencils. He's holding a
+calculator in his hands. He clutches it with all his might, so his
+brothers won't take it away from him.
+
+Susie     204
+Susie is the youngest member of the family. She has long blonde hair
+and blue eyes. Her hair is tied back with a dainty white lace ribbon.
+She is wearing a bright red dress that has a white lace bow tied
+around the waist. The bow on the dress matches the ribbon in her hair.
+
+Betsy    373
+Betsy is a tomboy. She likes to climb trees, make mud pies, and play
+rough with her brothers. Her pants are riddled with rips and tears, and
+her blouse is splattered with splotches of mud. She's very fond of
+bubbles. She carries a bottle of bubbles with her everywhere she goes.
+
+
+
+A wooden spoon
+A somewhat large and sturdy wooden spoon. It reminds you of the kind
+that your mom used to chase you around the house with when you were
+being naughty.
+
+Julie's Jump rope
+The jump rope has started to fray in several places and the plastic
+handles, which it originally came with, fell off long ago.
+
+Jacks
+Three silver jacks are all that are left from the original set. It
+doesn't look like they are of much use to you.
+
+A joke book
+This joke book belongs to Johnny. He's earmarked several pages which
+contain some of his favorite jokes. After looking at the book for a few
+moments you realize these are the corniest jokes you've ever read.
+
+Carl's Calculator
+This is Carl's prized possession, he'd be awfully upset if he knew you
+had your hands on it. It's one of those fancy calculators that lets you
+store some work in memory. You could press the power button and see what
+he was working on last!
+
+A pair of lace shoelaces
+A pair of lace shoelaces that were once in Susie's shoes. She must have
+taken them out of her shoes while she was practicing tying her shoes.
+
+Betsy's Bubbles
+A small plastic bottle of green bubbles. There is a label with
+instructions on the back of the bottle. There is a metal top that is
+used to keep the bubbles in their place.
+
+

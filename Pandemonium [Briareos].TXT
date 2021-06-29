@@ -1,0 +1,158 @@
+chaos,4w,e,s,w,s,2e,2n,enter whirlpool
+
+deep pit       bottom of pit
+  
+   u/d               u
+(up = exit)      stone portal (duh)
+
+
+
+    x-x
+   /   \
+  x   1 x         x-x
+  |    \|        /\/ \
+  x     x       x d d-x
+   \   /        |\   \|
+    x-x         x-d d x
+      |          \ /|/
+      x           x-x
+      |             |
+      x-x           x
+        |            \
+      H-x-x           2
+        | |
+        x-S
+          |
+          x
+
+1: take you up a level
+2: where you end up
+H: Hellpit [Fido]
+
+
+
+Daemon guard   28835
+Armour covers this guard's entire body, except the mouth.  The daemon
+stands over ten feet tall.  His mouth is grotesque and twisted into a
+leering grin.  You can't see his eyes, but their evil glow emanates
+through his visored helm.
+
+A Hellhound   13366
+This beast is the spawn of Sin and Death - A Hellhound.  Flames leap
+from his body as he prowls the Lake of Fire.  He looks extremely
+vicious.
+
+Kardaak   16542
+Kardaak is a horribly deformed daemon, who's body is continually
+wracked by terrible spasms.  As you look more closely, your eyes are
+drawn to the fact that he has but one leg!
+
+Baal   44381
+Baal is huge, easily fifty feet tall. He moves ponderously but you
+think he could move quickly if need be.
+
+Thammuz   21085
+Thammuz appears to be a handsome man.  Around his body swirls a
+concealing mist that your eyes cannot penetrate.  This daemon looks
+VERY powerful.  Beware!
+
+Rimmon   17812
+This daemon looks almost canine.  He snarls as you look at him,
+drooling spittle onto the ground.  He also looks very big and very
+strong.
+
+Isis   37109
+Isis has the head of an animal, and the body of a man.  A very very
+large man.
+
+Mulcifer   30473
+Mulcifer appears as a brooding giant.  One of his legs is obviously
+deformed.
+
+Peor 
+Dressed in a full suit of dark as night platemail, Peor stands guard
+here.  His eyes glow a dull red as they watch you.
+
+Dagon    33134
+Dagon is a huge creature with a human torso and serpent tail. He
+towers over you, dripping slime as he prepares to rip you apart.
+
+Black Guard   40930
+This is one of Lucifer's dark guards.  He is fully armoured and looks
+very dangerous.
+
+Lucifer
+Lucifer stands near his throne brooding over a certain setback that
+occurred near the beginning of Time.  He is dressed in flaming armour
+and has a huge sword at his side.  Perhaps you should take advantage
+of his preoccupation to make a quick exit.  He looks quite capable of
+obliterating you with a word.
+
+Orus   8383
+Orus is one of the animal-headed gods of the Egyptians.  He was forced
+into hell by the war of the giants.  He looks hideous and strong.
+
+A huge demon   15104
+The demon paces back and forth before the gateway.  He is twenty feet
+tall, and massive.  He does not look like something to be trifled
+with.  Perhaps it would be best if you left him alone.
+
+
+A Hellhound Claw
+This claw came from the spawn of Sin and Death - A Hellhound.  Blood
+from the Hellhound's latest victim drips from the dagger-sharp point
+of this curved bone.  This claw might inflict great pain on an
+opponent if handled with care.
+
+Daemon plate
+This armour is huge, unbalancing for anyone but a giant.  It is black
+as night, and a presence of evil taints the armour.
+
+Daemon helm
+This visored helm feels heavy in your hands, and the taint of evil
+flows from it heavily.  Only the most foul would wear this helm
+without flinching from its cool metal.
+
+Bone Ring
+This is a small ring of bone.  It feels unnaturally heavy in your
+hand.  Something appears special about this ring, yet you are not
+quite sure what it is.
+
+Black Plate
+This black armour is dimly visible.  The darkness it exudes takes the
+form of black flames that flare from the armour.  It feels evil.
+
+Beating heart
+This is a still beating human heart, damp with the blood of its
+previous owner.  You wonder what it is used for.
+
+Mist Shield
+This shield is as tall as a man, and three feet wide.  It looks like
+translucent mist, but is somehow very solid.
+
+Mask of Isis
+This is the mask Isis wore to disguise himself in animal form.
+
+Mulcifer's Hammer
+This huge hammer can only be wielded by the strongest of warriors.
+Attached to the end of the long, solid and wooden handle, is a massive
+head forged from the purest of steel.  This hammer would appear to
+inflict great pain if used correctly.
+
+Black Chain
+This black armour is made of metal loops linked together and attached
+to a rough leather material.  The loops feel warm to the touch and
+occasionally black flames flow through them.
+
+Black Gauntlets
+These black gauntlets are heavy, and made out of some metal you've
+never seen before.  They feel strong and hard.
+
+The Daemon Blade (enchanted)
+This blade was forged from the essence of evil that permeates
+Pandaemonium.  Its long blade is solid black, and a flaming mist flows
+along it at all times.  There is an inscription on the hilt, written
+in a flaming script.
+
+
+.

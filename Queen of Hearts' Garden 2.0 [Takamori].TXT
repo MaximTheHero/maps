@@ -1,0 +1,50 @@
+chaos,3e,4s,tear card
+
+       x-2
+      /   \
+     x     1
+     |     |
+     x     x
+      \   /
+       x-x
+          \
+           E
+
+
+1: Queen of Hearts spawn room (for refreshing)
+2: sit bench - exit
+
+
+The Queen of Hearts
+The Queen of Hearts.  This is her garden.  She seems really grumpy and
+is complaining about all sorts of non-existent flaws in her garden.
+Be careful messing with her.
+
+The <#> of Hearts
+A gigantic playing card is standing here!  It is apparently wandering
+through the Queen's garden.  It has <#> hearts emblazoned on its chest.
+
+A Gardener
+A little man in overalls.  He is hard at work.  He is futilely
+attempting to fix every flaw in the garden before the Queen can
+possibly imagine one.  He is dressed in brown overalls and has a
+gardening tool in his hand.
+
+
+
+Ring of Hearts
+
+Gardening Shears
+Standard gardening shears, really.  They have long metal handles with
+green rubber grips on each end.  The cutting blades aren't sharp, it
+cuts because of the distance between them.  You could use it as a
+weapon but you would probably crush as often as you would cut someone.
+
+Gardening Hoe {Rusty}
+A standard gardening hoe.  It has a six foot long wooden handle with a
+metal spade on one end.  The wood is worn down from use. It would be
+unwieldy, but you could probably cause some damage with it, especially
+with that particularly nasty rust that is all over it.
+
+
+.

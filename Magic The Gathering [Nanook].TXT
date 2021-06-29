@@ -1,0 +1,264 @@
+4w,e,s,w,s,3e,enter,2e,sit
+
+
+            x   x   x
+           / \ / \ / \
+          x   x   x   x
+           \ / \ / \ /
+            x   x   x
+             \ / \ /
+              x   x x-x
+               \ /  | |
+          x     x x-x-x-x
+         /|\    | | | | |
+        x-x-x   | x-x-x-x
+       /| | |\  | | | |
+      x-x-1-x-x | x-x-x
+       \| | |/ \|/
+        x-x-x   E   x
+         \|/   / \ / \
+          x   /   x   x-x
+     x   x   /   / \ / \|
+    /|\ /|\ /   x   x   x
+   x-x-x-x-x    |\ / \ /
+   | | | | |    | x   x
+   x-x-x-x-x    |/ \ /
+                x   x 
+                 \ /
+                  x
+
+1: A magnificent oak tree - open door
+
+
+A white knight   21114
+A knight on horseback.  His full platemail is enameled white and kept
+meticulously clean.  His pure white charger paws the ground, ready
+for combat.
+
+A northern paladin    43224
+A tall man dressed in full chainmail.  His thin frame appears
+surprisingly strong.  He carries an ancient sword at his side, and
+appears ready to use it upon his foes.
+
+A serra angel   30663
+A beautiful winged maiden draped in loose white robes.  She
+carries a sharp short sword with which she keeps the peace amongst
+the lands.
+
+The hand of justice    50021
+A regal looking man dressed in blue robes of judgement.  His stern
+visage matches his duty, to dispense justice over Dominia.
+
+Elf of Deep Shadow    13398
+A thin wisp of a woman.  Her pale features are clouded with a
+dark glare.  It is her tribe of elves that nurture the dark and
+twisted recesses of the forest.
+
+A force of nature   50055
+8/8 trample never looked so mean!  This huge green THING towers
+close to 18 feet tall.  It's all muscle and it's pissed at you!
+
+A thicket basilisk   38039
+The strange reptile before you is only about seven feet long, yet
+you know that its magical nature make it deadly to all those that
+come in contact with it.
+
+A solemn looking sprite   18417
+The solemn looking fellow before you is a scryb sprite on guard
+duty.  The pink hued wings sprouting from between his shoulders
+enfold him like a cloak.  Beneath the wings, glimpsed through
+their translucent membranes, he wears a chitinous armour that
+looks like it was once a beetle's exoskeleton.  Tucked into his
+belt, within easy reach of either hand, are two wicked looking
+little daggers.
+
+A faerie with beautiful butterfly wings   9573
+A majestic faerie woman.  She glances at you warily, not
+sure what a non-faerie-kin is doing within the hallowed walls
+of Pendelhaven.  Her beautiful wings, like those of a fragile
+butterfly, gently beat at the air to hold her aloft.  A soft
+leather tunic covers her body but doesn't obstruct her wings.
+
+A sprite with flaming hair   10585
+The strangest faerie-kin you've ever seen.  This creature's crimson
+mane seems to be aflame.  Flickering tongues of fire cascade from the
+crown of the sprite's head to between the flaming orange wings that
+sprout from her back.  Her eyes appear charcoal black and are
+almond shaped.  Each of her five tiny fingers end in curling
+nails that appear to flicker like fire.  One thing is for certain, the
+fire sprites are not just legend.
+
+A sage looking faerie   30578
+The faerie before you has obviously seen decades if not years pass
+him by.  His eyes show a wisdom that is far beyond your own.  Small
+crow's feet pinch the corners of those eyes, a hint at the passing
+of lives and other hardships he has endured to rise to his present
+rank among the faerie.
+
+A craw wurm   43757
+Glistening emerald scales armour the enormous length of the
+wurm.  Its massive jaws filled with razor sharp teeth.  You hope
+you don't get a better look at them.
+
+A Llanowar Elf   10029
+A tall thin elf, painted for war.  These keepers of the forest
+will valiantly protect its purity with their lives.
+
+A ghost ship    44654
+A spectral ship floating in the sky, its tattered sails waving
+limply on an unseen breeze.
+
+A flying man   12571
+These men on flying carpets spend their days flying from
+island to island as messengers.
+
+A mahamoti djinn    77190
+An enormous upper body of a man, supported upon the thin air.  His
+rippling muscles are barely covered by the vest he wears, though
+his attire isn't your main concern since he's about to smash you to
+a pulp.
+
+A zephyr falcon   14325
+A small and agile bird which makes its home in the rocky crags
+along the coast.  It's incredibly fast and defends its homes fearlessly.
+
+A roc of Kher ridge    44549
+An enormous bird, its wingspan nearly fifty feet wide.  Its sharp
+talons and beak label it a predator in anyone's eyes.  Let's hope
+it doesn't take a liking to you as its meal.
+
+A shivan dragon   61307
+A gigantic red dragon!!!  Its gaping maw is filled with razor
+sharp teeth and its talons are longer than your forearm.  It turns
+its menacing gaze towards you.
+
+Ball Lightning   4365
+
+A goblin rock sled    15376
+A devilish contraption which goblins ride down the sides of
+mountains to trample their enemies.  Looks like right now you're
+their enemy.
+
+A Bog Wraith    39576
+A dark and evil conjuration of black magic.  The wraith is a
+skeletal form beneath its dark cloak, its entire body hidden save
+for the gaunt fingers of its outstretched hands.
+
+A bog imp    15302
+A hideous looking green creature about three feet tall.  His
+sickly looking translucent wings trail sullenly behind him as he
+moves through the muck of the swamp.
+
+Lost Soul     25192
+A ghostly apparition of a woman.  She glides silently through the
+swamps and bogs in search of unwary travelers on which to feed.
+
+A Nightmare       660370
+An ebony horse rides the skies on flaming hooves.  Its mane is a
+ribbon of fire trailing in the dark sky.  As it snorts and paws at
+an illusory terrain flames flick from its muzzle.
+
+Were-Penguin (rabid)   109724
+A nasty looking emperor penguin.  The thing is close to five feet
+tall!  It's definitely not friendly looking, in fact, it doesn't
+appear to be anything like a normal penguin.
+
+
+
+a suit of white platemail
+A richly adorned suit of white platemail.
+
+Zelyon Sword
+A strange looking long sword.  The blade is covered with runes and
+sigils which you've never seen before.
+
+Shortsword
+A small well kept sword.  It appears to be extremely light and
+very sharp, the perfect weapon for those trying to move quickly.
+
+A judge's robe
+A long robe of midnight blue and bright red stripes.  The long billowing
+sleeves are almost a nuisance, getting in your way as you try and go
+about your daily routine.  The thick fabric is heavy and warm.
+
+The Kormus Bell
+A large bell of solid gold adorned with six pieces of a fire red
+stone.  The magical bell is said to have mystical properties over
+swamps, imbuing them with a life of their own.  Such an artifact
+can prove to be incredibly powerful in the hands of a black mage.
+
+A leather tunic
+A short leather tunic dyed a deep emerald green, the color of the
+forest.  It appears soft and supple, a pleasure to wear.
+
+Gauntlets of Might
+A pair of gloves made from a mysterious metal.  They glow a dull
+blue with a faint tinge of red about them.  They look like they'd
+hurt a bit if you got into a brawl, but seem to be a bit difficult
+to hold anything with.
+
+a pair of tiny daggers
+A matched pair of daggers, each no longer than your hand.  They are
+light and well balanced, suitable for stabbing or throwing.  They
+lack a suitable edge for slashing, but that is more because of their
+size than lack of craftsmanship.  The handles are made of bone and
+tooled with intricate patterns to help keep hold of them in slick
+hands.  The blades are made from a greenish metal that you've never
+seen before in your life.
+
+a stout spear (glowing)
+This faerie weapon is one of the most prized possessions of the fae folk.
+It is not hewn from any tree, alive or dead.  It is coaxed from the heart
+of a living tree with ritual and song, making it a gift from the gods to
+help protect the forests from defilers.  It is a very powerful weapon, though
+take care when using it, for the power is finite and precious.
+
+a stout wooden spear
+A long straight tree limb carved round and smooth.  One end is
+sharpened to a keen point that looks sharp enough to poke a
+neat hole right through you.
+
+A small wooden key
+A small key, spanning half your palm, made entirely of wood.
+
+A pair of brightly colored pants
+A pair of multicolored pants.  The soft cotton seems to be of more
+use in keeping a sense of decency than in protection, but they look
+pretty warm too.
+
+A stack of magic cards
+Seems to be just a stack of basic lands.  And all swamps at that.
+Seems like someone probably forgot them when sorting their decks.
+Perhaps they were playing lands off of a separate deck in their game
+and just forgot to pick it up?
+You should probably count them to see how many there are.
+
+a richly embroidered vest
+A richly embroidered vest of fine silk.  Its multicolored
+patterns changing constantly as you look at it.
+
+A feathered cloak
+A cloak made of the feathers of a zephyr falcon.  The blue and
+grey feathers meld beautifully in the cloak to form a subtle star
+shaped pattern.
+
+a mana vault
+A small square of pink colored stone.  The mana vault pulses in
+your hands, the very nature of it seemingly alive.  You need be
+wary of its power though, for it comes with a price.  Those who
+tap the vault must repay it the power, else they suffer its ill
+effects.
+
+a Black Lotus
+A legendary black lotus!  Its silky petals pulse with stored
+magical power.  This rare and coveted artifact is yours to
+command.  All you need do is tap its power.
+
+A small ivory pendant
+A small ivory pendant hanging on a thin silver chain.  The sliver
+of ivory is carved in the likeness of a pristine wizard's tower.
+Sculpted dragon heads adorn the tower's walls.
+
+
+
+.

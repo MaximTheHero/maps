@@ -1,0 +1,25 @@
+science,4n,d,n,2w,s,w,3s,nw
+
+
+           1-x
+          / \ \
+         x   2 x
+         |     |
+         x     x
+          \   / \ 
+           x-x   E
+
+1: move rocks
+2: reach into hole, widen hole, scrape away mud, reach into hole, search bottom
+Chondrite Marble
+
+A small piece of chondrite
+This small piece of chondrite was once a much larger meteor.  Where
+this rock came from you can only wonder, but from the history of the
+area it can be guessed that this might have come from one of the
+orbital mass drivers used in the last war.  A cleaner solution than
+nuclear weapons, their power was still very destructive.  You would
+have to get this sample analyzed in order to determine its exact
+origin.
+
+

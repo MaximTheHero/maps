@@ -1,0 +1,164 @@
+fantasy, random
+
+
+   x-x-x-x-x-x-x-x
+   | | | | | | | |
+   x-x-x-x-x-x-x-x
+   | | | | | | | |
+   x-x-x-x-x-x-x-x
+   | | | | | | | |
+   x-x-x-x-x-x-x-x
+   | | | | | | | |
+   x-x-x-x-x-x-x-x
+   | | | | | | | |
+   x-x-x-x-x-x-x-x
+   | | | | | | | |
+   x-x-x-x-x-x-x-x
+   | | | | | | | |
+   x-x-x-x-x-x-x-x
+
+A silver homing beacon - touch beacon to leave
+
+
+
+affixes:
+slashing - Does edged melee damage
+pounding - Does blunt melee damage
+flaming - Does fire melee damage
+freezing - Does ice melee damage
+corroding - Does acid melee damage
+poisonous - Does poison melee damage
+electrifying - Does electric melee damage
+radioactive - Does radiation melee damage
+arcane - Does energy melee damage
+psiwielding - Does mind melee damage
+antimagic - Immune to certain powers such as scans, stuns, slows
+engaging - Aggressive
+ethereal - Possesses a dodge special
+fleeing - Will attempt to wimpy when losing a fight
+hunting - Will pursue enemies who withdraw from combat
+rampaging - Hits around
+slippery - Possesses a dodge special
+speedy - higher attack speed/attacks per round
+furious
+healthy
+regenerating
+berserking
+champion
+tough
+wandering
+
+A tornado of Kayos energy
+Pure Kayos energy has been loosed upon the field!  Something -- or
+someone -- must have ripped asunder to unleash this fury of uncaged
+magicks.  The tornado rips across the battlefield, tearing up dirt and
+blood and consuming its basic energies, becoming more powerful with
+each terrifying moment.
+
+Thorion the Hammer
+Thorion the Hammer is hard to see behind the constant shroud of
+electrical energy that surrounds him at all times.  What you can make
+out is muscles, muscles, and more muscles.  In his left hammer he
+holds a large, rune-etched hammer.  In his right hammer he holds a
+similar hammer.  Yes, you read that right.  He likes hammers.
+
+A flameroller
+The flame roller is a giant ball of metal, blood, and shadow that
+spits flame in all directions as it wanders aimlessly around the
+battlefield.  Clearly a weapon designed solely to sew chaos among the
+enemy.  The flames gout upwards, powered by Kayos energy.
+
+A demon soldier
+One of the footsoldiers of the teeming Kayos armies.  These types of
+demons could pass for human in a crowded, darkened room.  This one has
+a broken arm, and is holding it awkwardly.
+
+Yttra the Great Worm
+Before you stands one of the great creatures of legend - Yttra the
+Great Worm.  She who devoured Kakhradur.  She who devoured Sintopole.
+She who devoured the entire world of Qua'ra'mek.  A giant insatiable
+worm with a shadowy maw at the end, rimmed with thousands -- millions!
+-- of teeth.  Her size belies her legend -- unless something shadowy
+is afoot.
+
+A refugee
+The refugee is clearly shell shocked and has almost given up all hope
+of survival.  She looks ahead blanky, and is only going through the
+motions of survival at this point.  Torn and ragged clothes barely
+hang on her scrawny frame.  You can't even begin to imagine the
+horror, or how shecame to be trapped on this battlefield nightmare.
+
+A small imp
+This diminutive imp is formed from the energies of Kayos.  It is a
+shadowy creature that darts hither and yon.  It is humanoid, but the
+proportions are all wrong.  Small horns adorn its head, and its webbed
+feet are covered in dirt and blood.
+
+Karaket the Twisted God-King
+There is nothing human left of Karaket.  Where once there may have
+been a proud barbarian lord, there is nothing but hatred and malice
+taken physical shape.  Shadow and blood course over the surface of
+Karaket's body, and his twin broadswords have fused into his fists.
+His mouth has disappeared into the scares on his face but that has not
+stopped his constant screams of mixed joy and agony.
+
+A time-lost pirate
+It's a pirate!  An actual pirate!  The eyepatch, the hat, the pegleg,
+the whole bit!  How did a pirate end up in this mess?  The pirate
+looks around wildly, clearly wondering the same thing.
+
+A robotic lion
+The robotic lion is squat and powerful.  Long snaking cables extend
+out from the rim of its head, duplicating the mane of an actual lion.
+Its gleaming white exterior suggests that it has only just arrived on
+the field of battle.
+
+A robotic velociraptor
+The claws of this metal raptor are covered in dripping, wet blood.
+The raptor looks around quickly, its head snapping back and forth
+faster than you can see.  It quivers, ready to jump at a moment's
+notice.
+
+A robotic hound
+The robotic hound is a mess of metal and machinery.  It only roughly
+resembles a dog, but it's robot through and through.  Its glossy white
+surfaces are stained with smoke, dust, and blood.  From it emanates a
+screeching metal-on-metal noise.
+
+A TANK
+IT'S A TANK.  This thing is out of someone's nightmare -- covered in
+roiling shadow and boiling blood.  You can't imagine what the turret
+is for, or what ammunition it uses.  It leaves behind no trace of its
+passing.
+
+A robotic tiger
+The robotic tiger is a lithe and elegant piece of machinery.  Powered
+by the dark energies of Kayos, though, and it becomes wildly
+unpredictable.  The metallic fangs extend down long past its face,
+almost dragging on the ground.
+
+
+
+
+An intricate digital key
+
+This key is fascinating!  It looks like a glossy silver tube, but
+small lights flicker and blink along it.  It is bound to dimension
+????????.
+
+A dark mass of energy
+The blob of dark energy moves and shifts in your hand.  It's clearly
+very powerful, and could be used as a power cell of some kind.  If you
+were completely evil and had no problem with that sort of thing.
+
+Roiling Kayos Energy
+This is pure Kayos Energy.  Be careful!  It spirals and sputters and charges the air about
+you.
+There are 12 empowers left that will expire in 21593 seconds.
+
+A briefcase.
+It's a small metallic briefcase.  It looks important.  You shouldn't
+open it, someone might get angry.
+
+
+

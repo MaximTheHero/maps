@@ -1,0 +1,39 @@
+Science, Houston Transport Center Central Hub
+
+        B 4
+        | |
+        A-8
+          |
+          7
+          |
+          x   9
+          |   |
+      1-x-2-x-3-4
+          |   |
+          x   6
+          |
+          5
+         
+
+1: Mega-Tokyo Train Platform 
+2: Stairs
+   up: Houston Transport Center Suborbital Platform
+   down: Pinnacle
+3: Stairs
+   down: HTC New York City Platform
+4: Stairs
+   down: Scinece Mainland
+5: Houston Local Shuttle Docking Pad
+6: Stairs
+   down: HTC Atlanta Platform
+   A whirring terminal.
+7: Stairs
+   down: HTC Pittsburgh Platform
+8: Stairs
+   down: HTC Detroit Metro Express Platform
+9: HTC Northern Expansion Terminal Express Platform
+A: The Arcade
+   place adapter : Duke Nukem [Distortion]
+   push start : Samurai Showdown [Steel]
+   insert coins : MK ][ Machine [Steel]
+B: Section Z

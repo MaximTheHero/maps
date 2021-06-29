@@ -1,0 +1,143 @@
+chaos, 2s, ride comet
+
+enter winnebago
+pull lever three times
+ 
+                 Spaceball One       Yorgurt    Mega-Maid
+          1            x
+         / \          /                 E       E     8
+        S   2      E-x                  |        \   /
+         \ /                            4-5       6-7
+      x-x 3
+      |  /
+      x-x
+      |
+      x
+
+S: say teleport to leave
+   give debris to king
+1: Planet Druidia, Mega-Maid - flip switch
+2: Spaceball One
+3: Spaceball, kill him get comb
+   comb sand - in all room on Moon of Vega
+4: lift statue - Ring of Schwartz
+5: Nogurt's Shop
+6: swipe card - to go east
+7: swipe card - to go ne
+8: push lord - self-destruct is activated, get out
+
+
+Dot Matrix (worried)    327
+Dot Matrix is a robot that is supposed to be guarding a princess'
+purity.  However, it seems she has been contracted out.  Guess she
+wasn't all that great at her job, huh?
+
+A Flying Winnebago (questing)     15004
+This is a mighty cool Winnebago!  It is equipped with large jet
+engines at the rear.  Covering the Winnebago are large red letters
+forming the words - DON'T PANIC.  A bumper sticker with the words 'I
+love Uranus' is on its bumper.  Its door is open, inviting you in.
+
+Marvin the Paranoid Android (very depressed)    3472
+This robot seems familiar with every aspect of depression.  If you
+have read 'The Hitch Hiker's Guide to the Galaxy', you would
+understand it!  It has been around for 300 million years waiting for
+Arthur Dent to pick it up.  It seems very well armoured and looks like
+he would be a formidable opponent for most people.
+
+King Roland
+King Roland is a heavy set man with a kind face.  A crown sits upon
+his head and he's wearing purple robes befit for a king of his
+stature.  He seems to be contemplating something.  Maybe you should
+ask him if something is bothering him.
+
+Colonel Sanders   176
+Colonel Sanders is wearing a dark suit.  It looks like it's straight
+off of an old Star Trek episode.  He looks like a throw back of the
+eighties and has a stupid look on his face.
+
+President Screwb    183
+President Screwb looks like a dumb, dumb man.  Nothing about him is
+extraordinary, other than that moronic look on his face.  How in the
+world could he come up with a master plan to take the air from Planet
+Druidia?
+
+Spaceball   175
+This is a spaceball.  One of the many men that works for Lord Helmet.
+He is wearing a white helmet and a white body suit.  He's supposed to
+be combing the desert, but is really just standing there with his eyes
+crossed, staring off into space.
+
+Lonestar    176
+Lonestar is an average guy.  His lanky brown hair is a bit disheveled,
+giving him a slightly unkempt look. His deep brown eyes have a wild
+glaze to them, as if he might be a bit mad.  An interesting amulet
+hangs from his neck.
+
+Yogurt - unkillable
+Yogurt is a little guy.  He has pointy ears and green, wrinkly skin.
+His eyes are friendly and he seems willing to help all those in need.
+If you have any questions, he's ready to answer.
+
+Spaceball   176
+This is a spaceball.  One of the many men that works for Lord Helmet.
+He is wearing a white helmet and a white body suit.  He's supposed to
+be guarding the door, but is just standing there with his back turned
+towards you.
+
+Spaceball   175
+This is a spaceball.  One of the many men that works for Lord Helmet.
+He is wearing a white helmet and a white body suit.  He's supposed to
+be guarding the self destruct button, but is really just standing in
+front of the mirror with shaving cream on his face and a razor in his
+hand.  He must be getting ready to shave.
+
+Lord Helmet
+Lord Helmet doesn't look very threatening.  In fact, he looks rather
+silly with his black suit and too large black helmet on his head.  A
+very non-formidable foe.
+
+
+
+Newbie Quest Manual
+**WoW** This Newbie Quest Manual contains the solutions to all 3k
+quests!  Unfortunately, it is written in Camper.
+
+Bag of Chips
+A bag of chips.
+
+Can of Cola
+This is a can of plain cola.  It seems a little odd, however.  Wait a
+minute, it's empty!
+
+Deprinaut Main Armour
+This armour once belonged to Marvin.  It offers great protection, but
+you would have to test it to see just how good it really is.
+
+Ace Comb
+This comb once belonged to a Spaceball.  It looks like the Ace combs
+they used to give you as a kid while waiting in line to get your
+school photograph taken.  The teeth are wide apart and it looks like
+this comb was not made to comb hair.  Little clusters of sand occupy
+the space between the teeth, suggesting what kind of stuff this comb
+has combed in the past.
+
+An Amulet of Royal Lineage
+This amulet is the most beloved treasure of Lonestar.  He has taken it
+to all the wise men of the universe, yet none know what it does.
+Maybe the Great Yogurt could shed some light on its use.
+
+Ring of schwartz
+This is the infamous Schwartz Ring.  It's made out of plastic and
+looks like as if you could've gotten it out of a cracker jack box.
+But Yogurt knows better than you, so maybe you should try it on for
+size.
+
+Swipecard
+This is a swipecard.  It looks like it could be used to unlock a door.
+Maybe you should find a card reader and test it out.
+
+Mega-Maid Debris
+This is a piece of debris from the Mega-Maid explosion.
+
+

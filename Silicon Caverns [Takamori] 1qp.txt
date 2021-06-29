@@ -1,0 +1,39 @@
+Silicon Caverns [Takamori]
+Dirs: Chaos, 3e, 2s, 2e, n, 3e, s, w, fit inside bucket
+
+
+ 
+
+                        E                            Enourmous
+                       / \
+                      /   \
+                     /     \
+                    /       \
+                   /         \
+                  /           \ 
+                 /             \
+                /               \
+               /                 \
+              /                   \
+             /                     \
+            x                       x                Huge
+           / \                     / \
+          /   \                   /   \
+         /     \                 /     \
+        /       \               /       \
+       /         \             /         \
+      x           x           x           x          Large
+     / \         / \         / \         / \
+    /   \       /   \       /   \       /   \
+   x     x     x     x     x     x     x     x       Small
+  / \   / \   / \   / \   / \   / \   / \   / \
+ x   x x   x x   x x   x x   x x   x 1   x x   x     Tiny
+
+1: squeeze through hole, pull lever - Silicon Marble
+
+Monsters:
+A Tiny Silicoid
+A Small Silicoid
+A Large Silicoid
+A Huge Silicoid
+An Enormous Silicoid

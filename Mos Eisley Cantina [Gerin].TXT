@@ -1,0 +1,118 @@
+science,2u,enter shuttle, exit,4w,2d,n,w,enter pod
+
+     x-x-x-x-x
+       | | | |
+     x-x x-x-x
+       | | | |
+     x-x x-x-x
+       |     |
+   x-x-x-x-x-x
+     | |     |
+     x-x-x-x-x
+     |
+     x
+     |
+     E
+
+
+A Shiny New Stormtrooper    342
+This is a stormtrooper all right, looks a little short for one though
+You wouldn't doubt it if they kinda screwed up the cloning process on
+this one.
+
+A Rodian    96
+Rodians are a humanoid species with multifaceted eyes, a
+tapirlike snout and deep green skin.  They have a prominent ridge of
+spines running along the back of their skulls. Their fingers are long
+flexible and end in suction cups.
+
+Shotgun Bob Weis (bartending)    733
+Shotgun Bob Weis is a mean customer.  He has been working in the cantina
+for years, and this is one of the nastiest places in the galaxy.  He's
+seen shit that'll turn you white!  He looks like he could take on any
+patron in this bar and win.
+
+A Sullustan    95
+Sullustans are jowled, mouse-eared humanoids with large, round
+eyes.  They hail from Sullust, a harsh, volcanic planet with numerous
+caves - It is within these caves that these people have made their
+homes.
+
+A Wookiee (furball)   184
+Wookiees are intelligent, arboreal creatures from the jungle world of
+Kashyyyk.  They are considered to be one of the strongest intelligent
+alien species in the galaxy, yet also exhibit the uncanny knack for
+repairing and altering technology.
+
+The Bathroom Attendant     2545
+A large unsexed creature that is peering at you to decide if you
+belong in here or not. Let's hope it doesn't make a mistake.
+
+A hammerhead Ithorian    84
+Ithorians, also known as 'hammerheads,' are large, graceful creatures
+from the Ottega star system.  They have a long neck, which curls
+forward and ends in a dome-shaped head.
+
+A brown robed Jawa    73
+One of Tatoinee's smaller sentient life forms, this Jawa is a small
+brown robed individual with a face you can't see and two yellow/white
+eyes peering out at you, you aren't sure of the language but you
+think he wants to sell you something.
+
+A Human    73
+You see the strangest sight yet in here.  Another human! Wow you are
+amazed.  You run your hands all over his face just to make sure its
+not some cruel joke played on you by some malevolent creature.  No
+it really is a human, wow.
+He looks about as lost as you are.
+
+Sy Snootles   80
+One of the galaxy's more popular singers, Sy is very remotely humanoid.
+She has a long trunk with what appears to be a mouth, a barrel-like
+body, and very thick appendages.
+
+Max Rebo    100
+A large blue creature that plays on what appears to be a keyboard.  He
+looks a little like a blue elephant mixed with a cupie doll.
+
+
+
+
+Smugglers Gloves
+These are a pair of Smugglers Gloves used to protect the smugglers hands
+from the rugged turmoils of planets all over the galaxy.
+
+Smugglers Boots
+These are a pair of smugglers boots, strong and tough they could even
+survive doing the kessel run.
+
+Sporting Blaster
+        You now hold in your hands a BlasTech DL-21. A powerful handgun. It
+packs enough firepower to penetrate even a spacetrooper's armour.
+
+Bowcaster
+This appears to be a combination of a blaster pistol and a crossbow.
+It seems to make a deadly combination, as the accuracy of this weapon
+is phenomenal while it gives up none of the damage of a blaster.
+
+Senate Amulet
+This amulet signifies membership in the Imperial Senate, for some reason
+you don't think that they would buy that you are a Senate member just
+because you have one of their amulets though.
+
+Jawa Cloak
+This is a brown cloak used by jawas to protect themselves from the heat.
+
+Blast Shield
+This Blast Shield will help protect the wearer from flying debris
+
+Stormtrooper Armour
+This is the suit of body armour most feared aroud the galaxy, that of
+an Imperial Stormtrooper.  It is an offense against the Empire to wear
+one if you aren't a stormtrooper, and you believe that in rebel space
+that you wouldn't recieve a very large welcome either.
+
+
+
+
+.

@@ -1,0 +1,244 @@
+chaos,e,n
+
+              x-x-x-x
+             /  | | |
+            /   x x x
+           /    | | |
+          /     x-x-x
+         /           \
+        x-6 5-x-x     x
+              |
+        u   d-x-u    x-d-7     x
+              |        |       |
+              4      x-u-x     d
+              |        |
+            x-x        x
+              |
+              x-2 3
+              |
+              | x
+              | |
+          x-1-x-x
+              | |
+              F x
+
+              F
+              |
+
+
+
+F: climb vines
+1: door (west)
+2: gate (east)
+3: barn (west)
+4: enter (north)
+5: door (west)
+6: door (east)
+7: search crib, search blankets, pot stash
+
+ 
+Honeycomb the Teaching Hippie    4601
+Honeycomb looks like one of those student teachers you had in high
+school.  Her voice is strong but her eyes dart nervously around the
+room as if she can't look you in the eye.  She obviously just likes
+to write on the chalk board.
+
+Maryjane the Skipping Hippie      1364
+Maryjane is a small little girl with large green eyes.  Her long black
+hair is in two braids, tied with small red ribbons.  She is skipping
+around the playground, having fun all by herself.
+
+Birch the Handy Hippie      11459
+Although this hippie seems to be as loving as all the others, you
+still feel daunted by his size.  His broad shoulders show how years
+of hard work can develop your muscles.  His large hands firmly hold
+a sharp chisel.
+
+Magenta the Artistic Hippie     3064
+Magenta is a frail looking artist.  She is wearing a paint splattered
+smock and holds a paint tipped brush in her hand.  Her flaming red hair
+fans her face in disarray and her tiny hands wave frantically as she
+continues to paint, oblivious to your presence.
+
+Lizzie the Pottery Hippie    8189
+Lizzie is the local potter.  She creates everything the commune needs
+on her wheel or with her hands.  Her arms are very muscular from working
+the hard clay into things the hippies can use.
+
+Wheatfeld the Farming Hippie      4158
+He loves sheep. I mean, he looooooves sheep.  They always seem to
+shuffle whenever he is around.  This chap believes in free love
+for ALL of God's creatures, whether they like it or not.
+
+A chicken     327
+This is a cute chicken.  Kill it anyways.
+
+A Horse     3028
+This is a strong and mighty work-horse.
+
+A little sheepie    390 
+A little defenseless sheepie with a huge afro.
+
+A huge cow     399
+A huge cow with even bigger udders. Whoa.
+
+Neil the Smelly Hippie     4800
+Oh my god!  It's that guy from The Young Ones!  As peaceful as he
+may look, he produces quite a strong odor. He hasn't noticed your
+intrusion into the outhouse and seems very intent on reading one
+of his magazines.
+
+Grampa the Old Hippie    4436
+Grampa is the oldest hippie in the commune.  He loves the fact that
+he can grow his own prunes here.
+
+Charlie the Hippie Kitty     1295
+This kitty-cat loves to sleep on beanbags, so he's lucky to live
+here since there are about 10 of them scattered about the room.
+
+Sunny the Cooking Hippie     5228
+Sunny looks to be a bit out of it. Maybe it's those brownies she makes.
+
+Windfare the Hippie Poet    5630
+Now here's a strange fellow.  He sits in a chair at the table and
+mumbles as he furiously writes down his thoughts about the workings
+of the universe.
+
+A Rabbit     411
+A big bunny rabbit eating carrots.
+
+A Mole   1496
+This is a little mole.  He likes to dig holes in the ground.
+
+A Mouse     412
+This small field mouse is rumaging around for food.
+
+A Raccoon    374
+A raccoon rumaging in the compost bin.
+
+Roan the Groovy Hippie          14609
+Roan is a small, skinny little man.  He has a receding hair line, even
+though his waist long locks surely make up for it.  The pipe in his hand
+has glowing embers in it which are still smoking.  The aroma is delicious.
+Roan is sitting in a beanbag swaying to some music only he can hear.
+
+Magnolia the Flower Child      1907
+Magnolia is a beautiful little hippie child.  She has long blonde
+hair and light blue eyes.  You hardly notice that she's a bit
+cross-eyed.
+
+Steamroller the Pipe Child    1878
+Steamroller was named after his dad's favorite kind of pipe.
+He's looking forward to the day he turns 5 so he too can smoke
+out of one.
+
+Joy the Baby Hippie     1782
+This is a little baby hippie.  She looks very innocent.
+
+Shadowstar the Easy Hippie     5833
+This chick is the easiest girl in the commune.  Everyone goes to her
+when they need some lovin'. Wink wink.
+
+Moonbeam the Horny Hippie    5492
+Moonbeam is one of the few selfish people who live on the
+commune.  He likes the free love philosophy the best and
+tests it out as often as he can.
+
+Loam the Stoner Hippie    4289
+This tall and wiry man stands with his shoulders slouched a bit and
+looks like a Cheech and Chong reject in a pair of bell-bottoms and a
+ripped tie-dye.
+
+Granny the Nagging Hippie    3857
+And you thought all hippies were nice and pleasant!  This old hag
+makes you want to kill, kill, kill.  Hopefully she doesn't know
+how to use that cane of hers.
+
+Ferrah the Sewing Hippie     4829
+Ferrah is the apprentice seamtress. Sally, the mistress seamtress,
+is teaching her all the tricks of the trade.  Although she is still
+young, she learns fast, and is already quite competent with a needle.
+
+Sally the Sewing Hippie    5791
+This is Sally.  She is the best seamtress in the commune.  The needle
+in her hand looks quite sharp, and you hope she does not decide to
+stick you with it!
+
+
+
+A piece of chalk.
+This is a piece of standard white chalk.
+
+A small red ribbon
+This is Maryjane's red hair ribbon.  She must have lost it in the
+struggle to keep her life.
+
+A Chisel.
+A sharp chisel, usually used by a carpenter.
+
+A painter's smock.
+This is a white painter's smock. It is splatered with paint of
+all colours. The sleeves billow out, giving the smock a truely bohemian
+feel. It doesn't seem to provide much protection.
+
+A painter's brush.
+This is a small paint brush.  It looks like it was hand-made, but it
+is perfectly crafted. Horsehair makes up the bristles, and the handle
+is made of fine oak.
+
+A pair of Denim Overalls
+These are a pair of old overalls. You can tell they are well made
+simply because they look to be about 100 years old, but still have
+absolutely no holes in them.
+
+A chicken feather
+A small white feather, obviously from a chicken.
+
+A Leather Saddle
+A leather saddle. It looks well made.
+
+A High Times Magazine
+A magazine all about pot. There seems to be something between
+
+A Straw Hat
+A straw hat made by an old hippie.
+
+A Pair of Oven Mitts
+A nice insulated pair of gloves. They look very protective.
+
+Windfare's Notebook
+Wow! What a valuable find! Now only if you could decipher his
+handwriting...doh!
+
+Moon Amulet
+A silver crescent moon dangles from a string of leather.
+
+A pot pipe (full)
+This is a wooden pot pipe.
+
+A Mexican Poncho
+A groooooovey poncho.
+
+A String of Love Beads
+These beads almost glow with the feeling of love.
+
+A Pot Stash
+Hey! You've found the hippies' pot stash. Perhaps if you were knowledgeable
+about these sort of things, you could figure out a way to use it.
+
+A Mood Ring
+A ring that hippies use to tell what mood you're in.
+
+Bell-bottom Trousers
+What a lovely pair of pants. You immediately want to try them on.
+
+A Wobbly Cane
+A frail and wobbly walking cane.
+
+A sewing needle
+This is a very sharp sewing needle. It reflects the light in
+its shiny surface. There is some brown thread hanging from
+the eye in a hopeless tangle.
+
+
+

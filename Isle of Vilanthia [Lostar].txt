@@ -1,0 +1,81 @@
+Isle of Vilanthia [Lostar]
+Dir's: Wayhaven docks, charter
+
+
+              x
+             / \
+        x-x-x   x
+       /         \
+      x           s
+      |            \
+      x   x-x-x-x   x
+      |   |     |   |
+      x   x   x-x   x
+      |   |          \
+      x   x-x-x   x   x
+     /      |  \ /|    \
+    B   x   x   x x-x   x
+    |   |  /   /  |     |
+    x   x-x   x   x     x
+   /   /  |   |   |     |
+  x   x   x   x   x     x
+ /         \ /   /     /
+x         x-x   V     x
+|            \       /
+x     x-x-x   x-x   x
+|    /     \    |   |
+x   x       x   x   x
+ \ /        |    \   \
+  x         x     x   x
+             \     \   \
+              x     x   x
+               \    |  /
+                x-x-x-x
+
+V: Vilanthia, the Witch
+s: swim (I think I need SCUBA equipment)
+B: boat back to wayhaven
+   swim back to wayhaven (probably die woth weight/str)
+
+Monsters:
+A seagull
+A large crab
+A small firenewt
+A tree viper
+A large brown bear
+Canopy Drake
+
+Items:
+A seagull's beak.
+Crab claws.
+A large seashell.
+Canopy drake scales.
+Mithril flask (empty).
+
+-----------------------------------------------------------------
+Vilanthia, the witch.
+Vilanthia has lived on this island for centuries, using the local plants
+and animals as ingredients in her potions and items. Her hair flows down
+her back, bright silver in colour. Her face has an ageless look to it, a
+product of her enchantments. Dressed in a simple brown robe, she doesn't
+seem all that imposing, but you still get a strange feeling of power
+from her...
+
+You say: potion
+Vilanthia whispers: Yes, I can brew many different types.
+                    I need the ingredients first.
+
+You say: ingredients
+Vilanthia whispers: The ingredients depend on what it is
+                    you are trying to brew. The easiest
+                    potions are potions of heroism and
+                    oil of burning.
+
+Vilanthia whispers: The fresh corpse of a tree viper, together
+                    with a flask of water will allow me to create
+                    a potion of heroism.
+
+Vilanthia whispers: Oil of burning require the scale
+                    from a forest drake, as well as the tongue
+                    from a firenewt.
+

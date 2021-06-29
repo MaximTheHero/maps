@@ -1,0 +1,350 @@
+chaos,3e,3n
+
+              x-x
+              | |
+          x-x-x-5
+          |     |
+    1-x-x-x-x-x-x
+    |     |     |
+    x-x-x-x     4
+    |     |     |
+  x-x-x-2-3     x
+  |
+  x
+  |
+  E
+
+1: Dustfield's Yard
+2: Scotland Yard
+3: The Frying Pan Public House (pub)
+4: Dorset Street Police Station
+
+
+P.C. Charlie Baker    8422
+Charlie is a lean and wiry individual, who walks with a confident
+gait.  His jet-black hair and equally black eyes display a man with
+little emotion or care for the world.  You get the impression he
+doesn't much care for you or anyone else in the world, and it might be
+wise not to cross him.
+
+P.C. James Harvey   8628
+James is a middle-aged man, probably somewhere in his late thirties.
+He seems somewhat lost in thought as he patrols the streets, as if
+thinking over some perplexing matter.  He glances up at your approach,
+studies you intently for a moment, then resumes his thoughtful walk.
+
+Francis Tumblety    400
+Francis is a smaller man, but one who seems to walk as if he owns
+everything he surveys.  Dressed in an unusually fine set of clothes,
+he seems quite out of place for this end of town.  What you really
+notice about him however, are his eyes, they are jet black, and seem
+to reflect an almost inhuman coldness.  When he speaks his unusually
+high pitched voice has a strong american accent.
+
+Superintendant Thomas Arnold   8633
+Thomas is dressed in a black great coat and hat that makes him appear
+quite sinister in the light.  He walks slowly along, scanning the
+surroundings thoroughly.  As you approach him he spends some time
+watching you carefully, as if to determine your character purely by
+how you walk.
+
+Frederick Deeming   785
+Frederick is a fairly normal man, dressed in plain clothes and a tall
+hat that makes him difficult to make out.  He seems to be waiting for
+something or someone, and he carefully inspects any who pass by.  He
+glances your way briefly, and smiles at you, in a chilling and
+predatory manner.  You notice he is carrying a black bag that looks
+like a doctor's tool bag.
+
+Inspector Fred Aberline   7968
+The Inspector is a powerful looking man, even dressed casually as he
+is now.  Tall and muscular, he gives you a sharp look as you approach,
+clearly assessing you.  He looks tired, however, as if he has been
+awake for several nights in a row.
+
+Sir Robert Anderson  8040
+Sir Robert is an older gentleman, and he is clearly almost at the end
+of his tether.  Red eyed and stooped, the man who heads the
+investigation into the Whitechapel Murders is clearly not faring well.
+He glances up at you and a spark of hope flashes in his eyes.
+
+P.C. William Jones   8199
+William is a balding forty-something policeman with a thick beard that
+climbs down to his chest.  He is fairly overweight and his breathing
+is a little laboured.  He seems all in all to be quite displeased
+about wandering the streets after dark.
+
+Aaron Kosminski   400
+This monstrously large Jewish man staggers about as if drunk, but his
+wild eyes and random mutterings would seem to indicate that this man
+is not in a sane state of mind at all.  He spots you as you near him
+and he begins to wildly flail his arms, as if trying to ward you off.
+
+Chief Constable Adolphus Williamson   8357
+Adolphus is the head of the local police station, and as such is in
+charge of the nuts and bolts of the Ripper Murders.  He seems
+engrossed in a report on the murder, and barely acknowledges your
+arrival.
+
+Old Nichol    8743
+
+Cooper    4162
+
+Prince Albert Victor   412
+His Royal Highness, Prince Albert Victor, heir to the throne and
+Prince of Wales.  He is a tall thin man, and does not actually look
+very well.  He seems quite surprised by your presence here, and stares
+about wildly, as if looking for an escape route.
+
+P.C. Shaun O'Flaherty   8188
+Shaun is a hulking brute of a man, and it is reasonable to assume he
+is something of a 'shock trooper' for the local constabulary.  He
+glances at you with a fairly dull look, and you suspect this man was
+not hired for his thinking abilities.  His massive jaw and fiery red
+hair give you the impression of a celtic warrior dressed nicely.
+
+Joseph Barnett          412
+Joseph is a stocky man of average height and build, who seems agitated
+for some reason.  He mutters to himself constantly, and twitches at
+odd moments.  He glances your way and scowls at you, turning his
+attention back to his hands, which for a second, look like they have
+some kind of stain on them.
+
+
+A Scrap of Cloth
+A simple piece of cloth that seems to have been torn from some larger
+object.  Perhaps this is the vital piece of evidence you need to
+unmask a killer!
+
+A Stout Truncheon
+A straightforward policeman's truncheon, comprised of thick oak and a
+metal grip.  Its functionality makes it quite useful in the quelling
+of bad behaviour.
+
+A Rusty Knife
+A simple and worn knife, its owner doesn't seem to have looked after
+it terribly well.  The blade is rusted, and the edge is not in good
+condition.  Still it could serve well enough if you found yourself in
+a tight spot.
+
+
+
+
+
+
+examine:
+<super hidden>, <super hidden>,
+
+rust, layer of rust
+A fine layer of rust covers most of the gate.
+
+shadows, darkness, deep shadow, shadow, deep shadows
+Deep shadows cover the yard, making it difficult to see even with light.  The
+fog makes it seem like things are moving in the darkness, watching you perhaps.
+
+fog, swirling fog, mist
+The fog in the yard eddies about slowly, disturbed only by your own passage
+through it.  It reflects your light back at you, making it difficult to see
+properly and movement catches the corner of your eye regularly.
+
+warehouse, massive warehouse
+Overlooking one side of the yard is a massive warehouse.  It was originally
+owned by M.J.Dutfield, and is the reason this place has become known as
+Dutfield's Yard.  The building itself is old, and is now disused, and it seems
+to have fallen into a state of disarray.  There doesn't seem to be any way to
+enter it from here.
+
+puddle, puddles, water, brackish water
+It must have rained some time recently, as some of the potholes are filled with
+a disgusting concoction of mud and brackish water.  It smells terrible.
+
+sky, night
+The sky is totally hidden from sight by the thick fog, leaving you with a
+strange sense of wandering eternally through this nightmarish mist.
+
+roadway
+The roadway is back beyond the gate that you passed to get here, and is
+impossible to see from here.
+
+dutfield's yard, yard, dutfields yard
+So named because a warehouse that backs onto the yard was owned by M.J.Dutfield
+and Sons.  It is a small area, used originally to house the horses that were
+used in the transporting of goods.  Dutfield himself has long since left,
+leaving only his name as a legacy.
+
+stable, small stable, abandoned stable, tiny yard
+The stable is empty, and has long since ceased to be used by anyone.  Indeed the
+yard itself has fallen into almost total disuse.
+
+home, homes, building, buildings, facade, dark facades, dark dacade
+Lining the yard on all sides, the dark facades of silent buildings rise.  There
+is no sign of light or movement within them, and they cast black shadows about
+the yard, making even the sickly yellow lighting from the gas lamps back in the
+street seem inviting by comparison.
+
+gate, old gate, rusty gate, iron gate, metal gate, rickety gate, rusted gate, rickety iron gate, iron, metal
+The gate is old and rusted, and is not even completely shut.  You could squeeze
+through it with little difficulty, and head back out to the road if you wanted.
+
+lane, road, ground, street, row
+The ground beneath is covered in ancient cobblestones.  Cracked and worn, they
+are definitely showing their age.  Sporadic puddles and built up mud and rubbish
+line the roadside, creating a constant smell of decay.
+
+lining, roadside, mud, detritus, pile, piles, rubbish, slime, slimy pile, garbage
+Lining the yard is what can only be described as a truly vile concoction of
+rubbish, mud and water.  Some of it even seems to move on its own from time to
+time in a very disturbing fashion.
+
+cobbles, broken cobbles, cobble, cobblestone, broken cobblestone, broken cobblestones, cobblestones, stones
+bump, bumps, stone, hole, holes, cracks, crack, pothole, potholes
+Pitted and worn with age, the cobblestones are in a bad state of disrepair.  The
+cracks and potholes, some of which are filled with brackish water, make the
+footing treacherous and slow.
+
+dirt
+Lining the roadsides is what can only be described as a truly vile concoction of
+rubbish, mud and water.  Some of it even seems to move on its own from time to
+time in a very disturbing fashion.
+
+thing, something
+You carefully shine your light at the thing, revealing the lifeless corpse of a
+woman.  Her throat has been slashed open, and her eyes stare lifelessly into the
+night.  She looks surprised, so at least it seems her death was swift.
+
+elizabeth, elizabeth stride, body, woman, corpse
+She will eventually be identified as Elizabeth Stride.  A Swedish immigrant to
+England who was forced into a life of prostitution after the death of her
+husband and children in a boating accident.  The single slash across her throat
+is the only wound she received.  It is considered likely that the Ripper was
+interrupted during the murder itself, and was forced to flee the scene before he
+could perform his more normal operations on the body.  Stride's murder is the
+one that has created the most attention from the Ripper case, as there was a
+mistaken report issued about grapes being found near the body.  It is also the
+only murder where a witness was able to give a description of a man seen
+accompanying her at about the time of her suspected death.  Unfortunately,
+despite this, no investigation was ever able to positively identify a killer.
+
+staring eyes, eyes, lifeless eyes
+The woman's eyes stare into the fog above, seeing nothing
+
+throat, slashed throat, wound, slash, cut
+A single slash mars the woman's throat.  It would seem the wound would have been
+almost instantaneously fatal.
+
+search:
+yard, durfield's yard, dutfields yard, 
+You glance about the yard, but it is simply too dark to search in
+general.  You would have to be much more specific if you hope to find
+anything here.
+
+<super hidden>, <super hidden>, 
+
+swirling fog,mist, fog,  mist, fog, 
+You peer vainly into the mist, trying to discern what it is hiding from
+you, but it is a useless exercise, it is simply too thick to see clearly
+beyond a couple of feet.
+
+stone, stones, cobblestone, cobblestones, crack, cracks, holes, potholes, hole, pothole, 
+bump, bumps, broken cobblestone, cobble, broken cobblestones, cobbles, broken cobbles, 
+The cracks and bumps of the cobblestones, whilst certainly making your
+life difficult, don't seem to be actually hiding anything that could
+help you.
+
+water, puddle, puddles, brackish water
+As bad as it smells, the experience is nothing compared to the slimy and
+chilling sensation you get when you actually put your hands in it to
+search it.  Your efforts are rewarded with nothing.
+
+mud, dirt, detritus, concoction, rubbish, roadside, pile, piles, slime, slimy pile, slimy piles, garbage
+In what could quite conceivably be one of the most awful experiences of
+your life, you leaf through the slimy piles of garbage lining the
+roadside.  To your disgust you don't find anything.
+
+night, sky
+Even before you begin you abandon your study of the sky as a hopeless
+endeavour.  This fog will not clear for you.
+
+buildings, building, home, homes, facade, facades, dark facade, dark facades
+The homes of the people of London are dark and silent.  No one leaves
+their windows open or their doors unbarred in these evil times.  The
+Ripper is loose, and he has brought terror with him.
+
+road, roadway, ground, street, lane, row
+You study the gorund in a general sense, trying to spot anything of any
+use.  There's simply too much to look at in such a broad search however,
+especially in this fog.  A more localized effort may be more effective.
+
+gate, iron gate, rickety gate, iron, rickety iron gate, metal, metal gate, old gate, rusty gate, rusted gate
+A quick search of the gate turns up nothing of any interest to you.
+
+layer, layer of rust, rust
+You inspect the rust a little more closely, but there seems to be
+nothing unusual about it that you can see.
+
+stable, small stable, abandoned stable, tiny yard,
+You poke about the stable, but you can't seem to find anything of any
+value to you.
+
+warehouse, massive warehouse
+You search about the warehouse as much as you can, but since there are
+no entrances into the building itself that you can locate, that's not
+very much.  To top it all off you also don't find anything of any use to
+you.
+
+shadows, shadow, deep shadow, deep shadows, darkness
+You poke about the shadows and feel your foot bump against something in
+the darkness.  It seems disconcertingly soft and warm.
+
+something, thing
+You realize that the thing is in fact the corpse of a woman.
+
+corpse, woman, body, elizabeth, elizabeth stride
+You search the remains carefully, but it seems the Ripper has
+left no evidence here for you to be able to use.
+
+lifeless eyes, staring eyes, eyes
+There is nothing to be gained from searching them.
+
+throat, slashed throat, wound, slash, cut
+The wound is indicative of an extremely sharp weapon, probably a knife
+of some kind.
+
+
+
+(divine insight
+Using your divine ability you discover the following information about the
+environment you are in:
+The following items can be examined in this room: lane, broken cobbles,
+elizabeth stride, thing, old gate, homes, staring eyes, detritus, sky,
+bump, stones, massive warehouse, metal gate, swirling fog, dark facade,
+rusty gate, hole, layer of rust, concoction, iron gate, ground, night,
+lifeless eyes, abandoned stable, metal, cobbles, broken cobblestones,
+<super hidden>, slimy piles, dutfields yard, row, tiny yard, home,
+something, yard, darkness, cobblestones, stable, pothole, brackish water,
+warehouse, bumps, piles, rubbish, holes, dirt, wound, puddle, small stable,
+rickety gate, pile, slashed throat, cobblestone, mist, slime, building,
+broken cobblestone, rust, buildings, roadside, gate, slash, facades,
+roadway, rusted gate, crack, potholes, stone, garbage, cut, elizabeth,
+throat, eyes, cracks, mud, facade, iron, shadows, layer, slimy pile, deep
+shadow, shadow, <super hidden>, road, woman, puddles, corpse, street, deep
+shadows, dutfield's yard, fog, dark facades, cobble, rickety iron gate,
+body, water
+The following items can be searched in this room: yard, durfield's yard,
+dutfields yard, mist, fog, <super hidden>, <super hidden>, swirling fog,
+ground, road, street, lane, row, stone, stones, cobblestone, cobblestones,
+crack, cracks, holes, potholes, hole, pothole, bump, bumps, broken
+cobblestone, cobble, broken cobblestones, cobbles, broken cobbles, water,
+puddle, puddles, brackish water, mud, dirt, detritus, concoction, rubbish,
+roadside, pile, piles, slime, slimy pile, slimy piles, garbage, sky, night,
+buildings, building, home, homes, facade, facades, dark facade, dark
+facades, road, roadway, gate, iron gate, rickety gate, iron, rickety iron
+gate, metal, metal gate, old gate, rusty gate, rusted gate, rust, layer,
+layer of rust, stable, small stable, abandoned stable, tiny yard,
+warehouse, massive warehouse, shadows, shadow, deep shadow, deep shadows,
+darkness, something, thing, corpse, woman, body, elizabeth, elizabeth
+stride, eyes, staring eyes, lifeless eyes, throat, slashed throat, slash,
+cut, wound
+You have discovered 32 of the 32 known rooms in this area.
+
+.

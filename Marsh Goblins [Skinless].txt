@@ -1,0 +1,21 @@
+Marsh Goblins [Skinless]
+Dirs: Eforest, 5w, 7s, 4e
+
+   x   x   x
+    \  |  /
+     x-x-x
+     |   |
+  -x-x   x-x
+     |   |
+     x-x-x
+    /  |  \
+   x   x   x
+
+
+Monsters:
+A Marsh Goblin
+
+Items:
+A gnarled club.
+
+

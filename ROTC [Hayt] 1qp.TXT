@@ -1,0 +1,114 @@
+Chaos,3e,2s,2e,n,3e,s,w,n
+
+
+
+
+    x 1 x   x-x
+    | | |   | |
+  x-x-x-x-x-x-x
+      |   | | |
+      E   x x-x
+
+1: Captain Pope
+   search desk - Khaki marble
+
+
+
+Captain Pope    72979
+From boots to hat this man looks like he was a born
+leader.  His brown eyes meet your stare and he smirks at you.
+As he shifts some papers around you notice his large muscles
+and decide that leaving him alone may be the healthiest choice.
+He is dressed perfectly; from head to toe you note nothing
+wrong.  His boots look freshly polished, and he looks like he
+is ready for anything.
+
+Captain Meyer    41749
+Captain Meyer looks intent on ignoring you for the
+moment.  He reads quickly through his papers and his bright
+eyes flash up momentarily.  He looks very intelligent, but he
+is being quite reserved.  His black hair mixed with his stoney
+facial features make him slightly intimidating.  As his eyes
+pass over you again you realize that you should not even think
+of upsetting him.  There is something about him that bothers you.
+
+Admiral Rogers (deadly)    78333
+This man is short, and you feel like laughing at him,
+but he has an air about him that makes you hold your tongue.
+His eyes meet your look coldly, you can see no hint of
+emotion in them.  As he moves about the room you see his
+muscles bulge beneath his battle dress uniform.  He is a Navy
+SEAL on special training.  It would be wise to keep your
+distance from him; he looks dangerous.
+
+Captain Truebenbach    72434
+This is one big man.  Intimidating is the first word
+to come to your mind.  He is clearly too large for his battle
+dress uniform.  In fact, he is so large it is scary.  Just a
+quick glimpse tells you that he is very strong.  He is dressed
+neatly in his army gear, though he is not wearing a hat.  His
+blonde hair is cut very short and his steel blue eyes pierce
+into you and you begin to worry about your future.
+
+Sergeant Stark   17861
+The Sergeant stands between you and the strange device.
+You have a feeling he won't let you get anywhere near it.  He
+looks very professional, yet relaxed.  There is something that
+you fear in his casual presence.  His boots have been recently
+polished, and you are surprised that he looks this clean for
+being in the closet room with all of the supplies.  To check
+out what is behind him, you must kill him.
+
+Cadet Daniels   8893
+These Cadets all look the same.  They dress the same,
+and even sport the same haircuts.  This Cadet looks extremely
+disciplined.  For some odd reason, you find respect for these
+people and realize that attacking would be a bad idea.
+
+Cadet Jones   9248
+These Cadets all look the same.  They dress the same,
+and even sport the same haircuts.  This Cadet looks extremely
+disciplined.  For some odd reason, you find respect for these
+people and realize that attacking would be a bad idea.
+
+Cadet Smith   8659
+These Cadets all look the same.  They dress the same,
+and even sport the same haircuts.  This Cadet looks extremely
+disciplined.  For some odd reason, you find respect for these
+people and realize that attacking would be a bad idea.
+
+Cadet Tolzmann   8666
+These Cadets all look the same.  They dress the same,
+and even sport the same haircuts.  This Cadet looks extremely
+disciplined.  For some odd reason, you find respect for these
+people and realize that attacking would be a bad idea.
+
+Cadet Godfrey    8774
+These Cadets all look the same.  They dress the same,
+and even sport the same haircuts.  This Cadet looks extremely
+disciplined.  For some odd reason, you find respect for these
+people and realize that attacking would be a bad idea.
+
+Cadet Piccolo    8984
+These Cadets all look the same.  They dress the same,
+and even sport the same haircuts.  This Cadet looks extremely
+disciplined.  For some odd reason, you find respect for these
+people and realize that attacking would be a bad idea.
+
+
+
+A Navy SEAL pin
+A gold Navy SEAL pin! This is the symbol of the SEAL's first
+kill, and is usually stabbed into the chest. Maybe wearing it
+will bring you some of the courage of a real Navy SEAL...but
+are you worthy?
+
+Cased Mirror
+This round, hinged case of ivory spans the length of your hand, and
+can be opened up to reveal two warped mirrors of grozed glass. What
+you determine to be the top has been carved in intricate detail; a
+depiction of a man and a woman on horseback, a hawk on the man's
+gloved arm. On the bottom is a short inscription: 'To my beloved
+daughter'.
+
+

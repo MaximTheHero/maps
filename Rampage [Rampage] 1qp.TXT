@@ -1,0 +1,302 @@
+road portal,2n,e,path,e
+
+           x-x
+          /   \
+         x     x
+          \    |
+           1 x x
+            / X
+           x-x x
+               |
+             E-x
+
+1: dive pool
+
+all are 'swim' directions
+    x-x-x
+    | | |
+    x-S x
+        |
+      x-x
+      |
+  reg x
+      |
+      x
+      |
+      2
+
+2: enter (A Draconian Temple)
+
+
+                x
+                |
+              x-x---x
+               /    |
+              x     x
+               \    |
+                x-7 x-x-x
+                        |
+          u/d-Q-d       |
+                        |                          amulet room
+      x-x-x-u  u/d    x-x-x
+        |   |        /   /
+    x-x-d---x-4-3-x-x   x                            B A
+                        |\                            \|
+      x-u/d   x-u       x 5                          C-S-F
+     /                  |                              |\
+  x-x   u               E                              P D
+  |
+  6
+
+
+
+3: leap across                                  A: Mahogany Chest
+4: enter                                        B: Golden Chest
+5: Lazarian Tavern                              C: Crystal Chest
+6: search stones                                D: Silver Chest
+   insert 1-16                                  S: down - Black Chest
+P: portal to Q                                     up - Oaken Chest
+F: out to 6
+7: enter hole
+
+          x
+          |
+          x
+          |
+        x-x-x
+          |
+        x-x-x u
+          |  /|              |
+    x x u | / x x          d-x-d x x
+    | |  \|/  | |              | | |
+  x-x-x-x-x---x-x              x-x-x-x
+    | |  /|\                   | | |
+    x x u x u              d-x-d x x
+          |                  |
+          x                  Y
+          |
+          x
+          |
+          Z
+
+Z: entrance from 7
+Y: search wall
+
+
+Snake      3258
+A mutated diamond back snake.  It spews venom at you from its long
+fangs.
+
+A Scorpion    5226
+A red tailed scorpion.  Its tail and stinger pulsate with venom.
+
+Blood Shark    7331
+A huge shark.  It has red stripe markings on its skin.  The stripes
+are a deep red.  It craves blood like it does water.
+
+Tiger Shark    7195
+A huge Tiger shark.  It has long stripes marking on its skin.  The stripes
+are a deep orange.  It craves blood like it does water.
+
+Blood Soldier      9759
+A parasitic soldier.  His blade still drips with fresh blood.
+
+Blood General    48722
+General Zenxtris, the head of the blood soldier troop number As231.
+He looks very powerful.  In his hand he wields the whip of pain.
+
+Shaitain Soldier   7050
+A four armed soldier.  He stands 8 feet in height.  His weight is 400lbs.
+He seems to be very well built and impervious to pain.
+
+A Stone Harpy   86190
+A large hideous harpy with disheveled hair and an evil sneer
+that burns right into your soul.  Her skin appears to be made of
+stone!
+
+Death Guardian      45432
+An ominous guardian draped in a black shroud, a jet-black Zircronium
+blade is wielded in his muscular calloused hands.  With eyes the hue
+of ash, maggots hanging from his decaying shroud, skin the color of
+putrid milk and the surrounding buzz of flies, the horrible stench
+issued from him is no surprise.  Even so, he holds the stance of a
+battle-tested warrior, and would probably prove for most a fairly
+formidable foe.
+
+A Bouncer
+The bouncer is a stocky Cyclops.  His long and greasy hair is pulled
+up into a queue over his massive eye, and he glares around the pub
+unblinkingly.  It looks like he's quite prepared to stand around all
+day, just in case trouble happens to walk in. Making him mad would
+probably be a very bad idea.
+
+The Bartender
+A wiry elf stands behind the bar.  He is wearing a stained apron to
+protect himself from the caustic and messy chemicals his customers
+demand to drink day in and day out.  He looks to be a pleasant-enough
+sort, though his posture suggests that anything would be better than
+another long day behind the bar.
+
+A Red Stone Gargoyle     68875
+A stone gargoyle with a wingspan of over 20 feet.  Made of ancient red
+marble, this creature has guarded this room for ages.  It stares at
+you in silent rage.
+
+Black Stone Gargoyle    78523
+An ominous looking gargoyle made of black stone.  Its broad face
+features beady eyes and a snarling mouth full of razor-sharp teeth.
+
+Green Stone Gargoyle   77415
+A stone statue of a gargoyle, made of some kind of green marble.  The
+worn and weathered face is chipped in many places, making this statue
+look ancient.  The sinister snarl of the gargoyle's mouth shows
+numerous sharp teeth.
+
+Crystal Stone Gargoyle    63809
+A huge black gargoyle with wings of platinum.  Its stony eyes seem to
+regard you with pure menace and its claws look sharp enough to cause a
+great deal of damage.
+
+Master Stone Gargoyle    68396
+A huge master gargoyle with wings of steel.  Its open mouth reveals
+rows of jagged teeth and a snake-like tongue.  Its claws look
+absolutely lethal.
+
+Guard      34713
+A very nasty looking guard.
+
+Egamarian High Priest    48144
+This is the protector of Egamar, the famed land of the
+White dragons.  He is capable of many things and can avoid
+the most skilled attacks from all mortals.
+
+A Gardener   2198
+A small well-built man in his late thirties.  He has peace
+and love written on his face while he tends to his flowers.
+
+A peacock    398
+A beautiful, colorful peacock.  Its feathers are extended in a
+fan shape as it parades about the grounds.
+
+A black stallion     706
+A powerful black stallion.  Its muscles are strong and taut.
+
+An elk    398
+A majestic looking elk.  Its horns are strong and erect.
+It is peacefully drinking water from the steam of waterfall.
+
+A fawn    386
+A young fawn.  It looks just like Bambi.  AWWWWW, how cute.
+
+A squirrel    149
+A cute cuddly wubbly squirrel with a nut in his mouth.
+
+A pixie guard    24966
+This is a pixie guard. He shimmers with all the colors of the rainbow.
+He seems very friendly and is beckoning you to enter.
+
+Ren Ar of Tredor    31198
+Ren Ar has fought for the side of good ever since he was born. His uncanny
+ability to judge a person's alignment through their aura gives him an advantage
+in fighting for the causes of good.
+
+Tran of Tredor    34307
+Tran is the adopted sister of Ren Ar. She is a mighty pixie warrior who
+has the same sense of justice her brother has, though not the power possessed
+by Ren Ar.
+
+A pixie chef     412
+This is a royal chef. He seems to be a little too obese to be a pixie.
+This maybe because of one too many test tastings of his own handywork
+
+A pixie sweeper    183
+This is a pixie sweeper constantly sweeping the floor.
+
+A sinner    384
+This is a sinner who has come to confess his sins. He is kneeling and praying.
+
+A priest    5587
+A Franciscan Priest.
+
+
+
+
+
+A green mushroom
+A small green mushroom.
+
+A yellow, spotted mushroom
+A small yellow mushroom with little spots on it.
+
+Blade of Blood
+A Blade used for brutal and total mutilation.
+
+Whip Of Pain
+An etched steel whip with long curved razorblades in the tip.
+
+Crystal Sword
+A crystal sword etched with a dragon on the blade.
+It radiates pure power.
+
+Zincronium Death Blade
+A jet black sword made from the hardest materials in the
+nether regions of darkness.  It emits great power.
+
+A Death Shroud
+A black hooded shroud.
+
+First half of amulet
+The first half of the broken amulet of Lazarus.
+If you had the other half, you could 'join first half to second half' and
+restore the amulet to its former glory.
+
+A golden key
+A golden key.  There is an emblem of a snake on it.
+
+A Leather Cloak
+A leather cloak.
+
+Holy Staff
+A wooden staff with a clear crystal emitting a blue light.
+
+Pixie sword
+A small, yet sharp sword.
+
+Rainbow armour
+This is the armour taken from a dead pixie. Its colors change as light
+hits it at a certain angle and shimmers with the colors of the rainbow.
+
+Sword of Justice
+The Sword of Justice, forged from the blood of a Unicorn, is solely created
+to destroy all evil in the world.
+
+Broom
+A broom.
+
+An apron
+A chef's apron.
+
+Spatula
+A chef's spatula.
+
+Chef's hat
+A chef's hat.
+
+Platemail +1
+This is an enchanted piece of armour that gives you extra protection from the
+attacks of you opponent.
+
+Glow ring
+A glowing ring that lights your path.
+
+Iron shield
+A small iron shield.
+
+Spiked helmet
+A spiked helmet.
+
+Executioner's Axe
+This axe was borrowed from the Executioner. It looks like it could chop
+off your head cleanly.
+
+.

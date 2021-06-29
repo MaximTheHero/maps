@@ -1,0 +1,97 @@
+A strange boy, wanders chaos, trace symbol
+*note* - for exploring.  the room exits are based off what you're facing.  so if you go 'backward' you go back a room but are now facing the new direction
+
+      4     x
+      |     |
+      x     x-x-3
+      |     | |
+      x   x-x 5
+      |     |
+  x-x-x-x-x-x-x-x-x
+  |     |         |
+  S     x         x
+  |     |         |
+  1     x-1       x
+        |         |
+        x         x
+                  |
+                  2
+
+
+1: School Gate
+2: a small beautiful child *Miyu*
+   -after 'bite me' kill miyu.  a drop of her blood = Blood Marble
+3: Kyoto Inn - "buy dose of reality" to exit area (1000g)
+4: search houses, enter house
+   exa debris, search debris
+5: A huge walking suit of armour
+
+A strange boy  17576
+As you stare at the vacant-eyed boy, he stares back.  He doesn't seem
+to notice anything nor fear anything.  Two thin lines of dried blood
+trace down from small puncture holes on his neck.  On his torso, there
+appears to be a strange symbol.  As you look at the symbol, you get an
+intense urge to trace it.
+
+A huge walking suit of armour   41165
+The first thing you realize is the immense size of this thing. It towers
+over the tallest buildings, and a dark, evil glow, radiates from within
+its metallic plates.  There's power here and evil magic.  It will take
+equally powerful magic to handle this thing.  The Armour stands calmly
+awaiting to see if you'll get into its reach, for the crunch of doom.
+
+A small beautiful child   36636
+You are stunned by her beautiful face and glowing eyes.  You feel like
+gazing at her forever.  Suddenly you remember seeing this person before
+in ancient texts about beings of great power.  Backing away carefully,
+you study her more closely and come to realize that before you stands
+none other than Miyu the Vampiress.  Even though she appears to be a
+small and helpless girl, you realize she's much more than she looks.
+
+A frightened cop   26326
+The cop looks nervously around.  He keeps staring at the door as if
+he's waiting for something to happen.  He keeps muttering to himself
+and outright ignores you.  On his torso, there appears to be a strange
+symbol.  As you look at the symbol, you get an intense urge to trace it.
+
+
+
+A little hand held cross
+The cross has helped many people throughout the centuries and still
+today many seek items such as this one.
+
+Small flute
+This is a small 7-holed flute.  It is made of a strange wooden material,
+   most likely used for its resonating properties.  You could probably
+   play it.
+
+Gold bar
+A bar of shiny yellow gold
+
+Sapphire
+A beautiful gem. It looks expensive.
+
+A Statue of a Smiling Leprechaun
+The symbol of the leprechaun has brought luck to many people for many generations
+Some even say that if you rub its belly it will bring you good luck.
+
+A clear light mirror
+Wow, someone sure took time to shine this thing up.  Your
+reflection beams back at you in total clarity.  Wonder
+what this mirror is used for?  Hmm, is that a bit of food
+on your chin???
+
+Head of Walking suit of armour
+This is the severed head of Walking suit of armour.
+
+
+qinfo:
+go to 4, search houses, enter house, kill boy, search debris
+unkeep all, drop all
+go to 2, bite me
+go back to 4, get your stuff
+go to 5, use mirror on armour
+kill armour, DO NOT DISPOSE CORPSE
+chop head, then dispose corpse
+get head, go back to 4
+put head in picture.  done

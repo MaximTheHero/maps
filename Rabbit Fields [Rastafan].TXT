@@ -1,0 +1,58 @@
+eforest, 3e,8s,3w
+
+
+                   |             Rabbit Hole
+   x-x-x-x-x-x-x-x-x-
+   |X|X|/ \|X|X|X|X|
+   x-x-x 1-x x-x-x-x
+   |X|X|\  | |X|X|X|
+   x-x-x-x x x-x-x-x
+   |X|X|X| | |X|X|X|
+   x-x-x-x x x-x-x-x
+   |X     /|\     X|                   x   x u
+   x-x-x-x-x-x-x-x-x                    \ /| |
+   |X     \|/     X|             d-x-x-x-x x-x
+   x-x-x-x x x-x-x-x                    /
+   |X|X|X| | |X|X|X|                   x
+   x-x-2-x x x-x-x-x
+   |X|X|X| | |/| |X|
+   x-x-x-x x x 4 x-x             C
+   |X|X|X|X|X|\ /|X|             |
+   x-x-x-x-x-x-x-x-x             u
+   |
+   3
+
+1: Shamus (Small shack) - Kill Bahamut quest
+2: to Rabbit King and Ganderei Cae
+3: Shansabyk Castle
+4: Underdark
+C: Ganderei Cae - Sphere of Annihilation/Dark Black Potion with Yellow Floaties (+str)
+
+
+
+
+
+
+Vicious Rabbit    17746
+This is a vicious bunny rabbit.  He has big teeth and terrible claws
+and is glowing a dark red.  He looks... Unholy.
+
+Vicious Badger      19366
+This is a vicious and terrible badger.  He has a faint
+glowing aura and a mean disposition.
+
+Sun Flower Guardian   24516
+This is the guardian of the Sun Flowers.  He is protecting the flowers
+and the fields from annoying people like you.
+
+
+
+Rabbit's Foot
+A small rabbit's foot.  It has a small chain attached to it, like a necklace.
+
+Badger Fur
+A large badger fur.
+
+Long Green Vine
+This is a long green vine.  It looks almost rope like.
+

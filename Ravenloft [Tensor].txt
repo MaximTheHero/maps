@@ -1,0 +1,58 @@
+Ravenloft [Tensor]
+Dirs: Eforest, 2s, sw, w, nw, enter mist
+
+                                                                             3
+                                                                             |
+                                                                           x-x-x
+                                                                             |
+                                                                             x
+                                                                              \
+                                                                               x-x
+                                                                                 |
+                                                                                 x
+                                                                                 |    
+                                               x               T             x-x-x-2  
+                                                \              |            /  | |   
+                                                 x-x     x 6   x           x   x x    
+                                                   |     | |   |          /     \
+                                           x-x   x x-x-x-x-x-x-x-x-3-x-x-x       x
+                                          /   \ /    | | |   | |         |
+                                         x x-x-x     x 5 x   x x         x
+                                         | |\| |    /        |          /
+                                       W-x 7 x x   x         4         x
+                                            / /   /                    |
+                               8           x-x   x                     x
+                               |           |/   /                       \
+                       9   x-x-x           x   x                     x x-x-x 1
+                       |  /     \           \ /                      | | | | |
+                     0-x-x       x-x-x-x-x-x-x                       x-x x-x-x
+                                /                                    |  /| |
+                               x                                   R-x-x-x-x
+                               |                                    \| | | |
+                               x                                     x-x-x-x
+                              / \                                       \
+                             D   Z                                       x
+                                                                         |
+                                                                         E
+
+
+
+
+
+E: Entrance/Exit
+R: Rivler Ivlis
+1: Abbey [Druss]
+L: Forced Logout that looks like a death
+2: Forest [Vraal]
+3: Barovia [Tensor]
+4: Ismark the villager.
+5: Ireena Kolyana.
+6: Blood Of the Vine Inn
+7: Masque [Talismon]
+W: Wood Golem
+8: An elegant black carriage.
+9: Van Richten [Eek]
+0: Ebonbane [Tensor]
+Z: Temple of the Zombie God [Pistil]
+D: Der'Thalas [Tensor]
+T: Treant Forest

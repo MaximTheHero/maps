@@ -1,0 +1,35 @@
+Sea of Suffering [Zhaoyun]
+Dirs: Eforest, 2w, 8n, kill monk, n, move closer
+
+
+      x-1
+     /
+    x
+    |
+    x
+     \  
+      x-E
+
+*Any other directions jump you around a bunch, this is a straight route*
+
+E: Entrance
+1: Jueyuan the captain of monk guards.
+   He has Book of Dexterity
+   Search sands 1000 times to get the Bronze Marble.
+   turn back to leave
+
+Monsters:
+Huikong, the monk guard
+Huineng, a monk guard
+Huixin, the monk guard
+Huijin, the monk guard
+Huinian, the monk guard
+A skinny monk
+A fat monk
+
+Items:
+Random Rings
+Random Weapons
+Book of Dexterity
+Blood Sword
+

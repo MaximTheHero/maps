@@ -1,0 +1,119 @@
+chaos,4w,e,n,w,2n,mcd
+  
+  x
+   \
+    1-x   x
+      |   |
+    x-x-x-x
+      |
+      x
+      |
+      x
+      |
+      E
+
+1: escape through hole
+
+
+Grimace   2171
+Grimace.  A large man in a purple Grimace suit.  He reeks of Jack Daniel's.
+
+An annoying customer   1578
+An annoying customer.  He is taking too long to order.
+
+Nathan the Cashier   3795
+Nathan the Cashier.  He's a smart-ass teenager.  You
+don't like him touching your food.
+
+Ronald McDonald    3134
+A large mass of a man glares down at you.  Bright red
+lipstick and white pancake makeup is smeared across his face.  A
+small wad of spit gathers at the corner of his mouth.  An indentation
+of a penny is stamped on his forehead.  His clothes are wrinkly
+and torn and you guess he hasn't brushed his teeth in weeks.
+
+Matt, the bratty kid   784
+Matt is a typical snot-nosed brat. He's wearing a dirty Bart
+Simpson shirt and baggy pee-stained shorts.  His hair is full of
+rats nests and lice.  One hand is busy picking his butt, the
+other is sticking french fries up his nose.
+
+Fat lady   1430
+A really fat lady is standing in the middle of the aisle.  She is
+wearing lime green stretch pants that are about three sizes too
+small and a floral polyester blouse.  Her hair has been badly
+bleached and her perm has turned to just frizz.  Heavy blue eyeshadow
+and silver lipstick can't hide her wrinkles and bad acne scars.
+
+Cheeseburger   1229
+A half-eaten cheeseburger that's been laying on the floor getting
+hard and stale.  Ketchup and mustard spurts out the sides.
+
+Chicken McNugget   759
+A moldy chicken mcnugget that's been kicked around the floor for
+days lies at your feet.  It probably could walk out of the
+restaurant on its own.
+
+Hamburglar    1432
+It appears that the Hamburglar is running around in a cape and
+a mask stealing burgers off the grill.  He's very sneaky and you
+are leery of his intentions with you.  You better watch your back.
+
+Cockroach   400
+A big black cockroach crawls around on the floor.  He's the size
+of a small dog and quite scary looking.  You wonder what this
+thing has been eating.
+
+Mouse   399
+A mean, hungry mouse.  It looks disease-ridden.  You get a
+shiver down your spine as you notice it foaming at the mouth.
+You hope that you can make it out of here before you are eaten
+alive.
+
+Mark, the French fry guy   2812
+Mark has been here longer than anyone.  He's 33
+and still lives with his mother.  He's been Employee of the
+Month for the last 7 months.
+
+Small french fry   983
+A small burnt french fry.  It has too much salt on it.
+
+Grumpy old man   3405
+A grumpy old man haphazardly swishes water around with a worn out
+mop.  His over-sized pants are being held up with a piece of string
+and his uniform shirt has many unrecognizable stains on it.  His
+false-teeth are heavily stained yellow from years of smoking and
+drinking coffee.
+
+
+
+Bottle of Jack Daniel's
+Grimace's favorite drink.  It's empty.
+
+Milkshake
+A foamy milkshake.  It's your favorite flavor.  Maybe you should drink it.
+
+Big red shoes
+Ronald's big red shoes.  They probably would fit you.
+
+A Lady's Pocketbook
+A red lady's pocketbook.
+You can <put> and <get> things from it.
+You can put things in it.
+
+pickle shield
+     A hard, stale pickle.  You could use it as a shield.
+
+mini black cape
+Hamburglar's black cape.  Try it on.
+
+Big Mac
+It once was a Big Mac, now it's green and fuzzy, but you can eat
+it anyways.
+
+Employee of the Month pin
+Mark's prized possession.  He wears it everyday and keeps it under his
+pillow at night.  Maybe you could wear it now.
+
+A worn out mop
+A worn out mop.  You could probably wield it.

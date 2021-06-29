@@ -1,0 +1,190 @@
+road portal,4w,2n,path
+
+
+
+             x
+             |
+   d         x
+   |         |
+   x-x-x-x-x-x-x-d
+  /      |
+ x       x         D
+         |         |
+         x-x   A-B-C
+         |    / \
+         x   x 2 x     d
+          \  | | |     |
+           x-x-x-x-x-x-x
+             | | | | |
+      -x-x-x-x-x-x-x 3
+          /  | | | |
+        -x 1 x-x-x-x-x
+           | | | | |
+           x-x-x-x-x
+               |
+           x   x   x x
+           |   |   | |
+         x-x-x-x-x-x-x-x
+               |
+               E
+
+
+1: Armours and weapons shop
+2: A fish shaped fountain
+3: The Golden Nugget Pub
+A: open door
+B: Pull knob
+C: kill this guy because
+D: pull tapestry - Mithril Marble
+
+Tisha, Captain of the Dwarven Homeguard   41432
+Tisha glares down examining your worth with her eyes.  She has a scar along
+her left cheek that bleeds occasionally when she opens her mouth too
+widely.  Judging by her rough exterior and battle garb, you can tell this
+dwarf has seen a lot of action in her days.  Even though the soldier before
+you is a woman, you feel as if she is anything but ordinary, and she
+definately does not look like any house wife you would want to tangle with.
+
+<random letters>, Knivur Homeguard Sentry   31415
+A short bearded dwarf stands before you.  Donning his best battle garb, he
+looks up at you warily.  You can see in his eyes that he is ready for
+almost anything that comes at him.  The years of war have taken their toll
+upon every living thing within Knivur, and looking upon this sentry, you
+can see that he would rather die than let anyone interrupt the peace.
+
+A dwarf    6184
+The small stubby dwarf wanders around searching for his lost bag of gold.
+The poor guy must have dropped it long ago during the battle with the orcs.
+He looks up at you suspiciously, and then carries on his search.  Every now
+and then he mumbles something about a revolt and the king, but it is hard
+to understand all of his stammering.  The war must have shaken him up quite
+a bit.
+
+<random letters>, a generous dwarf    4135
+A short bearded dwarf wearing rich clothes and soft leather boots.  You are
+disgusted by his presence as he flings his snobby little nose in your
+direction, and struts around the room kingly.  He examines you very closely
+and mutters something about peasants.
+
+<random letters>, Elite Knivur Peacekeeper   32226
+The dwarven peacekeeper carefully examines the surrounding area as he makes
+his rounds through the city.  He has been sworn to uphold the peace the
+high council has instated within Knivur.  His custom dwarven axe sways from
+hand to hand as he looks at you closely, he apparently is trying to
+determine if you are a threat or not.
+
+<random letters>, the over-worked dwarven miner   8167
+The dwarven miner has musty dirt smeared across his face.  He looks like he
+went down one too many tunnels.  Let the fact be known,  if it was not for
+miners such as this one, the orc war may have ended in a complete failure.
+His sways his pick to and fro as he walks around looking for his next big
+deposit.  A lot of the mines have been almost cleaned dry by the battle.
+
+<random letters>, the exhausted dwarven miner   5684
+The dwarven miner has musty dirt smeared across his face.  He looks like he
+went down one too many tunnels.  Let the fact be known,  if it was not for
+miners such as this one, the orc war may have ended in a complete failure.
+His sways his pick to and fro as he walks around looking for his next big
+deposit.  A lot of the mines have been almost cleaned dry by the battle.
+
+<random letters>, the under-paid dwarven miner    13693
+The dwarven miner has musty dirt smeared across his face.  He looks like he
+went down one too many tunnels.  Let the fact be known,  if it was not for
+miners such as this one, the orc war may have ended in a complete failure.
+His sways his pick to and fro as he walks around looking for his next big
+deposit.  A lot of the mines have been almost cleaned dry by the battle.
+
+Ram, a muscular apprentice blacksmith   23999
+The apprentice's muscular build and broad shoulders astound you.  Not just
+one ripple of muscle but more than a dozen.  You can hardly believe that
+such a small creature can get so huge!  You watch as he swings the mighty
+hammer on unshaped metal.  You should think twice about challenging this
+particular dwarf.  Who knows what he could do with your head!
+
+Sxaakb, a bulky apprentice blacksmith   24090
+The apprentice's muscular build and broad shoulders astound you.  Not just
+one ripple of muscle but more than a dozen.  You can hardly believe that
+such a small creature can get so huge!  You watch as he swings the mighty
+hammer on unshaped metal.  You should think twice about challenging this
+particular dwarf.  Who knows what he could do with your head!
+
+A drunk dwarf   733
+The dwarf peers at you suspiciously and mutters something under his breath
+and incoherently at that.  You assume this poor guy has either a lot on his
+mind or he had a little too much to drink.  Either way he staggers about in
+a drunken fashion.  Some dwarf's just can't hold their liquor like they
+used to.  The orc war must have been a little too much for him to handle.
+
+Gwain, The Dwarven Brigade Leader  31211
+You look down up at Gwain as he in turn looks up at you.  You both share
+some silent conversation briefly, and then go on about your ways.  You can
+tell by the dwarf's rough appearance that this particular fellow has seen
+much in his days.  You look on his armour and see the old patch of Borgur,
+replaced now by the Brigade patch of Knivur.  He looks at you warily from
+time to time, making sure you are not starting any trouble.
+
+The dwarven arch wizard Brempa   42087
+This is the dwarven arch wizard Brempa, a small dwarf with long white
+beard.  He is wearing a blue robe and a dark blue pointy wizard hat.  He
+stares at you and you can hear him chant some magic words.
+
+
+
+
+
+A dwarven steel axe
+The steel axe is finely crafted by an expert weaponsmith.  The handle
+of the weapon is four feet high while the butt is roughly three inches
+thick.  The face of the blade sparkles under the light as the
+sharpness of the axe is accented by a small notch.
+
+A dwarven battle axe (enchanted)
+This is a dwarven steel battleaxe that looks very sturdy and sharp.  You
+are impressed of the magnificent dwarven craft.  The dwarven symbol of the
+half crested moon and a pick can be seen along the face of the axe head.
+
+A dwarven chainmail
+This dwarven steel chainmail is an impressive work of craftsmanship. The
+armour sparkles and shines under the light.  It is a relatively small suit
+of armour, but after all, it was constructed for the short legged dwarves.
+It looks very sturdy.
+
+A die
+A small die made of bone, maybe you can 'ROLL DIE'.
+
+A dwarven steel pick
+This is a dwarven steel pick that is used by the miners to dig out those
+precious gems from the dwarven mines.  It could also be used as a weapon if
+you wanted to wield it.  Just try to clean up the mess after you maim your
+foe.
+
+A dwarven warhammer (enchanted)
+This dwarven hammer is roughly three feet high with a blunt faced head
+attached to the top by a seamless weld.  You could really do some serious
+damage with this weapon.
+
+Dwarven battle helm
+This is a small dwarven steel helmet with pointy horns on the ends. When
+you look upon this piece of armour, you can only be reminded of the great
+dwarven army storming into battle with helms much like this one.  The
+sturdy construction and finely crafted metal reveal to you not only its
+durability in battle, but a small portion of history of the dwarven race
+and kingdom; Knivur.
+
+Steel gauntlets
+Sturdy dwarven gauntlets.  They are made of a finely crafted steel alloy
+metal.  They appear to be a little small for the average man's hand, but
+then again they were not made for a man either.  Along the back side of the
+gloves, a small crested hammer within a full moon adorns the metal.
+
+A steel key
+A small steel key
+
+A dark blue pointy wizards hat
+This is a pointy dark blue wizards hat.  There are white moons and stars
+all decorated all along the brim with a half crested moon at the top.  The
+cloth material seems a little stiff and not so fragile as one would
+believe.
+
+
+

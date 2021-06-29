@@ -1,0 +1,21 @@
+Kelon [Olethros]
+Dirs: Eforest, 7e, 4s
+
+
+       S
+       |
+       x
+       |
+       x-x
+       |
+       x
+
+
+
+
+
+Monsters:
+A spiny starfish
+A large tomcat
+A bear cub
+A chittering squirrel

@@ -1,0 +1,75 @@
+chaos,w,2s,enter mist
+
+
+     E
+     |
+     1-x
+    /|
+ x-x x-x
+  \| | |
+   x-x-x-2
+
+E: enter mist (exit)
+1: climb - ascended guild
+2: search depression, sit egg
+
+
+
+Velociraptor     2947
+This quick, long-legged dinosaur looks like a dangerous opponent indeed.  His
+terrible-looking sharp teeth and dangerously sharp hind claws make you shiver
+in fear just looking at them.
+
+Brachiosaurus    4385
+This huge beast stands before you, a huge mound of flesh and bone, feeding
+on simple vegetation.  Its huge neck allows it to reach up to the tallest
+trees and eat those leaves which other dinosaurs may not be able to reach.
+
+Allosaurus     14612
+The tall allosaurus looks down at you, and opens its jaws; displaying
+a mouthful of sharp, slightly inward-facing teeth.  It stamps about
+noisily, tearing at the vegetation with its strong foreclaws, hoping
+to find some defenseless creature to slaughter.
+
+Tyrannosaurus Rex      29730
+You look up at the huge tyrannosaurus and he stares evilly down at you. His
+huge jaws look like they could crush you in an instant, and his long,
+powerful tail could break your bones.
+
+Stegosaurus   7249
+The stegosaurus wanders peacefully before you, clearly weak from the
+lack of food in this area.  It has hard, leathery skin, and a row of large
+plates stick out of its back.  However, this dinosaur isn't completely
+defenseless; it has a dangerous looking spiked tail.
+
+A baby dinosaur - pet, follows.   
+A cute little baby dinosaur, who seems to be under the deluded impression
+that Raest is her mother, and so follows him devotedly.  Her bright blue eyes
+tell you of her innocence and devotion, and you sense that 'question'ing her
+could tell you what she might do.
+question dinosaur
+dname <name>
+dprotect
+dinoquiet
+adopt <player> - gives to someone else
+dinoget - dinodrop
+
+
+Velociraptor claw
+The razor sharp claw glints dangerously as you look at it.  The claw has a
+slight hook to it, making it a dangerous weapon if you use it just right.
+
+Allosaurus tooth
+An ex-part of the Allosaurus' dental work.  You couldn't use it for a weapon,
+but it might be worth something to somebody.
+
+Tyrannosaurus tail tip
+The sharp spiny tip of a Tyrannosaurus Rex's tail.  It fits neatly into your
+palm as you grasp it, and perhaps if you 'stab'd someone with it, it could
+hurt them quite badly.
+
+Stegosaurus plate
+One of the plates from the stegosaurus's back.  It looks like you could wear
+it over your body.  It seems tough and protective.
+
+.

@@ -1,0 +1,117 @@
+chaos,3e,2s,2e,n,3e,s,enter,2n,e,open door,push button,shift lever 2 to 3,shift lever 3 to 2,enter wormhole
+
+
+
+            S-x-x
+           /|X|X|
+          x-x-x-x
+          |X|X|X|
+          1-x-x-x
+            |X|X|
+            x-x-x
+           /|/|X|
+          x-x-x-x
+            |X|/
+            x-x
+            |/
+        1-x-x
+        |
+        x
+
+1: An alien spacecraft
+
+
+
+
+
+
+
+
+
+
+
+
+An Archaeopteryx   19030
+The Archaeopteryx is one of the dinosaurs in the bird family.  It is a little
+larger than a pigeon, and much less graceful in the air.  Its feathers are
+colourful, and it possesses a large beak with many sharp teeth, quite unlike
+your average every-day bird.
+
+A Velociraptor
+The Velociraptor is both cunning and viscious, its movements quick and
+fluent.  It walks on its two hind legs, its eyes surveying the area for
+something else to kill and eat.  Two smaller arms protrude from its body,
+which are probably used more for support and holding prey, than in hunting.
+Its medium sized head is home to a large mouth, filled with razor sharp
+teeth, just perfect for ripping apart the flesh of its prey.
+
+A Koronosaurus   22274
+
+A Smilodon    24257
+
+A Tylosaurus    22362
+
+A tyrannosaurus rex   36796
+The tyranosaurus rex is probably one of the most fearsome cretures that you
+have ever laid eyes on.  Standing fifteen feet tall, and forty feet long, it
+is a most awesome creature.  It possesses long, powerful hind legs, that
+propel it with great speed and power, while its front arms are small and weak
+looking. Its head is large with a razor-sharp-tooth filled mouth.
+
+It may be wise to avoid this massive beast, else become its next meal.
+
+A Stegosaurus    19312
+The stegosaurus looks similar to an ant-eater, but much much larger. Large
+plate-like spines protrude from its back, running in a line from the back of
+its head to the end of its tail, where four long spikes can be seen.  Its
+short stubby legs carry it along close to the ground, its head dipping
+occasionally to eat some of the grass.
+
+A Triceratops   17959
+The Triceratops looks like a tank, its head covered in a large bony plate
+which sports two long sharp horns, and one smaller on on the tip of its nose.
+The plate extends backwards, shielding its neck slightly, and is as hard as
+a rock.  It rumbles slowly along, eating plants, its short tail dragging
+along behind it.
+
+A Brachiosaurus    20684
+The Brachiosaurus towers above you, its four massive legs supporting its huge
+body.  A long neck protrudes from its body, its small head looking tiny in
+comparison to the rest of its body.  A giant tail drags along behind it,
+easily as long as its body.
+
+A Diplodocus   19393
+The diplodocus towers above you, its four massive legs supporting its huge
+body.  A long neck protrudes from its body, ending small head that looks tiny
+in comparison.  A giant tail drags along behind it, easily as long as its
+body, which could wreck havok if used to crush its foes.
+
+A weird looking alien    34923
+The alien is about four feet tall, its body small and round.  Its face
+appears to be part of its body, the large snake-like eyes peering at you with
+interest.  A small mouth is located between the eyes, and you can't see
+anything that you could define to be a 'nose'.  Three arms protrude from the
+body, one on each side, and one from its front.  Each arm is thin and bony,
+possessing four joints and ending in a small six-fingered hand.  Its skin is
+brown and leathery, appearing to be damp and slimy.  A light green pattern
+covers its body, which appears to be darker around the joints and facial
+features.
+
+A gaurdian robot    420
+
+
+
+A dinosaur claw
+Liberated from the corpse of some poor unsuspecting dinosaur, this
+claw looks rather wicked.  Curved and razor sharp, it could most
+surely tear flesh quite easily.
+
+A dinosaur tooth
+Ripped from the jaw of a recently deceased dinosaur, the sheer size of
+this tooth makes you wonder how that could of ever been accomplished.
+
+A small card
+The card is about three inches long, two inches wide, and an eighth of an
+inch thick.  Covering its surface are various symbols and alien writing.
+
+.
