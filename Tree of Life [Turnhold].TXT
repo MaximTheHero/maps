@@ -1,0 +1,154 @@
+chaos,4w,enter void
+
+turnaway
+light
+Metatron, archangel of Keter {glowing}
+doorway
+onward
+Ratziel, archangel of Chockmah {glowing}
+doorway
+onward
+Tzaphkiel, archangel of Binah {glowing}
+doorway
+onward
+Tzadkiel, archangel of Chesed {glowing}
+doorway
+onward
+Khamael, archangel of Geburah {glowing}
+doorway
+onward
+Raphael, archangel of Tipharet {glowing}
+doorway
+onward
+Haniel, archangel of Netzach {glowing}
+doorway
+onward
+Michael, archangel of Hod {glowing}
+doorway
+onward
+Gabriel, archangel of Yesod {glowing}
+doorway
+onward
+Sandalphon, archangel of Malkuth {glowing}
+doorway
+leave
+
+
+
+
+Sandalphon, archangel of Malkuth {glowing}    7172091
+This is the archangel of Malkuth.  He is dressed in
+earth tones, and looks at you wisely.  He is a master
+over the material plane.
+Bracers
+
+Gabriel, archangel of Yesod {glowing}    7061193
+This is the archangel of Yesod.  He stands here in
+shimmering violet robes with glyphs of the moon on them.
+Mastery over Will is his art.
+Greaves
+
+Michael, archangel of Hod {glowing}      7147787
+This is the archangel of Hod.  The sword arm of YHVH,
+his orange robes shimmer with primal air.  Magick is his
+mastery.
+Amulet
+
+Haniel, archangel of Netzach {glowing}     7101021
+This is the archangel of Netzach.  She stands here with
+emotion on her face.  Divine love is hers to offer.
+Boots
+
+Raphael, archangel of Tipharet {glowing}    7106182
+This is the archangel of Tipharet.  He is vested
+in the golden garments of the sun.  Realization of
+eternity is his gift to the seeker.
+Cloak
+
+Khamael, archangel of Geburah {glowing}  7116577
+This is the Archangel of Geburah.  Archetypal fire surrounds
+his form.  He stands representative of just war and deals
+closely with the angrier god forms.
+Gloves
+
+Tzadkiel, archangel of Chesed {glowing}    6971472
+This is the Archangel of Chesed.  Archetypal water surrounds
+his form.  He stands representative of the proper use of
+mercy, and is linked closely to the milder god forms.
+
+Tzaphkiel, archangel of Binah {glowing}    8582900
+This is the Archangel of Binah.  The black of understanding
+coats him.  His gift is the knowledge of all things, and all
+places.
+Shield
+
+Ratziel, archangel of Chockmah {glowing}     8757824
+This is the Archangel of Chockmah.  The gray wisdom of
+eternity is his cloak.  While Tzaphkiel has understanding
+of all things, Ratziel has the wisdom of all time.
+Armour
+
+Metatron, archangel of Keter {glowing}    15259965
+This is the Archangel of Keter, greatest of the arch-
+angels.  He wears armour of the purest white and usually
+wields a sword of great power.  He is a mighty opponent indeed.
+Sword
+
+
+Bracers of the Spirit {radiant}
+These bracers are striped with the earth tones of Malkuth.
+You must first master the physical before you can
+begin the quest of self enlightenment.
+
+Greaves of the Spirit {radiant}
+These greaves glow with the purple light of Yesod.  To
+master the physical, and begin to look beyond, is to
+win these greaves.  With it, your climb on the Tree of Life
+can begin.
+
+Amulet of the Spirit {radiant}
+This amulet is the bright orange color of Hod.  To know
+of Hod and to begin the magickal pathworking is the key
+to winning this amulet.
+
+Boots of the Spirit {radiant}
+These boots are colored the emerald green of netzach.
+Love is the key to this sephiroth, and only by loving
+your enemy can you truly understand and defeat them.
+
+Cloak of the Spirit {radiant}
+This cloak is infused with the sun-yellow power of Tipharet.
+To obtain it, one must be in mastery of the lower five
+Sephiroth on the Tree of Life.
+
+Gloves of the Spirit {radiant}
+These gloves burn red with the fiery nature of Geburah.
+To obtain them, one must temper their passive nature
+with the active fire of will.  Only then, can the
+severity necessary for overcoming problems be mastered.
+
+Helmet of the Spirit {radiant}
+This helmet is the pale blue color of Chesed.  It
+requires mercy to receive, as showing mercy is often
+a sign of strength.
+
+Armour of the Spirit {radiant}
+This armour is the slate gray color of Chokmah.  Only
+one who has the wisdom to comprehend the sacred truths can
+hope to benefit from this well crafted gift.
+
+Sword of Spirit {radiant} (enchanted)
+This double edged sword is forged of some other-wordly
+material.  Its blade glimmers with the power of the
+universe.  The sword is said to be the weapon of the
+Metatron, archangel of Keter, pinnacle of the Tree of
+Life.  Only one who is wise in the ways of the spirit
+will reap the benefits of this great weapon.
+
+
+Scroll of the Universe {empowered}
+The object you seek, reciting this scroll will give you
+the knowledge of the universe.
++10 int, +15 wis for all of boot
+
+

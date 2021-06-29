@@ -1,0 +1,60 @@
+The Barbarian Plains [Razorx]
+Dirs: Wforest, e, 5s, 2w, s, 3w
+
+
+
+
+
+
+
+
+            x-x-x
+           /|X|X|\
+          x-x-x-x-x D x
+         / \|/ \|X|\|/|
+    x   x 6 x-4 1-x-x-x   x
+   /|\ /|\|/ \ / \|X|X|\ /|
+  x-x-x-x-x 5-x-2 x-x-x-x-x-x-
+   \|X|X|X|    \ /|X|X|X|X|
+    x-x-x-x 3-x-x-x-x-x-x-x 
+   /|/ \|X|\   /|X|X|X|X|/
+  x-x 7 x-x-x-x-x-x-x-x-x
+   \|\|/|X|X|X|X|X|X|X|/
+    x-x-x-x-x-x-x-x-x-x
+       \|X|/   \|/
+        x-x     x
+
+D: Poorly built dock
+1: A wiry barbarian woman.
+2: A barbarian boy.
+3: The barbarian hall of war
+4: tent
+5: tent
+6: tent
+7: A barbarian mystical seer.
+
+
+Monsters: 
+A bison
+A groundhog
+A red fox
+A wiry barbarian woman
+A barbarian boy
+A pesky barbarian boy
+A short barbarian girl
+A barbarian hunter
+A barbarian jemadar
+A barbarian lord
+A barbarian mystical seer
+
+Items:
+A broadsword.
+A wooden shield.
+A loincloth bra.
+A loincloth.
+A small knife.
+A tamar.
+A small metal shield.
+A spear with three prongs.
+The barbarian High Lord's Sword (enchanted).
+Leather boots.

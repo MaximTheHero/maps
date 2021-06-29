@@ -1,0 +1,67 @@
+chaos,w,2n,sip cup
+
+    1       2
+    |       |
+    3-u     x-d
+    | |     | |
+    x-E     x 4
+
+
+1: search dryer - response suspicious
+2: Silas
+3: Mom
+4: Dad
+
+Toy Monster    17014
+A monster that has arisen from the immense disaster area of toys that
+cover the floor. Comprised of blocks, cars, trucks, and plush animals.
+He looks surprisingly unthreatening, but it would probably be a
+mistake to assume such a thing.
+
+Mom  -  unkillable
+The mother to Silas, our little toddler in this house, she is about 5
+foot 7 inches tall, with a medium brown hair cut to shoulder length,
+blue eyes, and an athletic build. She must have snapped right back
+into shape after Silas' birth.
+
+Dirty Clothes Monster   17776
+The piles of laundry from the household have built themselves into a
+semi-consious walking monster of dirty, disgusting clothes. Its smell
+is pretty intense.
+
+Crayon Drawing Monster   16405
+From the many scribbled drawings that Silas has made around the house,
+this monster has arisen. It is a rainbow mess of wax, walking around
+independently.
+
+Diaper Pail Monster    19118
+A disgusting monster of stinky proportions. It is a large diaper pail,
+filled to the brim with Silas' dirty diapers. The smell is enough to
+knock you back a few paces. He wields a diaper full of excrement.
+
+Dad (sitting on the toilet)  -  unkillable
+The father of Silas is tall and lanky, kind of a nerdy looking fellow.
+You have to wonder how he even managed to get a woman to date him, let
+alone get her pregnant.
+
+Silas  -  unkillable
+Silas is a pudgy faced, 15 month old boy. He has learned to walk
+recently, and makes his way around the room. Despite his innocent
+appearance, his devilish grin tells you there may be more evil inside
+him than there appears.
+
+
+
+
+Wooden Alphabet Block
+A carved wooden block, with a block letter 'A'. It
+is painted brightly, and looks to be part of a set.
+
+A Dirty Diaper
+A disgusting dirty diaper. It reeks of Silas' offal. This weapon can
+be handy because no one wants to be hit with a face full of S#$t.
+
+
+
+
+

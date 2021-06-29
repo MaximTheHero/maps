@@ -1,0 +1,182 @@
+chaos,3e,2s,2e,n,3e,n,2w,3n,n
+
+                    9
+                     \
+                    u d-x-d     
+                    |              |
+             x  x-x x-7-8  (enter)-5-(enter)
+             |  | | |              |
+   u u/d d   x  x-x x-6
+   |     |   |  |   | |
+   x-B   K-x-x  x-x x-x
+         |    \   | |
+         1    out-x-4-x
+
+             enter
+               |        
+               E
+
+1: search dresser - Tula's wedding ring
+   gaze into mirror
+4: read to make a sandwich
+   Well, it's not a terribly interesting book.  I mean, you already
+   know how to make a sandwich.  It just reiterates it.  Blah blah blah.
+   Toast two slices of bread, spread peanut butter and grape jelly on
+   the bread with a knife.  You are not, what's the way to say it,
+   enlightened.  Your disappointment increases when you see that the
+   advertised 'FREE BREAD KNIFE!!!' is strangely missing. Sigh.
+5: home plate - search plate - A bread knife
+6: open refrigerator - Two slices of bread
+7: move panel
+8: kneel in worship THEN kill Cobra Commander - A jar of peanut butter
+9: Joe
+   make sandwich
+   tag matt
+K: knock door (north)
+B: search items - toaster
+
+     x
+     |
+   2-x-3
+
+2: Tula's Kitchen - open refrigerator - grape jelly
+3: slide on slide (to get back to 1)
+
+
+Fred Schneider   7687
+It's Fred Schneider of the B-52's!
+Strangely, this always-gay man looks perturbed.
+
+A broom    388
+
+A block of wax   1502
+
+A large boulder   392
+
+A game of monopoly   5133
+
+A cracker jack box    6503
+It's amazing!  You'd never think that something like this
+could be made out of wax!  It even has the sailor boy on it!
+Darn.  It looks as though it's already opened up the surprise
+toy.
+
+O.J. Simpson   6522
+What the hell is Orange Juice Simpson doing here?  Dunno...
+but whatever the reason may be, he's looking awfully nervous..
+
+The Cobra Commander   6117
+Cool! This is the Cobra Commander, that guy with the metal
+plate in front of his face.  Supposedly a bad guy. You never
+saw it that way, I mean, in the last episode, he helped the
+Joes beat that other guy who was made by an experiment.  You
+know, the one that they took DNA from Sergeant Slaughter to make.
+And at the end, the Commander was still turned into a snake.
+Ahhh the injustice.  Anyway, it seems Matt Sweetboots got a
+little carried away with his collection.  A little.
+
+Joe   39141
+This is Joe, a Slovak who moved to the country when he was
+very young.  At the moment (and, actually, every moment), Joe
+sports a very nice looking Appalachian Mountains t-shirt.  Joe
+can occasionally be seen skiing down the slopes of those very
+mountains or in his favorite lodge's gift shop, replenishing
+his supply of t-shirts.  However, right now, Joe can be found
+standing four feet in front of you, barring your way forward,
+absent-mindedly mumbling to himself.  He looks very dangerous,
+and from the grumbling sounds coming from his stomach, he appears
+to be very hungry.
+
+Vinnie 4175
+
+Tun-gai Hirroshima   92
+This is Tun-gai.  He's very annoying and very stupid but
+he's a nice guy.  Well.. he thinks so. No one has ever been
+able to figure out Tun-gai's origin and, it seems, no one
+really cares that much, although many people have enjoyed
+taunting him about it. <grin>
+
+Marilyn Roast   25969
+This thing is almost as disgusting as her offspring.
+But you like her more than Steve because, well, because
+it doesn't like Steve either.  She looks very dangerous.
+
+Steve Roast   1819
+A disgusting bear, no wait- it's a boy, sits quivering
+in the corner.  He whimpers even as you look at him.
+Strangely, you feel no remorse concerning his condition.
+I mean, you couldn't even tell that the thing was human!
+Hell, maybe it (he?) isn't human!  It certainly is revolting
+though!
+
+
+
+Tula's wedding ring
+This is the wedding ring of Tula.  She must have, um, dropped it.
+
+A jar of grape jelly
+Mmmm.  Welch's grape jelly.  Still half a jar left.
+
+Fred's other pair of glasses
+This is Fred Schneider's other pair of sunglasses... he
+seems to have lost his best pair.  Still, these do look
+pretty cool.
+
+A broom's bristle
+A handful of bristles is all that remains of the determined broom.
+
+A slice of pizza
+Ahh.. it is a true rarity that one finds pizza this good.
+
+A wax shield
+This shield resembles most bucklers you've seen with
+the exception of the material it was made from. The shield
+will provide you with great protection, and, when you're
+done with it, you can make candles!
+
+A wax sword
+A sword, approximately three feet long, which is made
+out of wax!  Surprisingly, the blade seems quite hard.
+
+A bread knife
+A blade perfect for slicing bread, the crust of bread, or any
+bread-like product.
+
+Two slices of bread
+Two, perfectly-shaped slices of white bread.
+
+The Cobra Commander's face plate
+You are looking at the famed face plate of the Cobra
+Commander.  He used to wear this so no one would see his
+hideous visage.  Light glints off its metallic surface.
+
+A full bottle of beer
+A nice cold bottle of beer.  Just looking at it makes you thirsty.
+
+The pants of Vinnie
+'The weapon's strength is determined by the master's
+skill', someone once said. Okay, maybe they didn't, in any
+case, Vinnie certainly knew how to use them.
+They look good. Plain and simple.
+
+A barbell
+This is one of Vinnie's barbells that Tun-gai adopted for his
+own.  Could that be theft?  Well, it certainly didn't help
+Tun-gai at all.
+
+A wicked whip
+This cruel instrument of torture is capable of causing great pain.
+
+A battered toaster
+An old, beaten-up toaster that looks like it's seen a lot
+of abuse.  It has two compartments for toasting bread but looks
+like they've been used in other ways...
+
+A jar of peanut butter
+Yummy.  An unopened jar of Jiff's peanut butter.
+
+A commemorative, 'I SURVIVED THE HOUSE OF SWEETBOOTS' ring
+A shiny band of tin, polished to brilliance.  Etched on its gleaming
+exterior is the face of Matt Sweetboots.  Just looking at the carving
+brings you an inner strength and confidence you never thought an
+inanimate object could give.

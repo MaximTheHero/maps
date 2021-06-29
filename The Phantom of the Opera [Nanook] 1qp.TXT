@@ -1,0 +1,106 @@
+chaos,4w,e,s,w,s,3e,enter,nw,2n,sit
+
+          x-3
+          |
+        x-x
+          |
+        x-x
+        |
+        2
+        |
+        x
+        |
+        x
+        |
+      s-x-s
+      |\|/|
+    u---1---x
+        |   |
+        E   x
+
+s -> 1
+2: On Stage
+   squeeze through curtains (north)
+3: push mirror
+
+maze:
+                6                  2         5
+  2   3   2    /   7      5-9  6-4  \       /   8     
+   \ /   / \  3     \    /    /      7  10-8     \     
+    1   3   8  \   5-4  1    8        \     \   6-9
+                4                      1     4
+
+7: search, you'll find a door which is exit
+10: The Phantom of the Opera, search boat - Ivory Marble
+
+M'sieur Firmin   7741
+A thin man in a finely tailored suit.  The small lapel pin shows
+he is a master of the Academy of Music, and probably the manager of
+the opera house.
+
+M'sieur Armand   8041
+A short man in a suit, obviously not a patron of the theatre.  The
+small lapel pin shows he is a master of the Academy of Music, and
+probably the manager of the opera house.
+
+Mame Giry   5643
+A short woman in a black dress.  She holds a small pad in one
+hand, which she consults often.  She's obviously the concierge of
+the opera house, and busy getting people to their seats for the show.
+
+An actor   2723
+A man in costume, preparing to sing in the opening of the opera.
+He is tall and muscular, and dressed as a common laborer.
+
+Carlotta   9684
+A striking woman advancing in years, Carlotta seems to be clinging
+to her position as lead actress in the Academy of Music.  Her smile
+is cold, as are her eyes.  She may be a great opera star, but she's
+definitely not a nice person.
+
+Christine Daae   11573
+Christine glances up at you with her deep blue eyes, a hint of
+tired anxiety within them.  Her golden hair frames an angelic face
+showing signs of recent worry.  She is already in costume for her
+first act tonight as a serving girl.
+
+A large brown rat   73
+A disgusting rat.  It's about a foot long with beady little eyes
+that glow in the dark.
+
+The Phantom of the Opera   25476
+Two red eyes glow with fire behind the white mask covering this
+man's face.  He stands clothed in an immaculate tuxedo, with silver
+and opal cufflinks.  He carries a length of rope in one hand, and
+does not appear to be happy to see you.
+
+
+
+
+
+An accounts ledger
+A large leather bound book which appears to weigh quite a bit.
+
+a jeweled hairbrush
+A large ebony handled hair brush with ivory inlays in swirling
+patterns.
+
+A diamond engagement ring
+A thin banded diamond engagement ring.  The stone is fantastically
+cut, and glitters in the light.
+
+A richly embroidered cloak
+A dark cloak, nearly black in color, with red and gold embroidery
+along the edges.  It looks very warm.
+
+A white mask
+A white mask molded in the likeness of a face.  It's smooth features
+are eerie and its luminous finish only adds to the strange presence
+the mask brings.
+
+a coiled length of rope
+A length of rope coiled neatly.  A large sliding loop is spliced
+into one end of the rope, this must be the ghost's legendary punjab
+lasso!
+
+.

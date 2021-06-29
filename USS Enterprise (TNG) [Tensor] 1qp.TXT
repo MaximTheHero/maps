@@ -1,0 +1,128 @@
+sci,enter,2u,board shuttle,exit,4w,2d,e,s,enter pod,beam 
+
+beam, enter shuttle, touch engage, wait, out
+press button, turbolift, 
+say engineering, bridge, holodeck, sickbay, etc
+
+engineering - search *Dilithium Marble*
+
+sickbay - 
+
+main bridge - x-T-x
+
+battle bridge -
+
+holodeck - 2 decks
+
+ten forward
+
+shuttle bay
+
+
+Lt. Commander Geordi LaForge   732
+This is Geordi LaForge.  He was born without
+pupils and as such must wear a special visor
+to allow him to see.  Other than that, he is
+kinda limited in interest.
+
+Lt. Commander Data    7321
+This is the android, Data.  His positronic brain was the
+result of a now-dead cybernetics authority some would call mad.
+His work, however, has culminated in the formation of the most
+complex and unique form of artificial intelligence ever created.
+He made Data.
+
+A Bitch   733
+Actually it's Dr. Beverly Crusher, but
+the other name pretty much sums it up.
+
+a Starfleet ensign    88
+One of the multitudes of ensigns you find aboard any
+Starfleet vessel.  These people are the 'fall guys'
+for most disasters that a starship encounters.  Luckily
+there is an endless supply of these people.
+
+Commander William Riker   2858
+This is Will Riker, the first officer on board the
+U.S.S. Enterprise.  If anyone needed a hormone reduction
+it would be this guy.  His great zeal for life (and women)
+make him one of the most colorful people on board.
+
+Lieutenant Worf   4477
+Worf is the first (and presently only) Klingon to
+ever serve in Starfleet.  Not one to be a pansy
+though, he is always willing to enter a fight either
+for money or honor or anything else he fancies.
+
+Captain Jean Luc Picard   759
+The legendary captain of the Enterprise NCC1701-D.
+He tends to overact at times but all-in-all,
+tends to be a cool guy.  The man tends to make
+the most wonderful speeches, except that is, when
+it regards hair growth.
+
+Ensign Wesley Crusher   34
+It's Wesley Crusher, better known as the Nerd!
+Kill him!  Kill him!  Kill the nerd NOW!
+
+Guinan (listens)   374
+This is Guinan, a weird chick from a distant
+world.  She tends to give her opinion even if
+not asked.
+
+
+
+a Starfleet com badge
+This badge is a small icon made mostly of
+gold and platinum.  The Starfleet insignia is
+easily recognizable as the shape it takes.
+Com badges are used to lock transporter beams
+onto their wearers.  To try it, tap it gently.
+
+A phaser
+A weapon used by many Starfleet officers.
+
+energy cell (glowing)
+A small rectangular cartridge made of a synthetic polymer.
+The item has a small window on one side which shows a small
+glowing compartment inside of the cell.  On the side of
+the cartridge is a small digital readout showing : 100
+These cells are to be used in conjunction with phasers.
+To load one, type 'insert cell'
+
+Starfleet uniform
+A sturdy uniform worn by all Starfleet members.
+The material is strong and seems in very good shape.
+
+a visor
+A strange futuristic visor.  If you ask me, it
+looks like a banana clip that was painted silver.
+
+A Dilithium Crystal
+This is a small sphere of polished dilithium. It's what
+makes the Enterprise go. Why it was on the floor, you
+don't know. Looks like they're getting sloppy around here
+in Engineering.
+
+a tricorder
+Right, like you're going to figure
+out how this thing works.
+
+A phaser rifle
+A powerful weapon used by many Starfleet away teams.
+
+a warrior's bandolier
+A strap of chain-linked metal formed into a
+band of silver steel.  It is the mark of a
+true Klingon warrior.
+
+hormones
+A vial of hormones.  They might come in handy if
+you were to drink them.
+
+weird hat
+A weird hat, it looks like you could fry
+eggs or grill up a steak on this thing.
+
+
+

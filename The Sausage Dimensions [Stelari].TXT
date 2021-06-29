@@ -1,0 +1,443 @@
+chaos, 2e, smack frankfurter
+
+  main room
+  exit      -> read pages           -> stare at pattern
+
+               P-x-x-x                 p-x-x-x-x
+               |X|X|X|                 |X|X|X|X|
+               x-x-x-x                 x-x-x-x-x
+               |X|X|X|                 |X|X|X|X|
+               x-x-x-x                 x-x-x-x-2
+               |X|X|X|
+               x-x-x-1
+
+
+1: Crevice
+2: office nestled on the edge of the parade-ground
+
+something about main room.  Sossymator 3000
+looks like you can make sausage.  the meat won't fit...
+
+
+P.J. Kludgenstone, the frankfurter tycoon  - unkillable
+P.J. Kludgenstone is a large man, grown fat on the profits of his
+frankfurter business.  Well, grown fat on the frankfurters of his
+frankfurter business at any rate.  He now constantly smells of
+sausage, and is the best friend of many a stray doggy when he leaves
+his office.  His love of the frankfurter is so great, he requested his
+new office be constructed entirely of them, which does mean it needs
+completely rebuilding every few days before it starts to go all
+stinky.
+
+A Carcass (huge) (frozen)    2534
+
+The carcass of some unkown beast, come to life with seemingly the sole
+purpose of making you one of its kin.  Oh dear.  It is a repulsive
+hunk of flesh, devoid of all skin, and yet somehow it contains a
+rudimentary intelligence.  It's probably best if you kill it.  Now.
+
+Meat Man   5707
+This man-shaped meaty monstrosity is hideous!  Bits of carcass and
+flesh are seemingly thrown together in no particular order, creating
+by chance a disgusting beast looking something like a man.  The
+pungent smell of fresh blood wafts into your face as the meat man
+moves nearer, its eyeless face searching, searching, searching.  What
+you wouldn't give right now for a nice big BBQ.
+
+>(  )-(  )-(  )-(  )-(  )-(  )<   2758
+A vicious string of sausages, trying to tangle and strangle you!  Each
+individual sausage is trying to thump you on the head, making for a
+wiggly-squiggly mass of dangerous meaty-treats!
+
+>(  SERGEANT SAUSAGE  )<    5631
+Sergeant Sausage is pissed because somebody has been killing all his
+strings of recruits.  He wears a gleaming row of medals proudly, all
+earned in combat, all of them well deserved.  If you don't think you
+can take a big military-meat-man like sarge here, you're in a whole
+lot of trouble.
+
+
+
+
+A wiggly piece of meat
+Eww, a raw piece of meat that wiggles strangely, all by itself!
+Though it is raw and fresh, there is no blood coming from it, though
+it does have a rich, deep, red colour.  You wonder if it is safe to
+eat wiggling meat.
+
+A sachet of powdered vanilla
+A small clear and silver sachet, containing powdered vanilla.  There
+are no markings or writing on it at all, but there looks like enough
+to add flavour to a small meal.  It smells quite tasty, though it has
+a bit of grease on the outside of the packet.
+
+A sachet of powdered horseradish
+A small clear and silver sachet, containing powdered horseradish.
+There are no markings or writing on it at all, but there looks like
+enough to add flavour to a small meal.  It smells quite tasty, though
+it has a bit of grease on the outside of the packet.
+
+A sachet of powdered cabbage
+A small clear and silver sachet, containing powdered cabbage.  There
+are no markings or writing on it at all, but there looks like enough
+to add flavour to a small meal.  It smells quite tasty, though it has
+a bit of grease on the outside of the packet.
+
+A sachet of powdered coffee
+A small clear and silver sachet, containing powdered coffee.  There
+are no markings or writing on it at all, but there looks like enough
+to add flavour to a small meal.  It smells quite tasty, though it has
+a bit of grease on the outside of the packet.
+
+A sachet of powdered beer
+A small clear and silver sachet, containing powdered beer.  There are
+no markings or writing on it at all, but there looks like enough to
+add flavour to a small meal.  It smells quite tasty, though it has a
+bit of grease on the outside of the packet.
+
+A sachet of powdered paprika
+A small clear and silver sachet, containing powdered paprika.  There
+are no markings or writing on it at all, but there looks like enough
+to add flavour to a small meal.  It smells quite tasty, though it has
+a bit of grease on the outside of the packet.
+
+A sachet of powdered oatmeal
+A small clear and silver sachet, containing powdered oatmeal.  There
+are no markings or writing on it at all, but there looks like enough
+to add flavour to a small meal.  It smells quite tasty, though it has
+a bit of grease on the outside of the packet.
+
+A Row of Sausage-Skin Medals
+What a nice row of medals, just right to pin upon your chest and feel
+like a big wartime hero, pity that they are made from dried
+sausage-skin.  Even if you killed the rightful owner to get them,
+that's what war is all about, right?
+
+
+
+
+
+The following items can be examined in this room: 
+room
+Absolutely everything in the office is made of franks!  How very tasty.  Even
+the floor is lined with slab-sized sausages which tend to squish and ooze a
+little under your feet.
+
+slices
+From what you can see, the pages of the book are finely sliced and dried pieces
+of sausage meat.  You wonder what is written on them.
+
+top of desk
+Nope, still empty.
+
+legs
+The legs are thin frankfurters, hardly up to the job of supporting anybody who
+sits in the chair.  They look like they would wibble and wobble all over the
+place.
+
+supporting frankfurters
+Large, supporting frankfurters make up the doorway through which you can exit.
+
+frankfurter skin
+Eeeewwwwwww!
+
+doorway
+Large, supporting frankfurters make up the doorway through which you can exit.
+
+spiral
+Around and around and around and around go the little frankfurters.  You start
+getting queasy, and realize you don't really want to stare at the spiral any
+more.
+
+rug
+A particularly disturbing rug (in the loose sense of the word of course, as much
+as it can be a rug when it is made out of long thin sausages woven together)
+lies in the centre of the floor.  The pattern is an ever-decreasing spiral that
+seems to move and swirl as you look at it.  Spooky.
+
+large desk
+Constructed from finely-grained frankfurters, P.J. Kludgenstone's desk is a
+remarkable piece of work (or is that cookery?).  The top is completely empty,
+giving the impression that whatever it is that goes on here, there isn't any of
+it going on at the moment.  Behind the desk is a solid-looking chair.
+
+<super hidden>, 
+
+chair legs
+The legs are thin frankfurters, hardly up to the job of supporting anybody who
+sits in the chair.  They look like they would wibble and wobble all over the
+place.
+
+boards
+The frankfurters making up the floor are long and thin, and trampled almost flat
+so that at first glance they appear to be normal floorboards.  Normal
+floorboards don't ooze and squish like that though.  There is a disturbing rug
+in the centre of the floor.
+
+skin
+Eeeewwwwwww!
+
+book
+The book on the top shelf looks to have a cover made from peeled frankfurter
+skin, and the pages are wafer-thin slices of sausage meat.  The whole thing has
+a strangely disturbing air, making you shy away from trying to read it.
+
+centre
+A particularly disturbing rug (in the loose sense of the word of course, as much
+as it can be a rug when it is made out of long thin sausages woven together)
+lies in the centre of the floor.  The pattern is an ever-decreasing spiral that
+seems to move and swirl as you look at it.  Spooky.
+
+bookcase
+The formidable frankfurter bookshelf stands behind the desk and chair.  It is
+almost completely empty, except for that one book at the very top.
+
+shelf
+The formidable frankfurter bookshelf stands behind the desk and chair.  It is
+almost completely empty, except for that one book at the very top.
+
+sausage meat
+From what you can see, the pages of the book are finely sliced and dried pieces
+of sausage meat.  You wonder what is written on them.
+
+peeled frankfurter skin
+Eeeewwwwwww!
+
+slice
+From what you can see, the pages of the book are finely sliced and dried pieces
+of sausage meat.  You wonder what is written on them.
+
+slab
+The frankfurters making up the floor are long and thin, and trampled almost flat
+so that at first glance they appear to be normal floorboards.  Normal
+floorboards don't ooze and squish like that though.  There is a disturbing rug
+in the centre of the floor.
+
+floor
+The frankfurters making up the floor are long and thin, and trampled almost flat
+so that at first glance they appear to be normal floorboards.  Normal
+floorboards don't ooze and squish like that though.  There is a disturbing rug
+in the centre of the floor.
+
+meat
+From what you can see, the pages of the book are finely sliced and dried pieces
+of sausage meat.  You wonder what is written on them.
+
+frankfurter
+Absolutely everything in the office is made of franks!  How very tasty.  Even
+the floor is lined with slab-sized sausages which tend to squish and ooze a
+little under your feet.
+
+frankfurters
+Absolutely everything in the office is made of franks!  How very tasty.  Even
+the floor is lined with slab-sized sausages which tend to squish and ooze a
+little under your feet.
+
+office
+Absolutely everything in the office is made of franks!  How very tasty.  Even
+the floor is lined with slab-sized sausages which tend to squish and ooze a
+little under your feet.
+
+slices of sausage meat
+From what you can see, the pages of the book are finely sliced and dried pieces
+of sausage meat.  You wonder what is written on them.
+
+bookshelf
+The formidable frankfurter bookshelf stands behind the desk and chair.  It is
+almost completely empty, except for that one book at the very top.
+
+chair
+Mr. P.J. Kludgenstone sits in the chair, making the sausage legs bend and wiggle
+in amusing ways.
+
+pages
+From what you can see, the pages of the book are finely sliced and dried pieces
+of sausage meat.  You wonder what is written on them.
+
+<super hidden>
+
+frank
+Absolutely everything in the office is made of franks!  How very tasty.  Even
+the floor is lined with slab-sized sausages which tend to squish and ooze a
+little under your feet.
+
+sausage
+Absolutely everything in the office is made of franks!  How very tasty.  Even
+the floor is lined with slab-sized sausages which tend to squish and ooze a
+little under your feet.
+
+disturbing rug
+A particularly disturbing rug (in the loose sense of the word of course, as much
+as it can be a rug when it is made out of long thin sausages woven together)
+lies in the centre of the floor.  The pattern is an ever-decreasing spiral that
+seems to move and swirl as you look at it.  Spooky.
+
+door
+Large, supporting frankfurters make up the doorway through which you can exit.
+
+top
+The book on the top shelf looks to have a cover made from peeled frankfurter
+skin, and the pages are wafer-thin slices of sausage meat.  The whole thing has
+a strangely disturbing air, making you shy away from trying to read it.
+
+franks
+Absolutely everything in the office is made of franks!  How very tasty.  Even
+the floor is lined with slab-sized sausages which tend to squish and ooze a
+little under your feet.
+
+swirl
+Around and around and around and around go the little frankfurters.  You start
+getting queasy, and realize you don't really want to stare at the spiral any
+more.
+
+leg
+The legs are thin frankfurters, hardly up to the job of supporting anybody who
+sits in the chair.  They look like they would wibble and wobble all over the
+place.
+
+top shelf
+The book on the top shelf looks to have a cover made from peeled frankfurter
+skin, and the pages are wafer-thin slices of sausage meat.  The whole thing has
+a strangely disturbing air, making you shy away from trying to read it.
+
+formidable bookshelf
+The formidable frankfurter bookshelf stands behind the desk and chair.  It is
+almost completely empty, except for that one book at the very top.
+
+sausages
+Absolutely everything in the office is made of franks!  How very tasty.  Even
+the floor is lined with slab-sized sausages which tend to squish and ooze a
+little under your feet.
+
+<super hidden>
+
+pattern
+Around and around and around and around go the little frankfurters.  You start
+getting queasy, and realize you don't really want to stare at the spiral any
+more.
+
+<super hidden>
+
+floorboards
+The frankfurters making up the floor are long and thin, and trampled almost flat
+so that at first glance they appear to be normal floorboards.  Normal
+floorboards don't ooze and squish like that though.  There is a disturbing rug
+in the centre of the floor.
+
+desk
+Constructed from finely-grained frankfurters, P.J. Kludgenstone's desk is a
+remarkable piece of work (or is that cookery?).  The top is completely empty,
+giving the impression that whatever it is that goes on here, there isn't any of
+it going on at the moment.  Behind the desk is a solid-looking chair.
+
+
+
+The following items can be searched in this room: 
+frankfurters
+Searching around the frankfurters makes you hungry.  Mmmmm, a nice big
+boiled frankfurter, swimming in rich tomato sauce and rolled up in a
+thick slice of fresh bread.
+
+franks
+Searching around the frankfurters makes you hungry.  Mmmmm, a nice big
+boiled frankfurter, swimming in rich tomato sauce and rolled up in a
+thick slice of fresh bread.
+
+frank
+Searching around the frankfurters makes you hungry.  Mmmmm, a nice big
+boiled frankfurter, swimming in rich tomato sauce and rolled up in a
+thick slice of fresh bread.
+
+frankfurter
+Searching around the frankfurters makes you hungry.  Mmmmm, a nice big
+boiled frankfurter, swimming in rich tomato sauce and rolled up in a
+thick slice of fresh bread.
+
+sausages
+Searching around the frankfurters makes you hungry.  Mmmmm, a nice big
+boiled frankfurter, swimming in rich tomato sauce and rolled up in a
+thick slice of fresh bread.
+
+sausage
+Searching around the frankfurters makes you hungry.  Mmmmm, a nice big
+boiled frankfurter, swimming in rich tomato sauce and rolled up in a
+thick slice of fresh bread.
+
+floor
+Examining the floorboards more closely lets you see that they are in
+fact specially made flat frankfurters, not just normal franks that have
+been squashed flat.  What lengths a slightly-loopy frankfurter tycoon
+will go to for his fantasy office.
+
+<super hidden>
+
+slab
+Examining the floorboards more closely lets you see that they are in
+fact specially made flat frankfurters, not just normal franks that have
+been squashed flat.  What lengths a slightly-loopy frankfurter tycoon
+will go to for his fantasy office.
+
+<super hidden>
+
+floorboards
+Examining the floorboards more closely lets you see that they are in
+fact specially made flat frankfurters, not just normal franks that have
+been squashed flat.  What lengths a slightly-loopy frankfurter tycoon
+will go to for his fantasy office.
+
+boards
+Examining the floorboards more closely lets you see that they are in
+fact specially made flat frankfurters, not just normal franks that have
+been squashed flat.  What lengths a slightly-loopy frankfurter tycoon
+will go to for his fantasy office.
+
+door
+Whoah!  Those frankfurters supporting the door are pretty big, they
+could almost qualify as the fabled "Biggest Frankfurter in the World!",
+but not quite.
+
+doorway
+Whoah!  Those frankfurters supporting the door are pretty big, they
+could almost qualify as the fabled "Biggest Frankfurter in the World!",
+but not quite.
+
+supporting frankfurters
+Whoah!  Those frankfurters supporting the door are pretty big, they
+could almost qualify as the fabled "Biggest Frankfurter in the World!",
+but not quite.
+
+rug,
+disturbing rug, centre, spiral, <super hidden>, swirl, pattern, desk, large
+desk, top, top of desk, chair, <super hidden>, legs, chair legs, leg,
+bookshelf, bookcase, shelf, formidable bookshelf, book, top, top shelf,
+pages, 
+
+slices
+Holy sausage-meat, batman!  Creating these pages must have been a work
+of slicing-art, they are almost as thin as their paper counterparts.
+
+slice
+Holy sausage-meat, batman!  Creating these pages must have been a work
+of slicing-art, they are almost as thin as their paper counterparts.
+
+slices of sausage meat
+Holy sausage-meat, batman!  Creating these pages must have been a work
+of slicing-art, they are almost as thin as their paper counterparts.
+
+sausage meat
+Holy sausage-meat, batman!  Creating these pages must have been a work
+of slicing-art, they are almost as thin as their paper counterparts.
+
+meat
+Holy sausage-meat, batman!  Creating these pages must have been a work
+of slicing-art, they are almost as thin as their paper counterparts.
+
+skin
+Didn't you get enough?  EEEEEWWWWWWWWWWWWWWWWWWWWWWWWWW!
+
+peeled frankfurter skin
+Didn't you get enough?  EEEEEWWWWWWWWWWWWWWWWWWWWWWWWWW!
+
+frankfurter skin
+Didn't you get enough?  EEEEEWWWWWWWWWWWWWWWWWWWWWWWWWW!
+

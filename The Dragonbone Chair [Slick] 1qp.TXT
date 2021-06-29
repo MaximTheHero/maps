@@ -1,0 +1,233 @@
+Erratio Forest - Wanders, sw,s,climb tree
+
+
+   x
+   |
+ x-D-x   u/d   1   u/d   2
+   |
+   x
+
+1: up/down/balcony
+2: up/out1/out2
+D: Portal (exit)
+   Start
+   Down
+
+
+Out1:           Hall:        Throne Room:   Wall:
+
+      3-4      5-------O         u-L         A
+      |         \     /                      |
+      x          x-7-6                       B
+      |
+      T
+
+3: writing/records/morgenes
+4: leave/hall/garden
+5: hall(e)/hallway(se)/enter
+6: door
+7: door - king's sleeping chamber -search seal, shake egg, crack egg (Fire Marble)
+A: clamber window
+B: jump to the tower
+O: outside
+
+
+A boy    16087
+A small boy with fine, almost sharp features. There is something a shade
+fox-like in his nose and chin, but not unpleasantly so. His hair is as
+dark as a crow's wing.
+
+A monk    13319
+A roundish man in a brown robe. The top of his head is bald, though
+there is still hair on the sides and back. His arms are hidden in the
+folds of his robe.
+
+Barnabas the Sexton    15732
+Without saying a word, the sexton shows his disapproval of your presence
+by beetling his brow down upon his forehead, until his eyes become the
+merest slits. A vein begins to beat high on each temple, turning this
+normal man into more of a monster than the servant of the church that he
+is.
+
+Jeremias, the chandler's assistant    10689
+A fat young boy with close cropped hair. He is slow like his master, and
+they could almost be related.
+
+Jakob the chandler    8832
+A short and stumpy man, he moves about quite slowly. He has a large grin
+on his face, and a sack over one shoulder. His clothes have little bits
+of wax stuck to them, a sign that he has recently been working.
+
+Skali of Kaldskryke    21940
+A hawk-faced man with a blond beard. He is small in stature, and has a
+look about him that says you should not trust him. But looks can be
+deceiving. He stands relaxed, though his eyes betray his true state.
+
+A Rimmersman soldier    34123
+A casually dressed soldier, wearing unremarkable travelling clothes. He
+wears tanned leather boots and a light wool cloak, underneath which can
+be seen the hilt of a sword as he moves about. His face is covered by a
+long unkempt beard, and his hair is longer still.
+
+A soldier, wearing the green livery of Elias    41855
+Though normally smiling and laughing with his friends, everytime this
+soldier sees one of Josua's soldiers, his face turns grim as he reaches
+for his sword, and starts to grumble. Quite a brutish looking fellow,
+it's probably a good idea to be long gone if there's any trouble.
+
+Doctor Morgenes    104575
+A small man with wispy white hair, he seems to bound rather than walk.
+He has a sparse beard, through which he runs his long, bent fingers.
+
+Prince Gwythinn    30803
+A handsome man, he is well dressed and well spoken - when he speaks. He
+seems fairly quiet, preferring to listen to what is said and giving some
+thought to his responses. He looks to be in good shape, and strides
+around the room like a man with a purpose.
+
+Fluiren of Nabban    7185
+Once a mighty warrior, this old knight's hands are now bent and curled
+like a hawk's feet. His hair is pure white, what remains of it anyway.
+One of the previous High King's most faithful of warriors, he stays in
+the Hayholt out of courtesy by the new High King.
+
+Fengbald, the Earl of Falshire    46012
+The Earl is dressed in a red tunic with a silver stitched eagle,
+underneath which can be seen the metallic shine of a silver corselet.
+His boots are wet and dirty, and he doesn't look very happy.
+
+Sangfugol the harper     10006
+A young man with dark hair and a smile on his face, he is wearing a
+pigeon gray tunic, across which is slung an ashwood lute.
+
+Helfcene, the King's Chancellor    12102
+The Chancellor is a short man wearing a long black robe as befits his
+office. He is fervently pacing up and down the room while mumbling to
+himself. His arms are hidden beneath his robe and seem to be fiddling
+with something; now and then movement can be seen beneath his robe.
+
+Rebah, a kitchen maid    1k
+A tall, young girl with long blonde wavy hair. The scowl on her face
+takes very little away from her beauty.
+
+Rachel the dragon, Mistress of Chambermaids    19467 
+
+Benigaris of Nabban    40158
+The son of Duke Leobardis, ruler of Nabban, and nephew of the famous Sir
+Camaris, Benigaris is an imposing figure. He is a large man, well
+dressed and well spoken. His clothes consist of a few dull and drab
+colours, as befits his personality.
+
+A Nabbanai Legionnaire   31757
+A bulky man wearing solid platemail. Most of his face is hidden behind a
+helm which comes right down to his chin. A large sword hangs at his
+side, and clangs against his armour when he moves. He barely takes
+notice of you.
+
+King Elias    163564
+With a high brow and hawk-like nose that runs in the family, the new
+High King is a powerfully built man. His cloak and hose are green, while
+his boots and cloak match his black hair. A long grey sword hangs at his
+side.
+
+Guthwulf of Utanyeat, the King's Hand      87198
+A rough looking unshaven man, his hand lingers near the hilt of his long
+sword. He is quick to dispense 'justice' and will not hesitate to kill.
+He is not known as the Wolf for nothing. He stands slightly behind and
+off to one side of the throne, well within range to defend his King.
+
+Princess Miriamele    8213
+With honey coloured hair, the Princess is very beautiful. Her pretty
+face is solemn, and her shoulders are pulled back as if expecting a
+blow. She seems very sad.
+
+Duke Isgrimnur    82837
+Dressed in a fine, light-weight blue tunic and hose, the Duke's
+considerable size can still easily be seen. He has a braided beard with
+frayed ends, courtesy of his constant picking at it. Buckled to his
+waist is an enormous sword.
+
+Count Eolair of Nad Mullach   9396
+Dressed as though for a festival, this man's white tunic is belted three
+times, each belt covered in gold or enameled metals. His long mane of
+black hair is pulled back behind his head and tied with gold ribbon. He
+has high cheekbones, and his face looks almost magical.
+
+Simon, a scullion    16445
+A tall slender boy, his size is less evident due to the way he hunches
+over when he walks. He has a freckled face, over which hangs red hair.
+The grin on his face makes him look like a mooncalf.
+
+Towser the Jester   371
+A small old man with a wrinkled smile. He still sings, and still wears
+the checkered jerkin of a jester though he cannot tumble now. Upon his
+head sits a pointy cap with bells on its tips, though now they are
+clapperless, and move about silently when he shakes his head.
+
+
+
+
+
+
+A small pair of boots
+A small brown pair of boots that are well made, probably belonging to
+someone with a bit of money. They are made of leather underneath, and
+some softer hide on top.
+
+A candle
+A marvellous looking candle. Not too fancy, but neither is it plain. It
+stands about eight inches high, and has a small wick poking out the top.
+It consists of multiple colours winding around and around all the way
+from the top to the bottom. You could light it if you wish.
+
+A large sack (0% full)
+A large sack that is capable of carrying a fair amount of items.
+
+A light woolen cloak
+A light travelling cloak made of wool. It reaches nearly all the way to
+the ground, and is a dusty brown colour.
+
+A book
+This book is entitled 'The Sovran Remedies of the Wranna Healers', and
+contains instructions, and diagrams, of how to heal various wounds.
+There seem to be two parts to the book: health, and mind.
+
+Sangfugol's Lute
+A meticulously carved and assembled musical instrument. In the right
+hands, it could produce music so divine that it may even tame the savage
+beasts of the realm.
+
+Fengbald's Helmet
+An impressive helmet, it consists of a gleaming silver casque crested
+with a pair of spreading wings.
+
+A helm
+A helm that comes down to the chin on either side, with a centerpiece
+that covers the nose. It obstructs vision very slightly, but offers much
+more protection than most of its kind.
+
+Sorrow (enchanted)
+A long, dark grey sword with a strange crossed hilt. There is a faint
+blue sheen along its edge, running all the way from the tip down the
+double guard. It gives you a strange and unsettling feeling just being
+near it, yet still draws you in. You can hear it speaking faintly in
+your mind, calling for you to wield it.
+
+A golden ring
+A beautifully crafted golden ring. It is perfect in every detail, from
+the gold used to craft it to the etching around the outside.
+
+A long, sharp sword
+A long, slightly curved sword. It gleams in the light, and has a razor
+sharp edge on both sides. It has a light coat of oil over it, and not a
+single nick to mar its perfect edge. The hilt is long enough to allow a
+person to wield it with both hands, or for larger men to use just one.
+It is well balanced.
+
+A bastard sword
+This is a finely honed double bladed sword. It has some engravings on
+the blade, and a richly decorated hilt that has become worn over time.
+
+
+
+.

@@ -1,0 +1,41 @@
+Talbo's Forest Home [Watson]
+Dirs: Eforest, 2w, sw
+
+
+knock door
+
+
+
+ x---x---x
+  \  |  /
+   x 1 x
+    \ /
+     E
+
+
+E: Entrance/Exit
+1: Climb tree
+
+
+
+   x---1
+    \ /
+     x
+
+1: Climb nest
+
+
+Monsters:
+Talbo the Hobbit
+A fox
+A Squirrel
+A caterpillar
+A baby bird
+A mother bird
+
+Items:
+Talbo's fuzzy green shirt.
+A small brown acorn.
+A piece of an eggshell.
+An enchanted amulet of flying.
+

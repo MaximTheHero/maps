@@ -1,0 +1,87 @@
+magic, eforest portal,2s,sw,w,nw,enter mist
+n,nw,n,ne,n,nw,n,ne,n,5w,3n
+*note* Elder treants sometimes have Ioun Stones
+
+
+                   x-x-x     x-H       h       x-x-x-x-x-x-x
+                   |   |     |         |       |         | |
+               1-x-x   x-x-x-x       x-x       c         x-x-x-x-x
+                 | |       |         | |                   | | | |
+                 x-x       x       x-x-x                   x-x-x-x-x-x
+                 | |               | |                     | |
+                 x-x-x-x-x   x-x   x-x   x-x   x-x   x-x-x-x-x
+                       | |   | |   | |   | |   | |         | |
+                       x-x-x-x-x-x-x-x-x-x-x-x-x-x-x       x-x-x-x-x-x-x
+                       | | | | |             | | | |       | | | | | |
+                       x-x-x-x-x             x-x-x-x-x-x-x-x-x-x-x-x-x
+                                             | | | | | | | | |
+                                         x-x-x-x-x-x-x-x-x-x-x
+                                         | | | | | | | |
+                                   x-x-x-x-x-x-x-x-x-x-x           e-x
+                                         | | | | | | | |           | |
+                                         x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+                                           | | |
+                                           x-x-x
+                                             |
+                                             x
+                                             |
+                                             x
+                                             |
+                                           s-x-x
+                                             |
+
+
+1: Aiden's Crypt [Dynon]
+	- Obsidian Rapier
+	- Obsidian Marble
+s: search mantle.  - shaft for Bloodthorne
+h: wooden hilt
+c: A leather vial case
+H: Wooden headpiece
+
+
+dark treant (young)   79571
+You see what appears to be a young, healthy tree.
+Within the gloom of the surrounding forest though, you understand
+the true nature of the creature.  The dark being begins moving its
+branches toward you menacingly.  Clicking and scratching, the black
+soul regards you as a threat to its survival.  A contorted face can
+be seen within the trunk of the beast.  Dark and evil, the creature
+is a formidable enemy.
+
+black raven   8760
+A dark souled raven, drawn from the depths of evil itself.
+
+dark treant (adult)
+You see what appears to be a majestic, healthy tree.
+Within the gloom of the surrounding forest though, you understand
+the true nature of the creature.  The dark being begins moving its
+branches toward you menacingly.  Clicking and scratching, the black
+soul regards you as a threat to its survival.  A contorted face can
+be seen within the trunk of the beast.  Dark and evil, the creature
+is a formidable enemy.
+
+skeletal bat   29862
+A creature of death and darkness, bone and blood.
+
+dark treant (elder)
+You see what appears to be a huge and mighty tree.
+Within the gloom of the surrounding forest though, you understand
+the true nature of the creature.  The dark being begins moving its
+branches toward you menacingly.  Clicking and scratching, the black
+soul regards you as a threat to its survival.  A contorted face can
+be seen within the trunk of the beast.  Dark and evil, the creature
+is a formidable enemy.
+
+shadow creature   56600
+A dark entity of pure evil.
+
+
+
+a shard of treant bark
+A magical shard of dark treant bark.
+
+wooden shaft
+You see a strange wooden shaft.  It seems light in weight but
+something about the item exudes a feeling of great power.
+

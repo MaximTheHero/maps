@@ -1,0 +1,57 @@
+sci,enter,u,3e,d,e,path,14e,18n,6e,bridge,e,2n,3e,enter
+
+    x-x
+    | |
+    x-1
+    | |
+    E-x
+
+1: A toy helicopter
+
+
+
+The Shopkeeper - unkillable
+The shopkeeper stands behind the counter, adjusting the screws on some
+sort of motor. He's deeply engrossed in his work, which appears to
+have taken a great deal of his time. His eyes are red and bloodshot
+and his clothes are falling apart. He appears to have not slept in
+days.
+
+The mother   1299
+She's wearing rather nice clothes--this family must have been lucky
+and avoided serious damage in the war. You can see the happiness in
+her eyes as she watches her children play. It must be quite a relief
+from her normal activity.
+
+The father   2423
+This is a big man. He's a little over six feet tall and looks at you
+with scorn in his eyes. He looks much tougher than his children. He
+seems to be in a different world--he's not even paying attention to
+his own family.
+
+A bratty kid   163
+This kid looks like a real brat. He's wearing designer jeans and his
+black shirt has chocolate ice cream stains all over it. You can't help
+but laugh when you see his red hair and freckles.
+
+A normal kid   327
+This is just a normal kid, wearing a plain t-shirt and shorts. He's
+playing with a superball in the corner and not bothering anyone.
+
+
+
+
+A remote control
+This is the controller for a helicopter. The screen located on the  front
+displays only static. The helicopter must be out of  range or deactivated.
+The directions on the side read:
+control <dir>   :       move in a particular direction
+control look    :       look at the present room
+activate        :       activate the helicopter
+deactivate      :       deactivate the helicopter
+control land    :       land the helicopter
+
+
+
+
+.

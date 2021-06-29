@@ -1,0 +1,25 @@
+icelands portal,5s,4e,enter cave
+
+  E-x
+
+Troll
+This massive beast stands approximately eight feet tall.  Yellowish
+drool cascades down its ever-gaping maw.  Its skin is mottled green,
+with warts and pockmarks randomly dispersed about its torso.
+Two piercing claws extend from its grotesque arms.  A dull, hollow
+stare indicates little intelligence; but an insatiable desire to
+to devour flesh.
+
+
+
+Pile of Ashes
+These are the remains of a disintegrated troll.  It's not really something
+you would find useful.  You might as well just scatter them with a kick
+of your foot.
+
+Healing scroll
+This is a yellowed roll of parchment.  A quick examination of it
+reveals this to be a healing scroll.  You can heal yourself by
+typing 'heal' or heal another player by typing 'heal <player>'.
+
+.

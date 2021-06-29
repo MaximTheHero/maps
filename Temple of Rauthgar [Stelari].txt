@@ -1,0 +1,17 @@
+Temple of Rauthgar [Stelari]
+Dirs: Wayhaven Portal, 7w, 6s, w, s
+
+
+Level 1: 
+
+
+        E-x
+        |
+        1
+  
+
+
+
+E: Entrance/Exit
+1: The High Priestess of Rauthgar (Holy).
+

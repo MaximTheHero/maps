@@ -1,0 +1,108 @@
+Twelve Princesses [Lauranna]
+Dirs: Chaos, 4w, e, s, w, s, 3e, enter, nw, recline
+
+
+        2
+        | |
+        1-K-
+
+1: lay mattress
+   pour wine
+   wear cloak
+
+2: knock on bedpost
+   down
+
+
+
+     3-2-1-u
+
+
+1: prune twig [silver]
+2: prune twig [gold]
+3: prune twig [diamond]
+   board
+   leave
+   snag goblet
+   
+return to king and give him all the items in order that you got them in
+
+
+-------------------------------------------------------------------------
+An old woman.
+
+The old woman wears a plain brown dress with plain brown shoes. She
+has a wrinkled face and her hair is hidden under a white kerchief. Her
+back is bent slightly with age, although she seems to walk pretty well
+for her age.
+
+You say: hi
+Old Woman says: You look new to this place.  Have you heard the
+                King's proclamation?
+You say: king
+Old Woman says: Oh, the King is a very nice old fellow.  You
+                should go up to the castle and say hello.  I think
+                he'd like you.
+
+You say: proclamation
+Old Woman says: The King says that whoever can discover
+                where his twelve daughters go every night dancing,
+                even though he locks them in their room, can choose
+                one of them as a spouse and get half the kingdom.
+                But you only have three days, to discover where they
+                go or you'll be banished from the kingdom for the rest
+                of your life.  I can explain how to get past the
+                defenses of the Princesses.
+
+You say: princesses
+Old Woman says: Yes, they're very beautiful.  I was their nurse
+                when they all were younger.  I'd like to see them
+                all get married and settle down.
+
+You say: defenses
+Old Woman says: That really is not so difficult.  Do not drink the
+                wine which is brought to you before you retire in
+                the evening, but nonetheless, you must pretend
+                that you have fallen asleep.  Simply pour the wine
+                down your neck when it is brought to you.  Wear
+                this cloak and you will be invisible, in order
+                that you might follow the Princesses where they
+                go.
+
+Old Woman says: If for some reason you cannot wear the cloak, try
+                some other means of becoming invisible.
+
+Old woman gives you a cloak.
+------------------------------------------------------------------------
+A noble king.
+
+Wise, intelligent eyes study you from this aged man.  White waves
+of hair flow from under the crown on his head.  His beard and
+mustache are neatly trimmed on his friendly face.  He wears richly
+colored fabrics in fashionable designs.  You are warmed by his smile.
+
+You say: hi
+The King says: Welcome to my lands.  Have you come about the
+               proclamation?
+
+You say: proclamation
+The King says: Whoever can discover where my twelve daughters go
+               to dance every night, though they are locked in their
+               chamber, may choose one of the Princesses as a spouse
+               and inherit half the kingdom.  But if, after three
+               days, whoever should try failed to discover where they
+               did their night's dancing, they would be banished from
+               the kingdom for the rest of their days.  You should find
+               proof of where they've been as well as the path they
+               took.
+
+You say: token
+The King says: Wonderful!  I'm glad you will take up this great
+               challenge.  Your room is off in the west wing, guarding
+               the entrance to the Princess' room.  On the morning of
+               the third day, come back here with your proof of where
+               they have been.  Here is a gemstone to keep track of
+               your time.  Good luck!
+
+The King gives you a gemstone.
+-------------------------------------------------------------------------

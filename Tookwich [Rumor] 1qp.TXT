@@ -1,0 +1,183 @@
+magic, wforest, 3e,n,path
+
+
+
+    u-x       P
+       \       \
+        x       x-x
+                |
+          7 2 x-x-5
+          | |   |
+        6 x-x-x-x-4
+         \  | | |
+        1-x-x 3 x
+          | |  / \
+          x x A   B
+
+1: search shelves - Dragontooth pipe
+2: search shelves - Tattered Page
+3: search pantry - Hobbit cake
+4: The Sleeping Dragon Pub
+5: search bookshelf - Tattered Page
+6: chant secret - Black Skeleton Key
+7: turn sconce - Hidden Tunnel
+u: snatch gem - Spinel Marble
+A: search tools - logs you out - old anti-cheat code
+B: search wall - pull latch - tool shed
+   search tools - you grab a shovel from the tools (Crystals of Ao qitem)
+
+Twyla Brookenbill   16940
+This loving hobbit is the wife of Melmo and mother to Delbo. She wears
+a light summer frock over her two foot frame and smiles sweetly as she
+whistles a tune to herself.
+
+Melmo Brookenbill   17981
+This good natured hobbit is typical of his kind, affable, easy going
+and rarely in a hurry to do much of anything. His pudgy cheeks
+surround a short, stubby pipe jutting from his mouth which exhales
+big, fluffy plumes of smoke every so often.
+
+Delbo Brookenbill   11701
+This rambunctious little hobbit is the son of Melmo and Twyla
+Brookenbill. Always wanting to run and play, Delbo is often found
+wandering somewhere around Tookwich, getting himself into trouble and
+causing mischief.
+
+Happilot Wishwell    20967
+This grinning hobbit has long red sideburns and a bushy mustache that
+droops below his chin. He wears a floppy green hat over his messy red
+curls and doesn't stand more than three feet tall.
+
+Yeddo Pondwander 16670
+This solemn hobbit isn't as happy as most of his neighbors. A widower
+for more than 10 years now, he has never gotten over the loss of his
+beloved wife, Fifa. His moist eyes look at you from beneath his frizzy
+black hair as he attempts a small smile.
+
+Doogle Fyremik - unkillable
+This red-faced hobbit is the manager and sole proprietor of the
+Sleeping Dragon Pub. Spending most of his days and nights in the pub,
+Doogle doesn't get out much. He does love to hear locals and visitors
+alike spin their tales of adventure while they enjoy a good meal and
+drink in his fine establishment. He is a rather portly hobbit and
+wears a worn, though clean-looking apron over his red shirt and brown
+trousers.
+
+Janbee Leafwind    18549
+Like his twin brother Dangee, this hobbit is a good foot taller than
+most of his kind. Standing over four feet tall, he has curly blond
+hair and green eyes. You suspect he might have some human or elf blood
+in his lineage somewhere as his features differ slightly from the
+other hobbits in Tookwich.
+
+Dangee Leafwind   21316
+This strapping young hobbit is a good foot taller than most of his
+kind. Standing over four feet tall, he has curly blond hair and green
+eyes. You wonder if he might not have some human or elf blood in his
+lineage somewhere, as his features differ slightly from the other
+hobbits in Tookwich.
+
+Pyma Wagglerun   101510
+This giggling hobbit is the wife of Jumpa Wagglerun. Always amused
+with her husband's quick wit, she's the perfect match for her jokester
+companion. She wears her soft brown hair up in a bun and is dressed in
+a short green shift.
+
+Jumpa Wagglerun   18543
+This plump little hobbit makes up for his small stature with his
+enormous girth. Never one to pass up a meal, Jumpa is also the life of
+any dinner party with his sharp wit and easy smile.
+
+Synda Wagglerun   9955
+This sweet old hobbit is the mother of Jumpa and the wife of Wumda
+Wagglerun. Gray haired and hunched over, she isn't more than two feet
+tall, but still radiates a warmth that makes you smile as you look at
+her.
+
+Wumda Wagglerun   21907
+One of the oldest hobbits in Tookwich, Wumda has seen many things come
+and go over the years. He's watched his son, Jumpa, grow up and get
+married. He's watched some sad events as well. Perhaps you could learn
+a thing or two about hobbit history if you sat and listened to him for
+a bit.
+
+Mayor Bowbil Took    42249
+This is the mayor of Tookwich. His family founded this town many years
+ago and he proudly carries on the traditions set by his ancestors. A
+handsome hobbit, he wears a thick gray tunic and cloak over his stout
+frame. His round cheeks glow with health and he offers a warm smile at
+your approach.
+
+Qulp Twiggirt   29209
+This portly hobbit runs the local pipe shop. He wears a thick brown
+tunic and matching pants with a black apron over them. He's friendly
+enough to most, but if you're not a hobbit, don't expect to do
+business with him. Seems Qulp has been burned by outsiders before. Too
+bad. Word is, he makes a great pipe.
+
+Glasla Gondolot   15565
+This pretty young hobbit has golden hair and a delicate face. She
+smiles demurely as you look at her, obviously aware of the effect she
+has on most folk around here.
+
+Lylah Hoppinstop   13815
+This fluffy haired little hobbit has one of the largest noses you've
+ever seen and when she grins you notice she's lost more than a few of
+her stubby little teeth. She may not be pretty, but from the smell of
+the pot she's boiling, you're guessing she can cook.
+
+Orc Thief   17567
+This hideous orc is green skinned and hunched over with arms extending
+down to his knees. His scaly hands end in ragged claws and he wears
+nothing but a loincloth over his muscular body.
+
+
+
+
+Sunslicer
+This shining shortsword is about twenty inches
+long and looks razor sharp. It has a jeweled
+handle and a wicked looking pointed blade. The
+handle is encrusted in emeralds in the shape of
+a flaming sun and a cluster of blood red spinels
+decorates one end in the shape of a spider.
+
+dragontooth pipe
+This pipe is carved from the tooth of a dragon. Long
+and narrow, it curves slightly upward at the end into
+a round bowl for the tobacco. The most extraordinary
+thing about this pipe is that it never appears to run
+out of tobacco. No matter how much you smoke it, you
+always have more!
+
+Tattered Page
+This old tattered page looks like it was torn
+out of some ancient book. It's yellowed and
+wrinkled, but it still looks legible. It reads,
+'For he that holdeth both pages of majick shall
+call forth the key to riches. <Chant secret> and
+summon thy fortune.'
+
+hobbit cake
+This is a scrumptious-looking seed cake made by
+hobbits. Light and moist, it is made from poppy
+seeds and a secret blend of flour.
+
+Black Skeleton Key
+This thick black metal key is about six inches long
+and looks like it might open a large door.
+
+A spinel gem
+This glittering red spinel dazzles the eye and looks absolutely priceless.
+You've never seen another gem to equal it.
+
+magic shovel
+This magic shovel glows softly with an inner
+luminance. It looks a little smaller than an
+an ordinary garden shovel and doesn't look to
+be hobbit-made. It has a pointed spade on the
+end and the handle is made from some unknown
+metal with an inscription that reads 'Nomlo
+Leafwind, heed the call'.
+
+.

@@ -1,0 +1,55 @@
+desert portal,4n,5w,enter
+
+
+
+             x
+             |
+             x   x
+            / \ /
+       1   x   x
+       |   |   |
+     x x   x-x-x
+     |  \ /   \
+     x-x-x     x-x-x
+     |        /  |
+     x       x   x
+            /
+           x
+           |
+           E
+
+
+1: A Crystal Staircase
+      
+
+Floor 2:
+6 platforms
+Red,Blue,Orange,Violet,Yellow,Green.
+each has the wrong crystal in it.
+I chose to get blue crystal (at red), which closes off the path to blue from red
+loop around: green,yellow,violet,orange,blue.
+get orange crystal (now you're locked there)
+insert blue crystal (opens up white)
+go to white, get white crystal, insert orange crystal (opens up path to orange from white)
+go to orange,violet,yellow,green
+get red crystal, go yellow, get green crystal, go violet, get yellow crystal,go orange, get violet crystal, go white
+insert a color crystal from your inventory, go there, insert white crystal to hold the path, go back to white, get the color out of white, go back to your color, get white crystal, insert proper color crystal.
+do that for all 6 colors, go back to white, insert white crystal
+
+Rainbow Amulet
+An amulet in the shape of the Sun, that appears to be woven
+of strands of pure light, rather than any material substance.
+It glows with all the colours of the visible spectrum. The
+Rainbow Amulet was the holy symbol of the priests of Helvareq,
+God of Light. The word 'Helvareq' is scripted in silvery light,
+in the centre of the Sun motif.
+
+Rainbow Marble
+
+
+
+
+
+
+
+.

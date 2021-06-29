@@ -1,0 +1,128 @@
+chaos, 3w,n,enter
+
+                    x-1-x
+                   /  |  \
+                  x   2   x
+                 /         \
+                x   x   x   x
+               / \ /     \ / \
+              x   x       x   x
+             /    |\     /|    \
+            x u u x x   x x u u x
+           /  |/     \ /     \|  \
+          x   x       x       x   x
+         /   /|\      |      /|\   \
+        x x-x u u     x     u u x-x x
+         \   \        |        /   /
+          x   x x x   x   x x x   x
+           \  |/|/ \  |  / \|\|  /
+            x x x   x x x   x x x
+             \ /    | | |    \ /
+              x     x x x     x
+                    | | |
+                    x x x
+                   /  |  \
+                  x   x   x
+                 /    |    \   
+                x-x-x-x-x-x-x
+                      |
+                      E
+
+1: Bow - to go south
+2: plant hammer
+   Raising the hammer over your head you stab it into the ground!
+   As one does with hammers.
+   A spray of soft earth flies everywhere!  Where did that come from?
+   After a moment, vines and branches writhe from the ground and consume the hammer.
+   Through what must be the power of chaos, you've grown a tree!
+   It stands there in its colorful glory, hoping that no one will chop it down.
+chop tree (need an ax)
+   You chop furiously with your axe until the top part falls with a crash.
+   Chips of wood and <seed colored> leaves fly everywhere!
+whittle ring
+   You whittle furiously with your axe until the ring you envision takes shape.
+   Chips of wood and <seed colored> bark fly everywhere!
+
+*need to 'insert' 2 seeds into hammer
+   
+
+A Root Warrior
+A creature of roots. It could be considered a warrior. It is mad that
+you have been stepping on it and seeks revenge!
+
+An Earthen Spirit
+A spirit of the earth. Its corporeal form is lacking, but it looks as
+if it could still hurt you! Then again, it also looks like you could
+still hurt it.
+
+Tree Guardian
+A guardian of the trees. It isn't quite as big as the tree you're
+walking through, but it still looks quite powerful.
+
+Minor Earth Elemental
+A minor earth elemental. It is made of rock, and it looks as if it
+could easily crush you. Fear the power!
+
+A Guardian Branch
+An animated branch. It may not be very good at attacking, but it is
+definitely strong.
+
+Earth Elemental 
+An earth elemental. It is made of rock and parts of the tree. It is
+stronger than its smaller counterpart.
+
+Earth Elemental Lord
+A lord of earth. It is formed from all that is around it, and it fears
+nothing. It looks at you with hatred, and you wonder why it does not
+attack you.
+
+Terra, Knight of Earth
+A vision of beauty, Terra is the unrivaled Master of the element of
+Earth. It is hers to command. She looks at you with a smile, knowing
+that you have proven yourself worthy of fighting her.
+
+
+A strangely dense wooden hammer (enchanted)
+This two handed battle hammer is made of some kind of dense wood shaped without any
+tool markings.  The markings on the hammer make it appear somewhat tree-like. There
+are two openings in the head of the hammer it looks like you could insert something
+in.  They look a little like fruit hanging from the branches of this tree-hammer.
+
+A gigantic white seed - SMD
+A gigantic white seed. It came from a giant piece of fruit. The tree it came from was
+the size of a city, so it is fairly puny by those standards. It might grow if you
+planted it in the right soil.
+
+A gigantic blue seed - SP Regen
+A gigantic blue seed. It came from a giant piece of fruit. The tree it came from was
+the size of a city, so it is fairly puny by those standards. It might grow if you
+planted it in the right soil.
+
+A gigantic red seed - HP Regen
+A gigantic red seed. It came from a giant piece of fruit. The tree it came from was
+the size of a city, so it is fairly puny by those standards. It might grow if you
+planted it in the right soil.
+
+A gigantic green seed - AC
+A gigantic green seed. It came from a giant piece of fruit. The tree it came from was
+the size of a city, so it is fairly puny by those standards. It might grow if you
+planted it in the right soil.
+
+A <seed colored> tree
+Through what must be the power of chaos, you've grown a very blue tree! It stands
+there in its colorful glory, hoping that no one will cut it down.
+
+A <seed colored> tree stump
+Through what must be the power of chaos, you've grown a very blue tree! Well, you did,
+but them some horrible monster chopped it down.  All that is left is a stump showing
+way too many tree rings for how long the tree took to grow.
+
+An iridescent piece of bark
+This iridescent piece of bark came from a baby chaos tree someone
+viciously cut down. What a monster! It was happy in the ground.
+
+A strangely dense, very blue wooden ring {radiant} [.*-*-*-*-*.]
+This ring is made of unadorned <seed colored> wood.  Blazing motes of <seed colored> light shift and
+sparkle around the ring in hypnotic patterns.  It is surprisingly heavy and pulses
+with vitality.
+

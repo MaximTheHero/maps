@@ -1,0 +1,124 @@
+chaos,3e,2s,2e,n,3e,s,w,s
+Rumor has it Sepia Marble is here somewhere
+
+       E                  x-x-x
+       |                  | | |
+     light              x-x-x-x-x-x   x
+       |                | |       |   |
+       x                x-x       x-x-x
+       |                  |         | |
+       x-x-void  void     x-x       x-1
+                     \   /   \     /
+                      x-x   knoll knoll
+                      |        \ /
+                      x         2
+                      |
+                      x
+                      |
+                      x
+                       \
+                        x
+                        |
+                        x
+                        |
+                        x
+                         \
+                          x
+1: hut
+read books
+What would you like to read? There's only the book on
+the Forbidden Regions sitting on the shelf in your language.
+read forbidden regions
+You take the book off the shelf and peruse it a bit.
+It seems there are a set of regions south of the Fen
+called the Forbidden Regions, the Void, Earth, Water,
+Fire and Air. Noone travels through them because they
+are very dangerous and contain some nasty beasts.
+Lucky for you, you've found this book to help you navigate
+the regions. It says in one passage that to go from the
+Void region to the Earth region, you must 'enter' the wall
+of earth which separates them. To go from Earth to either
+the Void or Water, you just travel in the direction you want
+to go. From Water to Earth you must dig through the muddy
+wall, and from Water to Fire, you must burn. From Fire to
+Water you simply immerse yourself, while from Fire to Air
+you fly. From Air to Fire, you must burn.
+
+2: search dirt - Sepia Marble
+
+
+A Huge Ogre   9687
+You are standing in front of the UGLIEST ogre you have ever seen.
+The only thing dumber then this creature is the one who attacks it.
+He looks large enuff to squish you with his littlest finger.
+
+A large ogre  9519
+You are standing in front of the UGLIEST ogre you have ever seen.
+The only thing dumber than this creature is the one who attacks it.
+He looks large enough to squish you with his littlest finger.
+
+A small ogre  6662
+You are standing in front of the UGLIEST ogre you have ever seen.
+The only thing dumber than this creature is the one who attacks it.
+He looks large enough to squish you with his littlest finger.
+
+A young ogre   2355
+You are standing in front of the UGLIEST ogre you have ever seen.
+The only thing dumber than this creature is the one who attacks it.
+He looks large enough to squish you with his littlest finger.
+
+A young adult ogre   14102
+You are standing in front of the UGLIEST ogre you have ever seen.
+The only thing dumber than this creature is the one who attacks it.
+He looks large enough to squish you with his littlest finger.
+
+A medium-sized ogre    6336
+You are standing in front of the UGLIEST ogre you have ever seen.
+The only thing dumber than this creature is the one who attacks it.
+He looks large enough to squish you with his littlest finger.
+
+A monstrous ogre   18874
+You are standing in front of the UGLIEST ogre you have ever seen.
+The only thing dumber than this creature is the one who attacks it.
+He looks large enough to squish you with his littlest finger.
+
+A baby ogre   340
+You are standing in front of the UGLIEST ogre you have ever seen.
+The only thing dumber than this creature is the one who attacks it.
+He looks large enough to squish you with his littlest finger.
+
+An Ogress   22501
+This is a female ogre. She looks upset that you have disturbed
+her while she is making her dinner. She is waving her spoon at you.
+
+An ogre Mage   40726
+He doesn't look like the other ogres in the village.
+He looks somewhat more intelligent. He doesn't seem to
+be at all interested in you. He is working on
+some kind of experiment. You might not want to
+disturb him.
+
+
+
+
+A club
+This club looks more like a mangled up tree.
+
+Leather Armour
+This suit of leather armour looks large enough to fit two of you
+in it. It's crudely stitched together, patched in several places,
+and is caked in grime. It's bulky, ugly, and it looks heavier than
+it really is.
+
+A large black stone
+A large stone. It appears to be used by the ogres as a makeshift weapon.
+
+A Large Spoon
+A large spoon. You can still see some of the blood and guts on it.
+
+Staff of the Ogre Mage
+This staff is engraved with strange runes. They must be some sort
+of magical carvings of the ogres.
+
+
+.

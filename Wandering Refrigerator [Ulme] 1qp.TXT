@@ -1,0 +1,137 @@
+
+
+top shelf      mid shelf      bottom shelf     
+
+  x-x-1        d-x-x          u-E-x
+  | | |        | | |          | | |
+  x-x-x        x-x-2          x-x-x
+  | | |        | | |          | | |
+  d-3-x        u-x-x          x-x-x
+
+
+E: exit (leave)
+1: search leftovers - Peach marble
+2: Kiwi-Pult
+3: kill lightbulb, enter socket
+
+Mobs:
+Left over chinese food    24703
+The poor slimy mess are leftovers from a dinner someone ate a long,
+long time ago. You didn't think it was possible to feel sorry for food
+before, but now you realize it really is.
+
+An empty egg carton   21872
+This is an empty egg carton with room for twelve eggs. It is open and
+on the top you see two small eyes. It seems like it is able to talk as
+well, which makes you wonder if there is anything in the world that
+isn't possible these days. It looks like an evil egg carton.
+
+An egg   8056
+A small, boiled egg. It looks scared as it watches you carefully,
+hoping that you won't eat it.
+
+An Apple Sergeant    18216
+A uniformed apple, marching around the room. You notice it's a male
+apple, as he marches around the room trying to look very important. He
+looks amicably at you and returns your look with a smile.
+
+A bottle of ketchup   19485
+A huge bottle of ketchup stares down on you. She looks very angry, and
+she looks like she will spurt ketchup on you any second. You better
+run, or you might get ketchupified!
+
+Some old potato salad   21901
+On the ground you see this pile of old potato salad. It crawls around
+smelling bad enough to make you want to run away, far away from this
+weird refrigerator.
+
+A large box of raisins
+
+Admiral Banana   20773
+This is a majestic-looking banana who just stands here, trying to look
+important or something. He wears the marks of an admiral on his
+uniform, and he constantly whistles silently as he watches the battle
+in progress in this chilly battlefield.
+
+A bottle of milk   17657
+Right in front of you is a large bottle of milk. At the side of the
+bottle you see a large evil-looking face gazing at you and you don't
+know how, but this bottle of milk actually scares you!
+
+An Orange minesweeper    18630
+You are looking at a large orange with his eyes covered by a large
+band of cloth, which makes him unable to see anything. You realize
+this is the fruit army's elite minesweeper.
+
+A kamikaze kiwi, sitting in the kiwi-pult    25793
+This insane kiwi has given his life for the war. As you look at him
+you notice that he is armed to his teeth with... kiwi. You better run
+before someone gets hurt.
+
+A stick of butter    24611
+The first thing you notice when you look at this long butteroid is the
+effort with which it tries to look like a police officer. Wandering
+around the empty room it yells at the imagined mass of people to
+circulate.
+
+A can of coca-cola   25395
+At first, this looks like a ordinary can of coke. But when you examine
+it closer, you see the sharp aluminium teeth on the top. Maybe staying
+too close to it would be dangerous for your health.
+
+The lightbulb    27958
+This is the lightsource of the refrigerator. It seems to be an evil
+one too! It shimmers with an evil light and you have a feeling that it
+will burn you as soon as you look away.
+
+The Watermelon Commander   28974
+This is the leader of the fruit army. As you examine the melon
+closely, you see that it's actually a female melon. In her arms she
+holds the Banner of the Fruit, swaying it proudly to increase the
+fruits' morale.
+
+An onion zombie   28358
+Terror spreads in your chest as you stare into the empty eyeholes of a
+zombie of a dead onion. This is NOT what you had expected, and
+probably not even the zombie itself did, actually.
+
+General Pineapple    25172
+A pineapple, wearing a uniform covered with different medallions. You
+also see it wearing a lei, and you think that's pretty strange. But so
+what, everything else in here is strange whatsoever.
+
+The Head Cheese    25074
+This is the head cheese of the refrigerator. It is almost unnaturally
+yellow, and you sense the insanity from it immediately. It has a small
+mouth on the top, which seems to be the only actual hole in it.
+
+
+Items:
+A large empty milkbottle
+A large milkbottle that once used to contain some milk. Maybe it could
+be worth something.
+
+A rotten orange rind
+A rind from an orange. It is about ten times larger than a rind from a
+normal orange, and as you look at it you notice that it's rotten.
+
+The Banner of the Fruit
+This is the banner of the fruits, which belongs to the mighty
+watermelon chieftain and her army. It is a cloth picture of a fruit
+bowl on a shield, mainly in blue and red.
+
+The Banner of the Onion
+A large onion making people cry is what you see when you look at this
+banner. It is a black banner with a yellow onion, and you think this
+is the banner that keeps up the vegetables' morale in this war.
+
+A plumeria lei
+This is a home-made plumeria lei. You feel really proud of having one
+for yourself.
+
+An old fruit ball
+An old ball of peach-coloured material. The sad remains of a
+piece of fruit that fell prey to a melon-baller. It has dried
+to the point of being rock-solid.
+
+

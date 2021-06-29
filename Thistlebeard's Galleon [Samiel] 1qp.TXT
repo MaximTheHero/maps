@@ -1,0 +1,109 @@
+magic,portal,7w,9s,board
+
+    fore   <----             ---->   aft
+
+    Fore     -         Central   -       Aft   -> stairs -> Wheeldeck
+    Deck                Deck             Deck
+               
+-> climb chain      -> climb rope        -> largedoor (back to aftdeck)
+                    u, crow's nest       -> battereddoor (crew's quarters)
+      |                                  -> polisheddoor (galley)
+     down                                -> carveddoor (captain's quarters)
+     
+    The Hold     -      Engineering
+                        
+
+go to captain's quarters, search pillows, get key, unlock chest, get helmet
+go to engineering, search dew, search kindling, get suit
+go to foredeck, wear suit and helmet, climb chain, jump into the water, clear seaweed
+Seaweed Marble
+climb chain to get back into the boat
+
+
+Valtiggnen the Helmsman   3026
+Valtiggnen is the ship's helmsman, and he is renowned amongst the
+sailors of fantasy as a bold and cunning navigator.  He's quite
+small for a legend, but the steely look in his eyes tells you he
+has seen things and lived to tell the tale.
+
+Captain Killisyn Thistlebeard   15710
+The living legend, Captain Killisyn Thistlebeard stands before
+you.  His reputation as a fearless and redoubtable explorer is
+legendary throughout the realm.  The gnome himself carries
+himself with an air of calm composure, and he smiles at you
+expectantly, clearly waiting for you to speak.
+
+Jeggrom the Cook   6315
+Jeggrom is the chef for the galleon.  He spends his days and
+nights cooking for the stalwart crew, and he couldn't be happier
+doing so.  His ample girth displays his love for food, and he
+hums a tune merrily as he tends his latest work.
+
+Yulli the Ship's Bosun    7755
+Yulli is the bosun for the ship.  He stands here overseeing the
+other crewmembers and making sure none of them take any
+unscheduled shore leave.
+
+Sevnifflin the Lookout    2859
+Sevnifflin, the ship's lookout, is possibly the tiniest gnome you
+have ever seen.  He barely reaches two feet in height, and were
+it not for the enormous nose protruding from his craggy face,
+you'd be inclined to think him from some other race.  He looks
+at you curiously, obviously wondering what you're doing all the
+way up here.
+
+Billitin the Storeman   6534
+Billitin is the storeman for the galleon and is here overseeing
+the loading of the provisions.  He strolls around fretfully,
+barking warnings to the crew, and plucks at his ample beard
+somewhat nervously.
+
+Flindellus the Sailor   7963
+Flindellus is a fairly large gnome, and he stands here moving
+crates onto the platform to be lowered into the hold.  He seems
+quite wrapped up in his work and totally ignores you.
+
+Valtagen the Engineer   6587
+Valtagen is the genius behind the realm's first and only steam
+driven galleon.  He stands proudly in front of his creation,
+throwing levers, twiddling gauges and fidgetting with the
+engine. He pauses occasionally to record details of his
+tinkerings, along with ideas on how to improve it.
+
+
+
+
+
+A Curious Diving Helmet (worn on head)
+This bizarre helmet consists of a round bronze dome with
+a round glass plate covering the face.  It has a small
+tube running down both sides of it serving some unknown
+purpose.
+
+A Whaleskin Suit (worn)
+This strange suit is comprised entirely from whaleskin and
+a collection of oils and whale fat that has been rubbed into
+it to make it water-tight.  It's also quite warm, and would
+be ideal to wear if you ever found yourself underwater.
+
+A small gold key
+A small golden key. It's made of some kind of light metal, and is
+shaped like a cross with teeth on both sides of the shaft.  These
+gnomes even make their keys well.
+
+Captain's Sextant
+This device consists of a small spyglass attached to
+an arc of metal engraved with odd symbols.  Apparently
+it can aid in navigation somehow.
+
+A Polished Spyglass
+A metal inlaid spyglass. Sailors normally use these to
+spy oncoming ships or obstacles.
+
+A Curious Widget
+A strange device. You couldn't even begin to know what
+this strange item is used for. It's a metal tube of some
+sort with several notches carved into it.
+
+
+

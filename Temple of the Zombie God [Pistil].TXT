@@ -1,0 +1,302 @@
+magic,eforest,2s,sw,w,nw,enter mist
+ravenloft, n,nw,n,ne,n,nw,n,ne,n,10w,s,4sw,6w,sw,s,3se,2d
+
+
+*need 1000g
+wayhaven portal, 12e,2n,4w,3n,e,d,buy stone (from Wyk)
+also note - if you bring 20 brains to Wyk he'll give you the key to the Zombie priest
+
+
+   x
+   |
+   u-1
+
+1: put stone in hand, say patesco (you get teleported to temple)
+
+
+      4
+      |
+      3
+      |
+      x
+      |
+  x-x-x-x
+  | | | |
+  x-x-x-x
+  | | | |
+  x-x-x-x
+    |
+    x
+    |
+    x
+    |
+    2
+
+2: say patesco - to get out
+3: small stone door, need to trade 20 brains at Wyk for key
+4: Zyrixitimih - The Zombie Priest
+
+
+Nex Commands
+1- dispono - location of other nex items
+   erus - stats
+   agnosco - nexscore
+   orare - use corpse for nexpoints
+   notitia - toggle combat status
+   vivifico - weapon speed
+   victus - regen hp
+   conservo - This command will preserve your Nex status for one year.  However,
+                it will cost 100,000 Nex XP.  And most importantly, the very next time
+                you touch a Nex piece it'll clear back to the normal 1 or 2 weeks.
+                So, it is advised you not do this unless you really plan to be gone
+                for a while.
+
+2- praesentia - regen sp
+3- medicor - heal
+4- huic - heal other
+5- tutaminis - armor
+6- incursus - damage on being hit
+7- vereor - attack spell
+8- 
+
+
+
+A small Zombie  14569
+Before you stands a Zombie. It has rotten flesh that
+falls off every now and then. It shambles about, but
+looks like it could pack a good punch. It has a blank
+stare and looks like it's been drooling.
+
+A strong Zombie   34208
+Before you stands a Zombie. It has rotten flesh that
+falls off every now and then. It shambles about, but
+looks like it could pack a good punch. It has a blank
+stare and looks like it's been drooling.
+
+A weak Zombie   2028
+Before you stands a Zombie. It has rotten flesh that
+falls off every now and then. It shambles about, but
+looks like it could pack a good punch. It has a blank
+stare and looks like it's been drooling.
+
+A Zombie (glowing)   54835
+Before you stands a Zombie. It has rotten flesh that
+falls off every now and then. It shambles about, but
+looks like it could pack a good punch. It has a blank
+stare and looks like it's been drooling.
+
+A large Zombie   29149
+Before you stands a Zombie. It has rotten flesh that
+falls off every now and then. It shambles about, but
+looks like it could pack a good punch. It has a blank
+stare and looks like it's been drooling.
+
+A thin Zombie   13003
+Before you stands a Zombie. It has rotten flesh that
+falls off every now and then. It shambles about, but
+looks like it could pack a good punch. It has a blank
+stare and looks like it's been drooling.
+
+zombie limb   1717
+A long thin bony cutoff limb from a zombie. It twitches and looks
+as if there's still some undead life left in it.
+
+Driark - The Zombie Warlock    78106
+Driark - The Zombie Warlock, stands before you as still as a
+statue. The only thing that moves is the flickering of his
+glowing green eyes.
+
+Zyrixitimih - The Zombie Priest    112726
+Zyrixitimih - The Zombie Priest stares down at you with utmost disgust.
+His blue-green skin shines with a brilliant green glow as his stark
+white robe swirls about his body. His eyes are two pools of raging
+brillant green, so bright that you have trouble looking directly into them.
+
+Zyish - The Zombie Wizard   80389
+Zyish - The Zombie Wizard, has glowing green eyes that stare right
+through you, as if you didn't even exist. His blue-green skin looks
+wilted and rotting.
+
+The Nameless Zombie     71666
+The Nameless Zombie wears a cloak with a huge cowl pulled over
+its head, concealing its head and face. Where the face should be
+all you can see is shadow and darkness. The Nameless Zombie's sleeves
+end in the same darkness which conceals its face. Its cloak is so
+black, that it appears to drink in all of the surrounding light,
+casting everything nearby in a shadow of dusk. The longer you stare
+at it, the longer you realize that it's not moving at all.
+
+Syrine - The Zombie Sorceress     97758
+Syrine - The Zombie Sorceress watches you with supreme undead
+gracefulness. Her robes flow about her, even though there is
+very little breeze, and she seems to float above the floor.
+Her skin is a pale blue color and her eyes shine a bright green.
+
+Dralien - The Zombie Knight   157485
+Dralien - The Zombie Knight, stands before you, his massive body
+taking up much of the surrounding space. He is huge, with muscles
+twice the size of a normal man. His skin is a pale blue-green, his
+arms the size of thighs and his thighs the size of tree trunks. His
+eyes glow an ominous bright green.
+
+Acolyte Zombie   1666
+The Acolyte Zombie is short and hunched over. It wears tattered
+robes that drape over its rotting flesh. The Zombie's eyes glow
+with a brilliant green power.
+
+
+
+ancient rune stone
+A small oblong stone. It is a dark green and feels smooth in
+your hand. It feels warm to the touch. There appears to be some
+writing carved into one side of the stone. The ancient runes
+look like they spell out the word 'patesco'
+
+zombie brain
+A gooey pulsing brain from a zombie. It looks disgusting, as it
+twitches and throbs. The brain flesh is a blue-green, and the
+brain itself has an overall green haze to it.
+
+Black Cowl
+The black cowl is made out of a cloth that is the black of
+midnight. The hooded cloak is quite large, and appears to
+flow and twist, even in the absence of any drafts or wind.
+
+Screaming Skull of the Undead
+A large polished human skull. It gleams with a bright green glow.
+A brilliant bright green light shines through its open eye
+sockets, nose socket and gaping bony jaws. It feels like it has
+just the perfect weight to throw.
+
+Brilliant Green Cloak
+A beautiful brilliant green cloak. The cloak shimmers and
+shines as you look at it. It appears to move and flow of its
+own accord. The material of the cloak is thick and warm to the
+touch.
+
+Polished Bone Key
+A small human-looking finger bone. It appears to have been carved
+with small notches at one end, making it look somewhat like a key.
+The bone is polished to a bright white and it shines in the light
+as you move it about.
+
+acolyte robe
+A tattered old robe. It used to be white, but no one has washed
+it in ages. It's now a dull grey, with many tears and worn holes.
+
+white robe
+An expertly woven pure white robe. The weave is thick and tight
+and the robe is quite long. It cinches at the waist and has gold
+woven into the seams.
+
+Veneratus Nex (ring)
+The ring is a brilliant band of green metal. The metal
+is streaked with shadowy black veins. The darkness appears to shift
+and move over the ring, almost as if it were alive. The ring feels
+warm to the touch, and you can feel it humming slightly.
+
+Veneratus Nex (amulet)
+The amulet is a small piece of brilliant green metal.
+It has no carvings or writing, but you can see dark black veins of
+shadowy strands streaking through the metal. The black strands move
+and shift through the green metal, almost as if the amulet were
+alive. It feels warm to the touch, and you can feel it humming
+slightly.
+
+Veneratus Nex (cloak)
+This cloak is made out of a weave of a brilliant green metal.
+Running through the metal fabric are streaks of a shadowy
+blackness. As you examine it, the black metal fibers seem to move
+through the cloak, almost as if it were alive. The cloak feels
+warm and soft to the touch, not like what metal should feel like.
+You can feel it humming slightly.
+
+Veneratus Nex (boots)
+This pair of boots appears to be made out of finely woven metal.
+As you look closer, the metal strands glimmer and shine. It appears
+to be the strangest mix of a brilliant glowing green metal with
+shimmering veins of black streaking throughout it. The weaves of
+metal seem to shift and meld together and then move apart as you
+examine them. The metal feels warm to the touch, and you can just
+make out a slight hum coming from it.
+
+Veneratus Nex (gloves).
+The gloves shine with the glow of the brilliant green metal
+that makes up their metal fibers. Interwoven within the green
+metal fibers, are strands of a shadowy black metal. As you look
+closer you can see the black strands move in and out of the
+green strands, almost as if it were alive. The gloves feel warm
+to the touch, and you can feel them humming slightly.
+
+Veneratus Nex (helmet)
+The helmet appears to be made out of a brilliant green metal.
+The metal is smooth, and appears to have no seams. It glimmers
+and shines, but as you look closer, you can see shimmering black
+veins streaking throughout the metal. As you watch, the darkness
+appears to move through the green metal. You can feel it humming
+slightly.
+
+Veneratus Nex (armour)
+This is a heavy set of armour. The metal that makes it up appears to
+be smooth, with no seams. The metal itself glimmers and shines and it
+appears to be the strangest mix of a brilliant glowing green with
+shimmering black veins streaking throughout it. As you look at the
+armour, you can see the black moving through the green. The armour
+appears to glow and you can hear it humming slightly.
+
+Veneratus Nex (shield)
+A brilliant glowing green metal shield. There is no sigil on the
+front plate, but you can see shimmering veins of black streaking
+through the metal. As you watch, the darkness moves through the
+metal, as if it were alive. The metal feels warm to the touch
+and you can feel it humming slightly.
+
+Dralien's Two Handed Sword (enchanted)
+The massive two-handed sword gleams with a cool green light.
+The metal of the blade looks very sharp, and the hilt is
+simply made and wrapped in leather.
+
+A large scepter
+The scepter is very large and heavy. The main body of it is
+finely crafted and contains many ornate carvings. The head
+of the scepter is a large globe of heavy golden metal.
+
+Tattered raiment
+This raiment is tattered and old. It has many stains on it
+and holes ripped here and there. It looks like it's rotting
+and it smells of death.
+
+Cloak of the Nameless
+This midnight black cloak seems to absorb the light around it,
+drinking in any brightness so that the cloak always appears in
+shadow. The cloak flows and sways of its own accord, and the
+strange black fabric ripples as if there were a power woven
+within the weft.
+
+Polished Bone Staff (enchanted)
+Human bones are lashed together with silver wire to form a thin
+staff of bones. The bones are mostly femurs and arm bones, with
+a large human skull topping the staff. The bones are all polished
+to a shining white, and the eyes of the skull glow with a deep
+eerie green. Carved into the side of one of the longer bones
+in the center of the staff are some words inlaid with silver.
+They look like 'bone runes'
+
+*-------------
+Give honor and praise to the one who is the Lord of Death
+Bring the denizens of the Shadow Lord's Hold forth into the world of Men.
+
+Command The Unliving: Issue the words 'bid horror <command>'
+
+:-: Summon      :-:
+:-: Follow      :-:
+:-: Unfollow    :-:
+:-: Status      :-:
+:-: Attack      :-:
+:-: Spellstatus :-:
+:-: Masterstatus:-:
+:-: Allocate    :-:
+:-: Report      :-:
+:-: Dismiss     :-:
+
+*-------------

@@ -1,0 +1,44 @@
+Uslopta's Tower [Vryce]
+Dirs: Wayhaven East Gate, 5e, s
+
+Third Floor:
+
+    1
+
+1: Stairs D, Keeper and Bell
+
+Second Floor:
+
+    1
+
+1: Stairs U/D, search west wall for a hidden closet
+
+Main Floor:
+
+    1
+
+1: Stairs U, Entrance, search wall for a button to go down
+Basement:
+
+   u x-x-x
+   | | | |
+   x-2-x x
+   |   | |
+   x-x-x-1
+
+1: Pile of debris
+2: Pile of boards
+
+Monsters:
+Tardain the Keeper of the Bell
+A white mouse
+A white mouse
+A cockroach
+A grey spider
+A brown mouse
+A brown mouse
+
+Items:
+A walking stick
+
+

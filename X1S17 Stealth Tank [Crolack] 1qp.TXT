@@ -1,0 +1,208 @@
+science,enter,u,3e,d,e,path,14e,13n,3e
+punch steps or need flight to 'climb tank'
+
+turn wheel
+hatch
+  |
+commander's deck - read screen (page-up/down)
+  |
+ lower deck - remove bolts (need wrench) - get plating
+  |   |   |
+  |   |    - right - gunners chair - turn handle - enter code (from paper)
+  |   - rear - open panel - search tools - get wrench
+  - left - drivers seat - push start- search seat - get handle
+
+
+
+
+Captain Wm. Sutherton
+What was once a proud member of the military is now just a shell of a man.
+Time has not been kind to Captain Sutherton. His scraggly bearded face is
+wrinkled and rough. His deep green eyes seem to be lost in another world.
+His uniform is quite a mess and reeks of a person who has been out in the
+heat for far too long. He mutters incoherently to himself and eyes you
+suspiciously.
+
+
+
+A Magneto Pistol
+This odd looking gun has a flat barrel and vibrates when you hold it. It
+feels light in your hands and the grips seems to form on your fingers.
+
+A magneto pistol clip
+This is a clip of magneto gun bullets. They are an odd rectangle shaped
+bullet. The casing is grooved and notched so that it can only be placed in
+the magneto pistol.
+
+A piece of paper
+A torn piece of paper with 'A B F 1 5 T X' written on it.
+
+A wrench
+This is an adjustable wrench that is good for removing bolts. It has a long
+red handle and is pretty heavy for its size. Wrenches like this were
+created for general use when storage space is limited.
+
+Deck plating
+This is a large piece of deck plating. It is very thick and probably could
+withstand quite a beating. It is made of some type of metal alloy, but you
+aren't sure what kind. Too bad it's hard to hold onto, it could be a good
+shield.
+
+a steel handle
+This is a large steel handle of some sort. It has two flat bases so it can
+be attached to a flat surface. It's quite heavy and if attached correctly,
+could hold a lot of weight.
+
+
+
+commander's deck screen
+
+
+Captain's Log - Date: *Classified*
+
+We completed the test run of the X1S17 Stealth Tank with a good measure
+of success. 'Bobo' was able to take the tank up to 115 MPH in open
+desert. The terrapin racing tracks with lift boosters worked great.
+
+Lt. Grey was able to acquire and take out our primary and secondary
+objectives with great ease. The aerodynamics of the gun turret
+prevented any loss of speed and the sonic shells were extremely
+accurate to the point we could fire and forget.
+
+'Bobo' is going to do some adjusting to the tank's main power systems
+before tomorrow's presentation to the DoD. The stealth shielding is
+going to give us a superior advantage over any enemy that we
+encounter.
+
+
+Captain's Log - Date: *Classified*
+
+I don't know what 'Bobo' did to the power systems, but the tank
+appears to be runnning faster than normal. We have a small problem
+with the cyto-optics (which allows us to see through the stealth
+shielding). They seem to be blurring when 'Bobo' accelerates, I'm
+sure it's just an adjustment, or maybe a human error.
+
+Captain's Log - Date: *Classified*
+
+We started our performance run as normal, but then something went
+horribly wrong. The plasma control valve seems to be stuck in the
+full open position. 'Bobo' is working on the problem, however, that
+seems to be the least of our fears. The control valve stuck after we
+engaged the stealth shielding. My instruments went off the scale. The
+cyto-optics are completely black. The shielding is still up, and for
+that reason, we can't open the hatch. A strange feeling has penetrated
+all of us. Not the feeling of danger, fear or urgency, we know those
+too well, but one I cannot describe. Our radiation badges are still
+green but who kn.....crap what was that?
+
+Captain's Log - Date: *Classified*
+
+The tank's clocks say it's been 4 days. I don't know if that is right
+or not. It doesn't seem that long. 'Bobo' says he can't get to the
+valve because the radiation is too intense. Our badges still are green
+but are starting to fade. I don't know how much longer we can hold
+out. We tried to contact the base, but all we get is static. We turned
+off the propulsion system and distributed the power to the shield. We
+think we stopped moving, but we are not sure. If we can't shutdown
+soon, I'm going to have to risk opening the hatch. 'Bobo' says he can
+possibly use some of the tanks internal plating as a shield, just in
+case. I don't think it will help much though.
+
+Captain's Log - Date: *Classified*
+
+Now, I know the clock is wrong, it's up to 3 years now. Just in case,
+I made sure the crew had something to eat and drink. Lt. Grey seems
+to be preoccupied with drawing on the tank walls. I tried to talk to
+him, but when I looked into his eyes, he seems not there, distant. I'm
+a little worried. 'Bobo' keeps looking for a left handed monkey wrench,
+I know he knows that it's just a red herring. I think they are plotting
+something, trying to make me think that they are insane. Good thing I
+have the only side arm in the group. I didn't want to risk them doing
+something without my knowledge, so I tore out the tactical activation
+code from the manual. I'm going to open the hatch and have a peek, so
+if there are no more logs, you'll know what happened.
+
+
+Captain's Log - Date: *Classified*
+
+Communists!! Who could believe my crew are a bunch of commies trying
+to steal the plans for this tank.... I showed them, I put a couple of
+bullets into their puny skulls with my magneto pistol. Yeah, you
+commies won't be reporting back to your comrades now. They thought they
+could outsmart me.....I showed them, muah....the lights are my friends.
+
+Captain's Log - Date: *Classified*
+
+The quiock brown foz jumpes over the whort lazy dog. Ican type really
+keepbyoard,.. tacos... I want some tackos, tacos with cheese, yes, hj
+Daisy, daise look at the perrty daysie. Look a happey fac -
+
+           ooo   ooo
+           ooo   ooo
+      oo               oo
+       oo      O      oo
+        oo           oo
+         oooooooooooo
+
+
+My freinds, they are mucsh, my firends, the smeeeeellly. wwpee, woood.
+Hey, sparkle thingys. womp wimp,. I can type, yea, keyboard, bunkmode.
+sparkly splekey, mooki.
+
+-EndLog-
+
+X1S17 Gunner's Manual
+This is a 3-ringed military manual. Across the front is stamped in bright
+red letters : TOP SECRET LEVEL 25 Access Only. Nothing else but the title
+'X1S17 Gunner's Manual' is on the cover.
+
+The manual has 7 page(s) (1, 2, 3, 4, 5, 6, 7). 
+The current page is 7.
+Use "help manual" to see usage. 
+It looks light.
+
+
+                        Automated Firing Procedures
+
+The X1S17 fire control system has been designed for quick and fast target
+acquisition and firing. Its fire control system is a simple 'locate'
+target, 'lock' target and 'fire' on target system.
+
+
+So all you need to remember is locate, lock, fire.
+
+                        Manual Firing Procedures
+
+In the unlikely situation where the TA-47X Auto-Sequencing computer becomes
+INOP, you will have to use the following procedures in order to fire the
+tank's main gun. From this list you can see how much the TA-47X saves time
+between firing. You must follow this list exactly, otherwise you could
+further damage the X1S17, even destroy it.
+
+1)  Engage the backup sequencer.
+2)  Enter the Manual Fire Sequencing code (see page 7).
+3)  Flip Prechamber Switches 1,2 and 3 to the on position, in order.
+4)  Clear the chamber by opening the unload door and removing any
+    spent shell casing.
+5)  Press the 'Clear Chamber' button on the console.
+6)  Load shell into chamber.
+7)  Close the load chamber.
+8)  Press the 'Chamber Lock' button
+9)  Press the LLT <target> button to Locate and Lock on target. If
+    you can't obtain a lock, you will have to select another target.
+10) Flip the 'Open Muzzle' switch.
+11) Fire.
+
+
+To repeat the firing procedure, follow steps 4 - 11.
+
+                        Fire Control Code
+
+The following is your fire control code for this exercise. The gun will not
+fire manually without this code.//////\\\//////////////////\ [It seems that
+someone has ripped the page in half and has pulled the paper out of the
+protective part of lower half. Looks like you'll have to look for that
+piece of paper.
+
+.

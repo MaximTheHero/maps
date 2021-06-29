@@ -1,0 +1,70 @@
+chaos,3n,w,n,5w,s,enter box
+
+
+
+                         E
+                        / 
+                       x
+                      / \
+                     x   x
+                    / \ / \
+                   x   x   x
+                    \ / \ /
+                     x   x
+                    / \ / \
+                   x   x   x
+                    \ / \ /
+                     x   x
+                      \ /
+                       x
+                       |
+                       x
+                       |
+                     x-x-x
+                     |   |
+                     x x x
+                     | | |
+                     x-x-x
+
+
+1: clear barricade
+
+Miso Elemental    37863
+The Miso Elemental is a writhing mass of fermented soy paste, roughly
+the height of a human, but much wider.  Its features shift and blur
+constantly, flowing slowly, yet continually into new forms.  It
+burbles and gurgles as it flows around, exercising some bizarre,
+seemingly impossible form of locomotion.
+
+Tofudebeest     36041
+This curious creature looks somewhat like a type of antelope, except
+that it is composed entirely of firm tofu cut at right angles, giving
+it an awkward, blocky appearance.  Long, curving horns protrude from
+its cuboid head.  Despite its feeble appearance, you suspect that the
+Tofudebeest could defend itself quite well.
+
+Tofu Storm Trooper      46062
+Squat and portly, the Tofu Storm Trooper presents a solid obstacle.
+About as tall as a human child, the trooper does not appear to be much
+of a threat at first, but the look of swift cunning in its glowing red
+eyes betrays its ferocity.  Equipped with a pouch of tofu chunks, it
+is certainly a foe to be reckoned with.
+
+The Tofurky of Death   54000
+A towering mass of soy derivative stands before you.  The Tofurky of
+Death pulses with evil and chaotic energies.  Spongy, bread-like, and
+extremely lethal, the Tofurky of Death is not to be trifled with.
+
+Soy Nut     481
+
+
+
+A little cube of tofu
+A small cube of firm tofu.  Packed with soy protein goodness, this
+might make a tasty snack.
+
+Tofu Armour
+A large breastplate made from tofu.  It is squishy, yet firm.  It has
+been imbued with mystical powers from the Para-Elemental Plane of Soy,
+granting it an unnaturally effective strength.
+

@@ -1,0 +1,75 @@
+science,u,4n,d,8n,5w,enter
+
+
+
+
+         2-1
+            \
+    d-x      u-x-x
+    |        | | |
+    E        x-x-x
+
+1: push button
+
+
+A man sits in the corner, with a horrified look on his face   8051
+With terror in his eyes, and panicked shakes rippling through his hands, the
+poor man stares in horror.  Not at you, but at the doorway you came through.
+He seems to mumble something every few moments, if you stay a while you might
+hear something useful.
+
+Mad Security Drone   47774
+This humongous and vicious looking security drone is roaming the area looking
+for intruders to shoot.  It sports two machine guns on EACH arm, as well as
+a large cannon mounted on one shoulder.  The drone seems to be malfunctioning
+badly, as it is sputtering nonsense at superfast speeds, and locking target
+onto just about anything that moves!
+
+Malfunctioning Defense Drone    13173
+Large and bulky, this robot looks rather menacing.  You can see a very large
+scorch mark on the side of its head.  The effects of the damage are very
+apparent, the drone is attacking everything in sight!  The only weapon the
+drone seems to have is a single, wicked looking laser cannon, which it seems
+to be firing very fast...
+
+
+
+
+Security Drone Plating {Gloves}
+These small segmented sections of armor used to provide protection to
+the back of the "hands" of something fairly large. They bear a strong
+resemblance to gloves, and are made of a sturdy gray material that you
+can't easily identify.
+
+Security Drone Plating {Boots}
+This pair of scorched cylinders appears to be made of some lightweight
+material with which you are unfamiliar. The lettering stenciled onto
+their dull gray surface reads "AR-SDR-BAL(L)". You think you might be
+able to fit them over your calves and feet like boots.
+
+Security Drone Plating {Cloak}
+The dozen or so  meter-and-a-half long strips of reinforced flexiplast
+are joined to a heavy ring of metal that might fit around your neck
+and hang down your back as a cloak. The ring has lettering on it
+reading "AR-SDR-JA(A-L-El-U)".
+
+Security Drone Plating {Helmet}
+This domed piece of armor plating is lightweight and solid-looking.
+The letters "AR-SDR-P(H)" appear at one edge in small stenciled
+letters. You think that it could be worn easily as a helmet.
+
+Security Drone Plating {Body}
+This lightweight, but sturdy, jointed armor plating has some minor
+defectswhere it has clearly been forcibly removed from something.
+Centered on the front of theplating is emblazoned the device of a pair
+of scales balancing a lightning bolt and athundercloud. To the right
+is an engraved label reading 'SDR-1200(HE)'.You believe that this
+
+Security Drone Plating {Shield}
+This large square section of cool gray armour plating is quite
+lightweight for its size. A logo depicting a lightning bolt and a
+thundercloud resting on a scientific balance covers one surface of the
+plate, and you think you could wield it as a shield.
+
+
+.

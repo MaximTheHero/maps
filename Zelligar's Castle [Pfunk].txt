@@ -1,0 +1,50 @@
+Magic, 12n,leave,3n,4w
+bring a light source
+
+
+                                     x-x           Z     x-x-x-x-x
+                                      / \          |     |       |
+                                     x-x x   x-x-x-x x   x x-x-x x
+                                        \ \ /        |   | |   | |
+                                     x-x-x x x-x-3 x-x   x x   x x
+                                     |     | |   | |     | |   | |
+                                   x-x-x-x-x x x-x-x-x-x x x-x-x x
+                                    \        | | |   |   | |     |
+                                     x-x-x-x x P-x-x x 2-1 x-x-x-x
+                                     |     |/   \  | |     |
+                                     x-x-x-x     x x S-x-x-x
+                                                 |
+                                                 x-x-x
+                                                   |
+                                                   x
+                                                   |
+                                                   E
+
+
+
+
+P: Pools.  need Gloves of Acid Protection - get key from pool - A small brass key
+   - if you try and get the key without gloves you get -2 cha and some damage
+S: search shelves - get gloves of acid protection, opens exit east
+1: unlock door using get from pool of acid
+2: get key to unlock door at 3 - a small iron key
+Z: Zelligar
+
+
+
+scaler 40:  40k golems,  165k Zelligar the Junior Golem Master,   Zelligar's Headband -*-.
+scaler 130: 7m golems, 50m Zelligar
+
+
+Zelligar's Headband -=|[.oOo.]|=-
+Deceptively light and not at all cumbersome, this headband is unlike any
+standard headband one may come across.  It is vaguely elliptical, and its
+combat face is covered with a deep, swirling, sparkly luminescence that seems
+like viscous silver liquid.  It seems to be an illusion of magical origin,
+although there are no other indications that this headband possesses magical
+properties.
+
++6 wis, +6 int
+damage reduction
+stuns
+sp regen?

@@ -1,0 +1,122 @@
+chaos,4w,e,n,w,push fence
+
+                                          x
+                                          |
+                                          x-u d-x
+                                               \|
+                                  x-3           d-x
+                                  | |           
+                                  x-x       x-u
+                                    |        X|
+                                    x-x-x-x-x x
+                                    |X|X|X|X|
+                  x-x-x-x       x-x x-x-x-x-x
+                  | |X|X|       | | |X|X|X|X|
+          x-x-x-x x x-x-x       x-x x-x-x-x-x
+          |X|X|X| | |X|X|         | |X|X|X|X|
+          x-x-x-x x x-x-x   x-x-x-x-x-x-x-x-x
+          |X|X|X| | |X|X|   |X|X|X|
+          x-x-x-x-x x-x-x-x x-x-d-d
+          |X|X|X|X|     |X| |X|
+          x-x-x-x-x     x-x x-x
+           \|X|X|X|     |X| |X|
+ x-x-x-1  2-x-x-x-x     x-x x-x
+ |            |X|X|     |X|\|X|
+ x-x-x-x      x-x-x-x   x-x-x-x
+ | | | |      |     |
+ d-x-x-x      x-x-x-x
+ |X|X| |      |     |
+ E-d-x-x      x-x-x-x
+
+1: search reeds - A small board
+
+3:lift bar, enter barn, reposition hay, s, beat blankets, get brush,
+north, brush horse, get bag, open bag - Apple Marble
+
+
+Chestnut   4124
+Chestnut looks like she is the runt of the litter.  She is a gangly
+chestnut colored rabbit with white speckled fur, and a nervous air
+about her.  Her body is shaking and she looks at you with fear in her
+eyes.
+
+Duck   17240
+This is a large duck.  It is brown and has an orange beak which looks
+like it could hurt if pecked at someone. It seems to almost swagger
+about on its light brown webbed feet.
+
+Puffball   8191
+Puffball is an average sized rabbit with a huge puff on the top of his
+head which looks like a puffball. As you look at him, he stares back
+giggling. He seems to be laughing at a joke he has heard. His eyes
+give him away as being good hearted and loyal.
+
+Hlessinen   15471
+Hlessinen is a large rabbit.  His brown and white fur looks soft and
+full.  He hops around with a diplomatic look and he looks like he
+could be a tough fight due to his many years of experience.
+
+Centany   8464
+This is a normal sized brown rabbit with long ears which have black
+tips.  His eyes twinkle with knowledge as he hops around and nibbles
+on the grass.
+
+Hainthinnang   8491
+Hainthinnang is a very small brown and white rabbit. He almost seems
+to quiver in his skin. He is very timid and almost jumps out of his
+skin as you approach.
+
+Duckling   4037
+This is a fuzzy little duckling.  It is brown and has an orange beak,
+which is sharp and looks like it could hurt if pecked into something.
+It seems a little timid and afraid to enter the water.
+
+Silfthan   8107
+Silfthan is an average sized brown rabbit. He looks like he can run
+faster than a hare when he feels the inclination to do so. He looks at
+you with a creative look and a twinkle in his eyes.
+
+Nyreem   15885
+Nyreem is a first year rabbit who is of slightly above average size.
+She is light brown with white speckled fur. Her dark eyes are soft and
+understanding. She has an honest, fair quality about her and she seems
+to appeal to you.
+
+Cow   45919
+This is an average looking cow chewing away at its cud.  Black and
+white spots adorn its hide and it wears a cow bell, which jingles when
+it moves.  It looks bored, yet very healthy as there is endless grass
+for it to graze on.
+
+Sheep   31161
+This is a soft wooly sheep.  Its wool is white and its brown eyes look
+at you with absolute dumbfoundedness.  All it does is wander around
+the farm, eating, sleeping, and making noise.
+
+Horse   62521
+This tall white horse looks as if he needs his tangled mane and coat
+brushed.  He looks gentle and has a pleading look in his eyes.  Even
+though he looks a mess, he does not look hungry.  Maybe you should
+brush him.
+
+
+
+A Cowslip
+This cowslip is a large flower with pink and yellow sepals
+approximately two inches in length. The leaves are heart-shaped and
+the flower has a hollow stem. Cowslips are a delicacy for rabbits.
+
+A small board, for riding on.
+This is a small wooden board.  It is only one piece of wood, just large enough
+for one rabbit to sit on.
+
+A Horse Brush
+This is a horse brush made out of horse hair.  Fancy that!  It looks
+like it would do wonders for a horse's coat and mane.
+
+A Saddle Bag
+This is a saddle bag.  It is small, worn and used.  It's probably
+empty; it doesn't look like it could hold much of anything.  Opening
+it might help in determining this fact.
+
+.

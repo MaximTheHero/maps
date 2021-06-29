@@ -1,0 +1,106 @@
+Veggie Garden [Tuesdai]
+Dirs: Chaos, 3e, s, w
+
+
+    4-x x-x   3
+    | | | |  /
+    x x x x 2
+    | | | | |
+    1 x x x x
+    | | | | |
+    x x x x x
+    | | | | |
+    x x-x x-x
+   /
+  E
+
+
+E: Entrance/Exit
+1: pull weeds - Bennebroek Manor [Tulip] 1qp
+2: Search heap
+3: Search plank
+4: enter - Freaky Fruit Orchard [Tuesdai]
+
+
+Frenzied Farmer    23617
+Once, he was admired by many for growing such large, delicious
+vegetables.  But after years of smoking the fertilizer meant for his
+crops, he's gone quite insane.  Thinking he could outdo nature, he
+developed a system to increase the size of his crops by 30%.  But
+something went wrong, and his vegetables grew upwards of 1,000%
+larger, and they became angry because they were no longer getting the
+love and care they needed.  His overalls are stained beyond reproach
+and his once white shirt is deep yellow and brown.  An almost
+unrecognizable straw hat is perched on the back of his head and a pipe
+with a strange odor emitting from it is clenched in his half rotted
+teeth.  His dark gray eyes are sunk far back into his skull and his
+blonde hair lays matted and greasy under his hat.  His skin is lobster
+red and leathery and his fingernails are long and yellow.  He's not a
+man that looks kindly on people dropping by either, so better be
+careful!
+
+Carnivorous Corn   19063
+Once delicious, this yellow corn now has an appetite all its own. The
+corn cobs are half rotten and the kernels ooze yellow pulp down the
+stalks.  The stalk leaves look as if they were reaching out trying to
+grab anything that walks by to have for its dinner.
+
+Rabid Radish   7488
+A small purplish white root.  Big green leaves cover its head.  On one
+side of the radish, it is clear that something has taken a big bite
+out of it.  The smell of radish fills the air.
+
+Tumultuous Tomato   23750
+A large red tomato.  Half of it rotten, with a bunch of seeds oozing
+out along with tomato pulp.  A small swarm of flies buzz relentlessly
+around it.  It is hard to tell whether the flies are eating it, or
+it's eating the flies.
+
+Cruel Cabbage   8162
+Usually great for boiling, you would have a hard time finding a pot
+big enough to cook this cabbage.  With the way the cabbage leaves are
+flapping, it looks like a giant mouth ready to eat you. All you can do
+is hold your nose from that rank cabbage smell and hope you get away
+in time!
+
+Peculiar Potato   8733
+A hearty potato with thin brown dusty skin and small eyes covering its
+entire body.  Some of the eyes have roots coming from them.  A
+distinct potato smell surrounds it and a whitish pus oozes from where
+some of the potato skin has come off.
+
+Crazy Carrot   9571
+A large orange carrot comes flying right at you, its leafy green top
+shaking frantically in your direction.  It bounces around on the
+ground on its tip.  Orange juice oozes from around the top.
+
+Loopy Lettuce   18404
+A VERY large head of lettuce.  Through the farmer's strange
+experimentation, its size has been increased by 900%, making it
+roughly the same size as a compact car.  Around the edges of its
+leaves, there is brown ooze indicating the beginnings of rot.  This is
+one angry vegetable due to years of careless farming.  Since the
+farmer took to smoking all the fertilizer the crops have gone hungry,
+only getting food from people that have the unfortunate fate of
+getting lost in the garden.
+
+
+
+Corn Husk Armor
+A yellowing, dry piece of corn husk once encased a delicious cob of
+corn.
+
+Cruel Cabbage Shield
+A rotted piece of cabbage leaf.  The edges are brown and slimy, but if
+it's good enough for a cabbage, it's good enough for a human.
+
+Crazy Carrot Top
+Green leaves sit on top of the carrot.  The carrot used this as
+protection.
+
+Demented Farmer Pipe
+A solidly made corn cob pipe.  The farmer prizes this item even above
+his once beloved vegetables.  Inside the pipe is the strange
+fertilizer that he created and then began to smoke.  It can only be
+imagined, what it does.
+

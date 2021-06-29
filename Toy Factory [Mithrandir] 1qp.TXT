@@ -1,0 +1,72 @@
+chaos,4w,e,s,w,s,2e,2n,e,s,enter sleigh
+
+
+     x
+     |
+   x-1-x
+   | | |
+   x-x-x
+     |
+     x-x-x-E
+
+
+1: search tree, Chocolate Marble
+   if you're not 'stuffed full' of food, you'll eat this
+
+
+A toy soldier    2839
+This is one of those toy soldiers you used to play with as a child
+It's walking around holding a small toyrifle. A small battery on its
+back provides the toy with power.
+
+Santa Claus's little elf   5407
+This is one of Santa Claus's little elves. He is very small
+and holds a beautiful flower in his left hand.
+
+Santa Claus's little elf    2482
+This is one of Santa Claus's little elves.
+He is working really hard to make toys for
+the Christmas time.
+
+Rudolph the red nosed reindeer   11729
+This is Rudolph the red nosed reindeer, Santa Claus's
+favourite reindeer. Yikes, he really does have a
+red nose.
+
+Santa Claus   20568
+Before you stands a huge man, wearing a red and white
+cloak. In his left hand he is holding a large sack
+filled with presents. I wouldn't mess with this old
+man if I were you.
+
+
+
+
+A rifle
+This is a small plastic rifle. It's filled
+with plastic bullets.
+
+A beautiful flower
+A beautiful red flower. You get a feeling
+you can `sendflower player` and `smell flower`.
+It glows with a magic light.
+
+A yo-yo
+Wow, it's a yo-yo!. Go for it!. Swing it!
+
+A magical bag
+This is Santa's magical gift bag.
+
+Santa Claus' Red Cloak
+This light red cloak radiates with magic.  Mrs. Claus made it for
+Santa from the only the finest, most magical materials.
+
+A can
+Wow, it's a can filled with soap.
+Why not try 'blow bubble'.
+
+A Christmas gift
+It's a Christmas gift, you must have been
+nice this year. You could always try opening it.
+
+.

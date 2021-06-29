@@ -1,0 +1,99 @@
+chaos,4w,2e
+
+
+   Entrance - e -> Chaos
+            - w -> Livingroom
+            - search mat
+   Livingroom - e -> Entrance
+              - w -> In a tube
+              - n -> Cotton Jungle
+              - s -> Closet
+              - enter picture -> Strange Room
+1: Cotton Jungle - do something -> Tank of Water
+   Tank of Water - down -> Bottom of the Water Tank
+   Bottom - pull plug -> Basement
+   Basement - climb stairs -> Yard
+            - trace symbol -> Strange Room
+   Strange Room - enter hole -> Tank of Water
+                - type hVe&StLE -> Vault
+                - search wallpaper
+   Yard - d  -> Basement
+        - se -> Entrance
+        - search yard
+        - exa picture - keep track of which movie it is. Dune, Boonsock Saints, Rising Sun
+   Closet - n -> Livingroom
+          - nw -> Secret Room
+          - search crack
+   Secret Room - out -> Closet
+               - trace footprints -> Strange Room
+   In a tube - e -> Livingroom
+             - w -> Tank of Water
+             - spin around -> Roof
+             - search tube
+   Roof - climb down -> Entrance
+        - search letter
+   Vault - exa plate
+           if fish scale then (from livingroom) go 2w,d,search fish scale
+           if fish eye then (from entrance) go 3w,search fish eye
+
+Wally   385
+Wally has been practicing for years in the Waldo look alike
+competitions and it looks like he's gotten pretty close, except for
+the name.  He's got the signature red and white socks and the silly
+grin to match.  You know, because he's grinning at you now. *grin*
+
+Wahldo   384
+They found Wahldo on the street panhandling one night, and seeing as
+how he already had the stupid looking socks, they made him a Waldo
+impersonator.  Go figure.
+
+Waldoh    384
+Waldoh used to be a commentator on a children's show, but after years
+of being laughed at, he figured he might as well be laughed at in
+Waldo's socks.
+
+Valhdo   733
+Valhdo is an old friend of Waldo's, and of course friends being
+friends, a place was easily made for Vahldo.  He's not the best Waldo
+impersonator out there, but he sure can fake it.
+
+Wahldo   412
+They found Wahldo on the street panhandling one night, and seeing as
+how he already had the stupid looking socks, they made him a Waldo
+impersonator.  Go figure.
+
+Walt   385
+They say he used to play basketball and then just plain went crazy.
+But, no matter, he wears the socks, he looks the part, and so they let
+him wander around.
+
+Walldo   373
+Walldo hasn't actually been hired to work here.  He just kind of
+wandered in, and no one has figured it out yet.  Maybe they should
+hire him, eh?
+
+Walter   411
+Walter isn't too bright.  He dropped out of school when he was
+sixteen, but then he's working here, so that's gotta mean something
+right?  But what....  Oh well, no matter, he wanders around and
+doesn't seem to care too much about you, but why should he.  *blah*
+
+Waldo - unkillable
+Holy jehosephats!!  It's Waldo himself!  How you've dreamed of this
+day!  You've found the great Waldo himself, stupid socks and all.  Now
+all you gotta do is shake his hand.
+
+
+
+
+Tiny slip of paper
+A rather small piece of paper with some writing on it.
+Perhaps you should read it.
+
+read paper
+All you can make out are some random digits: hVe&StLE
+
+
+
+
+.

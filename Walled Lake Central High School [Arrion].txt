@@ -1,0 +1,91 @@
+Walled Lake Central High School [Arrion]
+Dirs: chaos, 2n, e, enter mist, onward
+
+
+
+
+
+                                      x-x x x-x
+                                      |   |   |
+                                      x-x-x-x-x
+                                      | |   | |
+                              x-x x-x x x   x x
+                              |X|   | |       |
+                            x x-x x-x x       x
+                            | |   |   |       |
+                          x x-x-x-x-x-x-x-x-x-x-x
+                           \| |   |   |   |   |
+                          x x x x x-x x-x x x-x-x
+                          | | |  \|   |       |
+                        M x-x x x x-x x x x x-x
+                        | | | | | |   | | |   |
+                      x-B x-x-x-x-x-x-x-x-x-x-x-x
+                        |   |         |   |   |
+                        x-x-x         x   x x-x
+
+
+
+M: Mist (Entrance/Exit)
+B: Booth
+
+
+
+Monters:
+Sarah
+A Disgusting Couple
+The Glob
+Christen, Punk-Rock Queen, er something...
+The Amazonian Librarian
+A Dumb Jock
+Ethel, Duke of Hall Monitors
+A Moron
+Mr. Kochenderfer
+Matt the Freak
+Mrs. Ervin
+Mr. Ervin
+Conan, leader of Da Latin Counts
+A gangmember
+A Young Stud
+Dr. Cox
+A Very Pretty Girl
+Miss Burt
+Jamie the Freak
+Brian the Freak
+Mr. Darnton
+Mr. Walsh
+The Crowd
+Mrs. Walters
+Mrs. Kirk
+One of the Lost Boys
+Dave the Freak
+Miss Davies
+Miss Haagen
+Nat
+Miss Perfetti
+Ted, Walkie-Talkie Tuff-Guy (monitoring)
+Doc, the Uberjanitor
+Mr. Ruggles
+Bill
+Heather the Elitist
+An Inept Counselor
+A Pissant Secretary
+A Psycho-Actor
+Mrs. Rexroat
+
+Items:
+A Physics Book (closed).
+A water pistol.
+Molybdenum-Fibered Overcoat.
+A Chemistry Book (closed).
+Dr. Cox's Thinking Cap.
+Ms. Burt's Ruler
+Hippie Love Beads.
+Gloves of Mathonwy.
+A Pair of Granny Boots.
+A Mean-looking Immolator.
+A Gigantic Earring.
+Miss Haagen's Whip.
+A Library Pass.
+A Rubber Chicken Necklace.
+Doc's Bowie Knife.
+

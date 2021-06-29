@@ -1,0 +1,68 @@
+science,u,4n,d,n,7w,enter
+
+Ground FLoor:
+
+   U
+
+Level 2:
+
+   S
+
+S: stiars up/down
+
+Level 3:
+
+   x-2-x
+  /     \
+ x       x
+ |       |
+ x       x
+  \     /
+   1-d-x
+
+Have to move left and right around the tower
+I assume you're facing the tower for left and right map purposes
+
+1: search crate, Iron Marble
+2: Ladder to top of tower
+
+Monsters:
+A tower guard    8299
+This is one of the men enlisted to guard the water tower. His crew
+cut has grown into a mangled mess of hair, and his face hasn't seen
+a razor for several weeks. The scorching surrounds have left him with
+a permanent squint and he looks you up and down with obvious distrust.
+
+The force leader   27017
+This is the force leader. He is a large muscular man with a dirty
+sweat soaked bandana wrapped around his head. He has a haunted look
+in his eyes, echoing the horrors he has witnessed.
+
+
+Items:
+A flak vest
+
+GA47 10mm Semi-Automatic Pistol
+The GA47 is a good light-weight pistol with an open chamber firing
+mechanism and very little recoil.
+
+GA47 ammo clip
+An ammunition clip for the GA47 Semi-Automatic pistol.
+A digital counter on the side displays the number 50
+
+A combat helmet.
+
+DN Body Armour
+This armour is made of a honeycombed lattice ceramic laminated with
+fused silicon strands in resin. It looks strong.
+
+GA50 Finisher Assault Rifle
+This is a very good, long lasting weapon. The GA50 is a very light
+10mm rifle, with solid carbon-fibre construction which makes it
+perfect for long periods of sustained fire.
+
+GA50 ammo clip
+An ammunition clip for the GA50 Finisher Assault Rifle.
+A digital counter on the side displays the number 50
+
+

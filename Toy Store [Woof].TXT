@@ -1,0 +1,147 @@
+chaos,2s,e
+
+        x-x
+        | |
+      x-x-x-x-x
+        | | |
+        x x x
+        | | |
+      x-x-x-x-x
+          |
+        E-x
+
+
+An Inflatable Shamu    374
+This inflatable is about 5 feet long and filled with air, suprisingly enough.
+He has two handles sticking out of the top of his head, which are used for
+undisclosed purposes. He also has a taste for undisclosed porpoises.
+
+A Rubber Ducky     1635
+This large rubber ducky is yellow, as they are, and plastic, which,
+strangely, they also often are.  He might well squeak if you hit him -
+why not give it a try? By the way...don't be fooled by the blank
+expression on his face - this ducky is a fully-paid-up member of MENSA.
+
+Leonardo    4157
+Leonardo is the funniest of the bunch.  Doesn't say a lot, does it?
+
+Donatello    5514
+Donatello is the smartest of the four.  Scary isn't it?
+
+Raphael    8108
+Raphael is the master of disguise. Cunning, isn't he?
+
+Michaelangelo    6027
+Michaelangelo is the party dude!
+
+Splinter     4971
+
+Winnie The Pooh    1226
+This is a cute and fuzzy Winnie the Pooh bear sitting on a beanbag.
+
+Small Boy    183
+This small boy is dressed as an Indian, and wields a fearsome looking plastic
+bow and arrow set.  Bet you're really scared.
+
+An Ugly Sister      92
+This step-sister is almost as ugly as yours.
+
+Walt Disney     149
+Large, nasty and armed to the teeth.
+Actually I'm lying - it's Walt Disney, a fat, elderly, mustachioed man
+with slicked-back hair and a serious bank balance.
+
+Ken    733
+Ken is tall, tanned and plastic.
+He looks like he could really use a good kicking.
+
+Barbie   734
+A pale, anorexic blonde. Apparently it's every girl's dream to grow
+up like her. Strange.
+
+A Model Tank     349
+This is a plastic, clockwork tank.  You cant distinguish what KIND of tank it's supposed to be,  the detail
+isn't that precise. However,  you can see that it's attacking you and would be better off destroyed.
+
+Black Power Ranger     183
+He wears a black lycra catsuit and a black motorcycle helmet.
+Apparently this makes him popular, especially with men who put on women's
+clothing and hang around in bars.
+
+Yellow Power Ranger    176
+She wears a yellow lycra catsuit and a yellow motorcycle helmet.
+Apparently this makes her popular.
+
+Pink Power Ranger     175
+She wears a pink lycra catsuit and a pink motorcycle helmet.
+Apparently this makes her popular.
+
+Nerdy Boy    2993
+The small boy is wearing thick black plastic rimmed glasses and a plaid
+jumper. He pays no attention to you what-so-ever and is staring at the
+Jenga pieces intently.
+
+Action Man    6730
+He's about 9 inches tall, but built like a brick privy.
+Maybe you should consider running away!
+
+
+
+
+A Blank Expression
+A blank expression from the face of a dead rubber ducky.
+Ever heard of suspension of disbelief?
+
+Some green nunchuks
+You know - those sticks on a chain. Exceptionally scary in the right hands.
+Obviously that doesn't include you.
+
+A turtle-sized staff
+A large lump of shaped tree, used for bashing people.
+Once belonged to an ugly green sewer-dweller.
+
+A razor-sharp Turtle katana
+Metal sharp thing. Used for causing damage to the rear end of unsuspecting
+cartoon villians.  Once belonged to an ugly green sewer-dweller.
+
+A weird fork-shaped turtle weapon
+A tri-pronged rat-sticker, very useful in its natural habitat.
+Once belonged to an ugly green sewer-dweller.
+
+A Red Woolen Jumper
+This garment until lately adorned the body of a small, fat bear by the
+name of Winnie T. Pooh.  He's dead now tho' :)
+
+A Plastic Bow and Arrow set
+This bow and arrow set is made of plastic and fires a wooden arrow with
+a rubber suction cup on the end at its target.  Why don't you try it?
+Just 'shoot <target>'.
+
+A Power Rangers Backpack.
+A small cheap Power Rangers backpack.
+
+'JUST SAY NO' Power Rangers Pin.
+It's round and shiny with a sharp pin on the back. Strange that!
+
+A Pink Power Ranger Lunchbox
+Its a plastic lunchbox with the Power Rangers painted on the front. There
+is a small plastic clasp on the top to hold it shut.
+
+A Power Rangers Bath Set
+This is a small plastic bag with all of the Power Rangers pictured on
+the side. It contains a Power Rangers toothbrush, soap, and facecloth.
+There is a zipper on the top but it is jammed shut.
+
+A Small Pair of Rollerskates
+These are a childrens pair of Power Ranger Rollerskates. There is a coloured
+set for each of the Power Rangers - kinda sad isn't it??
+
+A tiny silver pistol
+This gun is far too small to be of any use to you in combat.  However it
+DOES seem to be made of silver, so may serve some purpose.
+
+
+
+
+
+

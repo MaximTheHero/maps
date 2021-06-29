@@ -1,0 +1,1373 @@
+The Overlands [Distortion]
+Dirs: Eforest, 3n
+
+
+
+               /
+        P   S x M
+         \   \|/
+          x   x-A
+         /   /|
+        x   4 L
+        |  /
+        x-x             x-x-2
+       /   \           /     \
+      5     x         x       x-x-3
+             \       /
+              x-x-x-x
+              | | |  \
+              x-1-x   x
+             /         \
+  C-x       x           x-x-x     x-x
+     \     /                 \   /
+      x-B-x                   x-6
+ 
+S: Shop
+M: Magic Shop
+A: Arena
+L: Library or Minassian
+P: Portal (entrance/exit)
+B: Cottage (Metal Slime)
+C: Cave (Old Hag)
+1: Samantha's Cathedral
+2: Gargoyle cave
+3: Mountain
+4: Wiseman
+5: Wiseman (Mesosaur)
+6: A Large Rock
+
+Cave:
+level 1:
+
+  x-x-x
+ /     \
+E       d
+
+level 2
+
+u
+ \
+  x-x-2
+    |
+    R
+
+R: Raft to Sin'Jun Songsinger
+2: The Two of Spades.
+
+
+Cathedral:
+
+   E E E
+   | | |
+ E-5-6-7-E
+   | | |
+ E-4-F-8-E
+   | | |
+ E-3-1-2-E
+   | | | 
+   E E E
+
+E: Entrance/Exit
+1: Statue of Pervasius, God of the Sea
+2: Statue of Pytheria, Goddess of the Dead
+3: Statue of Hermetian, God of Wisdom
+4: Statue of Diana, Goddess of Love.
+5: Statue of Dimitrius, God of War
+6: Statue of Leah, Goddess of Nature
+7: Statue of Jovian, Blacksmith of the Gods
+8: Statue of Jordan, God of Liminality
+F: Samantha's Fountain.
+
+
+Gargoyle Cave:
+
+ E-x-x
+      \
+       1
+       |
+       x
+        \
+         2
+        /
+     x-x
+    /
+   x
+    \
+     x
+      \
+       x
+      /|\
+     x-x-x
+    /|X|X|\
+   x-x-L-x-x
+    \|X|X|/
+     x-x-x
+      \|/
+       x
+       |
+       x
+        \
+         x-x-3
+
+1: patterns in obsidian
+2: turn sconce
+3: Underground City
+
+
+Mountain:
+Level 1:
+
+  D
+   \
+    G-x
+       \
+        U
+
+G: Gate to graveyard
+
+Level 2:
+
+    U
+     \
+      x-x
+         \
+          x
+           \
+            x
+            |
+            x
+           /
+        x-x
+       /
+  M-N-x
+
+
+M: Down and Mine
+N: Condor Nest
+
+
+Level 3:
+
+                x-D
+               /
+              x
+             /
+      x-x-x-x
+     /
+  x-x
+ /
+x
+|
+x x-x
+|  \ \
+x   x x
+|   |  \
+x   x   x
+ \   \  |
+  x   U x
+   \   /
+    x-x
+
+
+Level 4:
+
+    x---D---x
+     \  |  /
+      x-x-x
+       \|/
+        U
+        |
+        C
+
+C: Three of Spades
+
+Monsters:
+
+688 : Small Bunny Rabbit
+
+This is a small, but perhaps dangerous, bunny rabbit. The thing that
+is so dangerous about it is that it is so damned cute. You are
+compelled to walk up to it and put your hand out, which is when
+it could bite your finger.
+
+
+3070 : A Small Sheep
+
+This small sheep has wandered off from the herd.
+
+
+5244 : A Sand Crab
+
+This is a medium-sized sand crab. There are a lot of these in this area,
+probably more than you have seen anywhere else. It has a brown and red
+case, with sharp pincers to fend off attackers.
+
+
+1665 : A Python
+
+This is a python snake, born to attack other animals. It spends it's
+whole life learning how to be the best predator it can be, only to
+die at the hand of some adventurer.
+
+
+2293 : A Red Fox
+
+This is a medium sized fox, that spends its whole life in the forest.
+It has a long brown tail, with a deep red body, and white pointy ears.
+It looks friendy enough, but is probably dangerous.
+
+
+337 : Small Fuzzy Squirrel
+
+This small fuzzy squirrel is one of the many creatures that lives
+in these lands. It has a brown coat, with a long fluffy and fuzzy
+tail. It is eating an acorn.
+
+
+324 : Snapper Turtle
+
+A large turtle.  This turtle is one of the many inhabitants of the
+river that flows through this region.  You can hear the snap of
+the turtle bite get louder as it approaches you.  You had best
+be careful.
+
+
+6878 : A Small Lion
+
+This is a large, powerful, magnificent beast. It has a golden mane, with
+flowing hair, down to its paws. It has a long, aged face, and has probably
+spent its entire life in this part of the Overlands.
+
+
+10115 : A Strong Mountain Lion
+
+This is a strong and proud mountain lion. It stands four feet tall,
+five feet long, and probably weighs a few hundred pounds. It's long
+blonde hair and golden eyes mark this as one of the strongest inhabitants
+of this area.
+
+
+21644 : A Red Minotaur
+
+A red minotaur from the dungeon beneath the town.  Two large antlers
+protrude from the minotaurs bullish head.  He is pretty muscular, but
+only stands four feet tall.  He also seems to breathe heavily through
+his nose.  The minotaur lets out a loud bellow, then gets ready to
+charge you.
+
+
+12609 : A Micro Cyclops
+
+Standing at nearly four feet tall, this is a small version of the
+deadly cyclops.  His leathery skin is tightly stretched by his
+bulging muscles.  The cyclops lets off a small roar, revealing his
+sharp teeth.
+
+
+12513 : A Cave Lion
+
+This is a cave lion, proud and strong. Being kept in captivity
+has not tamed this lion one bit. It walks with it's head up high,
+and it's chest out, ready to fight anyone.
+
+
+18457 : A Mad Clown
+
+An evil clown from the town of Cassaria.  Be careful, clowns are
+very tricky.  The clown is wearing a colorful suit, with big red
+shoes.  He has paint on his face, in the form of a sad face.  He
+also has a big flower on his suit.
+
+
+18570 : An Evil Vampire
+
+An evil vampire from the dungeon beneath the town.  Vampires are
+known for their viscious bite, where they drink your blood, and
+heal themselves.  This vampire is very pale.  Blood drips from
+his jagged fangs.
+
+
+19164 : Fwiffo, A Metal Slime
+
+A small patch of metallic goo, not more than six inches tall, sits before
+you.  It has the shape of a raindrop, though bigger.  Two tiny, brown eyes
+protrude from the slime.  Below the eyes, the metal slime wears a giant smile.
+Beware though, metal slimes are notorious for being tougher than they look.
+You get the feeling that even though Fwiffo is smiling on the outside, she's
+sad on the inside.
+
+
+14314 : A raging SAVAGE
+
+A member of Khai Sun'jin, the tribe native to much of
+overlands.  The Sun'jin are known for their fierce
+berserker style of fighting.  The savage, covered with
+war paint and wielding a blood stained hatchet, screams
+war chants as he attacks in a state of rage.
+
+
+14274 : An Immense Barbarian
+
+An absolutely enormous cave man.  He stands nearly seven feet tall,
+and is made of pure muscle.  In his right hand, he wields a giant
+obsidian club, almost as big as you.  You fear that going toe to
+toe with this monstrosity might prove unwise.  The barbarian lets
+out an indecipherable cry in his native tongue.
+
+
+26589 : A Hatchet Man
+
+An evil hatchet man.  Hatchet men are the deadliest warriors of
+the Sin'jun clan.  Though they only wield primitive hatchets,
+their berserker style of fighting makes them deadly.  Blue and
+white war paint covers this hatchet man's red face.  He throws
+the live fish he was eating to the ground, and attacks!
+
+
+77073 : Sin'jun Songsinger (sea hag)
+
+From the darkness, a face peers out at you with glowing red eyes.
+Looking upon her pale, white skin, a fierce grin shatters your reality
+as you step back a minute to gather yourself. Marred hands turn a
+wooden stick of some sort, that disappears into a pot overflowing with
+liquid. A cat lopes by her side, silent as if it were contained by
+some type of magic. The hag, hunched over, looks in no condition to
+fight, but looks can often be deceiving. She grins as she ascends back
+into the shadows.
+
+
+30258 : The Two of Spades
+
+     A playing card, it looks very out of place here.  In all your
+years of study, you have never heard of the existance of such a
+creature.
+     Protruding from the card, are two extremely thin legs, and two
+even thinner arms, one of which is holding yet another card.
+An aura of powerful magic radiates from the card.
+
+
+5575 : A jade gargoyle
+
+This huge gargoyle is made of pure jade.  Refracted light shines
+through his semi-transparent body.  This beast stands over ten
+feet tall.  Five sharpened gems grow out of each of the gargoyle's
+palms.  They would make deadly weapons.  The gargoyle's eyes are
+pure white, and they gaze upon you with a hypnotic stare.
+
+
+3611 : A stone gargoyle
+
+This massive stone beast hulks over you in an attacking stance. Knife-like talons jut out 
+of the gargoyle's large wing tips.  Two curled, stiletto-sharp horns protrude from its bal
+d, rocky head.  This is definitely a formidable adversary.
+
+
+32964 : A gargoyle lord
+
+Blood drools from the giant jaws of this terrible, massive predator.
+The flaming eyes of this horrid beast gaze upon you with a look of
+fury.  Giant talons protrude from the leathery wings of the gargoyle
+lord.  Two twisting horns, each over a foot long, drip with magma.
+You would be totally out of your element engaging this horrible beast
+in combat.
+
+
+11202 : A gargoyle knight
+
+The most powerful of all the gargoyles.  Clad in full gargoyle armour,
+an encounter with this giant beast could easily be fatal.  Two large
+tails grow out of the gargoyle.  One of the tails ends in a spade shape,
+while the other ends in a ball filled with spikes needles.  The
+gargoyle knight is wielding a huge metallic sword.
+
+
+20436 : Wraith Knight
+
+An accursed wraith knight.  Once brave warriors, wraith knights have
+had their soul taken over by Pytheria after falling in battle.  Clad in
+ancient banded mail, the entity that stands before you is nothing more
+than the skeleton of the warrior that once was.  Thousands of worms coil
+and inch around the bones of this creature.  A deathly looking snake
+slithers through one of its eye sockets, dangling into its rib cage.
+You fear this horrid creature is a force with which to be reckoned.
+
+
+52105 : Vampiric Dragon
+
+This horrific beast just came out of the pits of Hades.  As you gaze
+into the dragon's hypnotic eyes, you feel like you're staring
+into death itself.  Vampire Dragons nest in the lower parts of Mt.
+Silvermoon, unmercifully annihilating anything that dares try to scale
+its forbidden slopes.  From within this insane abomination, a million
+souls cry out for you to free them.
+
+
+88917 : Promethian Dragon
+
+A giant silvery dragon that makes its residence on Mt. Silvermoon.
+This massive beast could tear you to shreds if you weren't careful.
+At over 100 feet in length, to call this beast anything less than a
+total wrecking machine would be an understatement.  The Vampiric
+Dragons might have seemed tough, but this guy totally dwarfs them.
+His milky white talons are as big as a full-grown man, and razor sharp;
+his shiny silver exterior is as hard as the mountain peak he resides
+on, and his humongous teeth aren't teeth at all, but giant sword-like
+instruments of death!
+
+
+12812 : 6-headed Hydra
+
+A horrible six-headed hydra.  Six massive tentacles grow out of its
+deformed reddish body.  At the end of each tentacle, is a toxic pit of
+death, which looks vaguely like a mouth.  The hydra lets out wretched
+screams of death and rips a hole into the mountainside.  Any life that
+dares enter its vicinity will be immediately destroyed. Though headless
+and virtually dead, the hydra thrashes about wildly in its last attempt
+to destroy you.
+
+
+102018 : Elysian Chimera
+
+A mythical Elysian Chimera.  You have only heard of these most magical
+of creatures through the stories of old wise men.  Its massive girth
+leaves a shadow over the entire surrounding region.  The body of this
+mammoth beast has a frame similar to that of a lion, only about ten
+times bigger in magnitude, and with the hindquarters of a large, black
+goat. It's body has brownish-brown wings like those of a dragon. Three
+necks, as thick as tree trunks, grow out of it.  At the end of these
+necks are three heads, each twenty feet in diameter; one of a goat, one
+of a lion, and one of a dragon.
+     The goat, which looks like it has just been to hell and back, has
+blood red demonic eyes, which gaze directly into your soul.  Out of
+its head grow two jagged horns that could rip you apart if you were
+to challenge this beast in battle.
+     The lion head is framed with a brown mane, and blood drips from
+its giant maw.  From the expression on its face, it looks like it can't
+wait to take a giant bite out of you. The lion lets out a great roar,
+demonstrating its strength.
+     The blue, scaly neck of the dragon extends high above the rest
+of the chimera.  Flames flare out of its giant nostrils.  You can
+tell it's just waiting to blast you to smithereens with a dragonball.
+
+
+34364 : The Three of Spades
+
+A playing card, it looks very out of place here.  In all your
+years of study, you have never heard of the existance of such a
+creature.
+     Protruding from the card are two extremely thin legs and two
+even thinner arms, one of which is holding yet another card.
+An aura of powerful magic radiates from the card.
+
+
+77448 : Arcadia Silvermoon
+
+ A single band of silver denotes Aradia Silvermoon as an Apollyon
+Knight.  Only another Apollyon can equal this man in weapon to weapon
+combat and no one can best him.  His grey hair is deceiving, for
+this man has none of the ailments of old age.  He moves almost
+instinctively with a feline grace and what seem startling feats of
+skill are second nature to him.  He makes complete use of every facet
+of fighting, and so rarely finds a good fight that he must spar against
+other Apollyons.  A sworn protector of Overlands, he lives to insure
+the dominance of his element, and to further master his unequaled
+skill.
+     Though his wisdom of battle is unmatched, it did not come without
+a price.  As an arrogant youth, Arcadia dared challenge Javelin in a
+duel.  Reluctantly, Javelin accepted.  And in that battle, Javelin
+crippled Arcadia for life; reducing one of his arms to cinders with a
+searing ball of flame.  Although Arcadia is heralded as the greatest
+warrior ever to grace this land, he wonders every day ... how good he
+might have been had it not been for that fateful encounter.
+Constantly striving to better himself, that one day he might meet
+Javelin a second time.
+     As you look upon him and gaze into his eyes, you can see the
+genius he controls.  You fear you would be totally out of your element
+challenging him.  He is armed with the Silvermoon.  Upon his forehead
+lies the violet rune, marking him as a conquerer of the stygian abyss.
+
+
+77448 : Soulscorch, Arcadia's PHOENIX 
+
+The most powerful of all winged creatures that reside on Silvermoon's
+forbidden slopes.  The great Phoenix, Soulscorch, makes his dominion
+atop the highest mountain peak, alongside his master, Arcadia.
+Legend has it that when Arcadia sacked the great city of Alexandria,
+Soulscorch leveled the entire citadel in a matter of seconds.  A task
+which the entire king's army couldn't perform in six months.
+This high powered offensive wrecking machine contains power which even
+the gods fear.  Soulscorch was supposedly born with the universe
+itself and some say it can never really be killed.
+     Currently, it sleeps; perched upon a tall rock about five feet
+above you, with its wings folded over its head.  You feel humbled,
+as if you are standing in the presence of greatness.
+
+
+
+Items:
+
+A Crab's Pincer.
+unknown
+
+Minerva Bands.
+These haunting bands are black as midnight.  Made of the stars themselves,
+they are legendary for their ability to render their owner invincible.  It
+is apparent that these bands are of unearthly origin.  The substance from
+which they were forged of is unlike any you have ever seen.  They are of
+the purest black.  It almost looks as if there is a hole in space where
+they reside.  You notice that by moving the bands, a brilliant light
+momentarily appears from behind it.  This has a blinding effect similar
+to that of an eclipse.
+
+Silvermoon (enchanted).
+The weapon of Arcadia Silvermoon.  It consists of quarter moon
+crescent with no handle.  The only way you could possibly wield
+this weapon is to hold it by part of the blade itself.  This weapon
+seems very alien to you and you're not exactly sure how to use it.
+After sitting down for a few minutes, trying unsucessfully to comprehend
+the blade, you give up.  The blade is made of moonstone; and although
+it is paper thin, it is unbendable.
+
+A crosshair.
+Glistening brightly, this metal crosshair once belonged to a sword,
+but now stands alone.  It is made of metal, though the metal is
+like none you have ever seen.  The crosshair makes the an X shape.
+On each diagonal, are imbedded a host of jewels of multiple colors.
+Though useless alone, perhaps if you had the other pieces of the sword,
+you could reassemble them.
+
+A pommel.
+An old and scuffed pommel of a sword.  It looks like nothing special.
+Perhaps if you could find the other parts, and then get a skilled
+weaponsmith to remake the sword, you could use it.  However, it
+doesn't seem like it'd be worth the trouble.  It is black, and
+unusually light.
+
+Elysian Chimera's Mane.
+The giant gold mane of a ferocious Elysian chimera.  These manes
+are in high demand among medical men.  They are important ingredients
+in many antidotes.  Alas, most of the medical men in Overlands are
+very poor and wouldn't be able to give you much for it.  It is,
+however, greatly needed.  You could also probably wear the mane over
+your head.
+
+Alabaster Potion.
+A small vial containing some sort of white fluid.  You could drink
+it to find out what it does.
+
+A Fox Tail.
+The is the brown tail from a red fox. It is long and fluffy.
+
+A Lion's Claw.
+This is the claw from a mountain lion, a powerful one indeed. The claw
+is razor sharp, and would probably demand a high value if sold.
+
+An Acorn.
+This is an acorn that some squirrel earned by hard work. It looks
+much like an other acorn you have seen before, except that it looks
+delicous.
+
+Turtle Shell.
+This large turtle shell once belonged to a turtle from Overlands.
+It'd probably make a pretty effective shield.
+
+Stone hatchet.
+This hatchet once belonged to one of the savage warriors of the
+Sin'Jun tribe.  It consists of a wooden handle about a foot long.
+Tied to the handle by some sort of skin-like rope, is a flat stone
+with a sharp end.  The stone is stained with blood.  Alas, you
+fear the stone is too dull to use effectively.
+
+Giant Obsidian Club.
+The humongous obsidian club of a barbarian of Overlands.  You
+can barely lift it, and feel it wouldn't be too useful as a
+weapon, at least in your hands.  It is, however, made of
+precious obsidian; and can probably be sold for a high price.
+
+Bloody hatchet.
+The blood red hatchet of an evil member of the Sin'Jun Clan.
+The Sin'Jun use such instruments of death to deliver horrible
+pain to their victims.  You could probably <deliver pain> to
+your victim as well.
+
+Old Hag's Heart.
+     Black as death, this is the heart of the ancient sea hag, Sin'Jun
+Songsinger.  Though Sin'Jun is dead, her heart still beats incessantly.
+As you handle the heart in your hand, black ooze seeps out of one of
+the many arteries that interleave the heart.  Being in the presence
+of Sin'Jun's heart has a strange effect on you and everyone around
+you.  Your heart, and the hearts of those around you beat as one with
+Sin'Jun's heart, binding all of you together in a mystical way.  You
+think you might be able to channel your physical and mental energies
+to those in your presence.  "channel <amt> <hp/sp> <person>"
+                         or "transfer <amt> <hp/sp> <person>".
+
+A spade.
+The two of spades.  You have no idea what use this could serve,
+but perhaps if you had all thirteen spades, they might do something.
+
+A spade.
+The three of spades.  You have no idea what use this could serve,
+but perhaps if you had all thirteen spades, they might do something.
+
+Gargoyle Full Platemail.
+This pitch black suit of armour radiates pure evil.  A fiery red
+image of a gargoyle has been painted onto the front of the armour.
+It does not appear as if this armour was meant to be worn by a human.
+There are no places for arms.  Instead, it looks as if this was meant
+for something with wings.
+
+Sword of Gargoyles.
+This milky white blade is studded with red and blue gems.  Ancient
+runes in the unknown language of the gargoyles have been burned into
+the shaft of the blade.  An ornate pommel carved in the image of a
+small gargoyle extends out of the bottom of the blade.
+
+Talons of a Vampire Dragon.
+The dark talon of an ancient vampire dragon.  At over a foot in length,
+this would make a deadly weapon indeed.  The blackness in the talon
+symbolizes all the death it has brought forth.  It is stained with the blood
+of countless lost adventurers.  The talon is made of midnight black
+ebony and is razor sharp.  This device is very popular among the secret
+assassins guild beneath Casaria according to rumors one hears in the
+various inns throughout Overlands.  It has therefore been declared illegal
+to possess one.  However, this would be worth a hefty price on the black
+market, for vampire dragons are nearly impossible to kill.
+
+Vampire Dragon Scales.
+These scales once belonged to one of the great Vampiric Dragons that
+reside upon Mt. Silvermoon's forbidden slopes.  The scales are semi
+transparent and red in color.  In fact, they seem almost like they're
+made of rubies, or some sort of ruby compound.  There is a jeweler in
+Casaria, he could probably tell you more.
+
+Talons of a Promethian Dragon.
+Perfectly smooth ivory converges onto a single jagged tip.  This
+hybrid nail/sword once belonged to a fierce Promethian Dragon.  It
+has been fine tuned by evolution to be the perfect killing device.
+The milky white ivory comes second to only obsidian in its durability
+and hardness.  You could sell it to a blacksmith to melt down and
+craft into whatever he wills; or you could sell it on the black market
+for the assassins guild to use as is.
+
+Promethian Scales.
+Jades, agates, emeralds and sapphires stud the pearly scales of the rare
+and beautiful Promethian Dragon.  How these rare stones are able to grow
+upon the dragon's skin has been a source of myth throughout Overlands.
+Some say the Promethian Dragons are Samantha's pets and she magically
+altered them to be the finest beasts to roam the land.  The aristocracy
+of Overlands would pay any price for this find.  Though these scales
+seem to offer virtually no protection against any sort of attack, an
+aura of magic pervades the lattice of gems.
+
+A head of a six-headed hydra.
+This is one of the giant hydra's heads.  Although its yellow-white
+teeth are no longer a threat, they still look dreadfully fearsome,
+as do its large, liveless amber eyes.
+
+Armour of Radiance (shimmering slightly).
+Forged from the scales of Tiamat herself by the god blacksmith
+Jovian, this is the mythical Armour of Radiance.  Epics of ages past
+tell tales of those who had donned this ultimate piece of craftsmanship
+and were rendered invincible!  This sacred heirloom has passed through
+the hands of a myriad of generations of legendary heroes.  From
+Ramsutaphus, the first Emperor of Overlands over two thousand years
+ago to Arcadia Silvermoon, one of only three ever to ascend to the
+rank of Apollyon Knight.
+     Deep red scales as hard as diamonds are sewn tightly together
+onto some sort of skin-like base.  Though these scales offer unmatched
+protection, wearing them would hinder your flexibility greatly, as
+this suit of armour is quite bulky.  Directly below the chest of the
+armour, the scales coalesce to form a small red dragon head.  For
+eyes, the dragon has finely carved jades; and looking into it's
+mouth, you can see a vortex of magical energy.
+
+
+
+
+-----------------------------------------------------------------------------
+Robobop the High Priest (Shopkeeper).
+This is a great man, Robobop. He is currently the owner of Casaria's
+equipment shop, and a high-priest. He was born here, and grew up as
+a member of the Kyper clan. He eventually became a High-Priest, with
+the help of his friend Mesosaur, and became very powerful. About fifteen
+years after the monster invasion, Robobop decided to buy out the town
+shops and combine them to maximize profit. He stands over six feet tall,
+and looks very strong.
+
+You say: hi
+Robobop says: Hello. Welcome to my shop!
+
+You say: mesosaur
+Robobop says: Mesosaur... What an interesting character. I would probably
+              have to say that he is my best friend. We go very far back, as
+              we used to fight hydras together a lot. I believe that now he
+              spends his time trying to find a way into Javelin's tower.
+
+You say: tower
+Robobop says: Hmm, I dont know nearly as much about the tower as
+              my friend Mesosaur, so you might want to ask him.
+
+You say: javelin
+Robobop says: Bah... Don't get me started.
+
+-------------------------------------------------------------------------
+A Wiseman.
+This is a man who has decided to spend his remaining days welcoming people
+to the town. He stands about five feet tall, and has very grey hair. If
+you would like to speak to him, just say 'hi'.
+
+You say: hi
+The Wiseman says: Welcome to the town of Casaria!
+
+You say: casaria
+The Wiseman says: This is Casaria, one of the premier towns in the region.
+                  While you are here, I strongly suggest you visit the
+                  library. Most of this area's history is kept there, and
+                  you can learn a lot. 
+
+You say: library
+The Wiseman says: From here, the library of Minassian is to the northeast
+                  and then south.
+
+You say: javelin
+The Wiseman says: You had better ask someone else about those things.
+
+You say: orac
+The Wiseman says: You had better ask someone else about those things.
+
+--------------------------------------------------------------------------
+A Wiseman.
+This is the one who goes by the name Mesosaur. He is currently a
+prominent druid, on his way to becoming an Arch. His power is mighty,
+but it is almost nothing in comparison to that of Javelin, the great
+Arch Magus.
+
+You say: hi
+The Wiseman says: Well, hello! My name is Mesosaur. Why have you come to
+                  the tower of Javelin?
+
+You say: tower
+The Wiseman points to your right.
+
+You say: javelin
+The Wiseman says: Javelin is one of the most powerful creatures ever to
+                  grace this realm. He is the current master of the
+                  Silver Order mages. The ranks of the mages have ruled
+                  this land as far back as the demise of Orac.  It is
+                  said that Javelin took the great knight's life with his
+                  unmatched skill and power. Once the land was ruled by a
+                  circle of semi-powerful men, self-proclaimed as the
+                  'Jesus Gang'; but since the demise of Orac, none have
+                  dared to challenge the power of Javelin.  For he is the
+                  highest level Arch Magus in this land and perhaps the
+                  entire realm.
+
+You say: jesus gang
+The Wiseman says: The Jesus Gang harrassed many adventurers for quite
+                  some time. As a young druid, I recall being often
+                  harrassed in the arena and forced into paying homage to
+                  the gang.  Many times while I was training in the
+                  arena, I would see gang members, who had just
+                  discovered the first of the great runes, emerge from
+                  the dungeon.  Randomly, each would leap from the
+                  dungeon, their Levinblades in hand, and they would
+                  begin killing innocent level one hunters, and druids.
+                  Soon after, a proclamation was past on to the
+                  inhabitants of the realm,
+                  
+                  'ANYONE SEEN WITH THE FIRST RUNE ON THEIR FOREHEAD WILL
+                  BE KILLED'
+                  
+                  During this time, a young boy named Edroman, brother of
+                  Javelin, was born. Edroman grew up to be a strong and
+                  proud warrior, defiant of the plights of the Jesus
+                  Gang. Together with a few of the realm's rebel
+                  warriors, Edroman obtained the white rune and journeyed
+                  onward to the forbidden second town, where he received
+                  the mighty Levinblade. The tides turned from that day
+                  forward.
+
+You say: orac
+The Wiseman says: Orac was once the protector of this realm. Many a new
+                  adventurer, who came to this realm, would go to Orac
+                  for help, protection, and very often gold. Orac, who
+                  held the highest level of all the knights, bore the
+                  greatest of the runes upon his brow.
+
+You say: town
+The Wiseman says: In the second town, lies many great secrets; one of
+                  which is the yellow rune. With monsters who are quite
+                  fierce, the rune is guarded by a great chasm, in the
+                  stonework corridors. Perhaps you should venture there
+                  one day after gaining the first rune.
+
+You say: barrier
+The Wiseman says: Well my friend, the barrier is a great force. It
+                  focuses upon the fears of those who try to pass it and
+                  thus harm them. If one would only study the field, then
+                  it might be possible to find a way past it.
+
+--------------------------------------------------------------------------
+
+Library Books
+
+Book1:
+                -=The Legend of Javelin, Books I-IV=-
+
+Book I, The White Rune
+
+     There was once a prospering city on the southern shores of the known
+continent.  On the first day of the 21st year of the reign of King Gotik,
+the King's daughter, Princess Shayla, was to be married to Skeeve, the
+general of the King's army.
+
+        On the day of the wedding ceremony, the goddess Samantha, Queen of
+the gods, appeared and revealed that Shayla was already pregnant.  Not only
+that, she was pregnant with the son of not Skeeve, but Kovan, King of the
+gods, and husband of Samantha.  Furious, Samantha cursed the town with a
+terrible earthquake.  The earthquake was so massive it broke the town and
+all surrounding area away from the mainland.  She then proclaimed that no
+one was to leave the island until they proved their worth by braving the
+ancient catacombs beneath the town, and coming back with proof of their
+bravery in the form of a white rune located in the deepest depths
+of the catacombs, and guarded by a bloodthirsty beast known as the
+Stygian Dragon.
+
+        Life went on in the now islolated town, and Princess Shayla gave
+birth to her son, Javelin.  Skeeve and Shayla were married, but Skeeve
+detested Javelin, he represented Shayla's unfaithfulness, and her
+detested Javelin, because Princess Shayla's attention was focused on
+him rather than Skeeve.
+
+        For 18 years, Skeeve tried to recover the white rune, and for
+18 years he was unsuccessful.  In the meantime, Javelin was growing
+up.  Shayla was versed in the healing arts, and she tried to influence
+Javelin to join the priesthood, but he refused.  He saw himself as
+one day becoming a powerful sorcerer, and so he studied as an apprentice
+to Diodotus, a great mage who once headed Gotik's court, but who was later
+exiled for refusing to assist Gotik in a war against one of the rival
+nations.  Diodotus did not believe in war.
+
+        On his 18th birthday, Javelin, the untested novice mage decided
+to chance the catacombs.  No one took Javelin seriously, it was common
+knowledge at the time that knights were the most powerful warriors.  And
+if Skeeve, the greatest knight of the time, couldn't kill the Stygian
+Dragon, how could a lowly mage?  But Javelin had faith, and ventured into
+the dank, dark caverns beneath the town.
+
+        Skeeve never talked of what he encountered in the catacombs, so
+Javelin didn't know what to expect.  In his journey through the catacombs,
+Javelin encountered many foul beasts, including a giant cyclops, a minotaur,
+a fire breathing chimera, and a community of stone giants.  But with the
+knowledge of Diodotus and his strong wits, Javelin managed to fight his way
+through the catacombs.  Along the way he passed the long rotted corpses of
+what were some of the greatest knights of their time, Javelin was surprised
+he made it as far as he did.
+
+        Upon reaching the lowest levels of the Catacombs, Javelin heard
+a hideous screeching.  It was the Stygian Dragon.  Javelin turned the corner,
+and saw the most horrendous abomination man had ever set his eyes on.
+Sitting among mounds of rotted bones and remains of brave adventurers,
+was a jet black dragon.  It measured a full 40' from head to tail, and
+it focused it's sight on the small mage.  Javelin was overcome with terror,
+and froze as the dragon charged at him.  Javelin's instincts then started
+to take control over him, and something unusual happened.  Javelin focused a
+stare at the dragon, and uttered the word 'todukar.'  A searing ball of flame
+discharged from Javelin's hand and blasted into the dragon.  The fireball
+burned the dragon in an absolute inferno.  The dragon gave out a final
+screech and then dropped to the ground lifeless.
+
+        Javelin didn't understand what had just transpired.  He had never
+even heard of such a spell before that moment.  Nevertheless, he moved forward,
+and the white rune was within his sight.  But before reaching the rune, he was
+hit from behind.  It was his step-father Skeeve, who was trailing him the
+whole time.  Skeeve ran for the rune, when Javelin's instincts took ahold
+of him again.  He called forth a magical bolt of lightning, and buried it
+into Skeeve.  Skeeve screamed in pain, and then fell to the ground, dead.
+Javelin went to the magical rune, and burned it into his forehead.  Upon
+doing so, Javelin realized who he was, who his father was, and his power.
+        Upon gaining the white rune, Javelin made his way back up the
+catacombs.  News of his success had already reached the town before he
+even arrived, via the local prophets.
+
+        Javelin was not a very popular figure in the community.  Many
+blamed him for the curse Samantha had put on the town.  Skeeve on the
+other hand was very popular.  Where Diodotus failed to come through
+for King Gotik, Skeeve had not.  He led Gotik's armies to victory
+on countless occasions.
+
+        Javelin's killing of Skeeve had angered the town greatly.  Some
+of the younger folks were sympathetic to him, but the older generation
+felt a deep hatred for Javelin, and this was the final straw as they
+were concerned.  As Javelin made his way out of the catacombs, he was
+greeted by an angry mob.  Probably about 1/3 of the entire town ...
+carrying everything from torches to pitch forks, and ready for a hanging.
+        Javelin, with the realization of who he was still fresh in his mind,
+waved his hands and created a magical barrier.  He then spoke:
+ 
+Javelin: You fools!  Do you know who I am?  Skeeve was just a mortal.
+        You are all just mortals!  I am the son of a god, and you dare
+        question me?!
+ 
+     And in a fit of rage, he struck his fist to the ground, igniting
+a massive earthquake!  He had not realized what he had done until it was
+too late, and in a matter of minutes, the dungeon opened up. Hordes of
+monsters poured out of the dungeon, attacking all of the town's
+inhabitants.  The monsters overwhelmed the town, killing many, including
+princess Shayla.
+
+     Casaria was in peril at this point, being overrun by hordes of
+monsters, and it seemed as if nothing could stop them.  However, a young
+knight by the name of Orac, meshed steel with the horrific monsters.
+Orac the mighty stood against the fury, and faced close to two hundred
+monsters, all ranging from Mintoaurs to Hydras, Trolls to Chimeras,
+and in the end the brave knight emerged victorious.
+
+     The town was very angry with Javelin.  Orac secretly challenged Javelin
+to a duel.  That night they met.  In a legendary battle of wit versus
+strength, Javelin and Orac dueled outside the town gates.
+
+    'DUMOTI' screamed Javelin as a maelstrom of fireballs impaled Orac.
+Orac struck Javelin with extreme fury and vengence and anger, as he
+furiously tried to maintain power in the struggle. After many hours of
+fighting, Javelin screamed 'TODUKAR', which sent Orac reeling. Bleeding,
+and almost dead, Orac was left by Javelin to die.  By this time it was
+close to 3 AM, and no one was around to help save Orac.  He did however,
+manage to survive, and the next morning was healed by the priesthood.
+ 
+        All that Javelin had done drew the attention of Kovan, and
+an angered image of him appeared before Javelin:
+ 
+Kovan: Javelin, you disappoint me dearly.  You have unleashed the horrors
+       of the dungeon upon these people.  You have demonstrated to me
+       that you are uncapable of controlling your powers, and so, you must
+       be punished.
+ 
+     Then, with a single thought, Kovan rendered Javelin a mere mortal
+again.  And so, still devastated by the loss of his power and family,
+Javelin was now alone in the world.  Powerless, without a home, he
+cried himself to sleep on a grassy field about a mile southwest of the town.
+
+Book2:
+Book II, Samantha's Cathedral
+
+     Javelin awoke the next morning, and was still as confused and
+sad as the night before.  His family was gone, he was without a
+home.  He wandered the landscape and came across Samantha's
+Great Cathedral.  A monumental shrine built in honor of the gods
+of Overlands.  Legend has it that if you throw a coin into the
+great white fountain in the middle of the cathedral and pray,
+the gods will guide your path.
+  
+   Javelin approached the fountain.  The only coin he had was
+an ornamental coin Diodotus gave him for his birthday with the
+image of a sick behemoth engraved on the front.  Javelin tossed
+the coin in the fountain and prayed.  Nothing happened.  He started
+to walk away, when a voice called out to him.
+
+"Javelin."
+
+     He turned around, and behind him was a red statue.  There
+were white statues of all the gods throughout the cathedral, but
+he hadn't noticed this red one before.  He approached the sentinel
+and it spoke.
+
+"Javelin, this is Diodotus.  I have much to tell you.  Much of what
+you have experienced in the past days have been orchestrated by
+powers unknown to you.  All the power you have been employing
+recently has been the work of an evil hag known as Sin'Jun.  She
+made you believe it was you doing all that you were doing, but in
+fact it was her.  It is true that you are the son of Kovan, but
+it was not he that appeared before you and disowned you.  That was
+simple a fascade created by Sin'Jun to trick you.  There is not
+enough time to explain the big picture to you, but know that you
+are a threat to Sin'Jun and her Queen's evil conquest, and your
+true adventure is only beginning.  I have been imprisoned by
+Sin'Jun deep underground in a cave inhabited by a race of savage
+warriors.  Do not try to rescue me, you stand no chance against
+the savages or Sin'Jun without further training.  Seek the Holy
+Grove to the southeast.  There your mind will become more focused
+and your true power will begin to manifest itself.  Remember Javelin,
+I am very proud of you, and will always believe in you."
+
+     And so, Javelin set off for the Holy Grove.
+
+Book3:
+Book III, The Coming of Javelin
+
+     Javelin arrived at the Holy Grove and was greeted warmly by
+a female elven druid named Celestia Silvermoon.  Javelin told Celestia
+all that happened and asked if she would take him on a an apprentice.
+She agreed, and gave Javelin a small room below the druid library
+to live in.
+     Over the next three weeks, Celestia began to teach Javelin the
+principles of philosophy, history, mathematics, science, and sorcery.
+Javelin picked up on the ideas and principles presented with inhuman,
+almost godlike speed.  Celestia knew Javelin was not a mere mortal
+when she saw this.  In three weeks, instead of Celestia teaching
+Javelin philosophy, it was in fact Javelin teaching Celestia; and
+all the druids for that matter, possibilities they had never even
+considered before!  In this short time frame, Javelin had been
+transformed from an unconfident boy into the great Arch Magus he
+is today.
+     Upon seeing the light as he did, he decided that it was now time
+to go for Diodotus, and realize his true purpose.  Before leaving,
+however, he had one more encounter.  Celestia had another disciple,
+her nephew Arcadia.  Arcadia had been studying under Celestia for
+more than six years, and in all that time didn't accomplish what
+Javelin did in only three weeks.  Arcadia was insanely jealous of
+Javelin, and refused to believe Javelin was as good as he was.  So
+the night Javelin left for Diodotus, Arcadia confronted him.
+
+Arcadia: You may have fooled the other druids, but you don't fool me.
+         I don't know what you wanted here, and quite frankly, I don't
+         care.  Come, let us fight, and see who's really the better of
+         the two.
+
+Javelin: Arcadia, please get out of my way.  You don't understand the
+         powers you're trying to meddle with.  I have no wish to fight
+         you.
+
+Arcadia: Is the great Javelin scared?  I will NOT let you leave with
+         everyone believing how smart and how great you are.  If you
+         will not fight me, I will simply kill you with more ease
+         than I would have otherwise.
+
+Javelin: Step aside Arcadia, I'm a busy man.
+
+And with that, Arcadia unsheathed his silver sword, and began to swing
+it toward Javelin.  Before he could complete the motion; however,
+Javelin discharged a searing ball of flame at him.  And in doing so,
+he totally incinerated Arcadia's right arm, reducing it to cinders.
+Arcadia fell to the ground, gasping in pain.  Javelin looked to
+Arcadia, grumbled momentarily and said "I'm sorry."
+
+Book4:
+Book IV, Sin'Jun Songsinger
+
+     Javelin set off in pursuit of Diodotus, and came upon a forbidding
+cave in the western part of the island.  He entered the cave and
+was immediately attacked by a brutal savage.  Upon seeing the savage,
+Javelin put up a magical shell of protection.  However, the savage's
+attacks were so fierce, the aura offered little protection.  The
+savage jumped on Javelin and started hacking away like a madman!
+Javelin had highly underestimated his foe, and managed to cast
+a spell of sanctuary just in the nick of time.
+     After taking a moment to recover from the attack, Javelin took
+out an invisibility herb from his bag of reagents and turned himself
+invisible.  He then left his sanctuary, back into the cave.  The
+savage didn't notice him re-enter, and Javelin managed to sneak past
+the savage unseen.  Javelin walked through the rest of the cave,
+sneaking past many guardians, and finally came upon an underground
+lake.  There was a raft upon the shoreline, but he feared that
+boarding it and sailing out would catch the attention of the
+two savages in the vicinity.  And so, Javelin walked behind the
+two savages, faded back into existence, and invoked one of the
+powerful abilities Celestia taught him at the Elundi temple.  He
+focused his mind upon one of the savages, and using the psionic
+powers of the mind, was able to take control of the savage's
+undeveloped brain.  He compelled the savage to attack the other one,
+and in a single swipe, the savage buried his hatchet in the other
+savage's forehead, killing him instantaneously.
+     Javelin did not sever his connection with the savage after
+forcing him to kill his friend.  Instead he brought the savage
+onto the raft with him, and they sailed together onto the unknown
+lake.
+     After several hours of drifting aimlessly upon the lake, the
+raft somehow managed to find its way to a small island.  The island
+was no more than twenty feet in diameter.  A deathly mound of bones
+and skulls filled it.  Upon the mound, an old hag, Sin'Jun Songsinger
+stood, mixing something in a black cauldron.  Floating high above
+the island, was a prison cell and inside the cell stood Diodotus.
+Javelin docked the raft and approached Sin'Jun.
+
+Sin'Jun: Yesss, he has comeaaerrh.
+
+Javelin: What are you?  What do you want?
+
+Sin'Jun: I think the proper question is, what do you want?  You
+         have gone through a lot of trouble to come here.  I
+         think you know what I want Javelin.  I want you, heh heh
+         heh!
+
+Sin'Jun then looked to the savage Javelin brought with him, and
+snapped her fingers.  The savage disintegrated immediately.
+
+Javelin: I am here to save Diodotus and put an end to your
+         diabolical plot, whatever it may be.
+
+Sin'Jun: Oh, what a noble cause mage.  Would you like to know what
+         my plan is?
+
+Javelin: Yes.
+
+Sin'Jun: Heh heh heh, I'll just let your friend Diodotus tell you
+         after you kill me and rescue him.  Hahahahaha!  Hahahahaha!
+
+Javelin chuckles and says: You're quite the character witch.  Why
+         are all the smart ones so evil?  Well, except me of course.
+
+Sin'Jun: Why don't you join us Javelin?  Dump that old prune Diodotus
+         and rule the world with us.
+
+Javelin: I don't base my decisions on pathos Sin'Jun.  Even if you
+         are the only one close enough to be my intellectual equal,
+         what you're doing is still wrong.  Furthermore, even we 
+         are mere pawns at the mercy of the gods.  Now tell me
+         Sin'Jun Songsinger, what are you trying to accomplish.
+
+Sin'Jun: Very well, you've heard of Pytheria, haven't you?
+
+Javelin: No.
+
+Sin'Jun: She lives in a palace high in the sky, atop a floating rock.
+         She is evil, very evil.  She and her lover Dimitrius wish
+         to take over this puny land, and enslave its inhabitants.
+
+Javelin: Indeed, and why do you help her?
+
+Sin'Jun: Ahh, the all important question.  Well you tell me Javelin,
+         why not?  What's wrong with what she's doing?
+
+Javelin: Hmm, so you're saying there's nothing wrong with enslaving
+         these people and putting them through misery?
+
+Sin'Jun: Precisely.
+
+Javelin: Interesting.  Let's stop talking with these artificial
+         terms.  My human training still has its effects, heh heh.
+         So what do you think the purpose of life is?
+
+Sin'Jun: Err, yes... pleasure.
+
+Javelin: Hmm, yes.  But what of the gods?  Are you not taking them
+         into consideration?
+
+Sin'Jun: You give the gods too much respect, Javelin.  They are
+         powerless to change pure logic.  Even the immortals
+         are limited in many ways.
+
+And then Hermetian, God of Wisdom, appeared in a flash of light.
+
+Hermetian: Oh is that so Sin'Jun?
+
+Sin'Jun: Heh heh, well well well if it isn't Hermetian appearing
+         out of nowhere, trying to show off his power. hahaha 
+         Get outta here you idiot.
+
+Hermetian then flashed his eyes and everything changed.
+
+Sin'Jun:  What the... what was I thinking!  1 + 1 doesn't equal 2, it
+          equals 3!  And ... and ... yes the purpose of life is clearly
+          work!  It has to be!  Oh all the books must be re-written,
+          they're all wrong.
+
+Hermetian: Ha ha ha, you amuse me Sin'Jun.
+
+Hermetian's eyes then flashed again, and everything was back to normal.
+
+Sin'Jun: Ack!  What an odd occurence.  Hmm, I'll have to rethink
+         everything.  Alright Javelin, I will discontinue my
+         assistance to Pytheria for the time being.  I shall
+         rethink my philosophy and then reconsider my actions.  I
+         cannot promise I will come to a conclusion which is
+         satisfactory to you.  Now begone, I have much to think
+         about.
+
+So Sin'Jun released Diodotus, and both he and Javelin went off in
+search of this "Pytheria."
+
+Jesus_gang:
+                Story of the Jesus Gang
+              
+        After Javelin got the white rune, many people followed. However,
+  the first of these people was a group who called themselves the
+  'Jesus Gang'. The reason simply was that their leader went by the
+  name of Jesus. Now for many years, the Jesus gang pretty much controlled
+  the town. They forbode anyone from leaving the town, or from going
+  into the dungeon and getting the white rune. They proclaimed that
+  if anyone was seen with the with rune upon their forehead they would
+  be killed on sight. For a long time the denizens of Casaria lived in
+  fear of the powerful Jesus gang, until one day when Edroman and Orac
+  decided to challenge them.
+
+
+Jesus_gang_2:
+        Battle between Jesus gang, Orac and Edroman
+        
+    Edroman and Orac finally decided to challenge the power of the
+Jesus gang and free the town. As a first step, the two brave knights
+went down into the dungeon and each got themselves the white rune. Now
+this was no easy task. They fought their way through Chimeras, Stone
+Giants, and finally the infamous Stygian Dragon. After returning from 
+the dungeon with the runes upon their foreheads, the two challenged
+the Jesus Gang. In a legendary battle between Orac, Edroman, Jesus, 
+Redman, Zombie, Muldog, Darkmage, and Devildog, the balance of power was 
+shifted in the town of Casaria. The battle raged on for hours as 
+Edroman and Orac were outnumbered, and it appeared as if the Jesus
+gang was going win, until a strange thing happened. The white runes on 
+the foreheads of Orac and Edroman began to glow, and within a few
+quick moments, the two knights were victorious, having defeated the
+Jesus Gang. 
+
+
+Edro:
+                      Story of Edroman
+                      
+        Edroman was born an immortal. Son of King Kovan and Queen Samantha,
+ he was born strong and proud. For a long time, Edroman did not know of
+ his immortal past, because he was raised by two mortals in the town of
+ Jolandia. Soon after his 20th birthday, Edroman journeyed to the town
+ of Casaria, in seek of the white rune he had heard so much about. Upon
+ reaching the town, Edroman was attacked by the Jesus gang, and almost
+ immediately driven out. Discouraged, Edroman wandered over to a strange
+ tower, where he met a strange man. This man revealed himself to Edroman
+ as Javelin, Son of Kovan, and brother. Edroman learned of his great inner
+ strength, and with this new knowledge went back to town and met up with
+ Orac, a great knight. The two journeyed down into the depths of the dungeon
+ and retrieved the white rune, which enveloped them in magical power. 
+ Edroman was now a force to be reckoned with. Together, the two men challenged
+ the Jesus gang and wrenched the power of the town away. Soon after, Edroman
+ journeyed back to his home town Jolandia. No one has heard from him since.
+
+
+Orac:
+    Orac was born near the town of Casaria, and grew up there.  
+  Son to a druid by the name of Fastfoot, and a priest by the name of
+  Mandeli. Orac grew up strong, and at a very young age decided to become
+  a knight. Studying under a great knight by the name of Druss, Orac
+  learned how to fight honorably. Orac is known for two things. After
+  Javelin first discovered the white rune, the town was over run with
+  monsters, and Orac cleared the town of them. Secondly, with the help
+  of Edroman, Orac defeated the Jesus gang and gave control of the town
+  back to the people. A few days after Orac cleared the town and corrected
+  Javelin's mistake, Orac and Javelin clashed in a legendary duel.
+  Javelin beat the piss out of Orac, and almost killed him. With Orac
+  last few breaths, he found his way to the Elundi monk temple where
+  they nutured him, and taught him to be a mystic knight. Now Orac
+  is rumored to appear in the town arena from time to time to challenge
+  players.
+ 
+
+Orac_2:
+
+ 
+        All you can find on that subject is some quote from a member
+   of the town.         
+        'If it hadn't been for Orac, we would have been doomed!'
+
+
+Robobop:
+                  Story of Robobop 
+ 
+        Robobop was born in a small cottage in a remote valley of 
+  Mount Silvermoon, and was raised by a family that put much faith in
+  healing. Robobop was born into the Jorad order of the faith, and
+  studied since birth his teachings, hoping to one day become a high
+  priest. Robobop spent many of his younger days as a cleric fighting
+  Stone Giants with his long time friend and druid Mesosaur. Many years
+  after Javelin discovered the white rune and went away, Robobop
+  decided to buy out most of the shops in the town to make as much
+  profit as he could. The only shopkeeper who wouldn't sell was Marduk,
+  a sorceror. Now Robobop resides in the town of Casaria as the
+  'equipment shop' shopkeeper.
+
+
+Varant:
+                Story of Varant Minassian
+ 
+        Varant Minassian grew up in the large city of Alexandria
+near the flagstone corridors, and was born into a wealthy family.
+After many years of fighting in the dungeons below Casaria, and
+fighting in the swamp, Varant was an level 17 druid, who had
+reached the end of his adventuring. Varant had only got the yellow
+rune, and did not believe he would be able to get any more, so he
+decided to become a scholar. Walking around and talking to people,
+Varant compiled a large library of books which tell the story of
+this area.
+
+
+Mesosaur:
+        The only references you find to Mesosaur are ones calling him a 
+'young druid', or a 'wiseman', and one of them mentions that he now
+spends most of his days studying the Silver-Order mage tower. A last 
+reference mentions how himself and Robobop are long time friends.
+
+
+Diodotus:
+                Story of Diodotus
+
+        Diodotus was born and raised in Casaria.  For a long time, and
+until most recently, the inhabitants of this realm all believed that
+the strongest and the best fighters were warriors or knights. Very
+few adventurers became Druids, and even less became Mages. However,
+Diodotus knew differently.
+        When he was but a young child, Diodotus saw his parents slain by
+troops commanded by Duke Hagarly, a sworn enemy to the Gotik family. The
+Gotik family long since ruled these lands.
+        Diodotus was raised in the Gotik family, orphaned by Hagarly's
+troops. Most of Gotik's troops were trained knights, and thus Gotik wanted
+Diodotus to follow this path as well. However, when he turned fourteen,
+Diodotus left the court and journeyed off towards the castle of Hagarly,
+out for revenge.
+        Diodotus was a weak, untested novice mage at the time; but his
+heart was strong and proud. Upon the way to the castle, Diodotus walked by
+the great ocean and noticed a strange rock. There were encrypted words
+carved into stone on this rock, words that only he could understand. These
+words spoke of true inner-power, mental discipline, and ultimately
+something called the Karta. Karta is what makes the current day
+Silver-Order mages so powerful, for only they know how to control it.
+Anyway, after reading these words Diodotus was a changed man. He returned
+to Gotik's court and realized that revenge was not the way. He realized
+that killing Hagarly would not suffice, that only by learning the true
+power of something called the Runestaff would he be able to truly
+fulfill his destiny.
+        At this time few had ever heard of the runestaff, even fewer knew
+what it could do. Some say the Runestaff is the most powerful item known to
+man, and only those with a pure heart and disciplind mind could truly
+control the staff, or rather, have the staff control them properly.
+        Diodotus spent his young years as a scholar, studying his powers
+and working on ways to perfect them, until one day when he was asked by
+Gotik to head his court. This was a proud day for Diodotus, as it was a
+rare honor to even be in his court, none the less head it. However, this
+was a position easily served by Diodotus, and he did his job well.
+        For many years Diodotus lead Gotik's court as a faithful servant,
+until one day when Gotik wanted to wage war against Hagarly, and Diodotus
+refused to join. Even though Diodotus detested Hagarly more than anyone,
+he believed that war was not the way.
+
+
+Tower:
+                Story of the Silver-Order Mage Tower
+ 
+        Many years after Javelin and Diodotus' travels together, they
+built a school called The Silver Order of Mages. Diodotus, Javelin
+and a couple of other great mages of the era teach the most promising
+and motivated young mages their ideas on sorcery and Karta. Mages from all
+over the lands flock to the tower to learn the ways of Karta, and how to
+be a sorceror. For a long time Diodotus lead these mages, teaching them
+the ways of the Arch.  After Diodotus left the Silver Order to pursue other
+goals, Javelin took control of the school.  The mages have been lead ever
+since by Javelin, the Arch-Magus.
+
+
+Runestaff:
+                        Story of the Runestaff
+                
+        The runestaff is that which controls power and harnesses it.
+Only those true in heart and pure in mind can use it, all others will die.      
+        The origin of the runestaff is unknown. It's earliest documented
+sighting was many many years ago, at the Elundi temple. Many believe that
+the Elundi created this item, however wiseman know that no mortal could
+have forged this magnificent item. Just recently, about 60 years ago
+Diodotus found the staff, and began to study it. For many years he kept
+the staff a secret until one day when he left his Silver-Order mages and
+used it to destroy Hagarly, an evil king who had his parents killed.
+After killing Hargly's son no one knows what Diodotus did with the staff,
+or where Diodotus himself is. They both disappeared, as their last known
+sighting is somwhere near castle Hagarly.
+
+
+
+

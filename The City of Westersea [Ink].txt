@@ -1,0 +1,946 @@
+#act {runwestersea} {pwf;e;s;s;s;s;s;w;w;w;w;w;w;nw;w;nw;w;sw;s;clear log;nw;n;nw;clear path;w;w;sw;w;w;sw;w;w;w;w;w;w;w;w;w}
+#act {runwseahome} {e;e;e;e;e;e;e;e;e;ne;e;e;ne;e;e;se;s;se;n;ne;e;se;e;se;e;e;e;e;e;e;n;n;n;n;n;w;portal}
+
+
+                                    x-x-x
+                                    |X|X|
+                                  x x-x-x   x-x-x-x-x
+                                 / /|X|X|\ /         \
+                              x-x-x-x-x-x-x x-x-x-x-O x-x
+                             /     \|X|X|/   \       /
+                            x       x-x-x     x-x-x-x
+                            |
+                            x
+                            |
+                            x
+                            |
+                            x
+                             \
+                              x
+                              |
+                              x
+                               \
+                                x-x-x-x
+                                       \
+                    x-x-x-x-x-x-x       x J
+                    |X|X|X|X|X|X|        \|
+                    x-x-x-x-x-x-x         P   x-x-To Forest Trail
+                       \|X|X|/            |  /
+                        x-x-x           x-x-x
+                         \|/           /     \
+                    T-A-x-x-x-x-x-x-x-x       x
+                       /
+                      x
+                     /
+                    x
+                    |
+                    x
+                    |
+                    x
+                     \
+                      x
+                     /
+                1   x
+                |  /
+            x-x-x-x-x
+           /   / \| |
+          x   x C K x
+          |   | |  / \
+          x x-x-x-x-x x-x
+         /  |/| | | |    \
+        x   x x x x x-x-x-x
+       /   /|/| | | | |
+      x   x x-x u-x-x-x
+     /    |     |
+    x     x     H
+    |          /
+    G     x-x-x
+         /
+        x
+        |
+        x
+       /
+      x
+     /
+x-x-x-x-x
+| | | | |
+x-x-x-x-x-x-M
+| | | | |
+x-x-x-x-x
+
+
+T - Tinny (westersea entrance)
+A - Worm's Talon Airship
+J - Jarl the Mercenary
+P - push branches (nw exit)
+1 - Armory
+K - Kolp the Chef
+G - Golden Tent - Jix the Magician
+C - Command Tent
+H - Huge tent
+M - Medical tent
+O - objective for scout for the town
+Walls:
+
+
+L   x-x                 x-L-x                 x-x
+ \ /   \               /     \               /   \
+  D     x-x-x-x-x-x-x-x       x-x-x-D-x-x-x-x     D/L
+  |                                               |
+  x                                               x
+   \                                             /
+    x                                           x
+    |                                           |
+    x                                           x
+    |                                           |
+    x                                           x
+    |                                           |
+    D                                           D
+    |                                           |
+    L                                           L
+    |                                           |
+    D                                           D
+    |                                           |
+    x                                           D
+    |                                           |
+    x                                           x
+    |                                           |
+    x                                           x
+   /                                             \
+  x                                               x
+  |                                               |
+  D     x-x-x-x-x-x-x-x       x-x-x-x-x-x-x-x     D/L
+ / \   /               \     /               \   /
+L   x-x                 x-D-x                 x-x
+                          L
+L: Lieutenants
+
+Sewers 1:
+
+
+          U-x-x-x         x-x-x-x-x-x-U
+                |        /         /
+                x       x         x
+                 \     /           \
+                  x-x-x-x-x       x-x
+                   \       \      |
+                x-x-x       x-D   x
+               /                   \
+              x                     x-x
+             /                         \
+    U-x-x-x-x-x x                       x-x-x-x-x-x-U
+                 \                         /
+                  x               x-x-x-x-x
+                  |              /         \
+                  x-x-x         x           x
+                 /     \       /            |
+                U       L-x-x-x             x
+                               \             \
+                                x-x-x         x
+                                     \        |
+                                      x-x-x-x-U
+
+L: Lucas
+
+
+Sewers 2:
+
+
+    U/D
+
+
+Sewers 3:
+
+
+       x x-x x     x
+       |  /|\|     |
+     1-x-x-x-x-x-u-x-x
+       |  \|/|
+       x x-x D
+
+1: Dotar
+
+
+Sewers 4:
+
+
+   U x
+   |/
+   x-x-x-x
+   |\
+   x x
+
+
+
+City of Westersea:
+
+
+    I-x                                       x-I
+       \                                     /
+        D   x-x                     DI  x-x-x
+         \  |                      / \ /  |
+      x-x-x-x-x-x                 4   x   x-5-6
+            |X|                  /    |   |X|
+          x-x-x-x               x     x 7-x-x
+            |X|/ \             /      | | |X|
+            x-x   x-x-x-x-D-x-x-x-1-x-x-2-x-x-3
+            |             |           | |   |
+    U       x-I         Z-x-x         x x   x   U
+    |       |          /  |  \        |     |   |
+    O-x-8-x-x-x-x-x-x-x-x-x-x-x-x-x-A-x-x-B-x-x-O
+    |     |       |    \  |  /   /    |         |
+    U     I       x     x-x-x   x     x         UM
+          |       |       |     |    / \
+        x-x-x-x-x-x-x-x-x-x     x-x-x C E-x-x-I
+        |   |   |     |   |     |    \|/
+        x I-x-D-x-x-x-x-x-x-x-x-x-x-x-x-x-x-F
+        |         |   |   |    /      |     |
+        x-x-x-x-x-x-x-x-I-x   x-x-x-x-x-x-G-x
+           /          |   |  /      |       |
+      x-x-x-x-x-x-x-x-S   J x               D
+       /              |   |/                 \
+    I-x               L   I                   x-I
+
+1: Bakery
+2: Jainie
+3: Sain
+4: Ashton Nibble
+5: Twix
+6: Bern the Blacksmith
+7: Megan
+8: Jorbin
+A: Shop
+B: Bar
+C: Church
+E: Cart
+F: Lady Anne
+G: Jakob
+J: Weave Poll
+L: dead lieutenant
+S: enter alley
+Q: eavesdrop until mission is complete
+Z: Sir Michael Oxtrott
+
+Down@8 leads along a path to down@A
+
+                   x-U-Q
+                  /     \
+           x-x-x-x       x-x-x
+          /                   \
+   U-x-x-x                     x-U
+ 
+
+You gain 'Page seven, A.Q'.
+>
+read page
+
+*-*-*-*-*- Potion of Brute Force -*-*-*-*-*-*
+|                                           |
+*  To enhance one's physical strength one   *
+|  needs to drink a potion following these  |
+*  exact instructions:                      *
+|                                           |
+*  1 Start the formula by adding a flask of *
+|    water.                                 |
+*  2 Heat it up briefly.                    *
+|  3 Add a Tiger striped jellyfish. (Note   |
+*    that the size of the fish can differ   *
+|    and different containers might be      |
+*    needed)                                *
+|  4 Add a soul essence bead.               |
+*  5 Cool the mixture twice                 *
+|  6 Store the mixture in a crude glass     |
+*    flask.                                 *
+|                                           |
+*                                    - A.Q. *
+|                                           |
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+You gain 'Page eleven, A.Q'.
+>
+read page
+
+*-*-*-*-*-*- Potion of Dexterity -*-*-*-*-*-*
+|                                           |
+*  To enhance one's dexterity, one needs to *
+|  drink a potion following these exact     |
+*  instructions:                            *
+|                                           |
+*  1 Add a blue moonfish scale. (Note that  *
+|    the size of the scale can differ and   |
+*    different containers might be needed)  *
+|  2 Add a flask of water.                  |
+*  3 Simmer the mixture.                    *
+|  4 Grind any remaining harsh bits.        |
+*  5 Add a Grahl root.                      *
+|  6 Cool the mixture.                      |
+*  7 Add an essence bead.                   *
+|  8 Store the mixture in a crude glass     |
+*    flask.                                 *
+|                                    - A.Q. |
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+Page Sixteen
+
+*-*-*-*-*-*-* Potion of Wisdom -*-*-*-*-*-*-*
+|                                           |
+*  To enhance one's wisdom, one needs to    *
+|  drink a potion following these exact     |
+*  instructions:                            *
+|                                           |
+*  1 Start the formula by adding some gall- *
+|    nuts.                                  |
+*  2 Grind them twice to make sure no hard  *
+|    pieces remain.                         |
+*  3 Add a flask of water to add some       *
+|    liquid to the mix.                     |
+*  4 Add a Wanisiki lobster. (Note that the *
+|    size of the lobster can differ and     |
+*    different containers might be needed)  *
+|  5 Heat the formula twice.                |
+*  6 Cool the mixture                       *
+|  7 Add a soul essence bead.               |
+*  8 Store the mixture in a crude glass     *
+|    flask.                                 |
+*                                           *
+|                                    - A.Q. |
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+Page twenty, A.Q.
+
+*-*-*-*-*-* Potion of Constitution -*-*-*-*-*
+|                                           |
+*  To enhance one's constitution, one needs *
+|  to drink a potion following these exact  |
+*  instructions:                            *
+|                                           |
+*  1 Add an Illate eel. (Note that size of  *
+|    the eel can differ and different       |
+*    containers might be needed)            *
+|  2 Add a soul essence bead.               |
+*  3 Grind.                                 *
+|  4 Simmer just once.                      |
+*  5 Heat the mixture to steam away the     *
+|    last of the eel's bad taste.           |
+*  6 Add a spiked Zallot.                   *
+|  7 Cool the whole mixture.                |
+*  8 Grind the remaining solid bits.        *
+|  9 Cool the mixture again to properly     |
+*    prepare the formula for bottling.      *
+| 10 Store the mixture in a crude glass     |
+*    flask.                                 *
+|                                    - A.Q. |
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+Page forty-two, A.Q 
+
+*-*-*-*-*-*-*-  Pigmentation  *-*-*-*-*-*-*-*
+|                                           |
+*  To make pigmentation follow these        *
+|  instructions:                            |
+*                                           *
+|  1 Start by adding a brightly coloured    |
+*    plant or the like.                     *
+|  2 Heat it up, twice at least!            |
+*  3 Grind the remains twice as well.       *
+|  4 Simmer the remains in its own juices.  |
+*  5 Cool the mixture down.                 *
+|  6 Store the pigmentation in a crystal    |
+*    vial                                   *
+|                                    - A.Q. |
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
+
+
+read box
+
+Got to be quick quick QUICK!!
+They are coming, yes they are, they are indeed!!
+
+One and two soulbeads is all it takes! Put them in and grind grind grind! Add
+some water and heat it all! Have to hurry before spirits comes! Simmer and cool
+and that's all! No time to test what to bottle it in! Hurry Hurry quick quick
+QUICK!!
+
+
+
+
+
+Tommy (west guard)
+'An unwelcome visitor'
+go talk to Anne in se corner.  say ivar cutters 
+go talk to Sir Michael Oxtrott. say ivar cutters
+ne of castle, talk to guy, kill him
+
+
+
+
+A burnt piece of paper
+ dd Urch   fi  t.
+  mmer.
+Si   r.
+   l.
+A d  gg.
+Add ess     bead.
+S  r.
+
+Store    crud   lass fl  k.
+
+
+Cathedral
+
+Floor 1		Floor 2		Floor 3		Floor 4
+
+  u 1 2		d-x-u		u/d		d
+  | | |		
+  x-x-x		
+    |		
+    E		
+
+1 - Alistair
+2 - Tapestry
+E - Entrance
+
+You say: windows
+Alister makes a sweeping gesture.
+Alister says: The artwork on each window is a bit unusual for a place of
+              worship.
+Alister continues: However, according to the texts we've recovered they
+                   were made by the same architect that designed the
+                   actual church so there is some connection between the
+                   two.
+Alister says: Is there any particular artwork that you'd like to know more
+              of?
+
+You say: lisen
+Alister says: J.E. Lisen? Never heard of him!
+
+
+at the tappestry:
+4x turn left dial, 3x turn centre dial, 5x turn right dial
+push explosion, push boulder, push orb, push vase
+search items     -> a coil of strong rope
+search something -> a silver candle
+Floor 4 - Belfry.
+	pull cord (it breaks)
+	repair cord
+	pull cord -> a sharp chisel
+at Alister
+exa table cloth
+search table cloth
+ex inscription
+read inscription
+carve e or c
+insert candle into hole
+say complete
+
+Alister says: Good work Maxim, you are indeed worthy of continuing in our
+              service. This was a mere test of your intelligence and wit
+              and you passed it beautifully.
+
+Alister writes something down in your journal.
+
+Alister says: Now, I've written down some steps to make this easier for
+              you. You can now simply go descend into the tomb from here
+              by simply going down. However, it will only work as long as
+              you carry these instructions on you.
+
+
+
+Explore the church tomb:
+
+Alister says: Listen closely Maxim.
+Alister says: Something dark and evil is brooding in the tomb below.
+Alister says: However, there is one small obstacle left before you can
+              tackle the main problem.
+Alister says: Below you'll find a dark corridor. It's protected by
+              something I can't penetrate. I've exhausted all my sources
+              and I simply can't figure out how to break through.
+Alister sighs to himself.
+Alister says: This task is your next one. Penetrate the barrier and report
+              back to me.
+
+
+
+The eastern wall engravings read:
+Tok    Onak Edith Nith   Torrel Enith Rach  Sam   Polla    Eric
+Adamus Kal  Yumi  Ognas  Unuz   Ram   Nint  Alkal Manz     Enall
+Ind    Nat  Kazap Anrith Ramp   Inl   Tommp Hild  Akazamml Lil
+
+to enter speak your name in karithal
+
+The western wall engravings read:
+Kap   Anp   Rinnel Inqp  Thalom   Hal    Ank  Limmal Inna Sintal
+Tore  Hilda Edith  Onk   Limpalla David  Wann Ank    Yamp Olof
+Faith Ap    Kind   Noppe Olm      Torrax Enid Onappa Kont Sin
+
+karithal is the old way of aknoteoks
+
+The eastern wall engravings read:
+???   ???  ???    Sam   ????  ????   Evers Lay    Gil   Nai
+Inge  Sil  Amm    ???   Dony  Dim    Aniim Daple  Nim   Alis
+David Rich Ada    Ward  Kaine Caine  Adim  Backad Sinky Elin
+Mike  Ali  Nanna  Reppe Inky  Efith  Hilda Thorr  Ninna Ramp
+Unla  Tinn Ninkel Elina Moby  Dinkel Ulaf  Onap   Rim   Pimpo
+
+proud men turn their names backwards and add a single s 
+
+The western wall engravings read:
+???? Kap   ????     Elsa Lii    Gregory Nappol ????  Isa  Sinap
+Anna Donal Didry    ???? Annad  ????    Nate   Edith Matt ????
+Omer Windu Dalantal ???? Unikel Ohera   Rippal Poshh ???? ????
+
+-k-elgn is add an e m-wduorp
+
+The eastern wall engravings read:
+Mimmi Unai   Riyna Ilad Simmy  Thistle Halink  Ethan Alat ???
+????  Critz  Tim   Ino  Osalad Niplym  Taink   ????  Hak  Aduk
+Tam   Willey Ida   Lim  Lam    Linkoln Enapper ????  Ak   Diman
+
+mur is the action that will lead 
+
+The western wall engravings read:
+Yourn Ola   Unp  ????  Tim  Oomna   ????    Caine  Lars Apa
+Riga  Ility Timp Yori  ???? ????    William Inmely Tapp ????
+Helga Igor  Tam  Sissy Tain Wincent ????    Inga   Niss ????
+
+you to clarity with its twin
+
+
+
+
+to enter speak your name in karithal
+karithal is the old way of aknoteoks
+proud men turn their names backward and add a single s
+muristheactionthatwilllead youto clarity ws
+ith its twin
+mur is the action that will lead you to clarity with its twin 
+agram
+m rg s
+You come across an obscure passage about someonen trying to map the
+difference between the Aknoteok and the Karithal language. However the text
+itself is badly damaged but you can make out some letters.
+
+
+'..-   and I le--nt that k is really klp m is nrp. -- --- d-n't miss s
+act---ly -s zz and l-stly use.. pr instead of r'
+
+Little is known about the Aknoteoks' language but one thing is for sure is
+that they didn't use what we in today's world refer to as vowels. It's
+unclear why this was the case but several scholars have suggested that they
+simply didn't have the vocal chords needed to form these sounds.
+
+
+23:08 : vowels (aeiouy) -
+23:08 : kill klp
+23:08 : m nrp (nprp)
+23:08 : s zz
+23:08 : r pr
+23:08 : male
+23:08 : flip add s (zz)
+23:08 : (translated letters like klp do not flip...rather, flip
+        before translating)
+23:08 : female add k (klp)
+vowels become -
+
+Cubes:
+A gigantic gelatinous cube       
+A very large chunk of gelatinous material towers before you. It has no
+head, no eyes, nor front or back. It simply exists as a large blob of
+material. Using only a sense of 'smell', this large cube slowly moves
+around the dark cave, devouring everything and anything it encounters.
+Little is known about the history of cubes. Some claim they are a
+magical experiment gone awry, others claim that they do possess an
+intelligence of their own and reproduce like any other species.
+Regardless though, they are all renowned to be extremely dangerous
+even to the most prepared adventurers.
+
+A small gelatinous cube     1891029
+A large chunk of gelatinous material towers before you. It has no
+head, no eyes, nor front or back. It simply exists as a large blob of
+material. Using only a sense of 'smell', this large cube slowly moves
+around the dark cave, devouring everything and anything it encounters.
+Little is known about the history of cubes. Some claim they are a
+magical experiment gone awry, others claim that they do possess an
+intelligence of their own and reproduce like any other species.
+Regardless though, they are all renowned to be extremely dangerous
+even to the most prepared adventurers.
+
+A massive ochre jelly       9764888
+A pitch black piece of living jelly stares back at you. It moves with
+an eerie sense of 'smell' and is slowly approaching your position. It
+covers most of the rocky floor and even though it's not the quickest
+moving monster you've ever encountered, it would be wise to take
+caution. There are stories of these giant pools of inky black death
+which can lay waste to entire cities alone.
+
+Dotar the conjurer
+Dotar the conjurer stands before, flickering in and out of what you
+would most likely call reality. As you gaze at his tall and slender
+form, you wonder how long he's walked the realms and what vast
+knowledge he has amassed throughout the years. Clear blue eyes stare
+into your soul as if searching for something. He regards you not with
+loathing nor fear but what seems like a morbid sense of curiosity. You
+see robes as black as the darkest of night covering his body and in
+his hands he holds a slender staff.
+
+Sewer:
+A large black snake   3877
+Slightly larger than your average countryside snake, this black
+reptile watches you with an almost defiant look. Known throughout the
+Town of Westersea for their venomous fangs, these serpents are usually
+left alone.
+
+An oddly glowing rat  2112
+Staring back at you is a small rodent. It wouldn't be terribly strange
+considering you are in a sewer. However, this particular creature is
+shimmering. Perhaps the nature of the sewer has caused it to evolve
+into something else.
+
+A small cockroach    3255
+Almost blood red in color with two long antennae, the small insect is
+happily going about its merry way in the sewer. Ignorant of your
+presence, it burrows between the rocks looking for food.
+
+A furry spider    8201
+Eight legs, each clad in thick greenish fur are all you can make out
+at first. Looking closer you think you can see several black eyes
+hidden away somewhere deep in the mass of green legs. The arachnid
+seems to be watching you looking rather composed, not showing any sign
+of fear of you or anything else down here.
+
+A medium sized glowing rat   3873
+This fairly sizable rat stares back at you with plain evil in its
+eyes. Used to seeing bugs and small animals run away from you in
+terror you stop and ponder this for a second. It opens its mouth and
+lets out a small shriek and prepares for battle.
+
+An irradiated crocodile    4563
+Usually crocodiles stick to the swamp areas, yet here you find one.
+Your mind boggles at how it got in here. What strikes you as even more
+odd is that it appears to have adapted into living here. As you watch
+the scaly reptilian, it moves lazily throughout the sewer system
+looking for prey. This particular one appears to be hurt as large
+welts have started to appear on its body. Perhaps it was exposed to
+something harmful.
+
+Longtooth     12381
+This massive rat has undergone some kind of change due to the
+hazardous green ooze found in the sewer. It has morphed into a beast
+three times the normal size and the usual black eyes glow eerie red.
+The beast is the undisputed 'king' of the sewer and all the other
+creature both fear and avoid him.
+
+Lucas Lockhart
+
+Lucas Lockhart is known throughout the city of Westersea. Once he was
+a prominent member of society but something drove him to leave the
+comfort of his home and now he lives beneath the city in the sewer. He
+survives on collecting odd pieces of trash and then trading them with
+adventurers that passes by.
+
+City:
+Tinny the guard
+Tinny is dressed in the same uniform as is common for a Westersea
+guard. Under his fine red cloth vest, you detect a hint of metallic
+chainmail. You see the emblem of Westersea embroidered on his chest.
+Tinny is of middle age and appears fairly calm. He stands alone
+outside the town but make no mistake, he is not to be trifled with.
+
+Mischievous ruffian      19380
+One of the more unfortunate people within Westersea, this ruffian has
+resorted to crime to support his livelihood.  Dressed in very shabby
+clothes, you can't really see him having a whole lot of success with
+that either. However, the ruffian is determined to rob you so you
+better defend yourself!
+
+Shady leader       73599
+One of the fewer leaders of the shady underworld stands before you.
+It's cloaked in a blanket of darkness and you are not sure if it's due
+to its clothing or the actual nature of the being. However, glistening
+reddish eyes stare back at you as you ready your weapons and prepare
+for a fight to the death!
+
+Tough looking brigand      59407
+A stench of evil seems to hang around the brigand like a cloud of bad
+smelling gas. These bandits were once forced to resort to crime to
+survive. Now their criminal activity seems to be done for pleasure.
+The brigand grins at you crookedly and you know you are in for a tough
+fight.
+
+
+Cubes:
+A slimy piece of corrosive ooze.
+You've managed to collect some corrosive ooze. I wouldn't hold it
+close to anything metallic since it's widely known to have a very bad
+influence to it. As you study the odd compound you can't help wonder
+how it can hold together without spreading out, or sticking to
+anything else. Shrugging your shoulders you store it at a safe place
+for future use. If you came upon a metal surface or the like which
+you'd like to ruin you could always 'pour' the ooze on it. Since this
+is a reagent, you could study it for more information.
+
+A rusty lockbox  lockpicking 0-10
+The rusty lockbox has definitely seen brighter days. Almost completely
+destroyed by the environment it is truly a feeble container. Thin
+rusty metal bands enclose the dark decayed wooden container and it's a
+small miracle it still clings together. The box is so old that there
+are likely no known key around to unlock it. However if you were
+skilled enough you might be able to pick it.
+
+A worn lockbox   lockpicking 10-20
+This lockbox has been through some tough times. It has deep scratches
+and scuff marks on its wooden surface and the iron bands that encase
+it have started to rust. However, the lock sitting in the middle of
+the box looks like it's in fine condition and the only way you'll ever
+get it open is by 'pick'ing it.
+
+A hard iron lockbox  lockpicking 20-30
+The wooden box is covered in hard black leather which shows some signs
+of wear and tear. Wrapped around it is a thick iron band making the
+box sturdier and able to withstand great force. Situated in the dead
+centre of the front panel is a very sturdy iron lock and even though
+you haven't the faintest idea where the key is, you could perhaps
+'pick' it.
+
+A sturdy stone lockbox.   lockpicking 30-40
+The box is made from thin stone plates assembled and held together by
+thick leathery strips. Thin silvery bands wrap around the stone
+lockbox making the secure box even more strong. Since the box is made
+from stone, you think about breaking it apart.  Doing this, though,
+would probably destroy anything that is stored inside. A small keyhole
+is the only visible means of opening it and you'd have to be pretty
+good at 'pick'ing locks to do so.
+
+A strong lockbox made of steel    lockpicking 40-50
+The strong lockbox is made from sheets of tempered steel. Few could
+actually manage to break it apart and those who could, would surely
+destroy any traces of what might have been stored within. Thick bolts
+are hammered along the sides and the only way you could open it would
+be to 'pick' the complicated contraption that you can only assume is
+the actual lock.
+
+An incredibly strong lockbox made of titanium    lockpicking 50
+The titanium lockbox is a gem of gnomish ingenuity. No one has ever
+managed to break one of these (and if they had, the Gnomish Union of
+United Inventors has long since removed any proof of it). The box
+itself is a solid slab of titanium, a metal few other races has ever
+heard of. Wrapped around the bottom as well as the top are golden
+lines that are more ornamentation rather than providing function. The
+massive and incredibly strong metal itself is enough to hold any
+thieves at bay. At the front is a small rectangular opening where you
+guess the key would fit. Unfortunately you have no idea where the one
+which fits this particular lock might be so you just have to try your
+best to 'pick' it.
+
+A ruined steel helmet
+The once beautiful steel helmet has long since decayed and corroded
+into what now is before you. There isn't a single piece of metal left
+of the armour and it's a small miracle that it even holds together.
+Your first thought is to simply throw it away but as you are about to
+you detect a faint humming sound coming from the chin strap. Curiosity
+takes over and as you start to investigate the odd piece of armour you
+notice that a shimmering glow emanates from it, coating it as if it
+was the finest paint.
+
+The staff of despair (enchanted)
+The staff of despair is about ten feet in length. One end has a curved
+steel blade which is shaped like a crescent moon while along the side
+of the weapon are dark sinister looking runes. A faint whisper can be
+heard from the staff itself and every now and then you detect a faint
+vibrating motion coming from within. As you carefully weigh the
+powerful weapon in your hand the world turns very bleak, as if cloaked
+in a hazy darkness.
+
+Sewer:
+A battered piece of meat
+The battered piece of meat is covered by a dark slimy coating. It's
+squishy in consistency and smells extremely bad. You can't imagine
+ever having any use for this but you never know.
+
+A small torn leg
+The stringy piece of leg could either have come from very large spider
+or possibly a rat. It's impossible to tell in its mangled and broken
+condition. However, perhaps it might fetch some coinage from someone
+desperate enough to buy it.
+
+A torn scale
+The torn dark scale could be from a wide range of different creatures.
+You notice a thick residue of slime dripping from it and it quickly
+coats your hands and arms. Unless you find some poor sap that is
+willing to buy it from you it would be close to useless.
+
+A glowing piece of meat
+A small glowing piece of meat wriggles hypnotically in your hand. Odd
+since the being it came from is obviously dead. However its glowing
+colour and wriggling motion might make it an excellent bait to use
+while fishing. Perhaps you could 'bait' your fishing rod with it.
+
+
+City:
+A hairpin made from bone
+The hairpin is small yet the details of the craftsmanship are amazing.
+Made almost completely out of brushed bone it has ridges and small
+lines running all along its sides and at the end is a small, but very
+vibrant, ruby.
+
+Tattered breeches
+The thick leathery breeches might, at one point, have been of
+reasonable quality. However, this must have been very long time ago
+considering the state that they are in now. The material is worn thin
+and small torn holes are all over. The bottom of the legs are torn and
+partially hardened with dried mud and dirt.
+
+Worn breeches
+The breeches are slightly better than your average set of clothing.
+Made out of thick wool, it's the normal garment worn by citizens of
+Westersea. This particular piece is lightly stained and only show some
+traces of wear and tear and would still probably provide ample
+protection against the elements.
+
+A tattered cloak
+The cloak is made out of thick wool. It's stained from heavy use and
+wouldn't do much in its current state against harsh weather. Around
+the neck is a cloth strap which allows it to be fastened around the
+neck and doesn't look particularly comfortable.
+
+A worn cloak
+Woven from thin strands of wool, this cloak is of fairly good quality.
+The lower rim of the garment is embroidered with thin silk lace and as
+you hold it up in the air the hem flows beautifully in the air. This
+cloak might fetch a fair price on any local market.
+
+A tattered shirt
+The wool shirt is tattered and stained dark brown. It's been used for
+a very long time and the bottom part has hardened due to all the dirt
+and grit that is covering it. Darkened patches of grime circle the
+armpits and you really don't want to think of why. This is truly a
+poor man's piece of clothing.
+
+A worn shirt
+This is basically your every day shirt. It's made from fine wool and
+looks moderately used. The majority of the citizens of Westersea wear
+this type of garment mainly due to its inexpensiveness but as also due
+to the fact that they are quite comfortable.
+
+Tattered boots
+The shoes are stitched pieces of leather that's been soaked in some
+sort of softening solution. They seem durable and would serve the
+wearer well against rain and cold. The sole is slightly used but you'd
+guess they have still a fairly long way to go before they break.
+
+Worn boots
+Made by some foreign looking thick leather, the boots is still one of
+the more durable kinds you've seen around here. Clearly whoever owned
+these before you used them plenty but the boots themselves show little
+sign of wear. You'd easily journey across sharp stones and in the
+wilderness with these mainly due to a very thick black sole that's
+been nailed into the underside of the boots.
+
+Spiky mace
+Once this was probably a blacksmiths hammer but someone has modified
+the metallic head to now be equipped with several sharp spikes. It
+looks like a poor man's morning star but regardless how it looks one
+of these spikes would be deadly if it landed on some unprotected area.
+
+Brass knuckles
+Crude to say the least these plain brass knuckles don't look that
+impressive. Granted it would most likely be a good weapon against
+unprotected targets, but with some kind of armouring they immediately
+looses all their effectiveness.
+
+Metallic dagger
+The dagger is made out of plain steel. Its edges are sharp and in the
+hands of someone who knows how to use it you'd guess it would cause
+some serious pain. The hilt is made from unadorned wood that's been
+carved to fit comfortably in the hand. Dark leather straps wrap around
+it helping prevent slips and other unfortunate accidents.
+
+A freshly slain corpse
+The human corpse is of a man close to the age of thirty-five. He's in
+good physique and you'd guess he was a soldier, or a guard of some
+sort. He has auburn hair which reaches down to his neck. The
+unfortunate person must have died fairly recently since the limbs are
+still fairly flexible and there are no visible discolourations on his
+skin or lips. The cause of death appears to be plain as day as the
+victim has several punctures in his back, as if he was stabbed by
+something small and sharp repeatedly.
+
+
+Lockboxes:
+A glowing brown vial
+Light brown liquid bubbles peacefully in the small glass container.
+As you hold it in your hand, you detect a faint chilling sensation
+coming from within the vial through your hand and into your body. It's
+not unpleasant by any means, just very bizarre.
+
+A glowing purple vial
+The light purple liquid swirls slowly around, creating a miniature
+maelstrom to the bottom of the vial. It's fascinating to watch and
+before you know it several minutes has passed. You turn the vial on
+its side but the strange maelstrom remains unchanged.
+
+A glowing red vial
+The red liquid in the vial moves sluggishly around. As you turn the
+vial around a thin red coating sticks and clings to the inside of the
+glassy surface.
+
+A glowing golden vial
+The vial glows with an unnatural golden haze. You have a hard time
+focusing on the actual contents as you are momentarily blinded by the
+surrounding light. If you could melt gold and store it in a bottle,
+this is what it would look like.
+
+A lump of seaweed
+The brightly green seaweed is a tangled mess partly covered by some
+kind of greyish mud. Whoever pulled this up from the sea clearly needs
+to learn a thing or two about fishing. Since this is a reagent, you
+could study it for more information.
+
+A pile of mud
+The pile of mud is a mixture of light brown and dark brown dirt. Add
+some water and you got what appears to be a perfect blend of useless
+mud. You shudder in disgust as you try to wipe your hands clean.
+
+Random Ring
+
+A black line
+The long black line looks surprisingly strong. It's survived harsh
+conditions and could easily bear very heavy things. Its dark colour
+makes it ideal as a fishing line and it would be possible to 'thread'
+it on your fishing rod should you want to.
+
+
+Church Tomb:
+*A sticky cocoon {unyielding} (worn)
+You swallow hard as you inspect the odd looking armour. It's a
+protective cocoon that's been spun by what must have been a massive
+spider. It can be worn around your torso and chest and would
+un-doubtable serve you well against the more exotic type of attacks.
+You could fuse with the armour to make it stronger. There is also a
+small spiderling crawling on the outside which you could 'nudge' if
+you'd like.
+
+Arachnid husk
+Torn from a dead spider, the husk has a sharp stingy smell to it which
+makes your eyes and nose water. The outside is covered by small pods
+which every now and then crack, coating the surface with a shiny green
+gleam. As you study the piece you are fascinated that the pod keeps on
+reforming even though the arachnid is long since dead. You could, if
+you'd like, hoist the husk as a shield and even though it wouldn't be
+the sturdiest piece of armour against normal attacks you have a
+feeling it would do wonders against the more poisonous and acidic
+kind.
+
+
+
+Scout the Realm   |                                     |     |
+                  |       Scout the desert temple       |  0  |
+                  |    Scout the realm of the faeries   | 100 | - Faerie Glade
+                  |      Scout the winter wasteland     | 100 | - Medlar

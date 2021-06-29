@@ -1,0 +1,54 @@
+science,menter,u,3e,d,e,path,14e,18n,5e,2n
+
+
+  x-x
+    |
+  x-x-x
+    |
+  x A x
+  |   |
+  x-P-x
+
+P: Path (exit)
+   Arch (entrance)
+
+A pilgrim of Syrinx    3711
+A pilgrim who has come to the Temple of Syrinx to seek answers from the
+priests.  He appears at peace with himself and the world.  His head is
+bowed in reverence.  He is humble in all aspects from his calm brown
+eyes to his dusty and rumpled tunic.  He smiles at you in greeting.
+
+A priest of Syrinx    14237
+A priest of the Temples of Syrinx.  He stands tall and proud as he
+glances down at you.  His face is calm and collected.  His robes,
+plain, are finely woven and you cannot see a single wrinkle or piece
+of lint anywhere on them.  Everything about him is neat and orderly.
+His hair is short and groomed to perfection with a small part on the
+left that runs as straight an arrow.  Dark beads shine beneath trimmed
+eyebrows and hold an inner fire of passion that makes you wonder if
+this man leads the people for their benefit or his own.
+
+The dictator of Syrinx    37330
+This is an intimidating fellow.  He stands about two meters and his
+chest and shoulders are massive.  His robes hang open, revealing an
+impressive grey suit and tie.  His hair is clipped short and fashionable
+while his brows form furrows as he glares at you.  Your assumption here
+is that this is the man in charge of the temple.  His sharp eyes freeze
+your feet and your stomach ties into a knot.
+
+
+
+
+
+
+
+Amulet of Syrinx
+This amulet is made of gold threads twisted into a braided chain.
+The object hanging from the chain is a twisted conglomeration of
+circles and lines.  Some of the lines form arrows pointing outward
+while others end bluntly.  It is rather ugly to observe and looks much
+too heavy to comfortably wear.
+
+
+
+.

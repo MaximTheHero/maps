@@ -1,0 +1,476 @@
+chaos,4w,e,s,w,s,3e,enter,climb stairs,ask
+
+                       x-E
+                       |
+                       x
+                        \
+                         x
+                         |
+                         x
+                         |
+           x-x-x-x-x-x   x
+           | | | | |    /
+           x-x x-x-x-x-x
+           | | | | | | |    
+           x-x x-x-x-x-x
+           | | | | | | |
+           x-x x-x-x-x-x
+                     |
+       x-x-x   d     |
+            \  |     |
+             x-x   x |            3-u
+             | |   | |              |
+             x-x-x-4-x            x-x
+             | |   | |              |
+             u-x   x x            x-S
+                    / \
+                   x   x
+                  /     \
+                 1       x
+
+
+
+1: Large Wooden Ship
+   board ship
+   climb cliffs
+3: Prince Humperdink
+   flip switch, down exit to Albino, pull handle to get back to 3
+4: Yellin
+
+
+                   x-x
+                  /   \
+                 2     x
+                 |      \
+                 d       x-d
+
+                 x
+                  \
+                  enter (fire swamps)
+
+2: mix powder (to B)
+   
+Fire Swamps
+
+    x-B-x
+   /| | |\
+  x-x-x-x-x
+  | | | | |
+  5-x-x-x-x
+  | | | | |
+  x-x-x-x-x
+   \| | |/
+    x-E-x
+
+5: dive into sand (wear ring of sand breathing), search sand (Stone Marble)
+E: The ship Revenge
+   open hatch, kill pirate,unlock door, open door, enter
+   k roberts, unlock chest, 
+   fore
+   turn wheel (to 1)
+
+
+
+Florin City Guard    43038
+This stern looking guard stands silently at his post. Ordered by the
+Prince, he is to watch for any sign of Guilder invasion, alerting the
+crown of any possible danger. He looks like he's itching for someone
+to start some trouble.
+
+Florin Citizen     25244
+This citizen looks like she is about to cry. Her green eyes are watery
+and she has dark circles under them as if she hasn't been sleeping
+well as of late. Her light brown hair hangs down her back in pretty
+braids and she seems to be whispering softly to herself as she wrings
+her hands in consternation.
+
+Florin Hag    31462
+This ancient woman is withered and bent from age and years of toil.
+Her face looks like yellowed parchment and her body, even covered in
+its peasant garb, looks like it would blow away in a strong breeze.
+Unlike the majority of the citizens in Florin City, she doesn't seem
+particularly concerned with the disappearance of the Princess Bride.
+
+Archdean of Florin     96824
+This is the high priest of Florin. Very old and more than a little
+hard of hearing, this poor man also has a rather obvious speech
+impediment. All that aside, he holds the Church's highest rank and
+commands respect from all of its citizens. He wears the holy robes and
+hat of his order, the garments heavy and ornate. He looks as if he is
+not one to trifle with while in a house of God.
+
+Florin Beggar    25647
+This poor creature seems to have fallen upon hard times. He wears
+ragged clothes of some ill-defined color and vintage. His face is
+worn, wrinkled by poor nutrition and hard living. It seems not
+everyone lives well under Humperdinck's rule.
+
+Enraged Thief     70122
+This grimy little man is clothed in the ragged remnants of soldier
+gear. Perhaps he served Lotharon in some long forgotten day, but he is
+nothing more than a common thief now. His eyes are glazed over in a
+half-mad stare and drool snakes down his stubbled chin from his
+partially open mouth.
+
+Brute Squad Member      79930
+This hulking man is a member of Humperdinck's Brute Squad. Tasked with
+clearing the forest of any would-be assassins before the royal
+wedding, this man is indeed a skilled warrior. He wears thick leather
+armour, knee-high eelskin boots, a set of metal bracers and wields a
+two-handed broadsword that looks capable of cutting you in two.
+
+Florin Merchant      26586
+This merchant is busy selling his wares to the public of Florin City.
+He is dressed in an oversized white shirt and a slightly worn looking
+pair of brown pants. He has an easy smile on his face and he looks at
+you appraisingly, wondering if you might be a customer.
+
+Castle Guard
+This steely-eyed guard stands silently at his post. Ordered to guard
+the castle from invasion at the cost of his own life, he will do
+anything to protect the King and Royal Family from harm. He holds a
+longsword at his side, looks well armoured and is probably not someone
+you want to mess with.
+
+Yellin    87736
+This rather diminutive man should not be underestimated. As the Chief
+of All Enforcement in Florin City, he holds a great deal of
+responsibility and does not take it lightly. He is renown for being
+crafty and wise in the ways of politics and war. He has shoulder
+length blond hair, is dressed in full royal guard splendor and is
+completely loyal to Prince Humperdinck.
+
+Chef    32677
+This portly fellow is the official chef of Lotharon's Castle. Tasked
+with preparing the daily cuisine for the Royal Family, he is a master
+at the art of fine cooking. He wears a white apron over his blue shirt
+and trousers. His hair is dark brown and balding on top. He seems to
+always wear a happy smile on his face and often whistles as he putters
+about the kitchen.
+
+Count Rugen (The Six Fingered Man)    179815
+This dangerous-looking man simply oozes evil intent. He wears a red
+tunic over a gold shirt and black trousers. His waist is encircled
+with a black belt that holds the scabbard of his sword on one side and
+a dagger on the other. His long black hair is pulled back into a
+ponytail and his eyes are steel gray beneath his thick black brows. He
+wears a perpetual smirk within his dark goatee and you notice his most
+peculiar trait, his right hand. It has six digits.
+
+Royal Guard    69600
+This steely-eyed guard stands silently at his post. Tasked with
+guarding the life of King Lotharon, this man is the one of the
+castle's elite soldiers. The rigorous training program all royal
+guards are put through has left this man more than capable of killing
+anyone foolish enough to attack the King. He wears a crisp blue
+uniform, a shiny steel helm, and wields a sharp longsword.
+
+King Lotharon     70835
+This befuddled old man is the King of Florin. His hearing isn't very
+good these days and for that matter, neither is his eyesight.
+Nevertheless he has a kind heart and a gentle nature. It's quite
+curious how he sired a monster like Prince Humperdinck. His light blue
+eyes regard you with mild interest and his wispy white hair hangs down
+upon the shoulders of his royal robe from beneath his jeweled crown.
+
+Page     26542
+This little fellow is the official page of Lotharon's Castle. His job
+is to send and receive messages for the royal family along with other
+menial tasks. His starched blue uniform is spotless, his straight
+blond hair is perfectly groomed, and his bright blue eyes regard you
+with calm indifference. Why not wipe that look right off of his face?
+You know you want to.
+
+Servant     35886
+This servant looks like he's very busy. He stands with his head bowed,
+eyes to the floor as he moves about his chores. He wears a plain, but
+clean vest and breeches. He doesn't look like he's more than 15 years
+old. His main duty is to keep the castle tidy and neat by picking up
+any clutter he finds.
+
+Inigo Montoya      410048
+Inigo is a master of the blade, trained in all aspects of
+swordfighting. His hair is long and black, reaching his shoulders in
+soft waves. His eyes are dark and very expressive, a cunning look to
+them as he seems to read your every move. He is dressed in a loose
+tan-colored shirt, brown leather pants and vest. His body is lean and
+strong, honed by years of practice and experience in the art of
+swordplay and the search for revenge. A six-fingered man killed his
+father, leaving Inigo a long white scar down each of his cheeks to
+remember the occasion by when Inigo was merely a boy. It will take
+nothing short of death to stop Inigo's pursuit of this killer.
+
+Fezzik     234710
+Fezzik is quite possibly the biggest man you've ever seen. Towering
+over seven feet tall and weighing at least 400 pounds, this giant
+looks like a mountain! He wears a gray tunic cinched over his blue
+trousers and some type of black cloth appears to be hanging out of his
+left pocket. While enormous, his face actually looks rather kind. His
+eyes sparkle at you over his wide nose and his thick lips are parted
+in a friendly smile. He probably means you no harm, but I wouldn't
+press your luck if I were you.
+
+Buttercup
+The lovely Princess Bride. Buttercup's porcelain skin is radiant in
+the afternoon sunlight. Her beautiful blue eyes are hidden by the
+white blindfold tied around her head, but you've heard tales that they
+are the fairest eyes in all of Florin. Her long silky blonde hair is
+pulled into a ponytail and she wears a bright red gown over her lithe
+body. You simply cannot allow her to be killed by the evil Sicilian
+holding her captive. Do something!
+
+Vizzini
+This evil Sicilian is the man responsible for the disappearance of the
+Princess Bride. Hired by an unknown source of deceit, Vizzini may not
+be particularly strong physically, but you'll find attacking him is
+pointless. You must defeat his brains if you wish to rescue Buttercup
+and move deeper into the hills beyond the clearing. His beady eyes
+regard you with amused malice while he holds his dagger at Buttercup's
+throat. He holds two goblets of wine in his other hand. If only you
+had some iocane powder to mix in them...
+
+Rodent of unusual size    117382
+This humongous rodent is the size of a large dog! Covered in mangy
+brown fur, it shuffles along on its four muscular legs, sniffing at
+the ground with its large pinkish nose at the end of its snout. Spiky
+whiskers protrude from the snout, quivering in the air as it hunts for
+food. Not particularly picky in its diet, most anything will suffice.
+Including you.
+
+Pirate       68589
+This lanky pirate is wearing navy pantaloons and a white baggy-sleeved
+shirt. He has a large gold hoop earring in each ear and wears his long
+dark hair in a ponytail held by a golden clasp. His brown eyes look
+cunning and when he grins at you, a golden tooth sparkles in the
+sunlight.
+
+Queen Bella     45851
+This gentle natured old woman is the Queen of Florin. She carries
+herself gracefully, head held high, blue eyes bright and alert. She
+wears a fashionable hat atop her short blond curls and is draped in a
+beautiful silk gown. She wears a great deal of jewels to show off her
+royal status including a huge wedding ring. Her face is a tad pinched
+today, as if she is worried over some matter of family or state.
+
+Prince Humperdinck    181772
+This evil man looks upon you with impervious disdain. The leader of
+Florin in all but title, the Prince has ruled Florin with an iron fist
+since the feebleness of old age first touched King Lotharon a decade
+ago. Dressed in a golden shirt and trousers cinched with a black belt,
+he carries himself with regal grace, but with a complete lack of
+compassion for his fellow man. He has one interest and one interest
+only. Power.
+
+Archer      54724
+This eagle-eyed guard is tasked with protecting Lotharon's castle from
+above with his trusty longbow. His long brown hair is pulled back into
+a ponytail, his nose, sharp, hawk-like in the middle of his gaunt
+face. He wears a long blue tunic over black trousers and he doesn't
+look interested in small talk.
+
+Albino    33358
+This pudgy little man is dressed in plain brown robes and his skin is
+pasty white. Not a bit of pigmentation to be seen anywhere. His pale
+eyes look upon you with grim amusement and his thick, snout-like nose
+twitches now and then as he goes about his daily business. His lanky
+hair is shoulder-length and pale blond. He also has groups of oozing
+sores around the corners of his mouth. He looks mildly interested in
+the fact you made it down to his workplace alive. Maybe you should
+talk to him a bit.
+
+Pierre the Pirate   65518
+This thin bald-headed man is Roberts' second-in-command aboard the
+ship Revenge. His droopy black mustache covers most of his thick lips
+and he wears a patch over his right eye. Dangling gold hoop earrings
+decorate both of his earlobes and several golden chains are draped
+over his neck. He wears a black and white striped shirt over his
+stringy muscles and it's belted over the waist of his baggy black
+trousers. His one good eye looks you over with intelligent curiosity.
+
+The Dread Pirate Roberts     660647
+This rakishly handsome fellow is none other than the most feared
+pirate in all of Florin. His body is lean and muscled. He's clothed in
+solid black from head to toe. Shiny black boots, thin black trousers
+and shirt, cinched at the waist with a black cloth belt. Over his eyes
+he wears a black mask, hiding the upper part of his face, showing only
+the bottom of his nose, his strong chin, thin mustache, and slightly
+smiling lips. He looks pleasant enough in demeanor, but something in
+the blue eyes staring out from beneath the mask tells you he is
+absolutely lethal in combat.
+
+
+
+
+
+
+Florin Longsword
+This longsword looks sharp enough to do some
+damage to the unprepared. Its handle is made
+of polished silver and it bears the Florin City
+seal engraved along the lower portion of the blade.
+
+Archdean Hat
+This rather funny looking hat is pointed at the
+top and stands about 18 inches high. It is cream-
+colored and has gold piping in the shape of a
+cross along the front.
+
+Robes of the Archdean
+These ornate robes belong to the esteemed Archdean
+of Florin. Floor length and beaded, they seem rather
+heavy, but also look like they'd provide adequate
+protection or fetch a fair price from shopkeepers.
+
+Brute Squad Boots
+These knee-high black boots are made of thick
+leather, reinforced with iron in the toe and
+heel. They were made for the combat intensive
+needs of Florin's Brute Squad members. They
+provide excellent protection and bear the seal
+of Florin on the outside of each boot.
+
+Brute Squad Bracers
+These dull colored metal bracers fit over the
+hands and forearms and look like they'd provide
+excellent protection. Rounded studs stand out
+from their surface to help protect the wearer
+from an opponent's blows and the seal of Florin
+is engraved into the underside of each, marking
+the wearer as a loyal subject of Prince Humperdinck.
+
+A rutabaga
+This pale yellow root looks like you could eat it!
+
+Castle Guard's Helm
+This helmet is made of steel, beaten into a
+rounded shape with a visor along the front.
+It looks like it would provide good protection
+against anything sharp or blunt that attempted
+to do its wearer any harm. It has the blue and
+red crest of Florin emblazoned along both sides.
+
+Yellin's Key
+This shiny golden key is typically worn around
+the neck of Yellin, Chief of All Enforcement of
+Florin City. It is his most prized possession
+and is not easily won from the crafty warrior.
+
+Rugen's Dagger
+This dagger is made of shiny steel honed to a razor-sharp
+point on the end. The handle is made of polished bone and
+and seems a bit longer than the typical grip for a dagger.
+An inscription runs across the blade's length, engraved in
+gold script. It reads, 'To the neverending pursuit of pain.'
+
+Lotharon's Crown
+This jeweled crown of gold belongs to King Lotharon
+of Florin. Set within the crown are beautiful diamonds,
+rubies, and sapphires. This crown has been worn by
+generations of Kings and must be worth a fortune. What
+is a miserable peasant like you doing with it?
+
+Lotharon's Scepter
+This golden scepter is the royal symbol of the realm
+of Florin. Typically held by the realm's King Lotharon,
+it is heavy, ornate and encrusted in jewels. It looks
+like it'd hurt if someone walloped you in the head with
+it.
+
+Iocane powder
+This little packet contains one of the most deadly
+poisons known to man. It is odorless and tasteless.
+In its current state, you cannot eat or drink the
+powder. However given the right circumstances, you
+might be able to mix it with a glass or two of wine.
+
+Six-Fingered Sword (enchanted)
+This magnificent blade of steel was painstakingly crafted
+by the master sword maker, Domingo Montoya. The blade itself
+is honed to razor precision. The guard and pommel are solid
+gold. The guard is fashioned into a swirling design that
+dazzles an opponent with its glitter while protecting the
+wielder's hand with its strength. The handle is polished
+ivory, a bit longer than a typical handle as it was originally
+made for a six-fingered man. Domingo gave his life for this
+sword. Use it well.
+
+Holocaust Cloak
+This huge inky black cloak looks like it was made for an
+absolute giant. It must be at least seven feet long. It
+is meant to be worn as protection over one's body and is
+specially designed to fend off attacks of fire and ice.
+It's so large it probably wouldn't fit any but the greatest
+of warriors.
+
+Pirate sword
+This sword shines in the light, its blade honed
+sharp and true. Its hilt is made of fine ivory
+and its guard is encrusted with emeralds. Formerly
+wielded by a pirate, its original owner is unknown,
+but it would likely fetch a fair price in town.
+
+Bottle of wine
+This is a dark green bottle of one of Florin's rarest wines.
+
+Gaudy ring
+This ring sports an absolutely humongous diamond with
+dozens of rubies and sapphires surrounding it. This is
+the royal wedding band of Florin and belongs to Queen
+Bella. It looks very expensive and you'd better hope
+Prince Humperdinck doesn't catch you wearing his mom's
+precious ring.
+
+Eelskin Boots
+These slick eelskin boots are finely crafted,
+made from the hides of the dreaded shrieking
+eels of Florin. Light green in color and very
+lightweight for the protection they provide,
+they're ideal for any warrior or wanderer in
+need of good footwear. They cover the wearer
+from toe to knee and just below the knee on
+back of each is the stamped mark of the Florin
+seal.
+
+Silver skeleton key
+This shiny silver key is about four inches long
+and very thin. It doesn't have a single scratch
+on it, as if it was rarely if ever used. Maybe
+it opens up something special?
+
+Death's Head Key
+This cold iron key chills you to the bone just
+looking at it. Shaped like a spine ending in a
+grinning skull, it's almost like holding a mini
+human skeleton in your palm. The end of the spine
+has been notched to form a key which fits a door
+only the bravest, or most foolish, would dare enter.
+
+Dread Pirate Mask
+This black mask is made of soft cloth and fine leather.
+It's made to cover both the head and the upper part of
+the face, but thin enough not to prohibit wearing a helmet
+over it for extra protection. Covering its wearer from the
+end of the nose up, it completely hides their identity.
+Originally worn by the Dread Pirate Roberts, anyone that
+wears it will be thought to be this very pirate arisen
+from the dead.
+
+Dread Pirate Armour
+This platemail is constructed of hammered steel and fine
+Corinthian black leather. Made by the most skilled craftsman
+in Florin, it was commissioned for the crew of the pirate ship
+Revenge by the captain himself, the Dread Pirate Roberts. It
+is heavy and a little bulky, no doubt the result of the steel
+within the beautiful leather outer shell. It feels like it would
+provide excellent protection for any would-be pirate.
+
+Platinum Ring of Sand Breathing
+This curious little ring of platinum has engraving all
+around the inside of the band. It's written in a language
+completely foreign to you, but it seems magical in nature
+somehow. It doesn't give the impression of being particularly
+effective as protection, but it does seem to glow with some
+hidden power.
+
+
+.

@@ -1,0 +1,321 @@
+chaos,3e,2s,2e,2n,hole
+
+
+      E
+      |
+      x
+      |
+      x
+      |
+    x-x
+      |
+      x
+      | |/
+    2-x-1-
+      | |\
+    
+
+
+
+             3
+             |
+             x
+             |
+             x
+             |
+             x
+             |
+             x
+             |
+             x
+             |
+ 4-x-x-x-x-x-x-Out
+
+
+
+1: lost in a sewer
+   wander until you find the Rat King.  has A dirty iron key.
+
+2: unlock grating, enter pipe
+3: April O'Neil
+4: Splinter: has A Chest, has A vial of mutagen
+5: ne,se,e from Rat King is A horrible SEWER monster.
+	spill mutagen on monster
+	he gives you A finely folded pamphlet, A leather wallet
+
+
+Sewer Rat   6318
+A really nasty sewer-rat with beady yellow eyes.  You're not sure
+just what it might feed on, but then again, with the way it stares at your
+throat so intently, you're sure you don't want to know...
+
+A large mutant cockroach    3105
+You're not quite sure how, and you're not quite sure you want to
+KNOW how, this cockroach has grown to be 4 feet long!  It seems you have
+disturbed its favorite nesting and hunting grounds.
+
+Spider    4877
+A really large black widow...she must have come down from her web
+to look for a meal.
+
+The Rat King   27420
+The Rat King is one of the wimpiest enemies of the Teenage Mutant Ninja
+Turtles.  He thinks that because he has the entire sewer rat population
+under his control he can dominate the entire world.  But of course,
+time and again, the Turtles have shown him just how stupid he really is.
+
+Donatello   7097
+What the Teenage Mutant Ninja Turtle team would do without Donatello...
+Well...the Mr. Coffee would still be on the blink, at least.  He's the
+tinkerer--he'll take any broken piece of equipment and turn it into a time
+machine, a portal to another realm, or a machine that was meant to make
+pizza but instead tried to take over the world.  His bo stick makes him all
+the more dangerous.
+
+Casey Jones   5867
+Casey Jones reminds you a little bit of Jason from those Friday
+the Thirteenth movies.  He has long hair down to his shoulders, and often
+wears a hockey mask over his face.  He carries a large bag on his back
+containing all sorts of sporting equipment, from rackets and sticks to
+poles, oars, and even golf clubs.  But he doesn't use these for what you'd
+normally think--these are his weapons, fighting his game.  Originally an
+enemy of the Turtles, they earned his respect when he saw their prowess,
+and though he still feels he's above them, he sometimes fights with them
+anyway because they 'couldn't do it without him'.
+
+Michaelangelo   6819
+Michaelangelo is one of the wackiest guys you could meet...especially
+down here in the sewers.  Currently, he's wearing a REALLY large pair of
+orange-tinted khaki shorts over his deep green shell, and seems to enjoy
+that pizza so much he doesn't notice you.
+
+Raphael   7762
+Raphael, the level-headed one.  Raphael knows very well to look both
+ways before crossing the street, and is always cautious when entering battle
+with Shredder's Foot Clan.  Right now he paces back and forth, worrying
+about saving April.
+
+Usagi Yojimbo    22037
+In a desperate attempt to make the world's best pizza, Donatello had
+stumbled upon a machine that opened up trans-dimensional portals like the
+evil Krang used.  One such portal opened up upon a world of ninja rabbits,
+and through the portal, to his surprise, stepped Usagi.  At first wary of
+the Turtles and lulled by Shredder, he now fights by his true companions'
+sides whenever they request his help.  That Japanese accent REALLY seems
+authentic to his home-dimension, too.
+
+Leonardo   10798
+Meet Leonardo, the turtle-leader of the Teenage Mutant Ninja
+Turtles!  His striking blue mask goes just lovely with that fair, green
+tortoise shell.  He must really know his martial arts and those two swords
+very well to be considered the leader of this group.
+
+Master Splinter   21868
+The sensei of the four Teenage Mutant Ninja Turtles is none other than
+Master Splinter, a rat who was once a man, changed into a mutant by some
+of Splinter's Mutagen (tm).  He carries a little wooden cane and wears a
+tacky magenta-colored robe and white linens wrapped around his legs...He
+found the turtles after they too had fallen into the mutagen, and he named
+them after famous artists of the renaissance and taught them ninja tactics.
+What a perfectly normal thing for anyone to do.
+
+Beebop    13875
+My, my...if it's not the evil Shredder's biggest idiot loser of a toady.
+This guy has been conned by the Turtles into divulging more information than
+any player interrogated by Tensor :).  The first mutant created with
+Shredder's mutagen, this half-man half-warthog is all muscle...most of it
+lodged between his ears.
+
+A Foot Clan Member   3771
+This is one of those Foot Clan members that all think that they can
+take on anybody or anything with the training Shredder provides them.
+Somehow, however, even a large group of up to ten of these guys is
+usually unable to cause enough chaos in the lives of the four Ninja
+turtles to make any difference.  This guy looks at you with an evil
+glare, awaiting any excuse to show his probably misconcepted worth.
+
+Rocksteady   10658
+Rocksteady the Rhinoman is a big bully in every sense of the word.  Nothing
+pleases him more than pounding anything from people to objects into tiny
+pieces--which often gets him into trouble because his tiny rhino brain has
+caused him to break more things of value to Shredder and the Foot Clan than
+he'd care to mention.  He carries a menacing machine gun, so be careful.
+
+The Evil Shredder   19435
+Meet Shredder, Splinter's mortal enemy, leader of the Foot Clan.
+For many years, he has sought vengeance from Splinter for causing his fall
+from ill-gotten glory back in Japan.  He never seems to get the message that
+the Turtles are better than he and his goofballs, and it doesn't stop him
+from trying to take over the world with Krang.  Now it seems he has other
+things on his mind, and so far he has paid no attention to you.  That's
+most likely a GOOD thing...
+
+Krang from Dimension X      29400
+Holy mackerel, what the hell is that?  That's just Krang...his
+friendly neighborhood pan-dimensional beings decided it was best that his
+brain be separated from his body, but now of course he has escaped through
+some one dimensional vortex or another and is intent on destroying the Turtles
+because they are nice guys.  What a nice guy.  You seem to have caught him
+at a bad time--the humongous plastic body that he usually inhabits is
+nowhere to be seen, and he's just sitting there on a little wheeled chair,
+staring at you googly-eyed.  Or googly-nervendinged.  Ick, I don't know
+WHAT on earth you'd call it, but it's gross.
+
+Vernon the Cameraman   2534
+This sorry excuse for snivelling trash is none other than Vernon, April's
+number-one cameraman.  Always ready to steal the glory for a story, he is
+always the first to run from any trouble, screaming with terror.  Why April
+has to drag him along everywhere when she does her stories is thoroughly
+baffling, but it wouldn't be a show without him (or would it?).
+
+April O'Neil, ace reporter   3551
+As if the show weren't sexist enough, Ace Reporter April O'Neil, with
+her brown hair, white boots, and completely yellow-jumpsuit wardrobe is
+almost always in a situation that renders her helpless.  She is always the
+first 'on the scene' of a latebreaking story, only to be captured by
+Shredder (if he'd only realize the futility) and used as a pawn to capture
+the Turtles.  If she weren't their ONLY human friend, the Turtles would
+probably have gotten rid of her a long time ago.
+
+
+
+A vial of mutagen
+Be careful with this small vial of fluorescent green mutagen.
+If it ever spilled on you or any other life form, you have NO idea what
+could happen.
+
+A small brass key
+Just a plain, ordinary, small brass key.
+
+A golden key
+A small golden key that must open some lock somewhere...
+
+Shredder's Silver Mask
+Wow, to have gotten this mask you must have beaten the infamous
+turtle-hater Shredder!  When you wear it, only your eyes show above it,
+yet you can still breathe and talk normally.  I'm really impressed you
+earned this mask...and now you can hate turtles too!
+
+Shredder's razor-gloves
+These mean razor-edged gloves are all the rage on this side of Dimension
+X.  Custom fit for any hand, they slice, dice, and YES they EVEN julienne!  You
+can even cut a tin can with 'em, if you really wanted to.  The infamous
+Shredder used to wear these, but they obviously didn't do him any good.
+Here's hoping they do more for you than for him.
+
+Rocksteady's Minigun
+Well, it's not a Glock Excel-IV Series Minigun, but Rocksteady
+likes it all the same.  It's much less powerful, with only four barrels
+mounted on a rotating carbine-base that spins to allow the barrels to
+fire simultaneously.  Unlike the Glock of fame, however, the power is much
+more limited and the recoil is much, much less.  It is still a very
+good weapon.
+
+Rocksteady's Rhino Horn
+All that's left of the dead Rhino-mutant is his large nosehorn,
+shorn off in the battle.  It makes a quaint mantlepiece trophy.
+
+A Bone Necklace
+That stupid Warthog Beebop used to wear this large necklace of big
+unidentifiable teeth around his neck.  Now you are its proud owner.
+
+A Mohawk
+This is a Mohawk.  You may not look good with this on, but you'll at least
+look meaner.
+
+Master Splinter's Leg Wraps
+Master Splinter needed these because of the great pressure on his ankles
+from being half-rat, half-human.  Along with his cane, these helped him walk
+upright with a minimum of discomfort.  Although you don't need them
+for ankle support, they will provide your legs with some protection if worn
+
+Master Splinter's Oak Cane
+Master Splinter has used this cane ever since he mutated.  It seems
+that the mixture of a bipedal and a quadrupedal mammal wreaks much havoc
+upon the spinal cord.
+
+A chest
+A small metal box that Splinter was carrying, adorned with a small,
+sturdy iron lock.
+
+One of Leonardo's Swords
+The twin to this fine blade must have been lost in battle somewhere.
+But at least you can say you own one of Leonardo the Ninja Turtle's swords!
+Maybe you too can do all sorts of nifty martial arts tricks with it.
+
+Leonardo's Blue Mask
+This mask covers the upper part of the face, except for the eyes.
+The Teenage Mutant Ninja Turtle Leonardo wore this proudly to conceal his
+identity and to give him that sporty 'ninja-look', let's see if it works for
+you.
+
+Raphael's Red Mask
+This mask covers the upper part of the face, except for the eyes.
+The Teenage Mutant Ninja Turtle Raphael wore this proudly to conceal his
+identity and to give him that sporty 'ninja-look', let's see if it works for
+you.
+
+Raphael's Sai Daggers
+Raphael's psi-blades make a formidable weapons in the hands of
+any martial artist.  With these you can jab, gouge, and poke the
+living daylights out of any enemy.
+
+Casey Jones' Favorite hockey Stick
+Casey Jones is definately a strange person.  He used this ordinary
+hockey stick, along with golf clubs, tennis rackets, and other
+assorted sporting equipment to pummel his foes into submission.
+You can probably do the same, now.
+
+Michaelangelo's nunchucks
+Now you too can slice and dice your own pizza pies just like Michaelangelo
+the Ninja Turtle!  You've seen Bruce Lee use them, and now they're YOURS
+to command!
+
+Michaelangelo's Orange Mask
+This mask covers the upper part of the face, except for the eyes.
+The Teenage Mutant Ninja Turtle Michaelangelo wore this proudly to conceal
+his identity and to give him that sporty 'ninja-look', let's see if it works
+for you.
+
+A thick slice of pizza
+A slice of anchovy marshmallow pizza, Michaeangelo's favorite.
+
+Donatello's Purple Mask
+This mask covers the upper part of the face, except for the eyes.
+The Teenage Mutant Ninja Turtle Donatello wore this proudly to conceal his
+identity and to give him that sporty 'ninja-look', let's see if it works for
+you.
+
+Donatello's Bo Stick
+As long as quarterstaff, this Bo Stick would make a formidable weapon in
+any REAL Ninja's hands.  Of course, since it belonged to a mere turtle,
+you have acquired it quite easily.
+
+A dirty iron key
+A large, heavy iron key.
+
+Satchel of Holding
+A satchel of holding. You can put things in it.
+
+torch
+It looks light.
+
+A chunk of raw meat
+A chunk of raw meat.  You could just eat it or you might be able to cook it.
+
+A dirty scroll
+An old, stained scroll.  Luckily, it's still legible.
+read scroll
+        Dearest Brother:
+
+I thank you for showing me what a true friend you can be.  I hope you rot
+in this noisome sewer for the rest of your life, you damn pig.  Wallow...
+wallow in the muck that is your life.  Let it feed you, let it nourish...
+May you and the muck be as one.
+
+I hope the rats treat you more kindly than you have treated me, dear brother
+for I wish you all the hell of the world.  Enjoy your new home.
+
+                                                Love,
+
+                                                Vraal

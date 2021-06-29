@@ -1,0 +1,267 @@
+desert portal,4w,2n,rent carpet
+
+City:                            Tower
+                                  first floor      third floor
+     x-x-x-x-x-S-x-x-x-x-x           E                  u
+       |    \     /    |            / \                / \
+       x     x   x     x           x---u              d---x
+       |      \ /      |
+       x-x-5   1   4-x-x          second floor     fourth floor
+       |               |             x                  8
+       x     x-x-x     x            / \
+       |       |       |           u---7
+     x-x-x-x-x-x-x-x-x-6-x
+         |           |
+         2           3
+
+1: The Auruetian Tower
+2: Worm's Talon Airship [Darrkin]
+3: A hovering airship - Isle of Equinity [Rumor]
+4: Everything Under the Sun - Shop
+5: The Flying Oasis - Pub
+6: With Magic Shovel from Tookwich
+   dig up soil - A thick iron key (Crystals of Ao quest)
+S: landing room - hop carpet - exit back to desert
+7: down, search drawers - A tiny vial of red powder (Crystals of Ao quest)
+8: Tristar Auruetian, Supreme Archmage of the Golden Tower
+   say secret - offer heart (Crystals of Ao quest)
+
+Citizen of Xaxis    16120
+This rather non-descript young man appears to be a common citizen of
+Xaxis. His skin is darkly tanned, his hair thin but well groomed. He
+wears a loose white shirt and baggy lightweight pants. Sandals cover
+his calloused feet. He looks friendly enough, but too busy to pay you
+much attention.
+
+Citizen of Xaxis     9484
+This small, plain-faced woman appears to be a common citizen of Xaxis.
+Her skin is lightly tanned, her hair pulled back with a wooden
+barrette. She wears a short lightweight dress which shows off her
+well-muscled legs. Leather sandals cover her rather dainty feet. She
+looks like she's busy, but still offers a brief smile when you glance
+in her direction.
+
+A Silk Merchant   18975
+This portly man sells a variety of silk scarves to visitors of the
+great floating city of Xaxis. The silks offer only minimal protection
+from the harsh light of the desert sun, but they're all quite
+beautiful and exotic. The merchant is clean-shaven with golden brown
+skin and he wears an open-necked white shirt tucked neatly into his
+green trousers. His charming brown eyes regard you with a warm but
+appraising look.
+
+A White Robed Cleric    16424
+This holy man has dedicated his life to Helvareq, God of the Sun. His
+hazel eyes shine brightly beneath the hood of his robe as he gazes
+upon you serenely. While not a follower of the type of magic so often
+practiced in the city of Xaxis, he seems to find Xaxis's closeness to
+the desert sun comforting, a mecca to the symbol of his God. His skin
+is darkly tanned and he wears a golden amulet about his neck that
+glitters in the sunlight.
+
+Xill Warrior    46819
+Tasked with guarding the city of Xaxis, this fearsome creature stands
+on two powerfully built legs and has four muscular arms to attack
+with. Reptilian in appearance, the Xill's hide is made of bright red
+scales with spikes extending from his elbows, knees, hands, and feet.
+Long tusk-like teeth extend from his protruding jaws and his
+multifaceted green eyes gaze upon the world with cold malice. He
+wields a long dagger in one hand and wears a strange looking codpiece
+for protection.
+
+A Snake Charmer    20129
+This dark-skinned man has eyes as black as coal and seems transfixed
+on the snake he's currently charming out of the basket at his feet. He
+wears nothing but a loose white tunic that hangs just below his thighs
+and a pair of leather sandals. His black hair is long and unkempt and
+he smells like he hasn't had a bath in quite some time.
+
+A Fruit Merchant    19511
+This attractive young woman sells a variety of fresh fruits to
+visitors and residents of Xaxis. Her long ash-blonde hair flows below
+the shoulders of her loose white dress and the golden skin of her bare
+arms, legs, and sandaled feet shines with perspiration from the
+desert's heat. Her light blue eyes look upon you with eager
+anticipation, hoping you'll purchase some of her fruits.
+
+An Apprentice Mage    31549
+This man is slight of frame and cloaked in a hooded robe of golden
+silk. His deep-set eyes almost glow from the shadow the hood has made
+of his face. Strange symbols are stitched along his robe in threads of
+blue and red. Only his hands are plainly visible from the folds of the
+silk. They look old and pale, the skin stretched taut over the bones
+and the yellowed fingernails in sore need of clipping. He carries his
+spell book in one hand and a wand in the other.
+
+A Learned Sorceress    40846
+This cloaked figure is powerful indeed. A student of dark magic, she
+radiates an energy that is almost palpable. Although her face is
+shadowed by the hood of her black cloak, a vision of a beautiful
+raven-haired woman with violet eyes, sharp cheekbones, pale skin, and
+dark red lips comes to your mind, perhaps placed there by the
+sorceress herself by some unknown spell. The vision is so captivating
+it almost hurts to look away from her.
+
+Street Urchin    7906
+This dirty little boy is wearing a dusty leather jerkin and faded
+breeches over his filthy body. His blond hair is matted down from
+sweat and grime and his blue eyes seem to beseech you for any spare
+coins you might have. His bare arms and feet show purplish bruises as
+if he's recently been beaten by one of the local guards or merchants.
+He couldn't be more than twelve years old, but this poor boy already
+looks like he's lived a very hard life. Maybe you could help him. Then
+again, maybe you should just put him out of his misery.
+
+A Knight Errant   44998
+This young knight seems bound for glory and adventure. His steely gray
+eyes squint in the bright sunlight beneath his dented helm and his
+armour is scarred from frequent battle. His long brown hair is tied
+into a ponytail and his bare arms are suntanned and strong, the
+muscles lean and powerful from regular exercise. His bearded jaw is
+set in determination, as if he has a lot on his mind. Perhaps you'd be
+wise to give him a wide berth.
+
+Sand Golem    108708
+Constructed of desert sand and powerful magic, this strange creature
+stands over eight feet tall and weighs over 2000 pounds. With its body
+being made of sand that's been magically bound into the form standing
+before you, most damage is ineffective against it. It resembles a
+large sand dune with massive fists and dead black eyes. It wields no
+weapons, but its fists look very dangerous and it appears to have no
+purpose or thought other than to destroy anything that crosses its
+path.
+
+Stone Golem    127671
+Constructed of hard stone and powerful magic, this massive creature
+stands over nine feet tall and weighs over 3000 pounds. Impervious to
+most damage, it takes a mighty warrior to lay low such a giant. Its
+shoulders look like mountains and its fists are larger than your
+skull. It wields no weapons, but it looks easily capable of crushing
+all but the strongest of opponents. This monster is magically bound to
+its creator and will not let you pass as long as it remains whole.
+
+Steel Golem       186071
+Standing ten feet tall and made of shining steel, this monster looks
+like it could crush you with a single blow. Virtually indestructible,
+this creation of dark magic is the perfect guardian for the tower's
+master, Tristar Auruetian. Its helmet-like face looks down upon you
+with cold malice, its arms and legs as thick as your torso and covered
+in plates of steel so strong that blades are useless against them. In
+one massive fist it wields a blade that measures over four feet in
+length and looks heavy enough to split you in two.
+
+Tristar Auruetian, Supreme Archmage of the Golden Tower     209053
+This imposing figure is none other than the master of this tower, the
+Supreme Archmage, Tristar Auruetian. Standing well over six feet tall,
+wearing robes of black, this is no one to trifle with. His robe's
+golden hood is thrown back to reveal his gaunt face, with its high
+cheekbones, thin lips, and deep-set blue eyes. His hair is cut short
+and is jet black, as dark as a starless night. His chin is sharp, his
+nose pinched, giving his face a hawklike look. In one hand he holds a
+large black staff, and on the other he wears a matching ring. He looks
+unsurprised by your presence, likely being aware of it since the
+moment you set foot inside the tower's ground floor entrance. He seems
+to be waiting for you to either flee, speak, or attack. Only the first
+option seems to be without great peril.
+
+
+
+
+Amulet of Helvareq
+This holy amulet is a symbol of faith and worship
+to the Sun God, Helvareq. Made of purple strands of
+silk and a sparkling yellow gem in the center, it
+pays homage to the power of the sun.
+
+cleric robe
+This simple white robe is typically worn by the cleric
+followers of the Sun God, Helvareq. Hooded and lightweight,
+it doesn't offer much protection, but it designates its
+wearer as a person of peace and enlightenment.
+
+Spiderskin Codpiece
+This bizarre garment wraps around the waist and between the legs,
+coming together just below the abdomen in a bone clasp. Milky
+white in color, it is made from the cured hide of a moon spider.
+Knowing the ferocity of these creatures, whoever procured the
+hide for this armour must have been quite a warrior. The clasp at
+the front of the piece is carved from the skull of the same spider
+and adds a macabre twist to the already strange piece of equipment.
+
+Xill Dagger
+This 14 inch dagger with its knobby blade and razor-sharp point
+was carved from the spine of a moon spider. Vicious creatures
+found in the western mountains of Fantasy, their hides and
+skeletons are prized by those capable of hunting them due to
+their strength and durability. The blade is milky white in color
+with a handle above the blade made from the spider's actual
+vertebrae.
+
+a large wicker basket
+This basket is about three feet high with a diameter
+of eighteen inches. It is made of tightly woven yellow
+reeds and looks like it would hold a fair amount of stuff.
+
+random wand
+
+a shining silver bracelet
+This finely crafted bracelet is truly lovely to behold.
+Shining brightly and obviously recently polished, the
+inch wide silver is etched in mysterious runes. The
+script of the runes looks to be elven in nature, but
+the meaning of the runes is beyond your comprehension.
+Whatever the meaning, this is certainly a treasure that
+would fetch a fair price and likely holds some magical
+protection.
+
+dusty leather jerkin
+This leather jerkin is covered in dust, its original color long
+lost to the coating of desert grime that leaves it a dull brown.
+Sleeveless and thin, it probably doesn't offer a great deal of
+protection from anything but sunburn.
+
+dented helm
+This metal helm is dented and scratched from frequent
+battle, but it still looks like good protection. It
+covers the top of its wearer's head and has a visor in
+the front that helps shield the eyes both from weapons
+and from the sun.
+
+battle-scarred platemail
+This platemail is scarred deeply from battle, the
+scratches and dents readily apparent to even the
+most casual of observers. It covers the chest and
+stomach, leaving the arms bare for easier flexibility.
+Made of thick metal and lined in soft leather, it is
+strong enough to protect against quite a bit of damage,
+but comfortable enough to wear in even the harshest of
+conditions.
+
+A boulder
+This large chunk of stone appears to be broken off some larger
+construct of the same material. It is heavy, solid black in
+color, and doesn't look like it'd serve much purpose other
+than something to throw at an enemy.
+
+Golem Shortsword
+This thick blade of curved steel measures over four feet in
+length and looks incredibly heavy. Fashioned for the use of
+a steel golem, it is meant to do maximum damage due to its
+weight and sharpness, but would be too awkward to use by any
+but the strongest of warriors.
+
+Staff of the Sun and Moon (enchanted)
+This thick staff of ebony was once wielded by a powerful mage.
+Etched into the wood are golden symbols and script that you
+can't understand. Embedded into the top of the staff is a
+large white gem that shines brightly, humming with energy.
+Only the wisest and most powerful of magicians owns such
+a staff, or is able to wield one.
+
+Moonstone Ring of Eclipse
+This ring of black seems to hum with magical power. Etched
+along the outside of the ring are a series of golden symbols.
+On the inside of the ring is a single phrase.
+
+- Utter the ancient tongue, unlock the ancient secrets -
+

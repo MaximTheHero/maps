@@ -1,0 +1,120 @@
+
+
+        x x x
+        | | |
+        x-x-x
+          |
+          x
+          |
+          x
+          |
+          x
+          |
+          x
+          |
+      d-x-u-x-x-x
+          |      \ /
+          x       x
+          |       |
+          x       x
+          |       |
+          x       x
+         /|\      |
+          x       u                Out
+          |       |                /
+          x       x-x-x-Enter  2  x
+          |       |            | /
+          x       x           Out
+          |       |
+          x       x
+          |       |
+          x       x
+          |       |
+          x       x-x-1
+          |
+3   x-x-x-x-x-x-x   3
+ \ /      |      \ /
+  x       A       x
+   \             /
+    x-x-x   x-x-x
+         \ /
+          H
+
+
+1: search racks - A tiny little dragon tail
+2: Pub of the Underdark
+A: Altar Room, you can go up here
+3: 
+
+
+Guard Captain <?>    95473
+This is the captain of the drow guard for this level.
+She looks very strong even as she sleeps.  Clutched in
+her sleeping hand is a grubby long sword.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= MISSION INFO -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Name        : Down with Duergar!
+Description : The Drow Captain has asked you to slaughter 10 Duergar for fe dar
+              Shad.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= PROGRESS -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+     Kill Duergar                                                      : 0/10
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Elite Drow warrior    11528
+This is an Elite drow warrior.  She looks considerably
+ strong. She looks very mean, and asleep.
+
+The Drow Bartender  36872
+This is an old Drow Warrior.  He appears to be somewhat nearsighted
+and thus doesn't notice that you are not a drow.  He'll probably serve
+you if you knew how to order.
+
+Drow Weapon Master   (scales) i got 75k to 5.15m
+A drow weapons master, a strong warrior and intelligent foe.  She is
+here to help you train.
+
+Drow warrior   4533
+This is a drow warrior.  This one looks a little tougher
+ than the last few you've dispatched.  He looks mean.
+
+Drow Infant   85
+This is a drow infant, learning how to be evil and mean like the rest
+of his people.
+
+Drow Teacher   37315
+This is a Drow Teacher.  She looks considerably stronger than you.
+You should probably leave.
+
+Young Drow
+This is a young drow, learning how to be evil and mean like the rest of
+his people.
+
+Drow Child   168
+
+Altar Guard 4608
+This is a tall, thin female drow altar guard.  She looks very fit and
+is likely both stronger and faster than you.  She is quite unhappy
+with your presence here as well.
+
+
+
+Long Sword
+This is a shaded Long Sword.
+
+A tiny little dragon tail
+This is a tiny little dragon tail of multiple colors.  It's scaly and
+slender; very long compared to its thickness.  The most prominent
+color present in the tail is purple.  You can also see hues of green
+yellow, and red.  It seems to glow slightly.
+
+a flimsy light blue scroll
+This is a flimsy, light blue scroll.  It appears to be made out of
+cheap, half-thickness vellum.  It has grease stains all over it.  It
+contains a magical spell of some sort, or at least some form of
+incomprehensible writing.
+
+A ridged, black, adamantium Staff
+This is a ridged, polished, and exceptionally well constructed
+adamantium staff.  Waves of energy seem to pulse through it.
+
+
+

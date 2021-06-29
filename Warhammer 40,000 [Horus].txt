@@ -1,0 +1,129 @@
+Warhammer 40,000 [Horus]
+Dirs: Science, 2u, board shuttle/exit, 4w, 2u, 3sw, e, door, w, enter pod
+
+
+
+          E
+          |
+  1-x   x-x-x-x-x
+    |   | | | | |
+    x-x-x-x-x-x-x-x
+    | | |   | | | |
+    x-x x   x-x-x-x-4
+      | |   |   | |
+      x-x 3-x x-x x
+        |     | | |
+        x-x-x-x x-x
+        |   |
+        x-x-x
+          |
+          2
+
+E: Entrance/exit
+1: Imperial Gunship
+2: Edlar Dropcraft
+3: Black Monolith
+4: Ork Fortress
+
+Ork Fortress
+
+      x-x
+        |
+    x   x-x
+    |  /
+  E-x-x-x
+    |  \
+    x   x-x
+        |
+        x-x
+
+E: Entrance/exit
+
+Eldar Dropcraft
+
+        x
+       / \
+      x   x
+      |\ /|
+      x x x
+     /| | |\
+    x ooooo x
+   /|/  |  \|\
+  x x       x x
+  | |       | |
+  x ooooooooo x
+   \    |    /
+    x---x---x
+     \  |  /
+      \ x /
+       \ /
+        E
+
+
+E: Entrance/exit
+00000's = 1 room (multiple north exits)
+
+Imperial Gunship
+
+
+    x
+   /|\
+  x-x-V
+   \|/
+    E
+   / \
+  x
+
+E: Entrance/exit
+
+Monsters:
+Hvy Weap Whiteshield
+Whiteshield fighter
+Imperial Sergeant
+Imperial Guardsman
+Imperial Medic
+Imperial Lieutenant
+Plasma Guardsman
+Eldar Swooping Hawk
+An Eldar Guardian
+Close Combat Eldar Guardian
+Exarch Swooping Hawk
+Gretchin
+Big Mob Ork
+A Snotling
+Commissar Hevok
+Orken Runtherd
+A crazed Madboy
+Stormboy
+Eldar Dire Avenger
+Exarch Dire Avenger
+Imperial Navigator
+A Servitor
+A Powerful Psyker
+Adeptus Mechanicus
+
+Items:
+Flak armor.
+Imperial Lascannon [broken].
+Chainsword.
+Imperial Laspistol.
+Plasma gun.
+Imperial Medikit.
+Mesh Armor.
+Biting Sword.
+Hawk Wings.
+Gretchin Blunderbuss.
+Pillaged gear.
+Boltgun.
+Collected teef.
+A security card.
+Conversion field.
+Runtherd Banner.
+Stormboy Jumppack.
+Shuriken Catapult.
+Shard of Crystal.
+An ancient coin.
+A cluster of grenades.
+'The Horus Heresy'-a novel.
+Powered Armour.
+

@@ -1,0 +1,135 @@
+chaos,3e,2s,2e,n,e,n
+
+
+          4           all houses
+         / \
+        x   x         x-x
+       /     \        | |
+      3       5       x-E
+     /         \
+    x           6
+   /             \
+  2-x--x--1--x--x-7
+          |
+          x
+          |
+          E
+
+1-7, houses
+
+A Burly Guard    17485
+It's your basic generic security guard:
+Brain pan the size of a neanderthal, and a giant sloping forehead,
+big enough to fill a small car all by himself.  He glares at you
+menacingly, as if to dare you to interrupt his coffee break.
+
+A Protesting Eskimo   9453
+This eskimo looks pretty warm bundled up in all that fur.
+You can't help but wonder if his butt is frozen as he
+waddles about trying to protest his lack of an igloo.
+
+Pepe Le Pew   20161
+Yikes! A skunk! If you're male you're safe, If you're female, RUN! He looks
+at you amorously in hopes that you're a female...
+
+Tasmanian Devil   19463
+Taz is a crazy devil from Tasmania. He whirls from place to place
+with devastating speed blowing through everything in his path.
+
+Yosemite Sam   19221
+Sam is the mad Miner from the depths of the mountains.  He has red hair
+and a silly accent characteristic of rednecks. He won't stop till he
+finds that gold!
+
+Elmer Fudd   20514
+Elmer is a short, bald, hunter man who spends his time chasing after Bugs
+Bunny.  He always seems like he almost catches that silly wabbit but he
+never quite does.
+
+Bugs Bunny   10723
+Yes! This is Bugs Bunny! He is grey and white. His skinny belly is all
+white. His long ears highlighted by pink fleshy spots hang over his small
+white bushy tail. For a fifty year old, he's in pretty good shape!
+
+Marvin the Martian   19630
+Marvin the Martian is a silly green guy from Mars who came to our planet
+in search of intelligent life, but all he found were some silly Toons.
+
+Speedy Gonzalez   21992
+A tiny little brown mouse with big ears and a big hat that runs around
+very fast with a dust trail billowing out behind him because of his great
+speed. This great hero of a mouse is revered among all mice.
+
+Wile E. Coyote   21582
+Wile E. Coyote is a desert rat who spends his time setting traps designed
+by Acme<tm> to catch that darn Roadrunner.  The thought of cooking the
+Roadrunner makes his mouth water and his tummy growl.
+
+Roadrunner   14163
+Here stands a crafty little roadrunner who seems immune to almost
+every form of explosion or poison known to man, or at least ACME.
+He seems to be the luckiest bird alive or perhaps he is battling
+the unluckiest.  When will the luck run out...
+
+Foghorn Leghorn   20090
+Foghorn is the king of the yard.  He takes good care of all the hens,
+protecting them from predators that might want to have them for dinner.
+He is one hell of a rooster strutting around preening himself.
+
+Daffy Duck   15453
+Short dark and handsome, this debonair duck...
+Daffy Duck, the most self-important 'Toon, stands
+before you in his drab black feathers.
+
+Tweety Pie   20894
+Tweety is a small yellow canary bird who is the property of Granny.
+She spends her time lounging in her cage, feeding on birdseed,
+and keeping away from Sylvester.
+
+Sylvester   21151
+A lanky black cat that spends his time plotting against Tweety. He always
+gets his butt whomped by his own stupid tricks but he keeps coming back
+for more punishment.
+
+
+
+
+A handful of loose snow
+It's a loose pile of snow.  It's cold and can be pretty hard to hold on to.
+There's not enough to make a snowball with.
+
+A snowball
+It's a snowball.  It's round and firmly packed.  It's really big!  You could
+throw this at something or someone!  It might even do some damage to a monster
+or a player killer at close range.
+
+Yosemite Sam's Revolver
+This gun is a classic, made in the late 1800s for cowboys, this six
+shooter is the most deadly and accurate of weapons when in the right
+hands.
+
+Bugs Bunny's Carrot
+This is one of Bugs Bunny's carrots. Mmmm.. Does it look good.
+
+Elmer Fudd's Rifle
+The thirty two caliber rifle is used primarily for hunting wabbits, and
+it has the unusual quality of being able to bend many ways without losing
+its ability to fire.
+
+Particle Accelerator Pistol
+This pistol is at the forefront of Martian technology, and although
+you can't understand the physics behind it, there appears to be a
+circular disc on the end closest to the trigger, presumably the
+particle accelerator. The particles appear in the form of a lethal
+disintegration green ray.
+
+Acme Bird Seed
+Bird seeds that the Road Runner would love! Is this stuff edible?
+
+Acme Kill-O-Zap Ray Gun
+A gleaming metallic lavender ray gun, angular and about eight inches
+long. There is a dial on the side of the weapon, below the sights, and
+on the opposite side of the assembly a label which reads Acme Kill-O-Zap
+Ray Gun.
+
+

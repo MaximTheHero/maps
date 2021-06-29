@@ -1,0 +1,175 @@
+4w,e,s,w,s,3e,enter,nw,n,browse magazine
+
+
+
+
+
+      3
+      |
+      2
+      |
+    x-1
+    |
+    x
+    |
+  E-x
+
+1: buy ticket (100g)
+2: give ticket to clerk
+3: enter - to ring
+
+
+A clerk   8254
+This clerk is waiting for your ticket.  Without a ticket, you can't get
+into the stadium.  He looks wimpy, but you don't think you should kill
+him.  After all, how will you get into the stadium then?
+
+An angry crowd member    7174
+This badass crowd member has slicked hair and is wearing layers of gold
+chains.  He's obviously here to see some ass get kicked.  Now that he's
+spotted you though, it's YOUR ass he wants to kick!
+
+A policeman   12823
+The policeman is here to quell any disturbances.  He's carrying a brutal
+looking club, and you DON'T think you should mess with him.
+
+Pete Gas    10202
+Pete Gas, a close childhood friend of Shane McMahon, makes up one third
+of the group known as the Mean Street Posse. Subjected to enormous
+privation, Gas grew up on the mean streets of Greenwich, Connecticut
+and can only be described as smug and hateable. He also has one of the
+worst win-loss records in Federation history. Go on. Put him out of
+everybody's misery.
+
+Jerry 'The King' Lawler   11149
+Lawler began his career in the 1970s in Memphis, and soon became one
+of the most hated grapplers in various southern territories. He was
+the Stone Cold of that time, defeating such stars as Ric Flair, Hulk
+Hogan and Terry Funk for numerous titles. His piledriver ended many a
+career, and officials once tried to get it banned because of its
+crippling effects. Today, Lawler is a household name not for his
+title wins, but for his notorious run-ins with late comedian Andy
+Kaufman in the early 1980s. In the early 1990s, Lawler ventured to
+the World Wrestling Federation and went on to become part of the
+Federation broadcasting team on RAW, although he still dons his ring
+attire from time to time!
+
+Chyna   16396
+Chyna first entered the World Wrestling Federation as Triple H's
+valet, but has since struck out on her own. Refusing to compete
+in the Women's Division, she has achieved numerous accolades such as
+being the first woman to compete in the King of The Ring and Royal
+Rumble competitions, and is the first ever female Intercontinental
+champion. She is afraid of no one and more than able to hold her own
+in the ring against any opponent.
+
+Taka   17130
+Taka is an exceptionally small Japanese man, best known in the WWF for
+being its first ever Light-Heavyweight Champion. He is renowned as a
+daredevil high-flyer and is certainly not to be taken lightly, despite
+his small stature. Along with Funaki, he represents the Japanese
+wrestling stable Kaientai.
+
+British Bulldog   17778
+It's the British Bulldog!  He has returned from his sidelining
+injury and is determined to capture the only prize that has eluded him
+his entire life - the Federation Championship! Since his return, he has
+abandoned his flamboyant Union Jack-bedecked outfit in favour of jeans
+and combat boots, and his technical high-flying style in favour of good,
+old-fashioned, kicking the hell out of his opponents.
+
+X-Pac   19794
+This is X-Pac!  This spectacular wrestler might not be the largest
+in the ring, but his speed more than makes up for it.  This rebel,
+formerly known as the 1-2-3 Kid, traded in the fresh face for a beard
+and sunglasses and an attitude!
+
+Grand Master Sexay    21736
+Grand Master Sexay and his tag team partner Scotty Too Hotty have
+taken the World Wrestling Federation by storm. Not only are they
+one of the most successful tag teams currently competing in the
+Federation, but they are easily one of the most popular, as well.
+Alongside Rikishi Phatu, Too Cool always get the crowd on its feet
+with their highly popular dance routine. Clearly, their "hood"
+appearance and electrifying dance moves have made them winners in
+the hearts of the fans. But their athleticism has made them winners
+in the ring. Grand Master Sexay and Scotty Too Hotty are two of the
+most talented Superstars competing today.
+
+Scotty Too Hotty   21538
+
+Ken Shamrock   19211
+This is Ken Shamrock, the former Ultimate Fighting Championship Superfight
+Champion. He used to ply his trade in the Octagon, but now battles under
+the auspices of the World Wrestling Federation. He rejoices in the title
+'The World's Most Dangerous Man', and that reputation was by no means
+lightly gained. Be very, very careful around him, he is prone to snap.
+
+Chris Benoit 26040
+There is little doubt among those who have followed his career that Chris
+Benoit is one of the most skilled technical wrestlers to ever compete in
+sports entertainment. His style, which sometimes resembles art more than
+wrestling, has earned him accolades all over the world in the past decade.
+Now Chris Benoit's journey to the top has ended right where it should -
+on top, in the World Wrestling Federation. There is no doubt that this
+young man has already proven he can achieve extraordinary things inside
+the squared circle, and now that he's with the WWF, his career may hit
+heights few have seen before.
+
+Chris Jericho   22580
+It's Chris Jericho!  His arrogant stance above you helps you realize
+that perhaps this young upstart is here to save the Federation.  The
+Ayatollah of Rock and Roll-a has come to save the day, and ruin yours.
+
+Andre the Giant (undead)   73522
+This is the ancient god of wrestling, Andre the Giant.  He is so huge,
+he takes up the entire ring.  Not a normal man, Andre has a physical
+defect that made him grow larger than most.  You don't know whether
+to bow down to him or to run up and shave off his viscious sideburns.
+Nobody messed with him when he was alive, and you'd be a fool to mess
+with him now that he's dead.
+
+
+A Wrestling Ticket
+*****************************************************************
+*                                                               *
+*                        Madison Square Garden                  *
+*    Wrestling Matches                            100 Gold      *
+*     Official Ticket                            No Refunds     *
+*                             Admit One                         *
+*                                                               *
+*****************************************************************
+
+The WWF Intercontinental Championship Belt
+This is the World Wrestling Federation Intercontinental Championship
+Belt.  It fits snugly about your waist.  There is a golden insignia
+mounted on the front of the belt, inlaid with gold lettering and
+glimmering brightly in the light.  It proudly displays the emblem of
+the World Wrestling Federation.  There is a small switch beside the
+insignia as well.  Hefting the belt in your hands, you feel a surge of
+great power.
+
+The WWF Heavyweight Championship Belt
+This is the World Wrestling Federation Heavyweight Championship Belt.
+The belt form fits to your torso, making a perfect fit.  The front and
+sides of the belt have golden letters written on black leather.  You feel
+a tremor of raw power holding it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.

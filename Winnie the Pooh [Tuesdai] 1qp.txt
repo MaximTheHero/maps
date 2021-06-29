@@ -1,0 +1,72 @@
+Winnie the Pooh [Tuesdai]
+Dirs: Chaos, 4w, e, open chest
+
+                  x-x---x
+                  |     |
+                  |     5         8
+                  |     |         |
+                  x-x-Q-x-x-x-x-7-x
+                  |               |
+                  x               x
+                  |               |
+                  x               x
+                  |               |
+                  x               9
+                  |               |
+                  x               x
+                  |               |
+          x-x-4-x-x         x-x-A-x
+          |                 |
+    2-x-x-3                 x
+    |                       |
+    x                       E
+    |
+    1
+    |
+    x
+    |
+    x
+    |
+    x
+    |
+  6-x
+
+E: Entrance/Exit
+1: Winnie the Pooh's House
+2: Owl
+3: Pooh and his Friends [Pooh Stix game]
+4: Strange markings [climb branch for tigger]
+5: Eeyore
+6: Rabbit
+7: P-p-p-piglet
+8: Christopher Robin
+9: Roo
+A: Kanga
+Q: A Pik-a-nik Spot
+   search basket, exa salad, search container, search salad [potato marble]
+
+Monsters:
+Rabbit
+Winnie the Pooh
+Squirrel
+Owl
+Chipmunk
+Red-breasted Robin
+Snake
+Honey Bee
+Ant
+Eeyore
+P-p-p-piglet
+Christopher Robin
+Roo
+Kanga
+Tigger
+
+Items:
+Pooh's Red Shirt.
+Honeycomb.
+Kanga's pouch.
+Eeyore's Tail.
+Rabbit's Hoe.
+Ring of Speed.
+

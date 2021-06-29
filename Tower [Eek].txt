@@ -1,0 +1,19 @@
+Tower [Eek]
+Dirs: Wforest, e, 5s, w
+
+
+sit chair
+enter mirror
+
+
+
+Monsters:
+Minor Demon
+The Grand Summoner
+Fire Elemental
+Greater Demon
+Air Elemental
+
+Items:
+A small red scroll.
+Robes of the Arch Mage.

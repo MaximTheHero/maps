@@ -1,0 +1,44 @@
+Tower of Vindaes [Safeire]
+Dirs: Wayhaven Portal, 2s, 3w
+
+
+Level 1:
+
+     S-x
+     | |
+     x-x-Exit
+
+Level 2:
+
+     S-x
+     | |
+     x-x
+
+Level 3:
+
+     S-x
+     | |
+     1-x
+
+Level 4:
+
+     2
+
+
+S: Stairs
+1: Vindaes, the Torture Master.
+2: The Spirit of Vindaes.
+
+
+Monsters:
+Vindaes, the Torture Master
+The Spirit of Vindaes
+Torture Adept
+Torture Apprentice
+
+Items:
+Manual of Vindaes (closed).
+Torture Dagger.
+Vindaes' Key.
+Torture Master's Hood.
+Vindaes' Hood.
