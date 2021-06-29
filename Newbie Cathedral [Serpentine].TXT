@@ -1,0 +1,34 @@
+
+
+
+
+   x
+   |
+ x-x-x
+   |
+   x
+   |
+   x
+   |
+   E
+
+   E
+
+
+
+
+Mobs:
+An evil rat
+A huge rat
+A juve
+A juve (dorphed up)
+A gang member
+A gang member (cybered)
+A gang member (dorphed up)
+A Gang Leader (sitting on throne)
+A young girl (tied up)
+
+Items:
+A vinyl jacket
+A switchblade
+A Minami 10 submachinegun

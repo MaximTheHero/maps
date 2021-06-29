@@ -1,0 +1,63 @@
+
+          
+               H
+               |
+               x
+               |
+               x
+               |
+         x-x-x-x x-x x
+             | |   | |
+         x-x-x x x-x x
+         | |   | |   |
+         x x-x x x-x-1
+         | | | |   |
+         x x x x-x-x-x
+         | | | | | |
+         x x x x x x-x
+               |
+               x
+               |
+               x
+               |
+               x
+               |
+               x-d
+               |
+               x
+
+1: sneaky bandit
+
+Mobs:
+Owl
+Treant
+A pixie
+A brownie
+A siren
+Dryad
+Ranger
+Satyr
+Nymph
+Kobold
+A wolf
+Giant rat
+A sneaky bandit (broken mirror fragment)
+Giant wasp
+A rattlesnake
+Goblin
+Giant ant
+Hobgoblin
+
+Items:
+Brownie Hat
+A dryad's leaf
+Longsword
+Leather armour
+Tattered leather armour
+A rusty sword
+Wolf pelt
+Fangs
+Mace
+A ruby necklace
+A gold ring
+

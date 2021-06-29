@@ -1,0 +1,42 @@
+
+
+    x-H-x
+    |   |
+    S-B-x
+     / \
+    x---x
+
+
+H: Hole (exit) and house
+B: Barn and house
+S: Sneaky Bandit location
+
+House - front -> H
+        back ->  B
+        upstairs
+             -> bathroom
+             -> bedroom1
+             -> bedroom2
+        kitchen
+             -> livingroom
+
+Mobs:
+A sneaky bandit
+A dog
+A cat
+A mouse
+A Hen
+A bunny rabbit
+A bull
+A cow
+A horse
+Farmer Pete
+Farmer Tim
+Farmer Jennifer
+
+Items:
+A chicken feather
+Rabbits Fur
+A steak
+A plastic toy horse
+A cooking apron

@@ -1,0 +1,52 @@
+
+
+
+   E-x-x
+   | | |
+   x-x-x
+     | |
+     x-x-x
+     | | |
+     x-3-2
+
+1: A pickup truck (random location)
+   search seat, search tools, get cutters
+2: trailer
+   search drawer, search tools, get meter
+3: climb tanks, ex device, test yellow|red|green|blue wire
+   cut wire with current
+
+Mobs:
+An ecoterrorist   71
+A thin man with a fanatical flare in his eyes.  Something tells
+you (maybe the stun baton or that glint) that this guy isn't a
+MorTex worker even though he's wearing the company's suit.
+
+A MorTex Oil worker
+
+Items:
+A stun baton
+A police issue stun baton, obviously pirated from someone's
+warehouse.  This thing probably gives a pretty good kick when
+you whack someone with it.
+
+A morTex Oil jumpsuit
+An insulated and nearly puncture-proof jumpsuit blazened with
+the MorTex Oil logo across the front and the back.  This one's
+obviously seen a lot of use, since it's covered with oil stains
+and other gunk.
+
+A small pair of wire cutters
+A small pair of wire cutters that are barely as large as your
+hand.  These are obviously for fine work, like on control consoles
+or similar wiring, definately nothing you'd find in an oil field.
+But, if you did find something to use them on, a little 'clip' is
+all you'd need to cut it.
+
+A digital multimeter
+A small rectangular box of plastic with a small dial selector and
+a liquid crystal readout.  It's got two probes on short leads which
+dangle from one end.  You remember reading somewhere that you can
+use these to 'test' for voltages in wires.
+
+

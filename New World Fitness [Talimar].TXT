@@ -1,0 +1,33 @@
+
+
+
+                   x-x-x
+                  /  |  \
+                 x x-x   mirror fragment
+                 | |     |
+        E/u      x x-d-x-x
+                 | |   | |
+                 x x   x x
+                  \|    /
+                   x-x-x
+
+Mobs:
+Walter
+A group of nattering, old grannies
+A gang of kids
+A sweaty, panting group of exercisers
+Jogger
+A Huge Meathead
+A surprisingly normal looking group of people
+A sweaty group of steppers
+Mary-Joe
+A sneaky bandit
+
+Items:
+Head Band
+Crosstrainers
+A thin layer of sweat
+Spandex Bodysuit
+Weight-lifting gloves
+A heavy Dumbbell
+

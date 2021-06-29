@@ -1,0 +1,30 @@
+
+ d ->
+      overthere ->  A crystal nursery chamber (se)
+      thatway   ->  A chilly chamber  (s)
+      thisway   ->  A hall of embers  (n)
+      yonder    ->  A cavern of rock  (ne)
+      anotherway -> A chamber of red stone (enter pentagram, altar)
+      overhere   -> A corridor dripping with filth (w)
+
+Mobs:
+Baby Chill Devil
+Baby Fire Devil
+Baby Psion Devil
+Baby Rock Devil
+Hellpuppy
+A sneaky bandit
+Baby Plague Devil
+
+Items:
+Ring of Minor Fire Resistance
+Cape of Wind Resistance
+Amulet of Empathic Connection
+Ring of Minor Poison Resistance
+Rock Helm
+Brown Gel
+Translucent Gel
+Crimson Gel
+Azure Gel
+Green Gel
+Lash of Midnight

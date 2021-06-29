@@ -1,0 +1,28 @@
+
+   x-x-x
+   | | |
+   x-x-x
+   | | |
+   H-x-x
+   | | |
+   x-x-x
+   | | |
+   x-x-x
+
+
+
+
+
+Mobs:
+An annoying little boy
+A peasant
+An evil bandit
+A farmer
+A mean bandit
+A weary peasant
+
+Items:
+A bandit's leather armour
+A bandit's robe
+Ivory ring
+A silver spoon

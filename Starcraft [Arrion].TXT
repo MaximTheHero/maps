@@ -1,0 +1,61 @@
+
+
+      x
+     /|
+    x |
+     \|
+    h-x
+
+
+Mobs:
+Protoss Zealot
+Zerg Zergling
+The small, savage dune-runners of the sand-world Zz'gash were
+incorporated into the Zerg Swarm to serve as scouts initial assault
+troops. Although the Zerglings are little more than feral animals,
+they work well in large groups under the command of larger Zerg
+warriors. The voracious Zerglings are fond of ripping enemies to
+shreds with their razor-limb sickles and fangs. The Zergling has a
+head that looks like it belongs on a small dragon and is a little bit
+larger than a small calf. It has a fat lizard like tail behind a
+powerful set of hind legs that are its primary source of movement. In
+front where you would expect to to see another pair of legs, there are
+two sets of limbs. One set that starts downward, and another set that
+raises up behind its head. There are two razor sharp claws at the end
+of each front appendage.
+
+Terran Firebat
+Terran Marine
+This one time criminal has undergone mandatory neural resocialization.
+Freed from any previous allegiances or ideologies, this fearless
+trooper is ready to defend Confederate interests with his life. The
+8mm C-14 'Impaler' Gauss Rifle that he is carrying should make you
+think twice about attacking him.
+
+
+Items:
+A Psi Blade
+A Plasma-based Perdition flame thrower
+This is a plasma-based perdition flame thrower used by the
+Terran Firebats. It is made out of polymer and synthetic-asbestos,
+you wonder how something that looks so much like plastic could
+do what it does, and not melt. This flame thrower looks like a
+big blocky rifle, except for the small hoses going from the plasma
+compartment to just before then end of the barrel.
+You must hold it, and type 'flame <target>' to use.
+To use this flame thrower you must hold it.
+
+CMC-660 Heavy Combat Suit
+The CMC-660 Heavy Combat Suit, is the primary armor of all Firebats.
+This suit is composed of various polymers and kevlar, like the
+standard Marine armor, but it also has a synthetic-asbestos to provide
+additional protection from heat and flame. As you can imagine, the
+Firebat combat suits are significantly heavier than standard Marine
+armor. It reminds you of the suits that the astronauts used to wear.
+
+CMC-300/400 Powered Combat Suit
+The Powered Combat Suit worn by Confederate Marines is effective
+against most small-arms fire and provides them with full life-support
+and NBC (Nuclear /Biological /Chemical) shielding for operation in
+deep space and hostile environments.
+

@@ -1,0 +1,43 @@
+
+
+
+     H           x
+     |           |
+   x-x-mirror    x
+   | | fragment  |
+   x x         x-x-x
+     |           |
+     x-x-x   x-x-x-x
+     | | |       |
+     x-x-x     x-x-x
+       |         |
+     1-x         E
+
+1: enter (manor)
+E: exit
+H: hole (to newbieland)
+
+Mobs:
+A newbie
+A newbie monster
+A big newbie monster
+A rabbit
+A deer
+A butler
+A newbie player
+A newbie guest
+A newbie servant
+A newbie cook
+A newbie maid
+Newbie manor guard
+Newbie boss
+
+Items:
+Leatherboots
+A dagger
+Monster's claw
+Green charm
+Rabbit's foot
+Green ring
+Manor shield
+Manor sword

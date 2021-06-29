@@ -1,0 +1,25 @@
+
+
+
+
+            x
+             \
+              x-x-x-x-x
+             /|X|X|X|X|
+            x-x-h-x-x-x
+
+
+
+Mobs:
+An owl
+A wolf
+A field mouse
+A bat
+
+Items:
+
+
+
+
+
+
