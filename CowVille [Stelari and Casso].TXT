@@ -1,0 +1,973 @@
+chaos,3e,2s,ride cow
+CowVille [Stelari]
+Northern Cowville [Stelari]
+
+   
+              8-x-x-x-x
+             /|X|X|X|X|\
+            x-x-x-x-x-x-x
+           /|/    |    \|\
+          x-x x-x-x-x-x x-x
+         /|/ /|X|X|X|X|\ \|\
+        x-x h-x-x-x-x-x-H x-x
+       /|/ /|/|/     \|X|\ \|\
+      x-x x-x-h       x-x-x x-x
+      |X| |X|/         \|X| |X|
+      x-x x-x   x   x-x-E-x x-x
+      |X| |X|  / \ /    |X| |X|
+      x-x-x-x P   x     x-x-x-x
+      |X| |X|     |     |X| |X|
+      x-x x-x     x     x-x x-x
+      |X| |X|\    |    /|X| |X|
+      x-x x-x-x   x   x-x-x x-x
+       \|\ \|X|\  |  /|/|/ /|/
+        x-x x-x-x-C-x-x-x x-x
+         \|\ \|X|X|X|X|/ /|/
+          x-x x-x-x-x-x x-x
+           \|\    |    /|/
+            x-x-x-x-x-x-x
+             \|X|X|X|X|/
+              x-x-x-x-x
+
+h: A simple hut
+H: A native hut
+C: search boulder - for exit north               
+E: A small crevice in the mountain
+P: A large portal in the floor
+
+                                 8
+                                 |
+           x   x x   x           x
+            \ /   \ /           /| 
+             x-x-x-x-x         / x
+            /   / \   \       /  |
+           x   x   x   x x x /   x 
+                        \|/ /   /
+               x-x-x-x   x-x-x x
+              /      |   |   |
+             x x x x | x-x-6 x x
+               | | | |   |     |
+           5-x-x-x-x-x-x-x-x x-x
+               | | | |   |     |
+             x x x x |   x-----x-x-x-x
+              \      |  /      | |    \       /
+               x-x-x-x /       x 9     x-7-x-x
+                      /                  |
+                     /                   x-x-x-x-x-x
+                  1 /     x-x            |X|X|
+                  |/     /|X|            x-x-x-x
+            4-x-3-x-2-x-x-x-x            |X|X|
+                  |                      x-x-x
+                  x         x-x          |    \
+                  |        /  |          x   x-x
+          x-x x-x x-x-x-x-x x x x
+          | | | | |        \|   |
+          x x-x x x     x   x-x-x
+          |     | |    / \
+          x-x-x-x-x-x-x   x
+                  |    \ /
+          x-x     x     x
+          | |     |
+          x x-x-x-x
+          | |     |
+          x-x     x
+                  |
+                  E-x-x-x
+                         \
+                          x-x-x
+
+
+1: The Queen's Hoof (pub)
+2: A token-dispensing machine - *thump machine* for token to go east
+3: pull handle - to go west
+4: A small rocket (enter)
+5: Altar
+6: The CowVille general store
+7: push through - to go south
+8: Wharf
+9: Bromide the Mad-Scientist Cow
+   say help, say yes, search paper, read note
+   you need a moon-pie from ice-cream vendor, a milkshake from the pub and chalk from the university
+   'give chalk and pie and milkshake to bromide' all as 1 command.
+   Cheese Marble
+
+Angus the Farming Cow    23531
+Angus looks like he has been a farmer all his life, fitting into the
+lifestyle like a hoof fits a hoof-print.  He chews on the obligatory
+piece of grass as he admires his fields.  Even his black spots look
+like they belong on the farm, shaped like miniature hay-bales.  His
+big brown eyes watch you carefully as you move around, as they watch
+all movement on his farm.
+
+Murdoc the Mad Cow    367442
+Oh dear, You really shouldn't be around Murdoc, he's a little insane.
+OK, a lot insane.  He has the dreaded Mad Cow disease, and has been
+shunned by the rest of CowVille for fear that they would catch it.
+You should get out of here before you catch it too.  Murdoc is a huge
+cow, towering above you and gibbering madly, he looks like a cow on
+the edge and could turn on you at any second.
+
+Clover the Receptionist Cow    21901
+Clover looks like a typical receptionist in a high-class
+establishment: bitchy.  She looks determined to stop anybody not
+supposed to be here from passing by, so it looks like you might be out
+of luck.  Her glare seems to follow you around the room, daring you to
+try and sneak past.
+
+Julio the Spanish Cow   19437
+Julio has come to MTV studios to apply for a job hosting one of their
+shows.  He looks a little nervous, but is trying to play it cool to
+get the job.  Julio's spots would suit the job, they almost look like
+moo-sical notes.
+
+DJ Moo    42460
+DJ Moo, the famous Moo-sic TeleVision personality!  You've heard his
+voice, now you can see the flesh.  What a guy!  His spots almost seem
+to dance and jive before your eyes, and his cowish grin makes your
+mouth split into a smile involuntarily.
+
+Herbert the Police Cow    49349
+Herbert is a large cow, well, bull technically.  He wanders around
+CowVille to make sure everything is in order and nobody is getting
+hurt.  His spots look particularly clean and polished giving him an
+official and authoritative appearance.  You would be best off not
+messing with him.
+
+Frederick the Ice-Cream Vendor Cow    23138
+Frederick is the local Ice-Cream Vendor Cow, providing icy cold treats
+for all the cows on hot and sunny days.  He wanders up and down main
+street selling his treats, perhaps you could 'ask' for a list of what
+he has today.  If you wanted to, you could even 'buy' a treat from
+him, it is a hot and sunny day after all.
+
+Mosely the Police Cow     47777
+Mosely looks exactly like the type of cow you don't want to mess with.
+He is HUGE!  His hooves must be as big as saucers, and just thinking
+of what they could do to your skull sends shudders through you.  His
+face is a different story however, smiling warmly at everybody he
+passes, and giving a friendly greeting to most as well.
+
+Carnation the Arty Cow
+Carnation looks like a stuck-up annoying high-class cow.  Even as she
+first sees you, she looks down her big cow nose at you, sniffs and
+turns away as if to say "What is somebody like _you_ doing in a place
+like _this_?"  What she needs is a good beating.
+
+Boris the Red Cow    23555
+Boris seems to have recently arrived from somewhere in the great
+eastern bloc.  He doesn't quite seem to grasp the concept of
+capitalism, and holds stubbornly to his belief in com-Moo-nism.  Even
+his spots look slightly red, and his huge bulk seems to shudder
+slightly under your gaze.
+
+A shiny new Moo-Cedes    42777
+What a flash car!  This doesn't really fit in with the quaint
+atmosphere of the rest of CowVille which makes you wonder what it is
+doing parked beside the road here.  It is jet black, with lots of
+shiny chrome bits and bobs to make it more expensive-looking.
+
+Roland the Busking Cow     17105
+Roland is a street Moo-sician, playing his banjo around CowVille in
+the hope of making some Moo-lah.  He is a middle-aged cow and seems to
+be a very talented Moo-sician, and by the looks of it, he appears to
+enjoy what he does.  The pattern of his spots makes you think of
+musical notes.
+
+Norman the Sozzled Cow    11503
+Norman doesn't look too good.  He sways back and forward as his big
+brown eyes try to focus on you, but doesn't seem to be having much
+luck.  The spots on his hide seem to depict bottles, but it could just
+be coincidence.  Norman obviously enjoys his Moo-nshine a little too
+much.
+
+Daisy the bartending cow  -  unkillable
+Daisy stands behind the bar, waiting to serve her customers with a
+friendly smile and moo.  She looks friendly and welcoming, but at the
+same time authoritative and commanding.  The pattern of her black and
+white spots is beautiful.
+
+Harvey the Wondercow   14886
+Harvey is not really a wondercow, just a normal cow hired by the
+A-Moo-sement park to wander around in a wondercow costume and pretend
+to be wonderful.  He is a nice guy however and loves his job as it
+lets him spend all day in the park, and occasionally he even gets free
+candy-floss.
+
+Tangerine the Calf   7000
+Tangerine the calf stares at you with big brown eyes in the cutest
+way.  She seems to be enjoying her day at the A-Moo-sement park, and
+has a little toy cow she won at one of the side-shows.
+
+Sweetpea the Calf   7000
+A cute, little baby cow named Sweetpea who is enjoying the
+A-Moo-sement park.  Surely you wouldn't do anything to stop her
+enjoyment?  She is extremely cute, with her little black and white
+spots in the pattern of flowers and hearts.
+
+Buttercup the Mother Cow  25000
+Buttercup is a very large cow who seems to be in constant motion,
+looking after and herding her little 'uns.  She is extremely
+protective of them and would surely be very upset if anything were to
+happen to them.  Buttercup has a large, milk-filled udder which you
+are not sure whether to look at or not.
+
+Tinkerbell the Calf   7000
+Tinkerbell is trying desperately to follow Buttercup, her mummy cow,
+around the A-Moo-sement park.  She is a cute little calf with big
+black and white spots that add to her innocent appearance.  You are
+pretty certain that Buttercup would take offense if any harm were to
+come to little ol' Tinkerbell.
+
+Tully the Sick Cow    14038
+Tully doesn't look particularly well, probably from having eaten too
+much A-Moo-sement park food and played too many sideshow games.  His
+spots look slightly greenish, as if his unwell feeling were so strong
+it is actually visible.
+
+Flowerpot the Technical Cow    19907
+Flowerpot looks extremely intelligent, though you can't put a finger
+on why.  Perhaps it is the dazzling pattern of thermodynamic waves her
+spots make, or perhaps it is the way she looks down her big cow nose
+at you.  She seems to be busy with her equipment, so it would not be
+best to disturb her, as she probably knows at least 63 ways of
+dissecting you with her hooves.
+
+Aristotle the Wise Cow    20257
+Aristotle seems to be pottering around somewhat absent-mindedly, going
+over his notes for a lecture.  He is obviously an old cow, with his
+once jet black spots now graying around the edges.  He barely notices
+you as he paces back and forward muttering to himself.
+
+Lily the Teaching Cow    40345
+Lily looks like a typical stern teacher.  She gives you a cool, flat
+gaze as you look at her, daring you to step out of line.  She carries
+a student cow's most dreaded instrument: a cattle prod!  Her classes
+are ruled with an iron hoof, anybody who gets out of line is punished
+severely, so it might be best not to mess with her.
+
+Rascal the Student Cow    11585
+Rascal is a shabby looking cow, as if he hardly bothers with his
+appearance at all.  His spots look dirty and unwashed, and his eyes
+look bloodshot.  He slouches as you look at him, and glares at you
+accusingly.
+
+Marigold the Cheerleading Cow    22792
+Marigold flips and tumbles around the place as she practices her
+cheerleading moves.  The white of her coat almost looks to be a little
+yellowish...perhaps...blonde?  It might just be the sun though.  Her
+face is split by a wide smile, though it is probably fake, as it
+doesn't slip at all when she falls on her butt.
+
+Honeydew the Usherette Cow  20871
+It is Honeydews job to direct cows to their seats with her little
+flashlight.  She seems to quite enjoy herself, as she gets to watch
+Moo-vies while she works, and constantly has a little smile on her
+face.  Her spots are arranged to almost form a little jacket and skirt
+pattern, how handy!
+
+Jasmine the Moo-viegoing Cow    17352
+Jasmine is a Moo-vie buff, and you can usually find her in the theatre
+watching whatever they are showing.  Her spots seem to reflect her
+obsession, almost shaped like little film reels.
+
+Humphrey the Space Cow
+Humphrey seems to be on the Moo-n studying the town of CowVille from
+above, though why he would do such a thing is beyond you.  He is a
+large cow, and his spots give you the impression of a powerful and
+highly-skilled cow.  Best not mess with him.  He looks at you briefly,
+wondering what you are doing here, but quickly gets back to his work.
+
+Biscuit the Altar Calf    9485
+Biscuit is a quiet little calf, who enjoys spending his afternoons
+carefully arranging things around the Church of Moo in order to best
+please the Almighty Moo.  His still-developing spots already seem to
+be shaping themselves into halos, perhaps hinting at a long and
+illustrious career in the church.
+
+Granville the Priestly Cow   47367
+Granville is a cow of advanced age, greying slightly around the nose.
+His robes show him to be a priest in the order of Moo, worshippers of
+the Almighty Moo, protector of all bovines.  Though he is old, he
+appears sprightly on his hooves, as if infused with some holy
+lifeforce.
+
+Ferdinand the Minister Cow    68136
+Ferdinand wears a look of peace and tranquility upon his face, almost
+as if he were totally happy with the world around him.  He's not of
+course, there are too many heretics for his liking, but he's not going
+to let them know that.
+
+Jerome the Holy Cow (!)    67005
+Jerome almost seems to radiate holy goodness, but doesn't seem to be
+"all there".  It seems his devout life has gone to his big bovine
+brain, and he believes himself to be a physical embodiment of the
+Almighty Moo.  All the other cows just smile and nod.
+
+Spiro the Branding Cow   50354
+Spiro's hide is absolutely covered in brands, from the seared words of
+his first farm on his rump, to a cute little Tazmanian devil just
+above his left front hoof.  From his nose, a great big nose-ring
+hangs, and he has his ears pierced.  It must be true what they
+say...one brand is never enough.
+
+Marmaduke the Police-Chief Cow   129131
+Whoah, big cow!  Marmaduke is a huge beast of a cow, towering over you
+as he strides around the room.  He glowers at you for a second, his
+big brown eyes seeming to bore into your soul, almost expecting you to
+confess to a crime, but then strides off to glare at somebody else.
+Unless you have pressing business with him, it might be best to just
+get out of his way.
+
+A cow (?)    34471
+A bad black and white splotchy paintjob seems to cover a brown,
+thickly furred creature with long, spindly legs and large,
+pointy-out-sideways ears.  Its big muzzle looks vaguely cow-like, but
+you can't quite place it.  The heavyset body looks too large for the
+thin legs to support, but whatever it is somehow moves around at quite
+a speed, nervously pacing back and forth.
+
+Billy the calf   47036
+Baby-faced Billy is a bull where it counts but a calf at heart.  His
+perfectly proportioned frame belies the age of his face, causing him
+to be constantly underestimated.  He's surprisingly dressed in jeans,
+black leather chaps and a starched blue shirt.
+
+Mario the mince   20867
+A long, tan trench coat sweeps right down to the ground but stops just
+short enough to reveal steel capped boats poking out from the bottom.
+As if feeling a chill in the air that no one else can feel, Mario has
+the collar turned up and reluctantly peers out from behind it.
+
+Horatio the Doctor Cow   52838
+Horatio certainly looks like a doctor, complete with white overcoat
+and a stethoscope around his neck.  Curious brown eyes regard you with
+suspicion, as if he were trying to decide what is wrong with you.
+Beneath the white coat, you can see his prominent black and white
+spots in the pattern of a thermometer.  You could say he was born to
+be a doctor!
+
+Private Wallace (practicing)    40109
+Wallace is busy marching around and around the training grounds,
+making sure his form is right.  Occasionally he will stop, stand to
+attention, and salute an imaginary officer before continuing on his
+way.  Though not a big cow, Wallace has an air of confidence about
+him, lent weight by his military uniform.
+
+Cowptain Pritchard    434665
+Cowptain Pritchard is an imposing figure in his green CowPat uniform,
+pacing around the room and occasionally glaring at you.  Standing
+upright on his back hooves, he towers above you, a full nine and a
+half feet tall.  Though he is not a young cow, you can still see
+bulging muscles underneath his uniform, a good sign that he is not to
+be taken lightly.
+
+Bruce the Drill Sergeant Cow
+Bruce is a gruff looking fellow, with lines and wrinkles covering his
+black and white spotted face.  From beneath craggy eyebrows, small and
+cold eyes glare at you coldly, making you feel three feet tall and
+seven years old.  As he barks orders to the occasional enlisted cow,
+you can hear that his voice has that unwavering, piercing quality that
+makes it impossible to ignore.  Though he is reasonably old, you can
+tell from his stance that there is still great strength in his limbs,
+and you would be unwise to get on the wrong side of him.
+
+Evantine the Chef Cow    207027
+Evantine is wearing a large green apron, with the words "KISS THE
+COOK" written in hot pink on it.  He looks to be a jolly fellow, a
+little out of place in the CowPat military base, but the recruits seem
+to like him, and he certainly cheers up the mess hall.  He looks to
+enjoy his own cooking a little too much, with his large, prominent
+belly pushing out his apron in almost a semi-circle.  Don't be fooled
+though, his chef skills have given him an uncanny ability with knives,
+and his hooves move with blistering speed.
+
+Private Denis   56969
+Denis is the perfect recruit, his uniform starched and his hooves
+shining like little black stars.  He marches proudly up and down the
+barracks, looking at the other Privates with scorn and distaste.
+Obviously, he has his sights set on becoming part of the C.R.A.P.
+unit, though of course it's a secret, so he would never say anything.
+
+Private Marshal   34782
+Marshal looks to be pretty new to the CowPat, you can tell because he
+has his hat on backwards and his hooves aren't shined.  He is looking
+around nervously, as if keeping an eye out for superior officers.
+
+Private Benjamin   44653
+Benjamin is only a Private in the Cowville Patrol, but he is very
+proud of his role, and focused on doing the best damn job he can.  He
+carries his rifle with all the grace of .. well .. a cow.  He is
+dressed in full uniform, though it looks a little crumpled, as if he
+isn't quite used to the military life yet.
+
+Mooleone, Don Mooleone    70797
+The Don induces fear just by looking at him.  Generally it's because
+of his ever-expanding bulk, his influence to have you take a permanent
+vacation with the fishes, or his perfectly shined and tip-sharpened
+horns.  Today however, it's because of his grotesque ability to
+constantly pack food into his abyss of a mouth.   With a lamb chop in
+one hand and a fork in another, he's an eating force to be reckoned
+with.
+
+Mickey the steak    30717
+Mickey is overly tall and slender for a bull, with a gaunt face and
+narrow eyes.  He's dressed in a shiny three-piece suit that's too
+short and stops just above his ankles and wrists.  This look of a calf
+playing dress-up is accentuated by his look of stupidity as he tries
+to give you a menacing, yet staunch, glare.
+
+Johnny the snitchzel   24745
+Johnny's three-piece suit fits perfectly but does little to hide his
+short stature and wide girth.  By the look of him, this is a mini-moo
+with a complex and the accompanying mean streak that goes with it.  He
+views the world through green colored glasses and generally dislikes
+anyone taller than he is.
+
+Bobby the fillet    41718
+Cool and suave, Bobby eyes the room in a detached way as he leans
+against the bar and repeatedly flips a coin in the air.  His Armooni
+three-piece suit is perfectly tailored to his frame and accessorized
+with a heavy gold chain around his neck.
+
+Emily the Sunbathing Cow   38929
+Emily is a lithe, lean cow, her white spots browned by the harsh
+island sun.  She appears to spend every minute she can on the beach,
+drinking in the rays and watching the world go by.  You know the sort
+- heavy on the makeup, but light on the conversation.
+
+A Brown Mooby Bird   20860
+A lovely creamy brown colour, much like a jersey cow (with the same
+big brown eyes), the brown mooby bird cocks its head as it peers at
+you.  Perhaps she is trying to decide if you are some kind of tasty
+fish, or whether she might have to try and fend you off with her
+pointy yellow beak and sharp claws.
+
+A Bull Seal    28742
+Almost appearing like a leopard seal, this large black and white
+spotted beast flops around on the hot sand contentedly.  Obviously
+enjoying the heat of the sun, the big bull seal seems to take offense
+that you are invading his territory, and glares at you angrily
+whenever you get too close.
+
+Arthur the Pagan Cow, Worshipper of Toomoo    42164
+Arthur is a devoted worshipper of Toomoo, devoting every waking moment
+(when he isn't grazing on palm fronds) to fulfilling his every godly
+whim.  He has a rather distant look as he goes about his life, as
+though he is constantly in communication with his beloved deity.
+
+Camelia the Godless Cow    27099
+Nobody on the island likes Cameila much; her refusal to acknowledge
+any of the gods the other islanders worship has made her an outcast.
+Regardless of the attitudes of the other cows, Camelia appears to lead
+a happy and contented life, sunbathing and gorging herself on
+coconuts.
+
+An Anacownda    60047
+This snake is HUGE!  It is easily nine feet long and probably a couple
+of feet around at its thickest point.  Its scales are a beautiful
+mixture of black and white, reminding you strangely of some other
+creature...plus it has those big brown doe-eyes.
+
+A Chipmoonk   15667
+Chittering noisily as it scampers around the ground, the chipmoonk is
+an energetic little creature.  Spotted black and white, with a
+curiously bovine face, but with large, protruding front teeth, it is
+definitely a strange looking thing, but kind of cute at the same time.
+It seems to be collecting nuts and berries, tucking them away into its
+puffy cheeks as it finds them.
+
+A Moonkey   43795
+A black and white spotted moonkey!  It swings through the trees with
+the greatest of ease, using its prehensile tail to grip and hold,
+since its hooves aren't much good for that.  It has a blocky, stumpy
+face with large brown eyes that are definitely more bovine than ape.
+
+Chapu the Pagan Cow, Worshipper of Toomoo   39586
+Chapu looks to be engrossed in worshipping Toomoo; he is muttering
+some sort of prayer which you can't understand, aside from the odd
+exclamation to Toomoo.  Occasionally, he prostrates himself flat on
+the ground and presses his big forehead to the earth.
+
+A Masked Mooby Bird  13468
+A majestic-looking bird, the mooby is mostly white, with a black mask
+covering most of her face, and black tips to her long wings.  With a
+thick, sturdy beak and sharp claws on her webbed feet, she is not
+without her defenses, though she prefers to eat fish.
+
+Tuingamala the Pagan Cow, Worshipper of Toomoo   32474
+Tuingamala is a large, gentle-looking cow whose pleasantly round black
+spots decorate his white coat giving you a feeling of benevolence.  He
+seems to be talking quietly to himself about how wonderful Toomoo is,
+and how his mighty power will save the whole island.
+
+Nuala the Pagan Cow, Worshipper of Toomoo   37264
+Nuala Nuala is large, round, and strange for somebody who lives on the
+island. It could be that her fervent worship of Toomoo has bestowed
+her with ample food and drink, and the ability to avoid the normal
+array of island chores.  Alternatively, it could be that her friendly,
+smiling face convinces the other islanders to go easy on her.
+
+Fa'aoso the Pagan Cow, Worshipper of Toomoo    46910
+Fa'aoso is a large, clumsy cow, but always has a wide grin on his big
+bovine face.  Messy black spots seem thrown haphazardly across his
+body, which suits his demeanor.  Rather than being large because of
+being well-muscled, it just appears as if he has been enjoying too
+many coconuts.  He is constantly praying and shouting his devotion to
+Toomoo.
+
+A Blue-Footed Mooby Bird   11991
+Rather comical-looking, the blue-footed mooby is speckled black and
+white except for her remarkable bright blue feet.  Not really able to
+rely on camouflage, she likes to ward off possible predators with her
+hefty beak and stubby blue claws.
+
+Murphy the Moomon    28481
+Dressed in a pristine black and white suit, Murphy's big brown eyes
+light up when he sees you approach, and he starts to walk up to you
+almost immediately.  Somewhat young, you are surprised to see him
+wearing a suit at all, let alone wandering around approaching strange
+people all on his own.
+
+Chooca the Moodicine Man   57386
+An old but wise cow, Chooca has a wild look in his eyes and a fever to
+his movements.  He takes his role on the island very seriously, to
+save the souls of the unbelievers by consigning them to a fiery pit of
+hell.  He wears a massive headdress of feathers and twigs, a necklace
+of large, bleached bones, and not much else.
+
+A forlorn cow soul   823124
+A forlorn cow soul has been living in agony for eternity, and is now
+focused solely on transferring its agony directly on to YOU.  Consumed
+with fire and sliding between solidity and vapour, the soul swirls
+around you, leaving a fiery trail behind it.
+
+A heretic cow soul   442323
+A heretic cow soul has been living in agony for eternity, and is now
+focused solely on transferring its agony directly on to YOU.  Consumed
+with fire and sliding between solidity and vapour, the soul swirls
+around you, leaving a fiery trail behind it.
+
+An infidel cow soul    203289
+An infidel cow soul has been living in agony for eternity, and is now
+focused solely on transferring its agony directly on to YOU.  Consumed
+with fire and sliding between solidity and vapour, the soul swirls
+around you, leaving a fiery trail behind it.
+
+A destitute cow soul   122408
+A destitute cow soul has been living in agony for eternity, and is now
+focused solely on transferring its agony directly on to YOU.  Consumed
+with fire and sliding between solidity and vapour, the soul swirls
+around you, leaving a fiery trail behind it.
+
+Chrysanthemum the HouseCow   48359
+Chrysanthemum is a pretty cow, as far as cows go.  Her big brown eyes
+are framed by long, curving lashes, drawing your eyes to stare into
+hers.  She is wearing an apron, and a big smile on her face as she
+putters around in her house.
+
+
+
+
+
+Cowskin Pants
+Woo!  Leather pants!  Well, black and white spotted cowskin pants, but
+close!  These look fantastic, and will show off your butt in the most
+wonderful way.  Be proud and wiggle it.
+
+A Huge, Bloody Cleaver
+This cleaver is HUGE!  You could butcher an elephant with this
+monstrosity, assuming you can lift it of course.  It drips with blood
+which never seems to dry or clean off, as if the cleaver was thirsting
+for it's next victim.  The cleaver will definitely make a devastating
+weapon in the hands of somebody skilled and strong enough to wield it.
+
+Cowskin Boots
+A nice pair of black and white spotted cowskin boots.  These boots
+will probably keep your feet very warm whilst offering some
+protection.  You almost feel sorry for the cow who parted with its
+skin to provide you with these boots, but then you imagine fitting
+them snugly onto your feet and forget all about the cow.
+
+Cowskin Ring
+Ha, this is not much more than a short length of cowskin tied into a
+loop which will fit around your finger.  However, it will certainly
+enhance the appearance of your hands with its pleasant black and white
+spotted colouring.
+
+A CD
+A round disc constructed of hard plastic, this CD is by the band
+"METALLICOW", a popular bovine band.  It also makes a pretty
+suncatcher, the plastic shining brightly in the sun.
+
+Cowskin Cap
+While this sporty black and white cap won't offer much in the way of
+protection, it will certainly keep the sun off your noggin, or keep it
+warm in cold climates.  It really is a quality piece of clothing with
+great looking spots, how could you resist wearing it?
+
+Cowskin Jerkin
+This is a pleasant-looking jerkin made out of stylish black and white
+cowskin.  It looks nice and thick, so will provide you some protection
+and warmth.  As well as giving you something to wear, this jerkin will
+also give you STYLE.
+
+A police-cow's whistle
+Wow, the whistle of Herbert the Police Cow.  Chances are you killed
+him to acquire this, you bad bad person you.  It is a nice shiny
+whistle, and you feel an urge to blow on it to see what happens.  It
+has a small emblem of CowVille on it, to remind you of where it came
+from.
+
+Cowskin Shield
+The skin of some poor unfortunate cow has gone into making this shield
+for you.  Thankfully it looks terriffic so you don't care all that
+much.  It is quite large, though light due to its composition, and
+spotted black and white.  With any luck, it might put foes off when
+they are attacking you, making them think you are a cow.
+The shield is in perfect condition.
+
+Cowskin Bow Tie
+A dapper black and white cowskin bow tie.  This would look great with
+a suit, or just with any old thing.  It would fit nicely around your
+neck.
+
+A fake british accent
+This is one of those horrible fake british accents that pompous and
+pretentious people use when they try to act superior.  It doesn't
+usually work.
+
+Com-Moo-nism for Dummies (open)
+This appears to be a handy reference guide about the finer points of
+com-Moo-nism.  Probably not the kind of thing you want to be seen
+carrying around.  It has a nice yellow cover making it look friendly
+and unintimidating.
+The book has 5 page(s) (1, 2, 3, 4, 5).
+The current page is 1.
+
+A Lovely Purple Moo-d Ring
+This is a lovely Moo-d ring, basically a band of metal with an inset
+gem which changes colour every now and then based on your Moo-d.  It
+is quite pretty and surely wearing it will be beneficial somehow.
+
+Cowskin Gloves
+A nice warm pair of gloves made from black and white spotted cowskin.
+Wearing these would not only give your hands some protection, but make
+you look damn cool as well.  Black and white are the colours of the
+season after all.
+
+A black and white banjo
+This is a stunning black and white banjo that once belonged to Roland
+the street Moo-sician.  You doubt your ability to play it properly, as
+it was constructed with hooves in mind, however it does make evil
+twanging noises as you strum it, and could seriously damage people's
+eardrums if played badly enough.
+
+Cowskin Trenchcoat
+Now this is class.  A long, black and white spotted, stylish cowskin
+trenchcoat.  This will swish and sway as you walk, making it
+impossible for people not to notice you.  Everybody will be jealous of
+you and want one of these for themselves.  It should offer you some
+pretty good protection, as it is quite thick and warm, as well as
+fairly heavy.
+
+A small token
+This is a small plastic token which will let you enter the CowVille
+A-Moo-sement park, otherwise it is worthless.  On one side is a
+picture of a cow wearing a mask and cape, flying through the air, and
+on the other side is printed "The CowVille A-Moo-sement Park".
+
+The Mask of Wondercow
+This is the mask of the amazing Wondercow.  It is possible that it is
+the source of all his powers and that if you wear it you could use
+those powers for yourself ... on the other hand, it's more likely to
+be just a thick plastic mask.  Either way, you could slip it on if you
+wanted to.
+
+The Cape of Wondercow
+This is the cape of the amazing Wondercow.  While flying, it flowed
+out behind him to give the impression of power and beauty, but up
+close it is really just a piece of blue cloth.  It could still be
+quite useful, but you doubt it has any wonder powers.
+
+A fluffy toy Cow
+A little black and white cow doll that has been viciously stolen from
+a poor baby calf.  It's yours now though and it's so cute you want to
+hug it, and squeeze it and never let it go.  You also have an
+irrational desire to boot it like a football.
+
+A big, bulging udder
+It's all squishy!  It must be full, meaning that you could probably
+give it a good squeeze.  Just make sure you point it away from
+yourself first!  The liquid inside sloshes around noisily, indicating
+its milkiness.  You wonder what would happen if you gave it a good
+shake.
+*shake udder*
+You give the udder a vigorous shaking, and slowly the contents
+sound like they change from milk into cream!
+
+Chalk (by Stelari)
+This small, innocent piece of chalk should not be confused with the
+two excellent pieces already in existence.  Should you wish to make a
+chalk collection, you should search out the Chalk coded by Doh in
+Springfield, and the Chalk by Xiola in the Hippie Commune.
+
+A Cattle Prod
+This is a wicked looking cattle prod, about three feet in length.  The
+handle is covered in a rubberised grip to protect from any shock, and
+the business end is forked to allow electricity to arc at the point of
+impact.
+
+A pair of Pom-Poms
+A lovely shaggy, sparkly pair of black and white Pom-Poms.  You could
+probably wear them on your hands, though it might make wielding a
+weapon somewhat difficult.
+
+A small flashlight. (off)
+This is a small black plastic flashlight, the sort used by ushers and
+usherettes in Moo-vie theatres.  There is a small switch on one side
+allowing you to turn it off and on.
+
+Priestly Robes
+These robes once belonged to a priest in the order of Moo, you can
+tell from the small hoof insignia upon each shoulder.  The robes drape
+almost to the floor, but are very thin, offering little in the way of
+protection.
+
+A cow doll (suspiciously Stelari-shaped)
+A cute little cow doll, which looks suspiciously like Stelari, but
+then, perhaps Stelari really is a cow.  Who knows.  You feel like
+keeping it anyway, perhaps you can find some more Stelari dolls and
+collect the whole set!
+
+A Huge Nose Ring
+This gigantic nose ring was at one stage worn by Spiro, the cow of
+much self-mootilation.  It's far too big to fit in your nose though,
+but might be just about the right size to snap around your neck.  It
+appears to be solid steel, so should offer decent protection from
+getting your head cut off.
+
+A cow bone
+The bleached bone of a once living and mooing cow.  The bone looks as
+if it is very old, and has turned a bit crumbly, so if you want to
+keep it you'll need to be careful how you handle it.
+
+A Police Truncheon
+A big, heavy police truncheon, famed for it's continued use in the
+quelling of riots and the beating of suspects.  From a distance it
+looks like plastic or wood, but that's just to keep the public happy,
+really it is solid steel, with a nice black lacquered finish.
+
+The Police Badge of Marmaduke
+Oooo, what a shiny badge!  It is about the size of your fist, cast out
+of bronze, and moulded in the shape of a hoof.  On the front is the
+logo of the CowVille police force, a gavel representing justice,
+crushing the skull of a criminal in striped pyjamas.  Lovely.
+Inscribed beneath the logo is the motto, which you could probably
+examine.  On the reverse side, there is a small pin by which the badge
+can be attached to your clothing.
+
+a starched shirt
+This is a long-sleeved, cowboy casual, cream-striped, heavily-starched
+Armooni classic!  Feel that crinkling material and see the that way
+that the shaped bottom seam will accentuate your frame?  Oh, you've
+just got to have it darling!
+
+jeans with leather chaps
+The leather almost entirely covers the faded blue of the jeans,
+revealing just the crotch and butt areas; as if to play peek-a-boo
+with your senses.  The chaps themselves are the center piece of this
+ensemble, with the black leather gently hugging the legs and a short
+trim running down the back of the legs in unison with the laces.
+
+a 'Just Moo It!' t-shirt (fake)
+Printed on the front is a large, slightly splotchy Nike tick; instead
+of smooth lines, the tick almost looks like just a distinctive cow
+marking.  Echoing this marking impression, is the wording on the back
+in a matching font, 'Just Moo It!'.  The white, cotton T is a perfect
+addition to any young calf's wardrobe.
+
+a trench coat
+This is a long, tan trench coat made from a tightly woven cotton
+twill.  It sweeps downwards from the collar to the hemmed base, and is
+long enough to cover most of your body.  It's perfect for the illicit
+flashing the trench coat is known for.
+
+a pair of steel-capped boots
+The dark, brown lace-up boots have fifteen eyelets for securing them
+up your calf.  With its impliable construction material, the only
+comfortable aspect of the boots is the padded collar.
+
+White Overcoat
+Newly starched and cleaned, this coat looks like one a doctor would
+wear.  It has no logo or insignia, however, so if it is from a medical
+practitioner, it is likely from a private MD, rather than one in a
+big, faceless company.
+
+A cold stethoscope
+How is it that every single stethoscope in the world feels like it has
+just come out of a freezer?  This one is no exception, and it gives
+you shivers just from looking at it, let alone holding on to it.  If
+you were feeling like playing doctor, you could probably use it to
+'inspect' things.
+
+A Rifle
+What a joke, this rifle is made completely out of wood!  You guess it
+is only given to the new CowPat recruits so they can't shoot
+themselves in the hoof whilst practicing.
+
+CowPat Pants
+These pants are the standard issue of the CowPat military.  The
+Cowville Patrol uniform is a grass-green colour, allowing the troops
+to blend into their natural surroundings quite effectively.  There is
+nothing remarkable about the pants.
+
+CowPat Jacket
+This jacket is light and flimsy, but a wonderful shade of green.  It
+is the standard issue of the Cowville Patrol military, but doesn't
+really offer much protection.  You guess that they must have different
+gear that they would wear into battle.
+
+CowPat Hat
+This hat is pretty plain and flimsy.  It is the standard issue for the
+Cowville Patrol military, but wouldn't do much more than keep the sun
+off somebodies head, certainly not offer much in the way of protection
+against attacks.
+
+A Smith & Fresian Pistol (enhanced)
+This pistol is crafted from highly polished steel, inlaid with a small
+hoof-shaped section of deep red wood, on which is engraved the letters
+"S&F".  It is compact, but hefts nicely in your hand, suggesting it is
+a quality piece of hardware, and packs quite a punch.
+
+Cowptain Pritchard's Hat
+This hat is very impressive looking, but pretty flimsy now that you
+are actually holding it.  The inside is lined with green felt, making
+it comfortable if not protective, and the outside is a slightly darker
+shade of green cloth, with a small gold cowptains insignia on the
+front.
+
+Cowptain Pritchard's Jacket
+This jacket is surprisingly heavy, since it looks like a simple cloth
+garment, albeit bearing the gold insignia of a cowptain.  Turning it
+inside out reveals the source of the weight though, sewn into the
+lining are strips of lead, making the jacket bulletproof, but also
+meaning it provides quite decent protection against other attacks.
+
+A Small Knife
+This knife is quite small, but very sharp nonetheless.  It is perfectly
+balanced, making for a deft weapon in the right hands, it would even be
+possible to throw it at your target.  It is forged from a single piece
+of stainless steel, and bears a small insignia upon the blade.
+
+A Chefs Knife
+This knife is EXTREMELY sharp!  Whomever the chef was that used this,
+they certainly knew how to take care of their equipment.  It bears a
+small etched insignia on the blade, which catches the light as you
+slowly turn the blade over in your hands.  The handle is a single
+piece of oak, which feels warm and comforting in your grasp.
+
+A Chefs Apron
+A large, rather stretched, green apron, with the words "KISS THE COOK"
+written in big pink letters on the front.  Gee.  This might be nice to
+wear to a BBQ, but you can't imagine it being much use otherwise.
+
+a shiny silver coin
+The shiny, silver coin is the size of a bottle cap.  It has a
+distinguished bulls head on one side and a hoof design overlaid with
+'50 cents' on the other.  It's really just begging to be flipped.
+
+a heavy, pimp chain (gleaming)
+The heavy GG link chain is an incredibly spectacular piece; not in the
+extremely tasteful way but in the 'Oh my god, you look like a pimp!'
+way.  With heavy duty titanium under the electroplated gleaming gold,
+this is one heavy accessory.  You are a real man after all, if you can
+still stand with all your bling on.
+
+a pair of green tinted glasses
+The black frames surround the perfectly circular green-tinted lenses.
+The glass itself is a softened hue of an olive.  With these glasses
+you can look at the world through the green-tinted hue, while looking
+fashionable at the same time.
+
+a pork chop and fork set
+The pork chop has congealed with cool grease, giving it a white
+mildewed appearance.  The other half of the set is a simple fork that
+is caked with a dried red substance.
+
+sharpened bull horns
+Two horns joined together by a wide leather strap create the perfect
+rendition of a bull's most famous appendage.  Each horn mirrors the
+other as it stretches out to the sides before curving around to face
+the sharpened tips to the front.
+
+a bottle of mooonshine
+This ex-prohibition rotgut is a classic drinking experience from ages
+past.  The bottle of shine is a historical treasure and one that
+should be respected; until you actually try the cringe-inducing harsh
+taste, then all it deserves is a quick one-up over the sink.
+
+Black and White Bikini
+A cow-sized bikini (black and white, of course) that looks rather
+large for you, but is probably quite skimpy for a cow.  The top is
+smaller than the bottom (well, they do have udders) but still ample to
+cover most of your torso.
+
+Moomoo
+A large, loose dress-like robe, the moomoo protects from the burning
+sun, and yet lets in the cooling breeze - perfect for island life.
+This particular moomoo is almost all white, apart from a vertical
+black stripe, obviously the preferred colours of the natives of the
+Isle of Cows.
+
+Two Coconuts
+A couple of heavy coconuts that have been tied together with a bit of
+twine.  Though rather clumsy, you could probably do a good deal of
+damage to someone if you managed to squash them in-between the
+coconuts.
+
+Godless Soul  *note - it disappears fast*
+How strange, this soul seems to have left its body but has nowhere to
+go.  You guess it might be because the owner didn't believe in
+anything, but it could be because they liked living so much that they
+don't really want to leave.
+
+A large anacownda skin
+This skin must have come from an impressively large snake...or
+cow...hmm, now that you think about it you aren't sure.  It is quite
+pretty though, the slightly shiny scales patterned in black and white.
+It could fetch a reasonable price.
+
+Bone Amoolet
+A simple leather strap knotted in several places to hold a few long,
+bleached bones from some small creatures.  The bones rattle together
+noisily, making you constantly aware of their presence.
+
+Feather Headdress
+Hundreds of brightly coloured feathers decorate this headdress, from
+small blue ones to giant, dangling, flourescent green ones.  Just
+wearing such a magnificent piece of flamboyent dress would make you
+feel like you could raindance!
+
+Blood-Soaked Stick
+What at first appears to be a fairly standard wooden stick that has
+been drenched in blood is actually a lot more.  A wickedly sharp point
+is cunningly curved to make it easier to rip the still-beating heart
+from the chest of the victim.  The wood is strangely heavy, as if not
+quite natural, and the blood that soaks the entire stick seems to drip
+off without stopping.
+
+A Large Carving Knife
+A pretty standard kitchen carving knife, though it is a large one.
+You could do some serious damage to somebody with this thing, but it
+hardly compares to a sword.
+
+A colorful Apron
+A nice red apron, with a big yellow flower on the front.  It seems to
+have a trace of flour on it, as if somebody had been baking.  It also
+seems to have a trace of blood on it, suggesting that somebody had
+killed the person doing the baking.
+
+A round piece of brie (Cheese Marble)
+Mmmm, this looks a really tasty bit of cheese, small and round like a ... small round piece of
+cheese.  Not eating it is a real effort.
+

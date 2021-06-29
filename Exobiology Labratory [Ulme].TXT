@@ -1,0 +1,26 @@
+science,enter,u,3e,d,e,path,14e,18n,6e,3n,2e,3n,door
+
+    x-x-1
+    | | |
+    L-x-x
+    | | |
+    x-x-x
+
+1: enter machine
+
+
+A lab assistant    8450
+What first looks like a lab assistant turns out to be a very
+disgusting creature of a kind you have never seen before! Dressed in a
+lab coat, it seems to be trying to hide itself. You are unwillingly
+impressed by its intelligence. Wonder what happened to the lab
+doctors!
+
+A small/strange/large/HUGE creature    83874
+The green skin of this creature looks like leather, and is partially
+covered with an ugly mixture of slime and human blood. You wonder
+where it comes from.
+
+
+
+.

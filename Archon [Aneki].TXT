@@ -1,0 +1,165 @@
+chaos,e,climb pipe,u
+
+   x-x-x-x-x-x-x-x
+   | | | | | | | |
+   x-x-x-x-x-x-x-x
+   | | | | | | | |
+   x-x-x-x-x-x-x-x
+   | | | | | | | |
+   x-x-x-x-x-x-x-x
+   | | | | | | | |
+   x-x-x-d-x-x-x-x
+   | | | | | | | |
+   x-x-x-x-x-x-x-x
+   | | | | | | | |
+   x-x-x-x-x-x-x-x
+   | | | | | | | |
+   x-x-x-x-x-x-x-x
+
+
+
+
+
+
+An archer    400
+This brave warrior is the support for the knights in their fight
+against the forces of darkness. The elf has deadly accuracy with his
+eagle eyes and can swiftly rain death upon advancing forces with his
+oak longbow.
+
+A goblin    374
+This hideous warrior is the grunt troop of the forces of darkness. The
+goblin is dressed in ragtag, filthy, blood-stained leathers and
+brandishes a spiked club menacingly. A vacant, unintelligent, yet
+brutally primal expression fills his yellow eyes. There is no
+reasoning with this creature, a battle once joined will be a fight to
+the death!
+
+A unicorn     3472
+This equine is colored pure white with a beautiful golden mane and
+horn. His beauty mixed with his powerful body and sharp horn make him
+a dazzling opponent. Surely the forces of darkness fear this mighty
+steed.
+
+A banshee     1129
+This ethereal creature has the appearance of a haggard old crone. Her
+long white hair and the tortured look in her eyes are but a glimpse
+into the horror that is her existence. It is rumored that the banshees
+are souls of women that have been enslaved by the evil sorceress. They
+have been granted power over sound and their piercing, tormented
+shrieks can cause physical pain!
+
+A knight   732
+This brave warrior is the front line of defense against the forces of
+darkness that oppose the masters of the light. The knight holds his
+sharp sword with the ease of someone who has practiced swordsmanship
+since childhood. His armor gleams with a perfect polish and his large
+shield is held at ready to ward off any sudden attacks.
+
+A manticore   1545
+This menancing creature is an unholy combination of the mighty lion
+and the poisonous scorpion with the black wings of a giant bat. His
+huge paws and claws scratch at the ground beneath him and the point of
+his chitin covered tail drips a thick venomous fluid.
+
+An evil looking cyborg    1691
+This creature was magically created by the sorceress to confuse its
+enemies by undertaking various forms that mimic its prey. The shape
+shifter is a master spy and an assassin, skilled in the arts of
+deception and combat.
+
+A basilisk    2074
+This ancient creature resembles a lizard in appearance. Its scaley
+tail moves side to side menancingly, but the true danger of the
+basilisk lies in its slitted reptilian eyes. The gaze of the basilisk
+can cause paralysis and even instant death making it a formidable foe.
+
+A troll    1939
+This humanoid stares at you with an utter lack of intelligence which
+is more than made up for by brute force! The troll stands at least
+seven foot tall and hefts a large boulder, menancingly ready to crush
+his opponents in a simple, direct fashion.
+
+An evil sorceress    2119
+The sorceress glares at you cruelly. Her skin is fair and beautiful,
+her hair long and jet black in color. If she didn't exude such an
+intense aura of evil she would be quite striking. The sorceress is the
+leader of the forces of darkness, overseeing the battle while casting
+beneficial spells on those who serve her and harmful ones on the fools
+that do not!
+
+A dragon    1879
+The dragon is by far the mightiest servant of the evil sorceress. Hard
+scales cover his muscular, lizard-like form, protecting it from harm.
+His teeth and claws glint dangerously in the constant flickering flame
+which appears from the creature's nose and mouth as he breathes.
+
+A stone golem    338
+The golem is a creature crafted of magic whose humanoid form is made
+up completely of living stone. With near impenetrable armor, it
+attacks by summoning large boulders from the surrounding area to hurl
+at its foes.
+
+A djinni    1444
+The djinni is a spirit creature capable of great magical feats, but
+whose specialty is in controlling and persuading the mind. This
+creature was summoned by the powerful wizard to combat the powers of
+the shapeshifter. Instead of outright deceit, the djinni uses his
+powers of persuasion to make the enemy tell him what they know
+willingly.
+
+A valkyrie    1444
+This amazonian female is taller than most men and just as strong! She
+wields a deadly spear and has the furious speed and dexterity of a
+cat! The spear is useful for battle at both close and far ranges.
+
+A phoenix    2379
+The immortal phoenix is a very powerful addition to the forces of
+light. Existing in a state of constant flame, this avian creature
+consumes her foes with intense heat. If she is ever struck down, the
+creature will rise again from her own ashes... eventually.
+
+A benevolent wizard    2120
+The wizard looks at you in kindness. His long beard and snowy white
+hair gives him a grandfatherly appearance, but a look deeper into his
+eyes shows they are beset with worry and sadness from the great war
+that is going on. The wizard is the leader of the forces of light,
+overseeing the battle while casting beneficial spells on those who
+serve the light and harmful spells on those who serve the dark!
+
+
+
+a longbow
+This is a standard issue longbow, the backbone of the archer regiments
+arsenal. Standing almost eight foot high and requiring nearly seventy
+pounds of draw, this bow is a menacing weapon to face ahead of you.
+This particular bow has been blessed with the ability to fire magical
+arrows, thus ensuring the archer never need carry a quiver.
+
+a unicorn's horn
+This is a horn of a fabled unicorn, broken free from the corpse of the
+once noble beast. It is of little use to all but the most powerful of
+sorcerers.
+
+a heavy bronze buckler
+This bronze shield looks worse for wear with dents and scratches on
+its surface. It also could use a good polishing.
+
+a shiny sword
+Shiny sword.
+You see nothing special.
+
+a big frickin' boulder
+This is a gigantic boulder which is shaped almost perfectly for
+lifting up and bashing someone with, assuming you could lift it of
+course. Some blood stains on various parts of the stone's exterior
+indicate someone has already used it for such a purpose. However, the
+rock does appear to be quite brittle as pieces of it rest on the
+ground where it landed.
+
+a short spear
+It's a finely crafted spear made of a durable, exotic wood, roughly
+seven foot long with a very sharp mithril tip. It could be quite a
+devestating weapon when used properly.
+
+

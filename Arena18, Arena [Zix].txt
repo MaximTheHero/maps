@@ -1,0 +1,54 @@
+Arena18, Arena [Zix]
+Dirs: Wayhaven Portal, 4n, e, d
+
+      x-x-x
+        |
+        x-x
+        | |
+      x-x x
+        |
+      x-x
+        |
+        x-x
+        |
+        1
+        |
+    u-x-A-2
+        |
+        3
+
+
+A: Ogre Guard
+1: Easy Arena, unlock door with key from Ogre Guard
+2: Hard Arena
+3: Medium Arena
+
+Monsters:
+Ogre guard
+Small guard
+Large guard
+Orc
+Goblin
+Tiger
+Small guard
+Baby dragon
+Grizzly Bear
+Gargoyle
+Stone Golem
+Ninja
+Warrior
+
+Items:
+Small arena key.
+The fur from a tiger.
+Knife.
+Whip.
+A deck of cards.
+Silver Dragon Scale (magical).
+Golem club.
+Ninja boots.
+Ninja gloves.
+Katana.
+Battle helmet.
+Battle sword.
+Metal shield.

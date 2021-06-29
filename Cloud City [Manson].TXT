@@ -1,0 +1,168 @@
+chaos,3e,2s,2e,n,3e,s,e
+push button,type Shakrali,follow instincts
+
+
+                      E
+          2-x-x       |
+   W      |   |       D
+   |    5-4 3 4-5     |
+   X      | | |       C
+   |      1-x-x       |
+   Y        ^         B
+   |        |         |
+   Z        S         A
+
+1: search pile
+2: rock crib
+3: open cage (exit)
+4: knock door
+5: say hypnotize me
+6: say hypnotize me
+A: rise to B, fall to 5, tap bully
+B: rise to C, fall to A, rejoice with sibling
+C: relax
+D: rise to E, fall to B, lie couch
+E: fall to D, disturb brain
+Z: rise to Y, fall to 6, say <name>
+Y: rise to X, fall to Z, say 47
+X: rise to W, fall to Y, say 6:12 pm
+W: fall to X, open panel, push red button
+
+Pile of Money     41297
+This is a giant pile of money. It is constructed of many coins, and coated
+with numerous paper bills. It assumes no particular form but can construct
+a vicious metal strike using its massive metal protuberances.
+
+An Angry Baby     27039
+This baby seems to be angry from a lack of caring and love. He is
+not well kept, and wearing dirty odor emitting diapers. The one key
+difference between this baby and a normal one, is that this one is
+approximately twice your size. Judging by the look on his face, he
+isn't in the mood for a bedtime story.
+
+A mutilated corpse   18347
+The corpse is damaged beyond almost all repair. It no longer has eyes, but
+only eye sockets where they used to be. Its skin is decomposing and gives
+off a foul-smelling odor. As you look closer, you become really perturbed.
+The corpse, is actually a distorted image of yourself. You panic as your fear
+of death is realized.
+
+Beautiful Young Woman   24542
+This young woman frolics playfully around the fountain, in the same
+state as she was brought into the world. Her hair is long, straight
+and red and she has the most alluring green eyes. She appears to
+not have a care in the world.
+
+The Eminent Dr. Frud   73086
+Doctor Frud is a powerful middle aged man with extreme physical strength as
+well as mental acuity. He stands all of seven feet tall and fits well in his
+muscular frame. His area of expertise is bringing out emotional confrontations
+in his patients and helping them deal with these confrontations. His shifty
+but deep and powerful eyes seem to explore and analyze you as are looking
+at him. Doctor Frud is not the strong but silent type. He is actually quite
+the talker once you get to know him. Why don't you say hi?
+
+Large Bully   8163
+This large bully is very large and scruffy looking. It doesn't seem as if he's
+combed his hair for a while or even cares about hygiene at all. He has a
+moustache, which is curious for a twelve year old. He also has a mean look in
+his eyes, the look that says, I can take you down with my little finger. Are
+you ready to fight him?
+
+Jealousy   18159
+What you see is jealousy, your own jealousy. It stands in front of you,
+looking over you and imagining all the things it never had. It is nothing
+but a burden to you.
+
+Stress   31633
+Your stress has taken the form of an image of yourself. However, the image's
+body is completely tense, as if it's going to explode. Also, the hair on the
+image appears to be pointed outwards. You wonder, are you really that bad
+during finals week?
+
+Right Brain    60932
+This Brain appears to be a right brain from your best judgement. And being a
+right brain it controls emotions as well as the mechanical functions in the
+left side of your body. The brain appears to be concentrating very intently
+on his art. Disturbing the brain would not be a good idea.
+
+The Eminent Dr. Fred    77060
+The eminent Doctor Fred is a tall and physically imposing man, standing
+close to six and a half feet tall. He is an older man, still awaiting his
+retirement by a few years. From his degrees on the wall, you can tell that
+Doctor Fred went to the best schools and has degrees in philosophy and
+psychology. He seems like a rather chatty man, why don't you say hello?
+
+Problem One   25115
+An electric freight train, inhabited by the ghosts of ten dead soldiers
+(which sadly receive no attention) is travelling E at 65 mph, and there is a
+westerly wind blowing at 34 mph. In the third freight car there is a bomb
+composed of 3.5 pounds of C4 explosives, the clock is set to detonate the
+bomb at 3:54 EDT, and you must ensure that all of its freight arrives at its
+destination intact. The train line is CN, its CEO is a man by the name of
+Gordon Willy. At a board of directors meeting, a decision regarding the line
+has been made, just three weeks before the hostile take-over by GM. Your
+father is so proud of his child (who is not related to you), the driver of
+the train headed for hell. The Moon, the Earth, and Jupiter are in perfect
+alignment. The wife of one of the dead soldiers smokes Marlboro cigarettes,
+a pack of 25/day, king size. The dish and the spoon that ran away together
+were seen in Hawaii; they have just finished serving up the cow that has
+re-entered the Earth's atmosphere. You have under four hours before the
+disaster strikes. The question is this: What is the name of the conductor?
+
+Problem Two    24896
+Solve the next number in the sequence:
+91
+62
+53
+64
+96
+??
+
+Problem Three    27056
+There was once a clock that lost time at a rate of 5 minutes every 1 hour
+and 45 minutes. If I set the clock correctly at 5 pm, what time is it the
+next day when the clock says 5 pm?
+
+Left Brain    264425
+This left brain is slightly modified from a standard human brain, in that it
+is self sustaining. It circles above you, as it has the ability to hover and
+move around at will. It appears similiar in structure to the normal left side
+of a human brain, and is fleshy with many visible nerves. It has no apparent
+skull or padding, but some kind of field protects it from damage.
+
+
+
+
+Baby Rattle (enchanted)
+This baby rattle is enormous and blunt. When it strikes its
+opponent, the rattling effect vibrates the opponent, causing even
+more damage.
+
+Ring of Right Brain Control
+This ring gives off many colors when exposed to light. The myriad of colors
+inspires many emotions inside you. Perhaps it would have an even greater
+effect if it was worn.
+
+Ring of Left Brain Control
+This ring seems like a normal looking ring. It has a simple band, and it
+would seem to fit your finger okay. Curiously though, it appears to make
+everything around you seem more clear.
+
+Lab Coat (Radiating)
+This lab coat appears to be used. However, it is made of a fine durable
+material. It appears to have been exposed to some sort of radiation,
+because it is glowing.
+
+Protective Bodysuit
+This protective bodysuit is made of a thin but very strong aluminum lined
+with padded leather on the inside for comfort. It is very thick but at the
+same time very comfortable, molding to your arms proportions as you wear it.
+
+Staff of Mind Control (enchanted)
+This staff measures about six feet long and is made of high quality oak. At
+the tip of the staff is a small sphere. As the sphere glows, it uses the mind
+energy of its wielder to emit piercing brain waves against its opponent. The
+staff is engraved with the words, 'Property of Dr. Fred'.
+
+.

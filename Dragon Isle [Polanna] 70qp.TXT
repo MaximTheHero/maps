@@ -1,0 +1,377 @@
+
+    climb
+    |
+    x
+    |
+    d-x-n
+
+n: nest
+  1) climb cliff 
+  2) climb 1-3 lf 
+  3) climb 3-3 lh
+  4) climb 2-4 rf
+  5) climb 4-4 lh 
+  6) climb 5-6 rh
+  7) climb 2-4 lf
+  8) climb 6-5 lh
+  9) climb 4-4 lf
+ 10) climb 8-6 rh 
+ 11) climb 5-6 rf
+ 12) climb 9-5 lh
+ 13) climb 5-6 rf
+ 14) climb 6-5 lf
+ 15) climb 9-5 rh
+ 16) climb 11-5 rh
+ 17) climb 8-6 rf
+ 18) climb 12-7 rh
+ 19) climb 9-5 lf
+ 20) climb 12-6 lh
+ 21) climb 13-7 rh
+ 22) climb 11-5 lf 
+ 23) climb 99-99 rh
+          
+                x-x-x-x-2-x
+               /           \
+              x             x
+             /               \
+            1                 x
+           /                   \
+          x   u                 3
+         /   /
+        x   x                   3-R-4
+        |   |                  /
+        x   1                 x     x
+        |    \               /     /
+        1     x           2-x     x
+         \     \         /       /
+          x     x-x-1-x-x       x
+           \                   /
+            1                 x
+             \               /
+              x           x-x
+               \         /
+                x-x-5-x-x
+
+R: river
+1: dragon cave
+2: liana - up
+3: liana - up, across, down
+4: liana (climb down liana, takes you to lagoon)
+5: enter, bat cave
+
+
+    x-x
+       \
+        x
+        |
+        Lagoon, raft
+
+raft takes you back to Island of Tapan
+
+
+   C-x-E-x
+          \
+           x
+            \
+     x-1     E
+    /        |
+   x         x
+   |        /
+   E       x
+    \     /
+     x-E-E
+
+C: from cliff you climbed up, 'jump down' to get down
+1: climb
+
+
+Bat cave:
+Floor 1:
+            x-x-x-x-x
+           /  |      \
+          x   x-x     x
+          |     |      \
+        x-x-x   x   x x x
+        | |     |   | | |
+      x x x-x x-x   x x x-x
+     /  |   |       |/ /   \
+    x   x x-x x-x   x x x-x x
+     \    |   |    /  | |  /
+      x   x W-x-x-x   x x x
+       \ /  | |       | |/
+        x   x x   u   x x
+         \ /  |    \ /
+          x   x     x
+              |
+             out
+
+W - where you come up from Nurgel level.
+
+Floor 2:
+
+
+           x-x-x-x x-x-x
+          /|     | |   |\
+         x x x   u x-x x x
+        /  |  \      | |  \
+       x   x-x x     x x x-x
+       |       |         | |
+       x   x-x x-x     x x x
+        \ /    | |     |  /
+         x     x x-x x-x-x
+          \    |    /
+           x-x-x-x-d
+
+Floor 3:
+
+
+         x-d-x-x
+        /       \
+     x-x         x
+                 |
+         d x   x-1
+         | |    /
+         2-x-x-x
+
+1: search rubble
+2: search
+proceed down
+
+        x-s-x-x-x
+       /    | |  \
+      x x   x x x-x-x
+     /  |   |   |   |
+    x-x-x-x x   x-x x
+    |       |        \
+    x   u   x   x-x   x
+     \  |   |     |  /
+      x-x   1   x-x-x
+            |
+            2
+
+s: where you end up in the cave
+1: Nurgel
+   give <gem color> to nurgel
+2: Coffin
+   throw vampire
+
+Mobs:
+A baby dragon
+A Ruby Dragon
+An Anteater
+A giant red ant
+A spider monkey
+A jungle plant
+A Giant Moth Larva
+A Baby Topaz Dragon
+A Baby Emerald Dragon
+A Sapphire Dragon
+A Tanzanite Dragon
+An Amethyst Dragon
+An Opal Dragon
+An Emerald Dragon
+A Pearl Dragon
+A Topaz Dragon
+An Onyx Dragon
+A giant toucan
+Killer Bee
+A Giant Man-eating Plant
+A Giant Tarantula
+A Diamond Dragon
+A Death Bat
+A Blood Bat
+Nurgel
+A Vampire
+The Multi-Jeweled Dragon
+
+Items:
+A Ruby Gem
+A Red Velvet Pouch
+A stalagmite
+A Tanzanite Gem
+An Amethyst Gem
+An Opal Gem
+Leaves
+An Emerald Gem
+A Pearl Gem
+A Topaz Gem
+A blue sparkling gem
+An Onyx Gem
+Diamond Dragon Scales
+A vial of thick crimson blood
+The Prismatic Jewel of Dragons
+
+
+qinfo
+First things first. Do your research.
+
+Goto the Wayhaven Library, and lookup all that you can. Prismatic Jewel, 
+Prismatic Dragons, Dragon Isle, etc etc. Theres plenty of lookups, I cannot 
+remember them all.
+
+Now head to tapan.
+
+If you are familiar with the Mira quest, this should be simple. 
+
+On the east side of tapan is a cliff you can climb down, climb down it, and 
+enter the cave. In here is a dragon protecting gold. If I recall theres a Mira 
+quest item in here, but that is not the purpose of our visit. Get the gold.
+
+Getting the gold will not get the gold, but will simply anger the Red Dragon.
+
+Have a bit of a peck at it, but don't kill it. This is important. After a while, 
+the fight will stop, the dragon will pick you up in its claws, and dump you 
+on the Prismatic Jewel Island.
+
+Items you will need for the solution.
+
+A red bag. A stalagmite. A 'coloured' gem.
+
+The quest is actually very simple.
+
+The bag can load in several places. It can be on some flowers near some 
+monkeys in the tree. Or it can be in one of the various dragon nests. It 
+may also be in the human's cave. I've only ever found it in the tree with 
+one character, and the nest in another.
+
+The stalagmite can probably load in any cave that has stalagmites.
+'break stalagmite' for me it was in the start cave.
+
+First things first.
+
+Drop everything. And I mean ecerything. If it did not autoload on, you 
+shouldn't be carrying it. If you have a weightless way of transporting 
+equipment, such as a follower or wieghtless guild bag, use it. If you are 
+carrying anything, anything at all, even items that reduce wieght, this 
+section of the quest will fail.
+
+Leave the opening cave and turn northwards. You may have to despatch a 
+dragon. Most of the dragons are 80k and reasonably harmless. The pearl 
+one can stun real bad. Climb the cliff. It might be good form to actually try 
+and work this out and fail abit. Falling off the cliff will cost you hp. If you've 
+given up or just want to plain well cheat, the path is following:
+
+Commands for client alias: pjclimb
+  1) climb cliff 
+  2) climb 1-3 lf 
+  3) climb 3-3 lh
+  4) climb 2-4 rf
+  5) climb 4-4 lh 
+  6) climb 5-6 rh
+  7) climb 6-5 lh
+  8) climb 4-4 lf
+  9) climb 8-6 rh 
+ 10) climb 5-6 rf
+ 11) climb 9-5 lh
+ 13) climb 6-5 lf
+ 15) climb 11-5 rh
+ 16) climb 8-6 rf
+ 17) climb 12-7 rh
+ 18) climb 9-5 lf
+ 19) climb 12-6 lh
+ 20) climb 13-7 rh
+ 21) climb 11-5 lf 
+ 22) climb 99-99 rh
+
+Bam. You're on the cliff. Follow the path around, entering all the caves, 
+searching all the bones, killing all the dragons. Take one of each gem. 
+You only need one gem total, but you wont know which one that is for 
+quite some time.
+
+Follow the path all the way to the end, and go visit the proper questy 
+dragon if you like. He'll attack you if you don't have prismatic jewel.
+
+We're done here for now.
+
+Go back to the start of this volcano top, and jump down. Head south, and 
+down into the jungle.
+
+Sw,s from the jungle start is a hidden cave. Search and find it. If theres a 
+nest, enter it, and search about. If the dragons prevent you from 
+searching mud, then the red pouch is here. Check for a stalagmite if you 
+dont have one. Move on.
+
+se,se,e,e is another cave location. Repeat.
+
+e,e,ne is a liana. 'climb liana'. Its a type of vine, if that ever becomes 
+relevant. Check the flowers / monkeys for the red pouch. Down we go.
+
+e,ne,ne Another Liana. This one actually allows us to cross the river we 
+have been following. Don't cross over just yet.
+
+
+e,e brings us to a liana drop. We can climb down there, and get into an 
+inlet with a waterfall. Behind the waterfall is a humans dwelling. This may 
+be a location for the red pouch. I honestly do not know. Go lagoon, beach.
+
+Check the cave out. Get the rest of the rooms, theres only a few, and 
+nothing to search. When you're done, return to the waterfall and 'push 
+off'.
+
+This will return you to  Tapan. Back to flying on 
+dragonclaw. Back to the liana we climbe down.
+
+2w, climb liana, across, d, 2 nw, here is another cave. Red bag, 
+stalagmites. Etc.
+
+== BE CAREFUL ==
+
+In the next rooms, nw is a group of 4 killer bees.
+
+They will all attack you. They all do addhp2 damage. Yes, not addhp, 
+addhp2. It can be as heavy as 120hp per round. The room is wimpyable. 
+But very dangerous. Kill everything, move on. 
+
+West of here is another tree, climb, bag etc. Follow the one way path 
+westward. All w. 2 sw, hidden cave, bag etc.
+
+ Keep going.
+
+2 more sw and you will come across a bush. Search the bush for a ring. 
+Remember the old qinfo saying Peridot ring of adornment is really a 
+marble, and trying to get one, and get your marble? Well this is the 
+peridot ring of adornment. It isnt any ring of adornment, its this specific 
+one. Get your marble. Continue along the path. You will encounter a leaf 
+man, he is similar to the killer bees.Theres another three caves. Two 
+insignifcant ones, and one impotant one. There is also one liana to climb.
+
+Into the significant cave. The bat cave.
+
+Head north and you will come to a dead ender. Search corner. Cave opens 
+up. Map it. Theres 56 rooms. All obvious. GO up when you get there. There 
+are plenty of mobs here, the death bats are great, and the invisible 
+wraiths can be killed by searching shadows. Every single room contians 
+stock text. Search for credibility, but dont expect to find anything. Onto the 
+next floor. Stairs on the southeast side btw.
+
+Same deal. Search, make bs gxp, whatever, Stairs are on the north side.
+
+Third floor. This one matters.
+2e, se, s, search rubble. Find hidden exit. I didn't see any point to it. 
+Perhaps it will matter to your instance.
+
+sw,3w, search about. Hidden tunnel.
+Follow it. When you're trapped by a web, clear it.
+
+== Exact Dirs Stop Here ==
+
+I appear to have misplayed my prismatic jewel maps.
+Anyway. Follow the stairs down, and eventually you will meet a mob.
+
+say master.
+say price.
+
+He will want a -colour- gem.
+
+The syntax is 'pay colour' I think. Its not give. And its never gem. You 
+manipulate the colour. I solved this quite a while ago. Qinfo/Maps half 
+missing. Anyway. Give over the gem and you're allowed in.
+
+Now you're in a room with a vampire. Don't try to kill it, you'll die. He's 
+immune to every damagetype. 'throw stalagmite' to kill the vampire. 
+Open the coffin for the prismatic jewel. Put it in the pouch, and make you 
+way back to the top of the volcano.
+
+Get the gem out of the pouch, and give it to the dragon in the middle of 
+the Caldera. You're done.
+

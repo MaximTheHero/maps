@@ -1,0 +1,180 @@
+sci,u,3e,d,e,path,s,14e,3s,d
+
+Top of Sinkhole
+     |
+Below the Rim
+     |
+Waterfalls
+     |
+   u/d-1
+1: A scruffy wild boy
+   say sifter
+   give meat to boy
+     |
+Overlooking the Bottom
+     |
+Bottom of Sinkhole
+
+search vehicle, open door - A Giant lizard
+kill lizard, get meat
+dig creek
+
+A Giant Lizard   1214
+Surely this monster must be mutated from normal lizards.  It looks
+like a five-lined skink, but it's over five feet long!  It is the
+burnt orange color of an adult skink, with some black lines that give
+it its name still visible on its sides.  Its throat fan is extended
+and it's prepared to defend its territory.
+
+
+A chunk of lizard meat
+Lizard tartare--if that's your thing then this meat would be perfect.
+The hunk of raw meat is grayish with splotches of blood still on it. A
+few ragged scales are hanging off the edge.
+
+
+Using your divine ability you discover the following information about the
+environment you are in:
+The following items can be examined in this room: 
+door
+Could someone have driven off the upper edge of the sinkhole?  It appears so
+from the skeletons inside the vehicle.
+
+auto
+Could someone have driven off the upper edge of the sinkhole?  It appears so
+from the skeletons inside the vehicle.
+
+roots
+Once the trees have some weightier branches and foliage, they are too heavy for
+the soft ground to support.  The trees then slowly fall over, exposing the root
+ball.  There are a number of dead trees lying around at these odd angles as well
+as some that are still alive.
+
+soil
+The ground is very wet.
+
+ground
+The ground is very wet.
+
+breeding ground
+If you look carefully you can see larvae or tadpoles swimming around in some of
+the puddles.
+
+sinkhole
+The beauty of the sinkhole is stunning!
+
+doors
+Could someone have driven off the upper edge of the sinkhole?  It appears so
+from the skeletons inside the vehicle.
+
+set
+Creatures must come down to the creek for water, or perhaps to lay in wait for
+prey.  One set of tracks looks human, and ends where it looks like someone was
+digging.
+
+foliage
+The abundance of water and nutrient-rich soil helps these plants grow extremely
+tall.
+
+trees
+Once the trees have some weightier branches and foliage, they are too heavy for
+the soft ground to support.  The trees then slowly fall over, exposing the root
+ball.  There are a number of dead trees lying around at these odd angles as well
+as some that are still alive.
+
+<superhidden>
+skeleton
+There are two skeletons in what used to be the passenger compartment of the
+vehicle, or you assume so.  There are two skulls anyway, and an assortment of
+bones--some attached to others, and some loose.
+
+insects
+These creatures have a perfect environment in which to grow and thrive.
+
+skeletons
+There are two skeletons in what used to be the passenger compartment of the
+vehicle, or you assume so.  There are two skulls anyway, and an assortment of
+bones--some attached to others, and some loose.
+
+weeds
+The abundance of water and nutrient-rich soil helps these plants grow extremely
+tall.
+
+root
+Once the trees have some weightier branches and foliage, they are too heavy for
+the soft ground to support.  The trees then slowly fall over, exposing the root
+ball.  There are a number of dead trees lying around at these odd angles as well
+as some that are still alive.
+
+skull
+The bones have been exposed by water and scavengers.  It's hard to tell how long
+they've been here.
+
+tadpoles
+These creatures have a perfect environment in which to grow and thrive.
+
+bugs
+These creatures have a perfect environment in which to grow and thrive.
+
+creek
+The water which pours into the sinkhole from the surrounding areas via the
+waterfalls has collected into this small creek on the sinkhole floor.  There are
+some tracks in the mud nearby.
+
+grass
+The abundance of water and nutrient-rich soil helps these plants grow extremely
+tall.
+
+tree
+waterfalls
+car
+vehicle
+root balls
+dead trees
+skulls
+The bones have been exposed by water and scavengers.  It's hard to tell how long
+they've been here.
+
+floor
+puddles
+ball
+digging
+Someone's been digging around and in the creek.
+
+root ball
+frogs
+tracks
+Creatures must come down to the creek for water, or perhaps to lay in wait for
+prey.  One set of tracks looks human, and ends where it looks like someone was
+digging.
+
+bone
+plants
+bones
+branches
+water
+mud
+medium trees
+small trees
+larvae
+balls
+The following items can be searched in this room: 
+vehicle
+One of the doors wiggles a little as you search.  Maybe it could be
+opened.
+
+car
+One of the doors wiggles a little as you search.  Maybe it could be
+opened.
+
+wreck
+One of the doors wiggles a little as you search.  Maybe it could be
+opened.
+
+skeleton
+One of the doors wiggles a little as you search.  Maybe it could be
+opened.
+
+skeletons
+One of the doors wiggles a little as you search.  Maybe it could be
+opened.

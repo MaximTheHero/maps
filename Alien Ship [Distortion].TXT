@@ -1,0 +1,90 @@
+sci,enter,u,4n,d,21n,11w,enter
+
+     Level 1            Sub-level 1      Level 2        Level 3        Level 4
+
+          x
+          |
+    x-x-x-x-x-x-x          x-x-x
+   /   /     \   \        /     \
+  x   x   T   x   x      x   u   x           T             T              T
+   \   \  |  /   /       |   |   |           |             |             / \
+    x   x-x-x   x        x-x-x-x-x         x-x-x           x   x        x   x
+     \ /  |  \ /                          /     \         / \ /         |\ /|
+      x   E   x                          x-x-x-x-x       x-x-x          x x x
+                                           |   |          \ /            \ /
+                                           x               x              x
+
+T - Turbo Shaft
+
+
+A Floater     25085
+This is a rather large alien which is floating in the air.
+
+A Sectoid   22375
+This is a small alien. It has large eyes, and antennae coming out of
+its head. It has a large head, because it is such an intelligent creature.
+
+A Surgeon   19051
+This is an alien surgeon. It is carrying a scalpel and some other tools
+used to examine.
+
+A Human (dying)   92
+This is a human, who is being tortured. He is almost dead.
+
+Asoua Aspian   16379
+This is Asoua Aspian, the wife of Ragnok Aspian, the commander of this ship.
+She is rather ugly, but well, so are all aliens.
+
+Michael Aspian    65250
+The third brother of Ragnok... Michael stands before you a strange man.
+He looks as if he could possibly be the most intelligent creature you
+have yet encountered.
+
+A Despian        57898
+This medium sized alien. It has grey hair, and small eyes. It appears to
+be stronger than its sectoid cousin.
+
+A Muton Man      28006
+A notorious Muton Man stands before you. It stands well over 7 feet, and
+looks as if it could kill you with a mean look.
+
+Varant Aspian     57373
+The second brother of Ragnok... Varant stands before you a powerful man.
+He looks quite similar to Edro, but is a slight bit smaller, and perhaps
+quicker than his older brother. He does not seem to like you at all.
+
+A Sectoid Leader   23414
+The alien which stands before you seems quite similar to the other
+Sectoids you have thus far encountered, except this one seems to be
+of a certain rank.
+
+
+
+
+A Laser Rifle
+This is a laser rifle used by the aliens. It is a very destructive weapon.
+The rifle is silver and has a red charge light on it.
+
+A Laser Cartridge
+A glowing cartridge used for a laser rifle. It has a green indicator.
+The indicator shows 100 shots remaining.
+
+Power Bar
+The Power bar is blue colored, and feels warm to the touch.
+
+A Scalpel
+This is a scalpel used by alien surgeons.
+
+Power Helmet (radiating)
+A Dark blue Helmet that radiates wildly with power.
+
+Power Boots (radiating)
+Dark blue boots that radiate wildly with power.
+
+Power Ring (radiating)
+A Dark blue ring that radiates wildly with power.
+
+Power Cloak (radiating)
+A Dark blue cloak that radiates wildly with power.
+
+

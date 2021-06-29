@@ -1,0 +1,238 @@
+Atlanta [Cletus]
+Dirs: u,3e,d,e,path,Science,12e,3n,road
+
+                        u b
+                        | |
+                        x-x
+                        |
+                        x
+                        |
+                        x-x-x
+                            |
+                            x
+                            |
+                            x 
+                            |
+                            x
+                            |
+                      E     x   0 9   x-x
+                      |     |   | |   | |
+                      x   x-x-x-x-a   x a
+                      |   |           |
+                x-1-H-x-x-x-x-x-x-x-x-x
+                      |   |   |   | | |
+            x-x-x-x-x-x c-x   x   x-x-x
+            |         |   |   |   |
+            x     8-7-x   x   x   x
+            |         |   |   |   |
+            x         x A x x-x-x x
+            |         | | |       |
+  x-x-x-x-x-x-x-5-x-x-x-x-t-x-d-x-x-x-x-a
+  |               | |   |         |     |
+  x               x 6   x         x-y   x
+  |               |     |         |     |
+  x               x     x         x     x
+  |               |     |         |     |
+  x             4-x     x-r       x     x
+  |               |     | |       |     |
+  x               x-x-x-x-x-x-x-x-x-x-x-x
+  |               |     |   |     |
+  x               x     x   x     x
+  |               |     |   |     |
+  x               x-x-x-x   x     x
+  |               |     |   |     |
+  x               x     x-x-x-x-x-x
+  |               |     |     |   |
+  2-x-x-x-x-x-x-x-x-x-x-x     u   x
+                        |         |
+                    3-x-x-x-x-x-x-x
+
+
+E: Entrance/Exit
+H: Hallways north and south
+0: dead pub to the east
+1: Pinnalce ATM
+2: EMA Complex [Rumor]
+3: Cowboy the netrunner.
+4: Megatech [Cletus]
+5: Drexler Nanolabs, Inc. [Olfin]
+6: Main Shop
+7: The Dead Hawaiian
+8: Mr. Johnson
+9: Main Shop
+u: Cyberpope is upstairs
+b: bathroom, brown marble in toilet
+a: Activator Booth
+   s, room in an abandoned building
+c: corpse
+t: Train Station
+A: Bio Area [Groosh]
+d: Kord Mutual [Cletus]
+   parking garage
+r: Abu, the store clerk (neutral).
+y: Cybers Insurance [Snookie]
+u: Green Lightning Gang Hideout
+
+
+The green lightning gang house:
+
+    |
+  x x x
+  | | |
+  x-u-x
+  |   |
+  x   x
+
+u: stairs up to gang lightning gang leader.
+
+Kord Mutual [Cletus]
+  Parking garage
+
+Level 1:   Level 2:  Level 3:  Level 4:  Level 5:
+
+
+                                        d
+                                        |
+                                        x
+                                        |
+        2                4            x-x
+        |                |              |
+    x-x-x   x-x-x-1    x-x-x  3-x-x-x   D-x-x
+    | | |   | | |      | | |    | | |   | | |
+    x-x-x   x-x-x      x-x-x    x-x-x   x-x-x
+    | | |   | | |      | | |    | | |   | | |
+    x-x-x   x-x-x    2-x-x-x    x-x-x   x-x-x-4
+    |       |                     |
+    E       3                     5
+
+D: Door
+   insert passcard
+d: stairs down to the datachip
+
+Monsters:
+Ares Roadster, trying to kill you
+Mitsubishi Nightliner driven by a couple of five-year-olds
+A 1973 Plymouth Duster, back from the dead
+An Aztech Uno
+Porsche 944 turbo, driven by a psychotic maniac
+A Volkswagon Emperor
+Toyota-Chrysler Jackrabbit 2050, driven by your Dean of Students
+Giant Mack Truck
+Truck driver
+A Channel 39 news reporter
+A Channel 10 news reporter
+A newshound, hunting for a story.
+A vile scum of a politician
+A typical male driver
+A typical female driver
+A typical teenage driver
+A typical fat driver
+A typical commuter
+A rich bastard driver
+Bank teller
+A homeless man
+A homeless woman
+Bigger Badder Brother Earl
+A homeless vagrant
+A city worker
+An Atlanta Metro police officer
+A Huge Security Guard
+A Green Lightning gang member
+An intimidating Green Lightning Gang Member
+A grungy Green Lightning Gang Member
+A large Green Lightning gang leader
+Cowboy the netrunner
+A five-year-old delinquent
+A Cure Gang Member
+A common street thug
+A low-level corporate executive
+A young F.T.S! gang member
+A young F.T.S! gang member
+A skinny F.T.S! gang member
+A tall F.T.S! gang member
+A large F.T.S! gang member
+A stocky F.T.S! gang member
+A huge F.T.S! gang member
+A large F.T.S! gang leader
+A church usher
+An FCCCP Bible-beater
+A church police
+The CyberPope
+Blade the apathetic
+A sewer rat
+A patrol drone
+
+Items:
+An ammo clip.
+Partial security armour.
+A Hollings RX assault rifle.
+Riot shield.
+A cybercam.
+A large broom.
+A nightstick.
+A crowbar.
+A Green Lightning Jacket.
+Mirrorshades.
+An Enfield T27 shotgun.
+A Ronco (TM) Gang Hideout Door Remover.
+An armoured jacket.
+A briefcase.
+An armoured longcoat.
+A Pinpointer-93 light pistol.
+An ancient DOS manual.
+A small silver crucifix.
+A holy baton.
+The CyberPope's papal ring.
+The CyberPope's Holy Robes of Power.
+The Cyber-Pontif Hat.
+A pair of Holy Shoes.
+A taser-charged Papal Jeweled Rod.
+CyberPapal Armour Plating.
+A Mohawk.
+A truncheon.
+A sledgehammer.
+Medium security armour.
+A fragmentation grenade.
+A note.
+A small hand written note which looks hastily written.
+
+  To whom it may concern,
+
+  If you found this note, then I must of pushed my luck too far.  Be leery
+  of this gun.  Its treasures are wondrous, but also very addicting.  It
+  would seem to pull you out of the worst of situations, but really what
+  its doing is gaining your trust, and luring you in.  Soon, you'll find
+  yourself dependant on it.  Unable to stop.  An addiction that I have
+  fallen to.
+
+  I was once nobody.  Now I'm rich and powerful.  None of it means
+  anything now.  As I am dead.  Heed my warning.  If you find this devil
+  cursed weapon, toss it aside.  Don't fall into the trap that I have been
+  caught in.
+
+  At least in death my soul is freed.
+
+  Sincerely,
+
+
+  A dead man
+
+Colt .45 Revolver.
+A old colt revolver like the ones found in the old west.  The gun
+appears to be a collectable or antique of some sort, and you figure
+probably wouldn't do well in an actual combat situation.  Something
+seems strange about the gun, but it is in remarkably good condition.
+You notice that there is a single bullet in the chamber, and the handle
+has an inscription engraved within it.
+
+  Beware:  A curse shall inhabit the owner of whomever possesses this
+  weapon.  Few have been lucky enough to escape the curse, as the greed of
+  all men cause their eventual downfall.  If luck be with you, and you
+  wish to try, then spin the chamber and pull the trigger, and see what
+  luck shall bring ye.
+
+A bag of Algae Crunchies.
+A bag of Doritos.
+A passcard.
+A skill-chipped monosword.
+A datachip.

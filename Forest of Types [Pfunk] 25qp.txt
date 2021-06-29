@@ -1,0 +1,743 @@
+Forest of Types [Pfunk]
+Dirs: wforest, e,2s
+37. Accipiter:
+
+
+
+	After having learned much about the man/trees and their
+	creator, it is apparent that there is much more to their
+	phenomenon to understand.  This time, visit the man/birds
+	in their titan sycamore, and seek Accipiter the mage/hawk,
+	a wise and peaceful elder.  Greet him, mention your quest,
+	and he will surely guide you through the process of
+	acquiring more knowledge about the world of the Powers.
+
+	You need not have solved the original Spire to solve
+	this quest, though familiarity with it can only help.
+
+	Note that this is a mission of peace.
+
+
+Seek mainly in the Realm of Fantasy
+
+Thinking : (5/10)          Exploring : (7/10)          Fighting : (0/10)
+
+Quest Point Value  : 25        Designed for Levels: 5+              
+Created by         : Pfunk and Wain  
+Party Quest        : NO!       Once per Reboot    : No              
+
+
+get letter from dying grus boy/crane south of spire. ('father, take note)
+13e,3n from road portal
+give note to grus (e,2s from wforest) then enter sycamore while he is distracted.
+go west in sycamore to find accipiter, the Mage/Hawk
+
+Note: different things can be asked for other than the moon tree branch.
+Get croc's eye by going to rocks and then squeezing anguis
+Get orange send by going to rocks and taking sand
+
+---------------------------------------------------------Accipiter
+Accipiter says: And good day to you too.  How may I be of help, visitor?
+'quest
+You say: quest
+Accipiter nods and says: I see, you have come to explore the world of my
+                         Powers...  What town are you from?
+
+'pinnacle
+Accipiter says: Aha! A citizen of old Cancer's ville...in our humble
+                sycamore.
+
+'cancer
+Accipiter says: I have shared few words with him myself, though I know him
+                to be a good man.
+
+TOME 1:
+There is no decipherable writing in this tome...it appears
+to be some sort of ledger.
+
+TOME 2:
+The second tome contains diagrams, but nothing essentially
+legible.
+
+TOME 3:
+Page 1:
+
+     Third crescent -- fifth cycle -- second quarter
+
+And so another tome is destroyed, its contents committed
+to memory and thus made mine, and mine alone.  I begin this
+current journal, my 255th since my fall from flight, with
+a heavy heart.  My studies involving the third-sphere ratio
+problems have met with uncertain results.  My other four power
+resources provide the necessary elements to feed the red mystic
+stream, but it remains insufficient as long as the third-sphere
+sources remain almost hopelessly tangled.  'Dryllus returned
+my query with similarly negative results, although he hastened
+to include several expletives condemning my study, regardless
+of his professional duties to aid me with the benefit of his
+knowledge.  It is of no matter, as I was disgusted enough with
+myself for having to enlist the resources of a former friend
+to augment my shameful work.  My mind remains exhausted from
+incantations, though still I am tireless in my quest.
+
+Page 2:
+     Fifth crescent -- tenth cycle -- second quarter
+
+The red stream, the intransigent crux of my otherwise hopeful
+schemes, remains insufficiently fed.  The third-sphere ratios
+utterly refuse to reveal their secrets to me, as I remain vexed
+at the origins of the tangles within this sphere.  Why is it
+that all other spheres I have sought to control have yielded
+almost instant power, all of it focused before it even met
+my mind as though seemingly suited expressly for my purposes,
+yet this one sphere reveals nothing to me but fog, haze and
+an otherwise imperturbable matrix of hopeless energy.  I begin
+to wonder if I am part of a scheme by the Power, keeping me
+landbound, ostracized, belittled...yet perhaps I should be
+penitent, for it could be I have been afforded a crucial role
+in our development as a new people.  Even were this the case, I
+am unsure of whether or not I would be willing to forego my 
+mission for the sake of the others...I refuse to exist for the
+sake of anyone but my own person.  Indeed, I fumed today for
+several hours again, cursing the mentality of our species.  It
+has never seemed to me that existing as a group identity would
+ever entail a prolonged life.  But this concern has grown
+tiresome...will I be [indecipherable] for this cause for as
+long as I am alive?  Or, as I wonder eternal, will I never 
+reconcile my fate of flightlessness, this cruel fate imparted
+upon me because of my supposed obstinance?
+
+Page 3:
+     Seventh full -- tenth cycle -- second quarter
+
+I almost wish that my exhaustive frustration would eventually
+turn to apathy, as my daily rage is hampering my studies.  The
+red mystic stream, that dogmatic field of nature which eludes me
+always, is still unfocused, and unrelenting in its stubborn
+unwillingness to reveal its power to me.  The third-sphere ratio,
+which is the deepest level of problematic contradiction I have
+been able to reduce the errors to, is as elusive to me as my
+first incantations.  Similarly, I am made to feel senile and
+ineffectual, as I am stuck on the most rudimentary of mystic
+aspects, that is, clearing the path for even the coarse power
+to present itself for my redirection.  I have come so far, and
+accomplished so much more...well, let the frustration rest for
+now.  I have lived for over a century without flight -- I can
+endure a century more, should that be what it takes to leave this
+infernal embarrassment of land-dwelling.
+
+Page 4:
+     Third gibbous waning -- second cycle -- third quarter
+
+     My health has taken an adverse turn.  My wings have begun 
+to atrophy beyond the point of neural sensitivity.  When I attempt
+to exercise them, I find their movements erratic and imprecise.
+I can sustain them with magics no longer, as they are saturated
+already with augmentation, and so I do not know what else I can
+do to preserve their functionality until I can somehow resolve
+the problems with my studies.  This has cast a pall over my mental
+state -- I was hardly content with my mystic futility when I felt
+that I had centuries to complete my work, and now that these
+centuries have been reduced to mere months, I trod ever helpless
+towards utter worthlessness.  I begin to finally, after long, long
+last, accept the notion of invalidity.  Eternally landbound, this
+seems my reward, as I no longer doubt that the Power has cursed
+me.
+
+Page 5:
+     Third full -- seventh cycle -- third quarter
+
+I have the premonition that I will soon be visited by a
+curious adventurer...
+
+
+Accipiter says: ...and here you are.
+
+
+'tome
+Accipiter says: I have little to hide from you dear friend, my tomes
+                relate nothing contemptible nor dark. I fear you will
+                understand little, but how else is knowledge gained but
+                for encountering the incomprehensible?
+
+
+'trees
+Accipiter says: I cannot help but find beauty in the majesty of trees. 
+                They are the kings of the forest, majestic and more than
+                grand.  My admiration has indeed been my undoing.
+
+'undoing
+Accipiter grins bitterly and says: I am without flight.
+
+'flight
+Accipiter, with bravery, says: I have been flightless for almost 120
+                               years.  But they be fruitful years indeed,
+                               for even as I am landbound, my study of
+                               magic has been fulfilling.
+'magic
+Accipiter says: You speak with such a cautious tone, marvelling
+                adventurer!  No need, no need...I study only the magics of
+                nature; my intentions are only to learn, and...and perhaps
+                a personal project or two...
+
+'project
+Accipiter says: True, I have devoted some careful study towards a
+                personal...endeavor...though I've found little success
+                thus far.
+
+'endeavor
+Accipiter says: I dare not speak of it out loud, talky explorer!  Our
+                fellow inhabitants have sensitive tympanums, lest they
+                discern our conversation I would be yet more scorned than
+                now!  Peruse my tomes if you wish more than I have told...
+
+'inhabitants
+Accipiter says: Yea, *squawk*, I was once a heralded leader of our vaunted
+                man/birds.  'Ere I fell from flight, I saw my stature fall
+                as well.
+
+'stature
+Accipiter says: The man/birds exist in a communal society, thankfully
+                bereft of an alpha male or equivalent.  But still,
+                positions of great respect and dignity evolve on
+                occasion...such was my standing, until a century and a
+                score ago.
+
+You say: respect
+Accipiter says: I am moved by your interest, dear visitor, yet I must
+                insist you probe no further.  As you might imagine, the
+                loss of one's loved one, be it to the confines of death or
+                to the white silence of dissolution, is not an easy cross
+                to bear.  I remain a soul in solitude, and I use my time
+                to great advantage, but...but it would be nice just once
+                to...perhaps see him...*squawk* please leave the issue be!
+
+'sycamore
+You say: sycamore
+Accipiter says: Well, if you've come to learn about our Power's world, you
+                have surely ventured accurately.  Yes, I can help you
+                learn about their Odyssey...
+
+'odyssey
+Accipiter says: So you are coming to me without much prior knowledge, this
+                I see.  It is no matter, I...ahh bugger, could you do an
+                old bird a favor, and help me stretch my wing?
+
+help accipiter
+You help the old hawk stretch his left wing.
+Accipiter says: Ahh yes, that's it, much obliged...
+
+Accipiter says: You are a good soul...I will indeed help you in your quest
+                for knowledge.  But before we embark upon this new
+                learning, will you carry out just a small chore for me?
+
+'yes
+Accipiter says: Ahh, good, good...you are most kind.  There is a special
+                forest south of the mainland, the Forest of Types.  If
+                only you'd be so kind as to retrieve for me a branch of
+                the Moon Tree, and some Argent Resin.
+
+Accipiter continues: It is a trifling request almost... both are easily
+                     enough obtained. And I will ensure that the forest
+                     will aid you.
+
+Accipiter says: I need both items for a broth I am cooking.  When you
+                return with them, we can both sit and enjoy the warm soup,
+                and I'll tell you all you wish to know about the world of
+                the creators.
+
+Accipiter says: Oh, and concern yourself not with the crane who guards my
+                home... he will pay you no heed.
+
+'resin
+Accipiter says: Argent Resin is extracted from the branches of the silver
+                tree.  It is valued as a powerful reagent by some
+                alchemists, but I use it for its rich flavoring and
+                thickening properties in my soups.
+
+'moon tree
+Accipiter says: One of the amazing trees of the Forest of Types.  It is
+                not possible for me to bring justice to their magnificence
+                with mere words.  You will have to experience them for
+                yourself.
+
+'types
+Accipiter says: The Forest of Types is an enchanting island to the south,
+                and a fairly new addition to our realms.  Its origins have
+                a tale about them...
+
+'tale
+Accipiter says: Several centuries past, back when the realms were lush,
+                untorn by the new beasts called into our lands whilst
+                their summoners waged a bitter, pointless struggle, our
+                kind was born.
+
+Accipiter says: As it was told to our first generation, and as it has been
+                passed down through our myths and blood, our own war would
+                be with the man/trees of the north.  And yea, for
+                centuries we did war with the trees, as it continues today
+                thus.
+
+Accipiter says: However, once a young hawk named Accipiter came of age, he
+                decided that blood need not be spilt any longer, that our
+                claws need not sunder bark, nor our beaks pierce the dry
+                flesh of wood any more.
+
+Accipiter says: This young hawk was the first to voice such a thought, and
+                he was received thus with indifference at first.  However,
+                he soon gained renown for his scholarship, and attained
+                high rank among his kind despite his radical anti-war
+                beliefs.
+
+Accipiter says: And one day, this enterprising hawk embarked upon a
+                certain project...he flew to an island south of Wayhaven;
+                a desolate though fertile isle, and spent the greater part
+                of the next forty years planting a magical forest ripe
+                with all species of trees.
+
+Accipiter says: When my creation was complete, I offered it to the
+                man/trees as a gesture of peace, as a message that at
+                least one man/bird remains averse to the violence of years
+                past.
+
+Accipiter says: And yea, once our Power gained word of my offering, I
+                found myself here, on the cold ground, remanded to a fate
+                of flightless impotency.  A bittersweet tale, yea.
+
+
+'extract
+Accipiter says: You'd generally have to break a branch open to extract its
+                essence.
+
+'branch
+Accipiter says: Yes, trees have branches.  Some of them even contain
+                substances with important properties, but most are just...
+                branches.  You'd generally have to break a branch open to
+                extract its essence, however.
+
+'essence
+Accipiter says: The properties of a tree's essence vary greatly from
+                species to species.  The trees of the Forest of Types
+                contain a great many useful substances.  Some have
+                medicinal purposes, some culinary; others have importance
+                to other trades.  I'll leave it up to you, intrepid
+                adventurer, to discover that for yourself.  If you have a
+                true need, the tree will meet your request, however.
+
+'serpent
+Accipiter says: And which serpent would this be?
+
+'anguis
+Accipiter squawks: Anguis!  Well I'll be, heh heh...it's certainly been a
+                   long time since I heard _that_ foul reptile's moniker. 
+                   I wonder, whatever could your business be with him...?
+
+'eye
+Accipiter furrows his feathery brow: Eye?  Surely I know nothing about
+                                     that, friend...
+
+'cocodryllus
+Accipiter says bitterly: He was once a fond friend of mine, a 'soulmate'
+                         as you might term it.  It is a cruel fate indeed,
+                         that my fall to flightlessness and subsequent
+                         scholarship in magics caused him to turn away
+                         from our friendship.  He is a disbeliever in the
+                         ethics of sorcery, you see, er...I believe he
+                         finds my interests unsettling, to some degree. 
+                         It is a reasonable enough concern on his
+                         part...he is a sincere, honest sort, the sort I
+                         respect deeply.  It is true that I miss him
+                         dearly sometimes.
+
+'crocodile
+Accipiter squawks: You've come across the crocs then?  You are on the
+                   right path!
+
+give moon branch to accipiter
+Accipiter says: Aha, yes!  This is what I was looking for.  And did you
+                not have luck finding the Argent Resin?
+
+give resin to accipiter
+Accipiter says: Wonderful, wonderful, now I have both the branch and the
+                argent resin, this is all I need to complete my
+                anticipated broth, now let's...err, um...oh, bother!  I've
+                just realized that I have another small problem to solve
+                before I can finish cooking my broth...are you willing,
+                yet again, to aid me?
+
+'aid
+Accipiter says: The special stoking I use for my kettle can only be
+                extinguished with orange sand, and I've run through my
+                supply already it seems!  Would you be so frightfully
+                helpful as to fetch me some? 
+Accipiter says: I'm sure you've come across some in your recent travels...
+                when you return I will finish my broth and you and I,
+                friend, we will sip our soup and speak of grander things,
+                eh?
+
+give sand to accipiter
+Accipiter says: Ahh, yes, it was kind of you to aid me yet again.  I feel
+                that I have taken advantage of your generosity...
+
+Accipiter says: Well, I'll be...you've managed to help me yet again, young
+                explorer!  Now, I can get to cooking up this soup for us,
+                and helping you find out more about our Powers.  *Squawk*
+                say, would you help out an old bird and scratch my neck? I
+                think I have a moisture rash but I can't seem to reach
+                that part of my neck...I would consider it a warm favor...
+ 
+scratch neck
+
+You lean over and gently scratch the bird on its neck...
+
+Accipiter says: Well, I must say, you have been too kind to this aging
+                featherbag.  I'm almost embarrassed!
+
+Accipiter says: Well, nevertheless leave me be, for now at least.  I will
+                cook the broth presently, but as it is a sacred family
+                recipe, I am somewhat picky and finicky about folks
+                watching as I prepare it.
+
+Accipiter says: Simply come back a short while later, and mention the
+                broth, and I'll let you know how things are brewing!  But
+                mind your patience -- disturb me thrice before the broth
+                is ready, and I'll serve none at all! Now be off, kind
+                Pinnacle breed!
+(get kicked out into main room of sycamore)
+
+(gave it about 1/2 an hour then came back.)
+'broth
+Accipiter gives you a wry look.
+
+
+Accipiter speaks sternly: Yes, the broth is ready, Player.  But it is
+                          only you who shall partake.
+
+Accipiter hands you a short white staff.
+
+Accipiter says: This is the broth I have prepared, though as you can see,
+                it is no broth.  Rather, it is a powerful artifact which
+                will grant you audience with our Power.
+
+Accipiter says: You have proven your worth to me through your unwavering
+                willingness to help me with my troubles.  You have proven
+                your patience by leaving me be as long as I so desired. 
+                And you have made an old bird very happy, as I had long
+                since resolved that no such benevolent soul existed in the
+                realms in these, these dark days when guilds send their
+                members out on crass missions of slaughter...
+
+Accipiter says: The Odyssey of the Powers is a tale of a nature, seemingly
+                nonsensical to most mortals.  It is impossible to
+                understand for those not directly involved.  But I leave
+                it to the discretion of our Power to grant you the
+                knowledge you seek. Take and use the artifact -- it will
+                warm to your soul before long, and take you to our Power. 
+                Thus is my task completed.  I have nothing left to tell
+                you.  The rest is up to you, Player!  'Ere this be the
+                last time we meet, farewell, farewell proud Notadragon, I
+                hope you learn much that is hidden.
+
+You feel a sudden dizziness and your surroundings change!
+
+(get kicked out into main room of sycamore)
+
+'artifact
+Accipiter says: It is important that I leave the rest up to you,
+                Player.  I shall say no more.
+
+
+
+---------------------------------------------------------Cocodryllus
+'hi
+Cocodryllus says: Truly I am in no mood for pedestrian chat, adventurer. 
+                  Begone, yea?
+'mood
+Cocodryllus growls: If ye know not why, ye must be daft!
+
+'tree
+Cocodryllus says: It brings me peace to surround myself in the physical,
+                  and metaphysical beauty of these mottled oaks and pines.
+You say: moon tree
+Cocodryllus's right eye flashes.
+Cocodryllus says: It be the Moon Tree ye seek?  True, ye be close, as it
+                  lie just beyond this creek.  But to visit our fair
+                  Mother, I'm afraid, is quite out of the question.  You
+                  see, since with only one eye I cannot tell friend from
+                  foe, alas you may not pass.
+
+'eye
+Cocodryllus growls: My eye was snatched by the wicked serpent, Anguis.
+
+'anguis
+Cocodryllus says: Ah, we have a long history of enmity, he and I.  He is
+                  but a wee snake, ye see...but he caught me unawares last
+                  night, and plucked my eye from my brainpan.
+
+Cocodryllus says: He slithered off before I could lay chase.  He is
+                  probably back in his rocky refuge by now.
+
+Cocodryllus says: I wonder how he even made it to this isle.  Perhaps he
+                  stowed away in some adventurer's boat.
+
+Cocodryllus says: I wonder how he even made it to this isle.  Perhaps he
+                  stowed away in some adventurer's boat.
+
+'refuge
+Cocodryllus snarls: The piteous beast finds home in brief rock
+                    settlements, and prefers unbearably hot, dry
+                    conditions.  Indeed, he is not a native of this
+                    island.
+
+'argent resin
+Cocodryllus drones: I have heard of people extracting that from the silver
+                    tree.  I pay little attention to such activities,
+                    however.
+
+
+'accipiter
+Cocodryllus states: That stubborn old pigeon... still cooped up in that
+                    sycamore, is he?
+'sycamore
+Cocodryllus says: Aye, I was once a friend of the denizens of the titan
+                  tree...Accipiter was as close a companion as one could
+                  want.  But 'ere he lost his flight, and took to magics,
+                  I found his company vile.  
+
+Cocodryllus says: Foul magics aside, he be a friendly, eccentric mage,
+                  though our relationship now be indifferent.
+
+'indifferent
+Cocodryllus says: Aye, perhaps not as indifferent as I would suggest.
+                  *growl* Proud adventurer, tap not my emotions any
+                  further, lest your hubris and free speaking be the gore
+                  of you...
+
+give eye to cocodryllus
+Ok.
+Cocodryllus takes the eye with his scaley hamfist...
+Cocodryllus says: Well I'll be! You've gone and rescued my sight from the
+                  withered serpent himself!  Praise be to you, fine,
+                  worthy adventurer...
+Cocodryllus pops his eye back into place...
+Cocodryllus says: E'en before I cast my truest gaze upon thee, by thy acts
+                  alone I know thy character to be true indeed.  This I
+                  need not sight to see.  You are welcome here.
+
+
+
+
+
+
+------------------------------------------------------------Forest of types
+1 entrance/ferry
+	la post 6, read message
+		The inscription reads:
+
+			Let us rise above our past, follow our minds over
+			our hearts, and live with meaning.  May the trees
+			and the birds find the strength to resist their
+			origins.  Thus this forest is dedicated.
+2 amber tree
+3 brink of an inlet
+4 silver tree
+	'branch
+		The tree graciously lets a branch fall to the ground.
+	break branch
+		With some difficulty, you snap the branch in half.  A silvery
+		resin oozes out and congeals upon the ground!
+5 moss-covered boulder
+6 purple, three-legged rodent                                                                     
+7 Iron tree
+8 Mica tree
+9 magma tree
+10 Vulca Tree (dark)
+11 water tree
+12 Kenyu Tree
+13 crawl through undergrowth
+14 Cocodryllus
+15 Moon tree
+	'branch
+		The tree graciously lets a branch fall to the ground.
+
+                                                                                                  
+      15                                                                                            
+      |                                                                                           
+      |                                                                                           
+      14                                                                                          
+       \                                                                                          
+        .                                                                                         
+         13-12 3--*--*                                                                            
+        /| /    \ |  |                                                                            
+       / |/      \|  |                                                                            
+      *--11       4--*                                                                            
+       \ |       /|  |\                                                                           
+        \|      / |  | \                                                                          
+         *     3--6--5--2                                                                         
+          \   /    \ |\ |                                                                         
+           \ /      \| \|                                                                         
+            *  6     7--*                                                                         
+               |\   /| /                                                                          
+               | \ / |/                                                                           
+               *--*--*     1                                                                       
+               |\ |  |\   /|                                                                       
+               | \|  | \ / |                                                                       
+               *--8--5--*--*                                                                         
+               | /    \ |  |                                                                       
+               |/      \|  |                                                                       
+               9        *--10                                                                     
+                                                                                                  
+                                                                                                  
+---------------------------------------------------Settlement of Rocks
+random in desert, search rocks
+Anguis is there
+
+'hi
+Anguis says: Bah *hisss* why darest thou intrude?
+
+'eye
+Anguis says: Indeed, I snared the croc's eye for a snack, I did! And I'll
+             never give it back, even if you tried squeezing it out of me.
+             Brash adventurer, leave me be!
+
+'croc
+Anguis says: And what of this loathsome lizard, adventurer?
+
+'accipiter
+Anguis says: *hiss* Bah, he is but a foolish old wren!
+                                                                                                  
+squeeze anguis
+You lunge forward with great tenacity, and grasp Anguis about his
+neck and midriff!
+
+You throttle the poor snake, as he hisses and squeals
+like a wounded child!
+
+You give one last squeeze, and at last, the choking serpent 
+coughs up his bounty, a giant eyeball!
+
+
+You toss the snake down to the ground.
+
+Anguis screeches and disappears through a tiny hole in the dirt.
+
+-----------------------------------------------------------Artifact
+la artifact
+
+A branch of wood as white as purest ivory, this short staff is decorated and
+inscribed with designs formed by orange sand and argent resin.  The origin of
+these strange and serpentine images is truly not of the present realm.  It
+appears to be more an object of divinity, than a weapon for combat.
+
+This weapon is in excellent condition.
+
+la designs
+The images on the staff appear to be totally disordered at first.  As
+you gaze closer, you begin to see patterns emerge from the chaos. 
+Suddenly, as if your mind and eyes are focusing in unison for the first
+time, the majesty of the overall design becomes clear.  You are
+awestricken by the power bound up in this staff and fear what might
+happen if the pattern was traced and the power unleashed.
+
+trace pattern
+As you trace the pattern on the staff, bright sparks of
+white light dance around in your wake.  Surges of energy
+course through your body; almost more than you can bear!
+
+You almost give up in agony, when suddenly, you finish.
+
+The staff is definitely warmer, but there don't seem to
+have been any apocalyptic, or even interesting, results.
+
+You look around, half in disappointment, half in anticipation.
+
+
+The quarterstaff warms to your grasp.
+The quarterstaff warms to your grasp.
+The quarterstaff warms to your grasp.
+The quarterstaff warms to your grasp.
+The quarterstaff warms to your grasp.
+
+The staff abruptly turns cold!
+
+The hoary, freezing sensation becomes almost unbearable --
+it feels more blistering than the breath of a red dragon,
+yet you are unable to loosen your grip!
+
+The artifact suddenly bursts into flame, an icy white 
+conflagration which envelops your hand, and soon your
+entire arm!
+
+The silver blaze consumes your shoulder, your torso...unable
+even to think, you watch with awe and dread as your entire body
+is soon indistinguishable from the flame itself!
+
+A deafening clap of energy resounds forth from within your body!
+
+
+
+Another burst of searing sound, as though a barrier were
+being razed!  
+
+Three more blasts of deafening proportions, in quick succession!
+
+You can see nothing around you except a light beyond that of the sun!
+
+...then, silence...the deepest depths of silence, a state
+beyond peace...
+
+...at the center of your vision, barely outlined by a soft aura of
+white light, you see a shape...you cannot discern whether the
+image exists in space before you, or in your very mind...
+
+As you gaze at the figure, you find yourself thinking the 
+following words:
+
+'I must move to the center of my world...'
+
+'...once there, I must look up, towards the sky...'
+
+'...at that time, I will begin to understand.'
+
+The image fades, and as the light surrounding it dies down,
+you sense that the moment has ended...
+
+The artifact, once burned into your hand, has disappeared.
+
+Sight returns to your eyes, darkness becomes light again.
+
+You turn your gaze skyward, and fix your eyes upon the world above...
+
+...the multicolored sky appears as it always does, but gradually...
+
+...shapes in the sky begin to become apparent to you...the pompous
+clouds gently round their edges and project sinews of mist in the
+vague suggestion of...faces!
+
+...and these faces, these half-realities that seem to exist partly
+in your very mind, begin to assume the countenances of men...
+
+...shifting your gaze about, you notice that the entire sky, the
+limitless expanse a horizon around, is alive with these faces,
+expressions of the very essence of peace...
+
+...a slim, blue face floats in front of a wide, indigo face, both
+smiling upon you as though you were an honored visitor to their
+reality...
+
+...seemingly swimming in the molasses of the infinite space, these 
+benevolent profiles collectively close their eyes towards you,
+and you feel a slight shiver budding from inside your heart...
+
+...you glance down in a momentary response towards the subtle
+pain in your chest -- it is both a pain of envy and of bliss...
+
+...as you quickly raise your eyes back up to the skies, still
+cowering slightly over your heart, you see that the faces have
+gone, slipped back into the hilts and scabbards of the clouds 
+and constellations...
+
+...you are left with the vague knowledge that there exists a
+dimension of life far above this one, where thoughts pass as
+though silent lightning through the clouds, and where a bliss
+may be found amongst the brash spirits of the wind and rain.

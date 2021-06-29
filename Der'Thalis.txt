@@ -1,0 +1,139 @@
+eforest, 2s,sw,w,nw,enter mist,n,nw,n,ne,n,nw,n,ne,n,10w,s,4sw,6w,sw,s
+
+
+
+
+                                                                                     to George Weathermay
+                                                                                    /
+                                                                                   x
+                                                                                   |
+                                                                                   x
+                                                                                  /
+                                                                               1-x
+                                                                                 |
+                                                                     x-x-x-D     x
+                                                                     |/  |\|     |
+                                                                     x-u x x-x   x
+                                                                     |\|   |X|   |
+                                                                     x x-u x x   x
+                                                                     |/|   | |   |
+                                                                     x-x-u x-x   x
+                                                                     | |  /|    /
+                                                               x-K-x-x-x-x x u-x
+                                                               |/| |\ /|    \  |
+                                                           x-x-x-x-u-x-x-u-x x x x
+                                                             |/  | | | | |/|  / /|
+                                                           x-u-x-x-x-x-x-x-x-x x x
+                                                               |     | |   | |/|\
+                                                             x u-x-u D x-x-u x x x
+                                                             |\ /| |/  | |\   X
+                                                             x-x-x x-x-x x-x x-x
+                                                                 | | | |   |\ /
+                                                                 x u x u x-x-x x
+                                                                     |\   /  | |
+                                                                     x x-x-x x-x x-x
+                                                                    /|/|/|/ /  |X|\|
+                                                                 x x-x x-x-x   x x-x
+                                                                 | |/ \|         |
+                                                               x-x-x x x-x       x-u
+                                                                 |\| |/
+                                                                 x x-x-x
+                                                                    X
+                                                                   x-x
+                                                                  /|/|
+                                                               x-x x x
+                                                              /| | |
+                                                         x-D-x x-x x-x
+                                                           |/|\ X  | |
+                                                           x-x-x-x x-x-x-D
+                                                             | | |   | |
+                                                             x-x-x-x x x               x-x-x-x-x
+                                                             |/  |\|/|/|               | | | | |
+                                                           x-x x x-x x-x             x-x-x-x-x-x-x
+                                                          / \ /| | |/|               |   | | |   |
+                                                         x   x x-x-x-x-x           x-x   x-x-x   x-x
+                                                              /|   | |  \          | |     |     | |
+             x-x-x-x   x-x-x-x-x-x-x-x-x-x                   x-x-x x D   x-x-x-x-x-x-x     x     x-x
+             | | | |   | |   | | | | | | |                     | |/                | |     |     | |
+         x-x-x-x-x-x-x-x-x   x-x-x-x-x-x-x-x-x-x-x             x x                 x-x-x-x-x-x-x-x-x
+         |     | | | | | |   | | |   | | | | | | |            /| |                   | | | | | | |
+       x-x     x-x-x-x-x-x-x-x-x-x   x-x-x-x-x-x-x-x-x-x-x-x-x-x-x                   x-x-x-x-x-x-x
+         |     | | | |         | |   | |   | | | | | | | | | | |                       | | | | |
+         x-x-x-x-x-x-x         x-x-x-x-x   x-x-x-x-x-x-x-x-x-x-x                       x-x-x-x-x
+           | |   | | |         | | | |     | | | | | | | |                             | | | | |
+           x-x   x-x-x-x-x-x   x-x-x-x   x-x-x-x-x-x-x-x-x                             x x x x x
+           | |   | | | | | |   | | | |     | | | | |                                   | | | | |
+         x-x-x-x-x-x-x-x-x-x   x-x-x-x-x   x-x-x-x-x               x-x                 x x x x x
+         | | | | |   | | | |   | |   | |   |   | | |               | |                 | | | | |
+       x-x-x-x-x-x   x-x-x-x-x-x-x   x-x-x-x   x-x-x-x-x         x-x-x-x-x             x-x-x-x-x
+         | | | | |   | | |   | | |   | | | |   | | | | |         | | | | |               | | |
+         x-x-x-x-x-x-x-x-x   x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x             x-x-x
+           | | | | | | | |   | | | | | |                       | | | | | |
+           x-x-x-x-x-x-x-x   x-x-x-x-x-x                       x-x-x-x-x-x
+               | | | | | |   | | |                                   | | |
+               x-x-x-x-x-x-x-x-x-x                                   x-x-x-x-x
+               | | | | | | | | |                                         | | |
+             x-x-x-x-x-x-x-x-x-x       x-x                               x-x-x-x-x-x-x-x-x
+             | | | | |   | | | |       | |                               | | | | |     | |
+           x-x-x-x-x-x   x-x-x-x-x-x-x-x-x-x                         x-x-x-x-x-x-x     x-x-x-x
+           | | | |   |     | | |   | | | | |                         | | | | | | |     | |
+         x-x-x-x-x   x-x   x-x-x   x-x-x-x-x-x-x                     x-x-x-x-x-x-x-x-x-x-x
+         | |   | |   |     | |     | | | |                           | | | | | | | | | | |
+       x-x-x   x-x-x-x   x-x-x   x-x-x-x-x                     x   x-x-x-x-x-x-x-x-x-x-x-x-x
+       | | |   | | | |     | |   | |   | |                     |     | | | | |     | | | | |
+       x-x-x   x-x-x-x-x   x-x-x-x-x   x-x-x   x-x-x-x-x-x-x-x-x-x   x-x-x-x-x     x-x-x-x-x
+         | |   | | | | |   |   | | |   | |     | | | |   |   | | |   | | | |         | | |
+         x-x-x-x-x-x-x-x-x-x   x-x-x-x-x-x   x-x-x-x-x   x   x-x-x-x-x-x-x-x         x-x-x
+               | | | |   | |   | |   | | |   | |   | |   |   | | |
+               x-x-x-x   x-x-x-x-x   x-x-x-x-x-x   x-x-x-x-x-x-x-x
+                         | | | | |   | | | | | |
+                         x-x-x-x-x-x-x-x-x-x-x-x-x
+                         | | | | |   | | | | |   |
+               x-x-x-x-x-x-x-x-x-x   x-x-x-x-x   x-x-x-x-x
+               | | | |   | | | | |   |   | | |     | | | |
+           G-x-x-x-x-x   x-x-x-x-x-x-x   x-x-x-x   x-x-x-x-x
+             | | | | |   | | |   | | |   | | | |   | | | | |
+             1-x-x-x-x-x-x-x-x   x-x-x-x-x-x-x-x-x-x-x-x-x-x-Wisp
+                 | | |       |   | |     | | | | | | | | | |
+                 x-x-x       x-x-x-x     x-x-x-x-x-x-x-x-x-x
+                   | |         | | |     | | |
+                   x-x-x-x     x-x-x-x-x-x-x-x
+                         |     | | | |
+                         x-x-x-x-x-x-x
+                             | | |
+                             x-x-x
+                             |
+                             M
+
+1: Cove of the Three [Talismon]
+
+
+Elven hunter (undead)
+Wolf beast (undead)
+Wolf zombie
+Undead wolf
+Elven zombie (undead)
+Elven zombie
+Elven skeleton (undead)
+Zombie elf
+An elven ghoul
+A ghoul (elvish)
+An elf (undead)
+Undead elf
+Elvish ghoul
+Skeletal elf
+Dark treant (young)
+Dark treant (adult)
+Skeletal bat
+Dark treant (elder)
+Shadow creature
+Rotted deer buck
+A deer (undead)
+Undead elven huntress
+Undead elven hunter
+Elven hunter (undead)
+Will o' wisp (hovering)
+Mountain lion zombie
+A skeletal bear
+Mountain lion (undead)
+A zombie deer

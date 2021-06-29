@@ -1,0 +1,47 @@
+
+Main floor:                 Ventilation:               Sub-Floor
+
+  E-x-x   x-x x      
+    |       | |
+    x     x-x 6              x       x                     4
+    |     | | |              |       |                     |
+    x     x-x x              x       x                     5
+    |     | | |              |       |
+  x-x-1   x-x x              x       x
+    |       |                |      /
+  x-x-x     x                x     x
+    |       |                |      \
+  x-x x     x-x              x x     x
+    | |     | |              | |     |
+  x-x x     3-x            x-x-x   x-x
+    |       | |              | |     |
+  x-x-x     x-x              x x     x
+    |       | |              | |     |
+  x-x-2     x-x              x x     x
+    |       | |                      |
+    x   S   x-x                      x
+     \  |  /
+      x-x-x
+        |
+        x
+        |
+        x
+        |
+        x
+        |
+        x
+        |
+        x-x
+        |/
+        x
+
+
+1: open compartment, get string
+2: duct
+3: topple stack, enter duct
+4: push button
+5: Alien Queen - smash grate, squeeze through grate, pry crack
+6: open vent, enter vent
+S: start
+
+

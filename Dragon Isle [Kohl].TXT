@@ -1,0 +1,243 @@
+
+
+                        x-x-x
+                       /     \
+                      x x-x-x x   x
+                     / /     \|  / \
+        x   x   x x-x x 3-x-4 x x   x-x-x
+         \   \ /  |  \ \  |   | |\     /
+        x-x-x x   x   x x-x-2 x x x-x-x   5
+         /   \|  / \   \     / /   /   \ /
+        x-1   x-x D x   x-x-x-x-x-x x-x x
+                  |  \     /  |    /| |\
+                x-x-x-x-x-x-x-x-x-x-x-x-x
+                 \| | | | | | | | | | |/
+                  x-x-x-x-x-x-x-x-x-x-x 6 x
+                    | | | | | | | | |   | |
+                    x-x-x-x-C-x-x-x-x x x-x
+                    | | | | | | | | | |  /|
+                    x-x-x-x-x-x-x-x-x x-x-x
+                     \| | | | | | | | | |/
+                      x-x-x-x-x-x-x-x-x-x
+                      | | | | | | | | | |\
+                      x-x-x-x-x-x-x-x-x-x-x
+                        | | | | | | |   | |\
+          x-x     x-x-x-x-x-x-x-x-x-x-x-x-x-x
+         /| |     | | | | | | | | | | | | | |\
+        x-x-x-B x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-7
+          | |   | | | | | | | | | | | | | | |
+        x-x-x-x-x-x-x-x-x-x-x-x-x-x-V-x-x-x-x
+        | | | | | | | | |     | | | | | |
+        x-x-x-x-x-x-x-x-x x-9 x-x-x-x-x-x-x
+         \| | | | | | |   |/ /| | | | | |/
+          x-x-x-x-x-x-x-A x x-x-x-x-x-x-x
+           \| | | | | |   | | | | | |/
+            x-x-x-x-x-x-x x-x-x-x-x-x
+             \| | | | |/ / / / /
+              x-x-x-x-x 8 C x-x
+
+
+
+1: Saoirse, the Shadow Dragon.
+2: Tyhhra, the Mother of White Dragons.
+3: Sslyra, the Mother of Red Dragons.
+4: Byrontic the blue dragon (Evil).
+5: Euryla, the Mother of Cave Dragons.
+6: Piristin, the Black Faerie Dragon.
+7: Sxithia, the Mother of Black Dragons.
+8: Zzylia, the Violet Faerie Dragon.
+9: Cherstil, the Green Faerie Dragon.
+A: Chlorritia, the Mother of Green Dragons.
+B: Spiri, the Blue Faerie Dragon.
+C: Sha'anikaar, the Mother of Sand Dragons.
+D: Byrontiqua, the Mother of Blue Dragons
+V - Village of Dragonport
+C - Village of Cromm
+
+
+Savage Warrior  3651
+This is a member of the nomadic people who hunt on the plains of Dragon
+Isle.  He is lean, and bears no weapons, as his hands and the tools he
+can build from his surroundings are plenty to bring down enough food to
+feed him.  He is a loner by choice, and is very wary of strangers.
+
+/Small/Large green/blue/sand/black/red/cave/white dragon
+Baby <color> dragon   12785
+The small dragon hisses, baring its teeth in menace. It is very young,
+really only a hatchling.  Beware, though, for even a small dragon can be
+a deadly menace.  Its scales are <color> in colour.
+
+Small <color> dragon   13202
+The small dragon hisses, baring its teeth in menace. It is only a young
+adult, still far away from its full growth. Beware, though, for even a
+small dragon can be a deadly menace. Its scales are <color> in colour.
+
+Large <color> dragon
+The dragon hisses, baring its teeth in menace. It is a full adult,
+though it is not ancient. Beware, for a dragon can be a deadly menace.
+Its scales are <color> in colour.
+
+Ardis, the Ranger of Dragon Isle
+Ardis, the ranger of Dragon Isle, is a man of indeterminate age. His
+weatherbeaten face seems to be lined more by hard work and the elements
+than by time, but he moves like an old man, his joints crackling and
+popping with his motions. One of his legs seems entirely useless,
+hanging limply from his hip. His eyes bear much sadness, but he seems
+quite wise to the ways of Dragon Isle.
+
+A fighter
+This is a young fighter, drawn to the Isle by the promises of adventure
+and treasure.  He brandishes his dagger about in an unexperienced
+manner, showing off and trying to seem important.
+
+Bron, the Blacksmith of Dragon Isle
+Bron is a tall, burly man with long, frizzled steel-grey hair.  His skin
+has been burnished to a coppery sheen by his long hours at the forge,
+the copper colour in stark contrast to his deep blue eyes.  He is quite
+massive, his muscles strengthened by the hard labour that he has made
+his life.  It is said that none can best him at his specialty, crafting
+armour from the hide and scales of dragons. He could probably teach you
+a lot about armour.
+
+A large gator   184
+This large reptile has extremely large teeth set in a long snout.  It is
+an eating machine, its massive jaws snapping with enough power to sever
+the heads of small animals.  Beware, it has its sights set on you!
+
+An ogre   8192
+This ogre is a large humanoid, standing almost 10 feet tall.  He remains
+perfectly still as he stares at you coldly, waiting for you to show any
+sign of aggression.
+
+A <gender> Stone Giant   6636
+This is a <gender> Stone Giant, standing about 10 feet tall.  He/She is very
+large and strong, his/her features seeming craggy like the stone of the
+earth.  His/her skin is dusky grey in colour, and he/she reminds you of nothing
+more than a large, animated pile of stone.
+
+The Stone Giant Chief
+
+Sxithia, the Mother of Black Dragons   316286
+Sxithia is the eldest black dragon on Dragon Isle, and the mother to
+most of the others.  Her serpentine body is covered in black scales, the
+colour of reminding you of decayed plants and the muck of the swamp.
+Her luminescent eyes are the only coloured part of her, glowing bright
+and malevolent green.  She is evil, but not vicious, watching you warily
+for signs of violence.  You would be wise not to anger her.
+
+Sha'anikaar, the Mother of Sand Dragons    248989
+At first, Sha'anikaar seems to be a mass of living sand, rising from the
+ground and shaking off the sand she had buried herself in.  Her dusty
+tan hide is mottled and dull, to hide better on the beach in which she
+makes her home.  She is truly massive, the most ancient of sand dragons
+on Dragon Isle, and the mother of most of them.
+
+Zzylia, the Violet Faerie Dragon   63779
+Zzylia is a curious creature, about the size of a large dog.  Her skin
+is a deep violet, her eyes a clear blue, her butterfly wings every
+colour in between.  She looks just like her dragon kin, albeit much
+smaller. You can see intelligence and mischief in this charming
+creature.
+
+Cherstil, the Green Faerie Dragon   65747
+Cherstil is small, flitting about you anxiously to look at you from all
+angles.  His size can be deceiving, though, for he is more intelligent
+than most humans.  His claws are very sharp, glistening black with a
+tint of green.  His skin is a deep green, contrasting nicely with his
+yellow eyes.  His goassamer-thin wings are patterned in both colours.
+He looks very much like a miniature dragon with butterfly wings.
+
+Chlorritia, the Mother of Green Dragons    304304
+Chlorritia glares at you with glowing yellow eyes, her sheer size making
+you gasp and draw back.  Her eyes are each larger than your head, her
+wings look like they could completely block out the sun, should she
+choose to spread them.  Her scales are every colour of green imaginable,
+from green so deep it seems black to the lightest chartreuse, the darker
+scales on her top and the lighter scales on her belly.  She is the most
+ancient of green dragons on Dragon Isle, and is mother to most of the
+rest.
+
+Spiri, the Blue Faerie Dragon   68032
+Spiri is a small, strange creature, resembling a miniature dragon.  Her
+skin is patterned with different shades of blue, from lightest sky blue
+to deepest azure. Her eyes a clear violet, matching the patterns on her
+gossamer thin butterfly wings. You can see intelligence and mischief
+twinkling in the eyes of this charming creature.
+
+Byrontiqua, the Mother of Blue Dragons    369272
+Byrontiqua lays here, her tail coiled around her.  Her long forked
+tongue flickers from between her massive teeth, giving off small streaks
+of static electricity.  Her scales are a clear deep blue, hardened by
+the centuries she has lived and grown in knowledge and power.  She eyes
+you with scorn, as if she does not consider you worthy of the air you
+breathe.
+
+Saoirse, the Shadow Dragon    366947
+Lurking in the shadows, Saoirse glares at you with luminous eyes.  You
+cannot judge the full mass of her body, as she seems to be made from the
+shadows themselves, but you are left with the impression of a huge body.
+You can detect the writhing coils of her tail lashing around in the
+shadows, showing her irritation with your presence in her lair. Take
+care not to make her angry, for she is a deadly adversary.
+
+Tyhhra, the Mother of White Dragons   300347
+Tyhhra is a truly ancient dragon, her lifespan measure in centuries,
+with no end in sight.  Her teeth are as long as your arms, her pale
+ice-blue eyes the size of shield.  Her breath is the cold north wind
+able to steal the heat from living things.  She is the eldest of all the
+white dragons on Dragon Isle, and mother to most of them. She is evil,
+but not vicious, only attacking to protect her hoarde.
+
+Sslyra, the Mother of Red Dragons   301834
+Sslyra is an ancient dragon, her life measured in centuries rather than
+years.  She coils around her hoarde, her scales glistening in every
+colour of red that you could imagine, from the deep crimson of the dried
+blood of a murdered child to the vermillion of the sun settting over a
+battlefield.  She is the eldest red dragon on Dragon Isle, and the
+mother to many of them.
+
+Byrontic the blue dragon (Evil)    945354
+Byrontic, the infamous blue dragon, is coiled here, little sparks of
+electricity racing through his scales and across his claws.  He watches
+you warily, seeming to search you for something with his ancient eyes.
+You have heard many rumours about this fantastic being, tales of his
+evil ways and many conquests, but you have never heard that he was
+cruel.  He has lived for centuries, growing in power and wisdom.  Speak
+with him carefully, for you surely risk your life by intruding on his
+lair.
+
+Euryla, the Mother of Cave Dragons    390774
+Euryla looks as though she was formed from the bones of the earth
+itself, her massive pale body almost completely filling this cavern.
+She moves almost lazily, her immense muscles moving menacingly beneath
+her smooth scales, but you get the impression that she could move
+frighteningly fast if she were threatened.  She is the most ancient of
+the cave dragons on Dragon Isle, and the mother to most of them.
+
+Piristin, the Black Faerie Dragon    65564
+Piristin is small, no larger than a large dog, but his size is
+deceptive, for he can be quite deadly if he chooses.  His claws are
+razor sharp, the same glistening black as his dark skin.  His eyes are
+clear violet, and his butterfly wings patterned with both colours.  He
+looks very much like a miniature dragon, and just as menacing.
+
+
+
+
+
+
+Ancient <Color> Dragon Scales
+These are the scales of a <color> dragon.  Judging by the size and quality
+of the scales, you think it came from a ancient dragon.  If you took it
+to the smithy on Dragon Isle, perhaps you could get it made into armour.
+
+Shimmering Octachromatic Dragon Armour
+This suit of armour is impressive, made with the scales of ancient
+dragons of each of the eight kinds of dragons on Dragon Isle.  This
+suit, however, seems to be imbued with more than just the protective
+aspects of the dragon scales.  A subtle shimmer in the scales plays with
+the light, slowly shifting between the eight colours of the incorporated
+scales.
+
+
+

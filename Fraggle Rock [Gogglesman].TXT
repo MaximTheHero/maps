@@ -1,0 +1,88 @@
+chaos,2s,w,contort self, enter rock
+
+
+      x
+      |
+      x
+      |
+      1
+      |
+      x
+      |
+    x-x-E
+      |
+      x
+      |
+      x
+      |
+      2
+
+1: fly north
+2: touch arch (exit)
+
+Mokey Fraggle    356
+This is Mokey Fraggle, one of the more mature Fraggles that you will
+ever meet.  Mokey has green hair and a grey complexion.  She enjoys
+writing poetry and painting pictures.  If you ask her nicely, she might
+share some of her work with you.
+
+Gobo Fraggle    3025
+Gobo Fraggle is one of the many cute Fraggles that wander the caverns
+of Fraggle Rock.  Gobo actually wanders a lot more than most Fraggles--
+he considers himself to be quite an explorer and is in the process of
+mapping all of the areas of Fraggle Rock that he has visited in the past.
+Gobo has an orage complexion and purple hair that appears to be made of
+yarn.
+
+Red Fraggle    355
+This is Red Fraggle, one of the adorable creatures that wanders the halls
+of Fraggle Rock making it a generally happy place.  Red has a nice orange
+complexion and bright red hair that she splits into ponytails.  Generally,
+Red is singing or playing a game of some sort.
+
+Wembly Fraggle     405
+Wembly Fraggle has bright yellow hair to complement his yellow complexion
+and always looks like he is having but he also seems to be on the verge of
+inviting you to join in all of the fun that he is having.
+
+The Oldest Fraggle In the World      15435
+
+Boober Fraggle    422
+Boober Fraggle is one of the few Fraggles in the entire world that
+doesn't seem to be having a good time.  Not only does he not sing
+songs or play games constantly, but he seems to be a bit reclusive.
+Boober has red hair that he covers up with a nice cap.
+
+Avalanche Monster    49486
+This is the terrible Avalanche Monster, the guardian of Wonder Mountain.
+The Avalanche Monster looks like a huge pile of stones that somehow
+manages to walk around.
+
+
+
+
+A map of Fraggle Rock
+This is a map that Gobo Fraggle has been creating to show all the
+places that he has visited within Fraggle Rock.  It has various
+stains and is rather crumpled, but if you were to read it, you would
+probably be able to find your way around a bit better.
+
+Boober's Cap
+This is a simple cap that used to belong to Boober Fraggle.  It
+looks like it would provide some protection for your head, but
+not much!
+
+The Aurora Fragglialis
+This is the Aurora Fragglialis, plucked out of the sky by Raest.
+It appears to be a huge cloth, shimmering with bright colors
+and dazzling hues.  Your head spins trying to comprehend how the
+complex patterns can exist in the small package you cradle in your
+arms.
+
+A big stick
+This is a rather large stick.  It doesn't really look all that interesting.
+You could probably use it to beat on other objects, but it certainly
+wouldn't make a very good weapon.
+
+
+

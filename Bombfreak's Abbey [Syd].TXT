@@ -1,0 +1,119 @@
+science, enter,u,4n,d,8n,2e,path
+
+    1 x-d     x-u     u-3
+    | |         |
+    x-x         x
+    | |         |
+    x-x       x-x-x
+    |           |
+    P           x
+                |
+              x-x-x
+                |
+                x
+                |
+              x-x-x
+                |
+                x
+                |
+              x-x-x
+                |
+                x
+                |
+              x-x-x
+                |
+                x-2
+
+1: Altar - lift altar (don't know what's supposed to happen, i got ported to login)
+2: down, push button
+3: search barrels
+
+
+A Worshipper   6189
+You are looking at a pale, slightly mutated male of about
+25 years.  His flesh nearly hangs on his bones.  Still, you
+sense a fire behind his eyes, and a feeling of desperation.
+
+Keith, the Altar Keeper    10034
+Keith is a slightly mutated man in his thirties who has been given the
+job of maintaining and guarding the altar while the priest is away.
+His large bulk and small brain make him well suited for this duty.
+
+An Anti-Technologist Guard   20800
+This guard is a 4th Generation mutant, and like others of his
+generation here at the compound, he has acquired the ability to
+project lethal radiation from his body.  This ability, obviously,
+makes him a useful guard.
+
+An Anti-Technologist Mother   14703
+This middle-aged woman looks tired and pale, like her husband.  She
+also has the strange white glow around her that seems to provide her
+with strength and power.
+
+An Anti-Technologist Child    6004
+This child of about fifteen is a member of the 4th Generation of these
+peoples.  These children have acquired the ability to project
+radiation into their environment, which makes them formidable
+opponents once they learn to control this power.  They are also less
+pale and wan than their parents, due to not having been exposed to as
+much radiation yet.
+
+An Anti-Technologist Father    15760
+This is a moderately mutated Anti-Technologist man in his early
+forties.  He has a pale complexion and always seems to look tired.
+The strange glow around him, however, seems to imbue him with strength
+and vigor.
+
+Anti-Technologist Elite Guard  23592
+Some members of the 4th Generation of Anti-Technologists have acquired
+psionic abilities.  These young prodigies are drafted at a very young
+age and trained to be members of the Elite Guard.  You are looking at
+a heavily mutated member of this Guard, and he doesn't appear to be
+too happy with you.
+
+Police Chief Bailey    35378
+Police Chief Bailey is responsible for enforcing the laws handed down
+from Robert, the compound's spiritual leader. He is the biggest man
+you have ever seen, standing a full 9 feet tall.  A nearly blinding
+white glow emanates from him, and you know that this man commands
+respect.  He glares at you and barks commands.
+
+Robert, High Priest of the Bomb Worshippers   181
+This is Robert, the spiritual leader and highest authority to the
+Anti-Technologists.  He is in a trance right now, allowing his body to
+soak up the healing RADs.  Any sudden movement might awaken him, and
+the power welled up inside this man is a sight to behold.  If you wake
+him up, he will kill you. REPEATING: HE _WILL_ KILL YOU!!
+
+Radiation God   49599
+All you can make out about this entity is a swirling mass of greenish
+mist.  Contorted faces and mangled bodies seem to form out of the mist
+and melt back into it in a sickening peristalsis.  The most disturbing
+quality, however, is the silence.  Not the slightest murmur rises from
+the entity.
+
+
+
+
+A Chunk of Depleted Uranium
+This is a small nugget of depleted uranium.  Depleted is
+a relative term, of course.  The Bomb Worshippers don't
+seem to mind it, but then again, they dig radiation.
+This stuff sells well on the market, as it is used
+as ballast in munitions.
+
+A Deputy's Badge
+This is the badge belonging to one of the complex's
+deputies.  The thing is made out of a strange alloy that
+seems to glow faintly.  Whatever it is, it burns your skin.
+You might want to sell it rather than wear it.
+
+An Antique Colt 45 Pistol
+What a find!  This is, er was, Police Chief Bailey's favorite
+antique, a pre-war handgun of small caliber.  You recognize
+it as a Colt 45, a powerful handgun in it's time.  You
+see no bullets in its chamber, nor would you even DREAM
+of firing such a beautiful, old weapon...
+
+
+.

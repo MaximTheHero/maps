@@ -1,0 +1,24 @@
+Alchemist's House [Solo]
+Dirs: Wayhaven, 12n, leave, 9n, 3w
+
+
+
+            2
+            |
+          x-1
+          |
+          E
+
+
+
+E: Entrance/Exit
+1: Zosimus the Alchemist
+2: Hovis the servant
+
+insert <object> into cows mouth
+transmoot
+push hand into cows rump
+
+Monsters:
+Zosimus the Alchemist
+A huge Dire Bear

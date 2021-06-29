@@ -1,0 +1,24 @@
+European Robotics - Survey, Design and Development Office [Nermal]
+Dirs: Science, 8e, 17n, e, enter, 10e, 13ne, 4n, w
+
+
+
+       x-x-x
+         |
+       x-x-x
+         |
+         x
+         |
+       x-1-x-E
+
+
+
+E: Entrance/Exit
+1: push button
+
+
+Monsters:
+A pleasant looking secretary
+A wiry man with a moustache
+A tall, bulky man
+A dapper-looking man

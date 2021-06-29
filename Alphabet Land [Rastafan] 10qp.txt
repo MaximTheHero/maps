@@ -1,0 +1,28 @@
+AREA NAME: Alphabet Land [Rastafan]
+AREA RATING -> A Leap in the Dark
+Monster class range since inception: 30 to 4,307,770
+Monster class range for this boot  : 13,750 to 1,373,755  (Average: 527,328)
+
+
+1
+|
+A-B-C-D-E
+|   |   |
+F-G H I J
+    | |
+K-L-M-N-O
+|     | |
+P Q-R S T
+  |     |
+U-V-W-X-Y-Z
+
+1 - mission.  kill the letters to spell a buncha words (all the letters)
+stat boost for 48 hours
++1 str
++2 dex
++1 int
++1 con
++1 wis
++1 cha
+
+collect letters, spell Helicopter @ H

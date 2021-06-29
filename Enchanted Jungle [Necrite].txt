@@ -1,0 +1,74 @@
+Enchanted Jungle [Necrite]
+Dirs: Chaos, 3e, 2s, 2e, n, e, s
+
+Jungle:
+
+     E
+     |
+     x-x-x-x
+     | | | |
+     x-x-x-x
+     | | | |
+     x-x-x-C
+     | | | |
+     x-x-x-x
+
+
+E: Entrance/Exit
+C: Climb up the cliff
+
+
+Cliff:
+
+
+    x-C
+    |
+    S  
+    |
+    x
+
+S: Slide down to Jungle
+C: CLimb to Plateau
+
+
+Plateau:
+
+     x-x-x
+     | | |
+     S C-x
+     | | |
+     x-x-x
+
+S: Slide down to Cliff
+C: Climb to top of a rock
+
+
+Top of a Rock:
+
+     L
+     |
+     d
+
+d: is down, duh
+L: A Lion
+
+Monsters:
+Gorilla
+Siberian Tiger
+Monkey
+Python
+Buzzard
+Grey Elephant
+Bengal Tiger
+A Lion
+
+Items:
+A Lion's Fur.
+A lion's fur. Its golden color is very attractive. [fake]
+
+A Lion's Fur.
+The golden color of this exquisite lion fur glimmers with a radiance
+unheard of for the skin of a normal creature. Indeed, the great beast
+whose skin this was, had immense power and authority bestowed to it by
+a magical means. To wear this skin is to take on those qualities of
+that extraordinary creature.

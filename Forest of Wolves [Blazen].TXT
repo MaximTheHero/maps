@@ -1,0 +1,53 @@
+chaos, 3s
+
+               x-x
+               | |
+               x-x-4
+               | | |
+       x-x-x-x-x-x-x
+       |   | | |/| |
+       x   x-x-x-x-x
+       |   | |/| |
+       x-1-x-x-x-x
+       | | |/| |
+       x-x-x-x-x-2
+     | |/| | |
+     E x-x-x-x
+     |/
+   3-x
+
+
+
+
+1: Door
+2: Jack's House [Xiola]
+3: Old MacDonald's Farm [Tuesdai]
+4: Locked Cottage
+
+Chipmunk   92
+This chipmunk is the epitome of 'cuteness.' You wouldn't want
+to hurt this adorable creature, would you?
+
+Little Red Riding Hood   92
+A young girl who is playing in the forest.
+
+Squirrel   71
+A small, grey squirrel. It is probably searching for nuts.
+
+Lumberjack   1637
+Tall, rough skinned and extremely robust, the lumberjack
+has spent many years here cutting trees. He looks
+down upon you with a tired expression.
+
+Small wolf    83
+A black wolf who inhabits this forest.
+
+
+
+Random Amulet
+
+A lumberjack's axe
+This axe has been used to cut down many trees.
+
+
+

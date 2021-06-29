@@ -1,0 +1,124 @@
+chaos,4w,e,s,w,s,2e,grab joystick,w,s,play dead or alive 3
+
+select snow,e,s,kill ein,search pile,open door
+
+select building,w,jump through window,kill lee,open grate
+
+select cliff,kill wong,jump down,jump down,jump down
+
+select cage,e,s,k bayman,w,open door
+
+select aquarium, k bass, climb ladder, get urchin, swim out
+sea urchin id'd as Lint Marble
+
+select forest,e,k hitomi, cave, search leaves
+
+select final, kill omega, end game
+
+
+Ein   36142
+Ein is very mysterious looking. He is clad in black leather over his
+entire body and has black sun glasses on. A black trench coat covers
+his body, and the wind billows it up from his feet, making you think
+of Neo from The Matrix. Ein moves with lightning speed and motions for
+you to fight him with his fingers.
+
+Jan Lee   42490
+Jan Lee is a solitary fighter. His nickname is the dragon and he looks
+an awful lot like Bruce Lee. You begin to wonder how creative the
+developers were. He is on a quest to find a stronger enemy than his
+last victim. He is wearing red pants and is fighting in the tournament
+with his partner Leifang. His clan has been known to show up when he
+gets in trouble.
+
+Dragon clan ninja    5k
+
+Leifang     20k
+
+Brad Wong    49809
+Brad Wong is a drunk, or at least that's what he wants you to think.
+He is a drunken boxer and is in the tournament to search for a
+legendary drink called Gerna. He believes it is the wine of warriors.
+He wears a simple shirt and pants, and has a bottle hanging from his
+waist.
+
+Bayman    48094
+Everything about Bayman says BAD ASS. He is an assassin trained in
+martial arts and military tactics. He seeks revenge against Donovan
+for making an attempt on his life. He wears military fatigues and a
+beret. In the tournament he partners with Leon.
+
+Leon   28204
+
+Bass   38317
+Bass Armstrong is an x-professional wrestler. His goal is to stop his
+daughter Tina from winning the tournament because he wants her to
+become a professional wrestler too. He is gigantic and has bulging
+muscles in places you didn't think could bulge. He is wearing a black
+hat, a black leather vest and black pants.
+
+Tina   36051
+
+Hitomi   57559
+Hitomi has a mix of German and Japanese ancestry. She is a master of
+karate and has entered the tournament to test her skills. She is
+wearing a jean jacket and jean pants and has long brown hair. As you
+watch her, she moves from stance to stance, perfecting her form.
+
+Omega     70436
+Omega, or Genra as some people know him, exists in this blurry
+forsaken place. The hazy nature of the landscape makes it very hard to
+see any details about this individual. He has a weapon which could
+only be described as "The double bladed staff light saber from Star
+Wars Episode 1", and you sigh once again at the lack of creativity
+being expressed.
+
+
+Items:
+A Gourd
+This gourd contains a small amount of the Wine of Warriors. It is
+rumored to have legendary healing powers. It is reddish in color and
+not very big.
+
+Tina's Gloves
+The gloves are made with a thin tight material and have long tassels
+running down their length. Whoever designed these was aiming for
+looks, not practicality. They are very feminine looking and smooth to
+the touch.
+
+Leifang's heels
+These blue high heels have long spiked tips. They look very awkward
+for walking in. If they provide any sort of protection, it would be
+amazing. They strap on at the ankle and over the top of your feet.
+
+Hitomi's Jacket
+This tough jean jacket will provide ample protection from the cold and
+help to absorb some impact from trauma weapons. It is blue with silver
+buttons and has a pocket in the front.
+
+Ein's trench coat
+This slick black leather trench coat was once worn by Ein in his
+attempt to win the Dead or Alive tournament. Obviously he lost since
+he isn't wearing his coat.
+
+Bass's Glasses
+These sunglasses look to be Oakley imitations. Whoever bought them was
+surely ripped off and would be very upset if he or she finds out. They
+look fairly slick and you can't help wondering if they will make you
+look cool.
+
+A grenade
+The grenade is segmented to provide maximum fragmentation on
+detonation. It is black and has a pin secured by a long handle. You
+could pull the pin to activate it, but you had better get rid of it
+soon after.
+
+Energy Staff (enchanted)
+This weapon is capable of emitting contained energy in two directions
+forming a deadly energy staff. The handle is somewhat heavy, but the
+blade has no mass. You feel like somebody out of some sort of star
+battle movie trilogy when you hold it.
+
+A sea urchin
+This is a prickly little ball that moves its quills as you touch it.
+

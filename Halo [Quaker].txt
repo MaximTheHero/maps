@@ -1,0 +1,137 @@
+
+1st Floor
+
+               |
+          x-x  x
+          | |  |
+        x-x 1  1
+        |   |  |
+      2-x   3  x-E
+        |      |
+        x-x x  9
+        | | |
+        x-4-x-x
+            |
+          x-x-u
+
+
+E: Entrance, lay down - exit
+1: jump over pipes
+2: Captain Keyes
+3: chair
+4: Elite mob, need this corpse
+9: Surgery Room
+
+2nd Floor
+
+             x-x--x
+             |    |
+           5-x    x-x
+           | |      |
+           x x-x<-x-x-6
+               |
+             7-8
+               |
+           x-x-x 
+             |
+             d
+
+
+5: Smoke-Filled Room - exit is random sometimes
+6: Sandino
+	-A jury rigged shield assembly belt.
+	-A shiny force-shield assembly belt. (the good one)
+7: Surgery room - search tray for scalpel
+	dissect elite corpse from 4
+	With Sandino following you, say install.
+8: throw chair through window
+
+step one
+get chair @3
+say follow @6
+once you see 'Sandino sighs.', goto 4, wait for him to start fighting
+the elite, then kill the elite
+wrap the elite corpse, take it to 7, unwrap the elite corpse,dissect corpse,
+say install, once the wall of text finishes, you have a belt in the other
+slot, and an attachment in a magical slot, then goto 2, say cortana
+once he stops talking your ear off, leave
+
+
+A dark-skinned marine <.>
+This dark-skinned human marine is dressed in dark coloured combat
+fatigues.  He is gripping his pistol a bit too tight and has a
+desperate look in his eye.  He looks like he knows how to use it.
+
+A lightly-armoured marine
+This human marine is dressed in dark coloured combat fatigues and is
+of average height.  He is gripping his pistol a bit too tight and has
+a desperate look in his eye.
+
+A technician in an orange jump-suit
+This human tech is dressed in an orange jump-suit and is of average
+height.  He is agitated and moves about his tasks with almost reckless
+haste.
+
+A technician in a tattered orange jump-suit
+This human tech is dressed in a tattered and bloody orange jump-suit
+and is of average height.  He is agitated and looks around nervously
+as if he thought someone was following him.  He is bruised, battered,
+and looks afraid for his life.
+
+A pimply marine <.>
+This pimply human marine is dressed in dark coloured combat fatigues.
+He is gripping his pistol a bit too tight and has a desperate look in
+his eye.  He looks like he knows how to use it.
+
+Captain Keyes
+Captain Keyes is dressed in a grey combat flight suit, and is slightly
+taller than average.  He holds an unlit pipe in one hand and stares
+with concern at the tactical readouts in front of him.
+
+A short yellow-armoured creature
+This creature is small, only about 3 feet tall, and is partly covered
+in a suit of body armour with yellow highlights. Its whole body is
+very round, with short arms and legs that give it a waddling gait.
+
+A blue-armoured elite
+This creature stands almost 9 feet tall and looks very strong.  Its
+strangely articulated legs and 4-part jaw give it an almost
+insect-like appearance, though it stands on two legs.  It is wearing
+blue body armor that conceals its true coloration.
+
+
+
+
+
+A M6D pistol (enhanced)
+This pistol is a recoil-operated, magazine-fed handgun.  It is
+generally issued with a smart-linked scope but this one does not
+appear to have one.  It is designed to fire 12.7 mm
+semi-armour-piercing rounds.
+
+a comfortable-looking office chair
+This chair is made of some composite metal and comfortable-looking
+padding.  It looks like it would be great to sit on.
+
+A M6D clip.
+
+A metallic plasma pistol (enhanced)
+This plasma pistol is only slightly larger than your hand, and fits
+like a pair of brass knuckles.  It is rather heavy, and has no obvious
+way of being reloaded.
+
+A blue plasma rifle (enhanced)
+This plasma rifle is purple with light blue highlights and has
+smoothly rounded lines.  Your hand fits neatly into the center of the
+almost glove-like design, neatly balancing its rather considerable
+weight.
+
+A razor sharp scalpel
+This scalpel is made of some sort of grey metal and looks insanely
+sharp.  However, it is very thin and would probably break with any
+heavy use.  It looks like the kind of knife you might use to dissect
+things.
+
+
+
+

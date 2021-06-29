@@ -1,0 +1,209 @@
+Science,enter,u,3e,d,e,path,12e,3n,road,2s,5w,3s,5w,8s,enter
+
+floor 1:       basement:    floor 2:      garage:
+
+   4-E-3-x       x-x-x       x-x           Out
+   | |   |         | |         |            |
+   5 x   2       u-x-x         x x-x        M-x
+     |             | |         | |          | |
+     1           x-x-x       6-d-x      x-x-x-x
+                   | |           |      | | | |
+                 x-x-x       x-x-x      x-x-x-x-x
+                             |
+                             x
+
+M: search bins - Tin Marble
+1: stairs, need a passcard (to floor 2)
+2: garage, need a passcard
+3: search drawer - small passcard
+4: Maintenance door
+5: basement
+6: Map of Atlanta
+---M-----------------------------P-P-
+--M-M-------------S-S-S-S--------P----
+------M----------S-S-------------P----
+-M-M-M-M-M----------S-S-S----------C--
+------M-M-M-M-M----S-S-S-S---------B--
+---------M-M-M------------S-S------U--
+----------M-M-----------------------B-
+-------O---M-M------O-O-O-O-O-O-O-O---
+-------O----M-M-----O---O-O-O-O-O-O---
+-------O------------O---O---O---O-----
+-O-O-O-O-O-O-O------O-------O---O-----
+-O-----------O------O-------O-O-O-----
+-O---------P-O--O-O-O-------O-O-O-----
+-O-----------O------O-E-O-O-O-O-O-O-O-
+-O-B---------O------O-----------O---O-
+-O-----------O------O-----------O---O-
+-O-B------M--O------O-----------O---O-
+-O-------M-M-O------O-O-O-O-O-O-O---O-
+-O-B------M--O------O-----O-----O-O-O-
+-O-----------O------O-----O-----O-----
+-O-B---------O------O-----O-----O-----
+-O-----------O------O-O-O-O-O-O-O-----
+-O-----------O------O-------G---O-----
+-O-----------O------O-----G-G---O-----
+-O-O-O-O-O-O-O------O-----------O-----
+-E--------------G-O-O-O-O-O-O-O-O-----
+
+
+EMA Worker   4438
+This hard working employee looks haggard and broken down. His face is
+drawn and pale, as if he hasn't seen much sleep recently. When he
+looks at you, he does so without any recognition. He almost reminds
+you more of a drone than a man.
+
+EMA Guard   8447
+This guy must weigh at least 240 pounds and towers over you.
+Underneath his grey buzzcut hair are two green eyes that look very
+cold and very untrusting. Thick muscles bulge under his navy blue
+jacket and his mouth appears to be set in a permanent scowl.
+
+EMA Scientist    6815
+This rather scrawny man is one of the EMA's leading scientists.
+Dedicated to improving the city of Atlanta's infrastructure, he works
+on everything from high-tech sewage systems to deadly weapon
+development. He stands about six foot two and wears a long white lab
+coat over his brown slacks and white shirt. His blue eyes are
+bloodshot, likely from a lack of sleep while he concentrates on
+finding solutions to his latest project.
+
+EMA Engineer   4643
+This balding little man wears thick glasses and still seems to have
+trouble seeing where he's going. He's probably spent too much time
+studying his designs and computer read-outs. He wears black pants that
+are a little too snug in the waist and a white button-down shirt
+that's stretched tight over his middle-aged paunch. He looks
+intelligent, but too busy to spend time with unwelcome visitors.
+
+EMA Research Assistant   3095
+This brainy-looking woman wears a long white lab coat over her red
+blouse and tan slacks. The round glasses perched on the end of her
+nose make her look studious, but don't hide her pretty brown eyes or
+her youthful demeanor. She looks like she is engrossed in something
+much more important than talking to the likes of you.
+
+EMA Admin   9147
+This busy admin takes care of the details for his boss's work
+schedule. He seems agitated and doesn't look particularly friendly.
+Might not be a good time to bother him.
+
+EMA Agent   8221
+This guy looks like he means business. Dressed in a dark suit,
+muscular and wearing a semi automatic machine gun on his hip, he might
+be one to leave alone. He looks up from his desk and glares at your
+intrusion.
+
+EMA Director   13028
+The man himself, leader of the Agency. This tall, gaunt, dark featured
+man stares at you with cold, calculating eyes. His mouth is curled
+slightly in what might be a knowing smirk. Attacking a man of this
+nature is probably a very bad idea.
+
+EMA Mechanic   8084
+This brawny fellow is one of the mechanics that maintain the vehicles
+of the EMA. He's paid to service the machines, keeping them running
+smoothly at all times. He's wearing a uniform that looks remarkably
+clean considering his occupation. He probably just arrived to work not
+long ago otherwise he'd be covered in grease. He looks like he's
+pretty busy so you probably shouldn't bother him.
+
+EMA Driver   5534
+This large man is a driver for the EMA. Judging by the hard hat he is
+wearing, he probably drives one of the agency's bigger vehicles. His
+uniform is clean although a bit wrinkled. He could use a good haircut
+and it doesn't look like he's shaved for a couple days. A work order
+hangs out of his front pocket. The impatient look on his face suggests
+he'd rather be out in the field than waiting here in the garage.
+
+EMA Garage Foreman   10699
+This heavyset man looks none-too-happy to see you in his office. His
+hooded eyes glare at you in consternation and his thin lips are turned
+down in a frown. He's wearing a white short-sleeved dress shirt and
+navy slacks over his stout frame. He holds a thick clipboard in one
+hand. Maybe you should leave him alone.
+
+
+
+small passcard
+This little passcard looks like it might provide entry to
+somewhere if you knew the right door to try it on.
+
+Delta Elite Machine Gun
+This shiny semi automatic machine gun looks like it could put a decent
+sized hole in something if given the opportunity. It has a stamped
+marking on the butt that reads 'Property of EMA'.
+
+Delta Clip
+This clip looks like it would fit well into the proper automatic weapon.
+A digital counter on the side displays the number "50"
+
+EMA lab coat
+This white lab coat is worn over the clothes and is
+typically used by the scientists in Atlanta's Emergency
+Management Agency. It doesn't look like it would offer
+a great deal of protection, but it sure makes you look
+brainy.
+
+Armoured Vest
+This thick black vest looks like it would provide good protection.
+It is padded in front and back and seems to contain a heavy alloy
+underneath the padding to absorb blows.
+
+EMA uniform
+This light blue uniform is worn as a coverall by
+the mechanics that work in Atlanta's EMA Complex.
+It isn't anything fancy, but it is made of a very
+durable fabric that protects from basic garage
+hazards.
+
+EMA hard hat
+This bright yellow protective headgear is worn by
+the drivers that work in Atlanta's EMA Complex.
+The hat is made of hard plastic and has the letters
+'EMA' stenciled on the front in blue.
+
+driving gloves
+These soft leather gloves protect the hands of
+truck drivers from blisters and calluses. Machine
+stitched and extra durable, these gloves would
+probably hold up well if taken care of.
+
+a thick clipboard
+This clipboard is made of red reinforced plastic.
+Typically used to hold pieces of paper, it looks
+like it might be sturdy and lightweight enough to
+make a decent weapon too if one were to bash someone
+over the head with it. You're much too civilized for
+that type of behavior though, right?
+
+screwdriver
+This industrial strength screwdriver is used in the
+EMA garage for fixing the agency's vehicles. It is
+12 inches long with a hard plastic handle and a
+flattened end for tightening screws. It looks like
+it could also take a decent sized chunk out of
+someone if used as a weapon.
+
+socket wrench
+This steel tool is typically used by mechanics to
+fix things around their garage. Its handle is about
+eight inches long and it has a socket attachment on
+one end. Even if you're not handy with machinery, it
+looks heavy enough to brain somebody with if you used
+it as a weapon.
+
+EMA Riot Shield
+Only about half an inch thick, this polycarbonate
+body shield still provides excellent protection to
+the forces of Atlanta's Emergency Management Agency.
+The shield measures about five feet tall and two feet
+wide, large enough to protect the typical policeman,
+although a bit small for some of the city's larger
+cyber-enhanced soldiers. It has a rubberized handle
+on the inside of the shield that allows a firm grip
+and its surface is translucent to allow the wearer a
+better view of his or her opponent.
+
+
+.

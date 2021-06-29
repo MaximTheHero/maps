@@ -1,0 +1,177 @@
+chaos,3e,2s,2e,n,3e,n,pick antietam
+
+
+         x-x
+         | |
+       x-x-x-x x
+       | | | | |
+       x-1-2-x x
+         | |   |
+     E-S-x-3-x-x
+         | |   |
+       x-x-x   x
+           |   |
+           x-x-x
+
+
+S: shop
+1: Dunker Church
+2: Mumma Farm
+3: Observation tower
+
+Antietam Battlefield Docent - unkillable
+Sitting behind the counter near the east door is an elderly gentleman
+dressed in a U.S. National Park Service uniform.  His hawkish eyes
+scan the throngs of tourists, making sure that no park rules are being
+broken.  You do not want to fight him.
+
+A tourist    7908
+The man is rather skinny.  He is obviously a Civil War buff, for he is
+constantly pointing out things to those around him.
+
+Confederate Light Artillery    15049
+Eight reenactors form this Confederate artillery unit.  While three
+men handle ammunition, four are responsible for loading the cannon.
+The gunner, dressed in a red-trimmed coat, aims the 60-inch barrel.
+This unit is manning a Model 1841 smoothbore cannon, used exclusively
+by the Confederates at Antietam.
+
+Confederate Cavalry   14479
+Upon closer inspection you realize that the soldier is just a Civil
+War reenactor.  He is dressed in a grey double breasted frock coat
+with yellow trim, indicating a junior cavalry officer.  He sits upon
+an older brown gelding.
+
+Confederate Infantry   8187
+Upon closer inspection you realize that the soldier is just a Civil
+War reenactor.  He is wearing a grey wool uniform typical of
+Confederate infantry.  A leather belt cinches his loose wool trousers.
+Worn leather boots compliment the attire.
+
+Union Infantry    8603
+Standing before you is not a real Civil War soldier but just a
+reenactor.  He is wearing a dark blue wool frockcoat with light blue
+trim and shiny brass buttons.  A wool kepi shades his face from the
+sun.
+
+General Robert E. Lee   27813
+This reenactor has a strikingly similar appearance to Robert Edward
+Lee, commander of the Army of Northern Virginia.  He too is 5-foot
+11-inches with thinning hair and a full silver beard.  A black bow-tie
+complements his simple grey uniform.  His face has accumulated
+weariness after years of fights.
+
+Union Light Artillery   17634
+Eight reenactors, dressed in Union blue uniforms, are manning an
+artillery piece, the Model 1857 "Napolean".  This particular cannon is
+made of bronze and features a 66-inch barrel, capable of firing twelve
+pound projectiles nearly a mile.
+
+Union Cavalry    15154
+This reenactor is playing the part of a Union cavalry major.  The
+officer's double breasted dark blue coat has a golden oak leaf on each
+shoulder board.  The young black mare upon which he rides snorts upon
+your approach.
+
+General George B. McClellan   29883
+The man before you is a reenactor playing the part of George Brinton
+McClellan, general of the Army of the Potomac.  Little Mac, as he was
+often called, sports dark combed hair and a well-trimmed mustache.
+President Lincoln relieved McClellan of his command after he failed to
+pursue the Confederate army following the Battle of Antietam.
+
+
+
+Map of Antietam Battlefield
+This color map is published by the U.S. National Park Service; when
+folded the glossy pages easily fit within a shirt pocket.  The map
+highlights places of interest within the park, beginning with the
+Dunker Church directly north of the Visitor Center and culminating at
+Antietam National Cemetery to the south.
+
+Antietam Battlefield Trail Map
+Many trails criss-cross Antietam Battlefield.  This map, published by
+the U.S. National Park Service, highlights the Cornfield Trail located
+along the northern edge of the park.  The trail covers the major
+battle scenes during the morning of September 17, 1862, when the
+Union's First and Twelfth Corps fought against a Confederate regiment
+under the command of Stonewall Jackson.
+
+Civil War Bootees
+These are replica boots that were standard issue for cavalrymen during
+the U.S. Civil War.  The bootees reach over the ankles and are made of
+dark leather.  Leather straps are attached to each heel, from which
+brass spurs hang.  Bootees had not much use other than to keep their
+wearer's feet warm.
+
+Model 1840 Heavy Cavalry Saber
+This is a faithful reproduction of the Model 1840 saber.  A 36 inch
+curved steel blade is anchored to a brass hilt of French origin.  A
+leather handle and white saber knot complete the design.  Sabers were
+not designed to actually cut enemies, for they are not sharp.  Instead
+they were used to club foes to death.
+
+Enfield .577-caliber Rifle and Bayonet
+This is a reproduction of a common infantry weapon used by the
+Confederate Army during the American Civil War.  For safety reasons
+its barrel is plugged so as to prevent firing actual bullets.
+However, the rifle is tipped with a razor-sharp steel bayonet that is
+still adequate for modern combatants.
+
+Springfield Model 1861 Rifle and Bayonet
+The Springfield was by far the most popular weapon during the American
+Civil War.  Named after its place of production, the Model 1861
+combined lethal long range accuracy with a steel bayonet appropriate
+for close quarters.  For safety reasons this rifle's barrel is plugged
+so as to prevent firing actual bullets.  However its bayonet is still
+suitable for today.
+
+Tobergo K-1000(TM) Camera
+The K-1000(TM) is Tobergo Corporation's entry-level film camera.  The
+shiny black plastic case encloses shoddy workmanship.  The camera's lens
+is marginally better than a clear soda bottle.  The K-1000(TM) is a
+viable alternative if one needs a paperweight.
+
+Confederate Frock Coat
+This frock coat is made of exceptional wool befitting of a general or
+other high-level officer.  The coat is dyed blue and is trimmed with
+golden threads.  Two rows of brass buttons adorn the front; brass
+stars are sewn along both arms.
+
+Union Hardee Hat
+The "Hardee" hat was part of the regulation dress for Union soldiers
+during the U.S. Civil War.  Named after cavalryman William J. Hardee,
+the felt design made the hat too hot and cumbersome for practical use.
+This particular one has a gold cord attached to its left side.
+
+Special Order 191
+Inside an envelope is a piece of paper.  The envelope is uninteresting
+but the paper is not.  Type-written on this sheet are what appears to
+be military orders; you should probably read it.
+read 191
+Special Orders, No. 191
+Hdqrs. Army of Northern Virginia
+September 9, 1862
+
+1. The citizens of Fredericktown being unwilling while overrun by members of
+this army, to open their stores, in order to give them confidence, and to secure
+to officers and men....
+
+2. Major Taylor will proceed to Leesburg, Virginia, and arrange for
+transportation of the sick and those unable to walk to Winchester, securing the
+transportation of the country for this purpose....
+
+3. The army will resume its march tomorrow, taking the Hagerstown road. General
+Jackson's command will form the advance....
+
+9. The commands of Generals Jackson, McLaws, and Walker, after accomplishing the
+objects for which they have been detached, will join the main body of the army
+at Boonsborough or Hagerstown.
+
+10. Each regiment on the march will habitually carry its axes in the regimental
+ordnance-wagons, for use of the men at their encampments, to procure wood &c.
+
+By command of General R. E. Lee
+R. H. Chilton, Assistant Adjutant General
+
+.

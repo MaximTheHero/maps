@@ -1,0 +1,245 @@
+magic, wforest,nw,sw,se,sw
+
+
+     2
+     |
+     x
+     |
+     x-x-1
+         |/
+         x
+
+
+1: read plaque
+    To Die is to be Initiated
+To enter our tower one must recite....
+*inspect trunk* - to go west
+recite Teleuteiu
+   takes you to a charred landscape
+   mobs come and attack you
+recite Teleisthai
+   takes you back to tower inside   
+
+2: search bench
+ _______________________________
+ |                             |
+ |    Teleuteiu  Teleisthai    |
+ |                             |
+()  To Die is to be Initiated  ()
+()_____________________________()
+()                             ()
+||_____________________________||
+ W                             W
+
+
+Inside Tower
+          
+          
+      2   x
+     / \ /|
+    x   u 3
+    |   |
+    x-S-1
+
+S - Start
+    search rugs - back to area entrance
+1 - Skeleton
+    search skeleton - Parchment journal
+3 - Alizarian Forest [Darrkin]
+2 - Room with sand and runes
+The room shimmers briefly.
+
+
+  ` : | | | |:  ||  :     `  :  |  |+|: | : : :|   .        `
+      ` : | :|  ||  |:  :    `  |  | :| : | : |:   |  .
+  *      .' ':  ||  |:  |  '       ` || | : | |: : |   .  `
+                `'  ||  |  ' |   *    ` : | | :| |*|  :   :
+ . .    *    *       `  |  : :  |  .      ` ' :| | :| . : :
+             .`            | |  |  : .:|       ` | || | : |: |
+      '          .         + `  |  :  .: .         '| | : :| :
+         .                 .    ` *|  || :       `    | | :| | :
+ .                .          .        || |.: *          | || : :
+        .            .   . *    .   .  ` |||.  +        + '| |||
+     .             *              .     +:`|!             . ||||
+ +                      .                ..!|*          . | :`||+
+     .                         +      : |||`        .| :| | | |.|
+       *     +   '               +  :|| |`     :.+. || || | |:`||
+                            .      .||` .    ..|| | |: '` `| | |`
+  .       +   +   +                ||        !|!: `       :| |
+              +         .      .    | .      `|||.:      .||    .
+          '                           `|.   .  `:|||   + ||'
+  .    +      *      .                   `'       `'|.    `:
+
+
+You see thousands of sand particles coalescing before you into
+four runes which settle upon the circle.
+nice and slowly search and trace each rune.  summons monsters to kill.  go from 1-4
+
+ex rune 1
+
+               ^
+              / \
+             /   \
+            /_____\
+
+ex rune 2
+
+             _____
+            \     /
+             \   /
+              \ /
+              / \
+             /   \
+            /_____\
+
+ex rune 3
+
+
+            -------
+            \     /
+             \   /
+              \ /
+               |
+             --|--
+             --|--
+
+ex rune 4
+
+             ___
+              |
+              |
+           |-----|
+
+
+Floor 2:
+
+                    B  u/d
+                    |   |
+                    A-x-x
+
+       @:  search torches, pull torch, can't go up.
+       A:  open window
+       B:  joica, veilmont, tsumekah, lyrra
+
+put tongue on lyrra's left hand
+put hemlock in veilmont's left hand
+put nightshade in joica's left hand
+put goldenrod on tsumekah's left hand (hemlock also?)
+
+you notice something change in the tower
+
+
+Floor 3: 
+
+       U-d d
+       |   |
+       T-Y-x
+
+T: step on switch - north
+Y: search shelves
+U: step on switch - south
+
+
+Basement:
+
+        4
+       / \
+      3-H-1
+       \ /
+        2
+        |
+        x
+        |
+        u
+
+H: get element from jar - at which point you start taking damage
+   put element in depression
+   Alizarian Helmet & Alizarian Marble (for first completion)
+
+
+Black Wolf    16269
+The wolf is pitch black all over except for a little gray on its
+chest.  It prowls around the glade like it hasn't eaten in days.
+
+Planar Spirit  17458
+Before you hovers a dark wispy form that wavers in the dim lights of
+the chamber.  It looks almost ghost-like in appearance and it doesn't
+seem to have a solid body.  It quickly drifts from corner to corner,
+as if it was trying to find its way back to where it came from.
+
+Lesser Demon   34810
+
+Greater Demon    104310
+
+
+parchment journal (open)
+
+A smaller, gold gilded journal.  It is not in good shape and it looks
+like most of the pages are missing.
+The journal has 7 page(s) (1, 2, 3, 4, 5, 6, 7).
+The current page is 2.
+Use "help journal" to see usage.
+Page 1
+Erthorpion.  I could kill him.  I roam the realms for him like
+a petty slave, searching for his benefit.
+
+Today I have stumbled upon a tower hidden well in the forest.  I
+don't see it on any current maps that we have.  Sections of the
+base are stained a red color and the upper areas are black
+granite.
+
+The rest of the page has been destroyed.
+Page2
+I am amazed at the power Necromancers wield.  Erthorpion was right
+in attempting to find out more about them.  Their power could quite
+possibly change the tides of this war in our favor.
+
+Entering this tower proved to be a challenge.  I believe it was
+secured for two reasons.  The first is to keep whatever secrets
+that are inside secure and the second is to keep prying eyes out.
+I must investigate more....
+Page 3
+I have investigated the tower a bit.  It appears that this tower
+was, or is, used for rituals or summonings of some type.  It also
+houses a beautiful library and scribing chamber.  Most of the books
+seem to have been relocated, but I found a few here to study.
+
+One of the books appears to be some sort of theogony about one of
+their gods.  It seems to have some good information, but a lot of
+it may be based upon fables and lore.
+
+Another book I've paged through speaks of ancient runes and symbols
+and their uses in rituals and summonings.  Now this looks like what
+we may be seeking.
+Page 4
+I begin the long journey back to Erthorpion to report my findings.
+I will also restock supplies and request for assistance.  I am
+confident this will be worth the expen.....
+
+The bottom portion of this page is torn off...
+Page 5
+Tonight I meet with Erthorpion to discuss my findings at the
+Alizarian Tower.  Meager as they might be, I have faith that this
+will propel us to victory.
+
+I have returned to my quarters after meeting with Erthorpion.  He
+appeared very excited about my findings.  Alas, not excited enough
+to commit to sending me a small contingent of troops.  So, tonight
+I prepare myself for the long journey back to the tower and the
+beginning of my studies there.
+Page 6
+This page is missing.
+page 7
+This page is missing.
+
+
+
+
+
+
+
+
+
+
+
+.

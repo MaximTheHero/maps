@@ -1,0 +1,121 @@
+Bennebroek Manor [Tulip]
+Dirs: Chaos, 3e, s, w, ne, 2n, pull weeds
+Main Floor:
+
+
+          2
+         / \
+        x-U-x
+        | | |
+        1 x x
+          |
+          E
+
+
+E: Entrance/Exit (pull weeds)
+1: Silver Spoon
+2: Unlock gazebo, open gazebo
+   k gardener, dig bulb, plant bulb in pot
+
+Gazebo:
+
+    1
+
+1: Search plants, thief attacks you
+   get pot
+
+Upstairs:
+
+     x-D-x
+     |   |
+     2   1
+
+1: search desk, open drawer, search drawer
+2: open chest, search chest
+
+Monsters:
+6846 : Denys the Gardener
+Denys is a slightly stooped, elderly gentleman going slightly bald and
+wearing overalls. His shiny head is a bit burnt by the sun, and his
+hands are sun-browned and wrinkled. He tends to the garden with the
+familiarity of one who has spent a long time here and knows every root
+and cranny.
+
+6846 : Timothy the Butler
+Timothy has a long-suffering look on his face.  His shirt collar is
+stiffly starched, and his black coat-tails are perfectly pressed, as
+if his pert buttocks had never known the impression of a chair.  Tall,
+thin, and middle-aged, he looks like he has been around a long, long
+time.
+
+6846 : Lina the housemaid
+Lina is a young woman with her auburn hair neatly tucked up under a
+white cap. The plain gray dress she is wearing has long sleeves that
+highlight her thin arms, giving her a charming waif-like appearance.
+Her engaging smile gives her countenance a purity that makes you want
+to protect her from harm.
+
+13916 : The lord of the manor, Adriaan Pauw
+Adriaan Pauw looks like an older, fatter, shorter, version of the
+portrait in the main hall. He has tufts of white hair around a dimly
+shining bald spot, and a pair of reading glasses perched on his ruddy
+red nose. He wears a long-sleeved, brocaded brown velvet jacket with
+puffed sleeves, with wide white cuffs visible underneath. The tassels
+hanging from his wide starched collar and his fine gloves identify him
+as a patron of some means.  Years of fine living are evident in his
+waistline. Seeing you enter, a scowl crosses his face.
+
+8435 : A dirty thief
+This guy looks like a dirty old man. That is, he's dirty, and old. His
+hair hangs about his face in greasy strands, and he has a straggly
+gray beard that hangs from his cheeks and chin like a dead squirrel.
+He has a desperate look about him, like a man who has nothing left to
+lose.
+
+6846 : Petrus the Head Cook
+Petrus wears a perpetual scowl underneath his white chef's hat. He has
+a large vegetable-stained apron and sports a large white curling
+mustache. He has an ample waistline from years of taste-testing.
+Although he is rather short in stature, he makes up for it with his
+blustering and bullying of the kitchen servants.
+
+Items:
+
+A silver spoon.
+A silver spoon. You may use it to eat the corpses of your foes. It was
+made in the Forbidden City where Cancer resides.
+
+A pair of white gloves.
+These soft white cotton gloves look perfect for picking up lint.
+
+A guest key.
+A heavy iron key. It looks like you can use it to lock your bedroom
+door for some peace and quiet.
+
+An antique brass key.
+A shiny brass turnkey with one of those antique handles. It fits
+easily in the palm of your hand.
+
+A pair of surie slippers.
+These are soft slippers knitted with loving care by someone who
+thought to keep your feet warm. They even have pom-poms knitted on
+top.
+
+A flower pot.
+It is a plain terracotta pot, reddish-orange in color. Nothing is
+growing in it, although it is filled to the top with rich, dark soil.
+
+'Tulipomania: A historical novel' (closed).
+A soft, blue suede book with stiff parchment pages.
+
+'Valley of the Tulips, Vol. 1' (closed).
+A soft, brown suede book with stiff parchment pages.
+
+'Valley of the Tulips, Vol. 2' (closed).
+A soft, brown suede book with stiff parchment pages.
+
+Tulipa Semper Augustus - Tulip Marble
+This round bulb is the prize possession of Adriaan Pauw. It looks like
+it may be a Semper Augustus, a truly spectacular tulip.
+
+

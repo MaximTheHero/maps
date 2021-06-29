@@ -1,0 +1,30 @@
+Ancient Dolmen [Solo]
+Dirs: Wayhaven East Gate, 3e, s
+
+
+   |
+   x
+   |
+   x   x-1
+  /    |
+ x-d   u
+
+
+
+
+1: untie kids, Viridian Marble
+
+Monsters:
+Bob, a wandering half-elf adventurer
+Crushah, a small time bandit
+Stompah, small time bandit
+Grippah, small time bandit leader
+
+Items:
+A nicely balanced short sword.
+
+
+
+
+
+

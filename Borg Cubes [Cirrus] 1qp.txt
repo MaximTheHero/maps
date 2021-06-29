@@ -1,0 +1,212 @@
+Borg Cubes [Cirrus]
+Dirs: Science, 2u, enter shuttle/out, 4w, 2s, n, e, enter pod
+*note* - you are sometimes assimilated into the Borg.
+you have to 'resist' and it costs sps to break free
+
+Cube 1:       Cube 2:      Cube 3:    Cube 4:   Cube 5:
+
+Level 1:
+
+ E-x-x-x-x     x-x-x-x     x-x-x      x-x       Q
+ | | | | |     | | | |     | | |      | |
+ x-x-x-x-x     x-x-x-x     x-x-x      x-x
+ | | | | |     | | | |     | | |
+ x-x-x-x-x     x-x-x-x     x-x-x
+ | | | | |     | | | |
+ x-x-x-x-x     x-x-x-x
+ | | | | |
+ x-x-x-x-x
+
+Level 2:
+
+ x-x-x-x-x     x-x-x-x     x-x-x      x-x
+ | | | | |     | | | |     | | |      | |
+ x-x-x-x-x     x-x-x-x     x-F-x      x-F
+ | | | | |     | | | |     | | |
+ x-x-x-x-x     x-x-x-x     x-x-x
+ | | | | |     | | | |
+ x-x-x-x-x     x-x-x-x
+ | | | | |
+ x-x-x-x-x
+
+Level 3:
+
+ x-x-x-x-x     x-x-x-x     x-x-x
+ | | | | |     | | | |     | | |
+ x-x-x-x-x     x-x-x-x     x-x-x
+ | | | | |     | | | |     | | |
+ x-x-F-x-x     x-x-F-x     x-x-x
+ | | | | |     | | | |
+ x-x-x-x-x     x-x-x-x
+ | | | | |
+ x-x-x-x-x
+
+Level 4:
+
+ x-x-x-x-x     x-x-x-x
+ | | | | |     | | | |
+ x-x-x-x-x     x-x-x-x
+ | | | | |     | | | |
+ x-x-x-x-x     x-x-x-x
+ | | | | |     | | | |
+ x-x-x-x-x     x-x-x-x
+ | | | | |
+ x-x-x-x-x
+
+Level 5:
+
+ x-x-x-x-x
+ | | | | |
+ x-x-x-x-x
+ | | | | |
+ x-x-x-x-x
+ | | | | |
+ x-x-x-x-x
+ | | | | |
+ x-x-x-x-x
+
+
+E: Entrance/exit
+F: Space-Time Fissure
+Q: Borg Queen
+
+
+Monsters:
+A Small Borg   8945
+The Borg is not physically imposing and is completely impassive. The
+creaking of leather mixes with the subtle clicking and whirring of
+mechanical parts which have been surgically integrated into the Borg's
+body. The Borg will ignore you unless you are seen as a threat. Be
+cautious about attacking: the Collective communicates with all Borgs
+remembering the form of your attack and adapting its defense.
+
+A Large Borg    12561
+The Borg is physically imposing and completely impassive. The creaking
+of leather mixes with the subtle clicking and whirring of mechanical
+parts which have been surgically integrated into the Borg's body. The
+Borg will ignore you unless you are seen as a threat. Be cautious about
+attacking: the Collective communicates with all Borgs remembering the
+form of your attack and adapting its defense.
+
+A Huge Borg   35613
+The Borg towers over you, it is strong and appears physically
+threatening. The creaking of leather mixes with the subtle clicking and
+whirring of mechanical parts which have been surgically integrated into
+the Borg's body. The Borg will ignore you unless you are seen as a
+threat. Be cautious about attacking: the Collective communicates with
+all Borgs remembering the form of your attack and adapting its defense.
+
+A Massive Borg   62611
+The Borg is gigantic, standing huge and threatening before you, daring
+you to take it on. The creaking of leather mixes with the subtle
+clicking and whirring of mechanical parts which have been surgically
+integrated into the Borg's body. The Borg will ignore you unless you are
+seen as a threat. Be cautious about attacking: the Collective
+communicates with all Borgs remembering the form of your attack and
+adapting its defense.
+
+A Strange Borg     8613
+Something seems different about this Borg. Your eye is drawn to a
+strange object it wears about its neck which hums and glows, pulsing
+with light. The Borg seems distant, as if in some kind of silent
+communication. Be cautious about attacking: the Collective communicates
+with all Borgs remembering the form of your attack and adapting its
+defense.
+
+A Strange Borg   12512
+Something seems different about this Borg. Your eye is drawn to a
+strange object it wears about its neck which hums and glows, pulsing
+with light. The Borg seems distant, as if in some kind of silent
+communication. Be cautious about attacking: the Collective communicates
+with all Borgs remembering the form of your attack and adapting its
+defense.
+
+A Strange Borg    47598
+Something seems different about this Borg. Your eye is drawn to a
+strange object it wears about its neck which hums and glows, pulsing
+with light. The Borg seems distant, as if in some kind of silent
+communication. Be cautious about attacking: the Collective communicates
+with all Borgs remembering the form of your attack and adapting its
+defense.
+
+A Strange Borg    60382
+Something seems different about this Borg. Your eye is drawn to a
+strange object it wears about its neck which hums and glows, pulsing
+with light. The Borg seems distant, as if in some kind of silent
+communication. Be cautious about attacking: the Collective communicates
+with all Borgs remembering the form of your attack and adapting its
+defense.
+
+Borg Queen   67303
+The Borg Queen is the supremely powerful entity at the heart of the Borg
+Collective. Her cyborg structure is a metallic brain which gives her a
+luminous and beautiful appearance and an intricate mechanical spinal
+column which is hidden within a black shroud. She hungers for other
+cultures, assimilating them into her righteous plan for the perfect
+society. Appearing to be self-aware, she is a hive queen whose mind
+controls the complex Borg network with but a single thought. She stands
+calmly to one side of the room and clearly considers your presence more
+for her amusement than any threat.
+
+
+A Square.
+This is a small square of a strange and unknown kind of black material.
+It shimmers slightly, either containing an inner power source or
+resonating with an external force. The edges are shaped to connect to
+something else, clearly this is only a part of a larger object.
+
+A Cube.
+The small cube is jet black and constructed of an unknown material. It
+hums, coupled in some way to an external force. What purpose it serves
+is not clear, but as it shimmers it appears almost as if it is
+communicating with some outside entity.
+
+A Triangle.
+This is a small triangle of a strange and unknown kind of dark gray
+material. It shimmers slightly, either containing an inner power source
+or resonating with an external force. The edges are shaped to connect to
+something else, clearly this is only a part of a larger object.
+
+A Tetrahedron.
+The small tetrahedron is dark gray and constructed of an unknown
+material. It hums, coupled in some way to an external force. What
+purpose it serves is not clear, but it shimmers and appears to be almost
+communicating with some outside entity.
+
+Open-Ended Cylinder.
+This is a small object made from a strange and unknown kind of light
+gray material. It is shaped as a cylinder with only one end covered
+over. It shimmers slightly, either containing an inner power source or
+resonating with an external force. The open end is shaped to connect to
+something else, clearly this is only a part of a larger object.
+
+A Cylinder.
+The small enclosed cylinder is light gray and constructed of an unknown
+material. It hums, coupled in some way to an external force. What
+purpose it serves is not clear, but it shimmers and appears to be almost
+communicating with some outside entity.
+
+A Sphere. (Plasma Marble)
+The outer shell of the small sphere is transparent and inside you can
+see it is filled with a glowing white plasma which is radiating light.
+It hums, coupled in some way to an external force. What purpose it
+serves is not clear, but it shimmers and appears to be almost
+communicating with some outside entity.
+
+Plasma Marble
+Exquisitely crafted/magicked, this pristine little plasma bauble is the
+whimsical, residual aftermath of peeronic thought.  Sadly, the entropic
+tendencies of such mental energies are difficult to grasp or maintain.
+A marble will inevitably evanesce and reform in an infinite number of
+cryptic locations.
+
+
+Adaptive Armour.
+This armor is almost alive, linked forever in essence with the Borg
+Collective consciousness. Its black surface is perfectly smooth and it
+has a strange texture, almost as if it might be biological rather than
+synthetic. It changes nature whenever it is hit adapting to better
+defend against the form of attack. Never forget this armor is Borg, its
+link with the Collective will never be completely severed.
+
+

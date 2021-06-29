@@ -1,0 +1,253 @@
+chaos,2s,2w,enter
+
+        3-G
+        | | 
+      4 x-2-x-S     d
+      | | | |       |
+      x-x-x-x     1-x
+        | | |
+        x-x-x
+          |
+          E
+
+G: Gift Shop
+   buy transponder
+   buy suit
+S: stairs
+   kick stair
+   enter pod
+   push button
+   engage capacitor
+   search rocks - Sulphur Marble
+   press thumb - to return
+1: enter number to remove lens cover from telescope
+2: telescope
+   nudge cepheus
+   input x 45
+   input y 90
+   linkup telescope
+   wear suit
+   press thumb
+   peer through telescope
+3: search rings (key)
+4: Carina the leading Astronomer
+   talk to her, she'll give you the code to remove the cover
+
+ ::::::::::::::::::::::::::::::::::::
+ ::    The Observatory Souvenirs   ::
+ ::::::::::::::::::::::::::::::::::::
+ ::                                ::
+ ::  Star Chart         200 coins  ::
+ ::  Model Rocket       300 coins  ::
+ ::  Moon Rocks         500 coins  ::
+ ::  Laser Pen          500 coins  ::
+ ::  T-shirt            600 coins  ::
+ ::  Space Suit         700 coins  ::
+ ::  XL Transponder    1000 coins  ::
+ ::                                ::
+ ::::::::::::::::::::::::::::::::::::
+
+
+A wandering tourist    19719
+One of those irritating tourists that flash their camera at nearly
+everything and everyone.  He wanders around aimlessly bumping into anyone
+that walks by.  Some people should really be put out of their misery.
+
+A belligerent tourist (mean)   18943
+One of those irritating tourists that flash their camera at nearly
+everything and everyone.  He wanders around aimlessly bumping into anyone
+that walks by.  Some people should really be put out of their misery.
+
+A tourist that looks confused     37400
+One of those irritating tourists that flash their camera at nearly
+everything and everyone.  He wanders around aimlessly bumping into anyone
+that walks by.  Some people should really be put out of their misery.
+
+Observatory scientist    44135
+A scientist that wanders through the observatory jotting down important
+information on a small notebook, and then runs off to inform Carina.  He
+wanders around making sure the tourists are happy and content while they
+visit, and if a one of them is being harassed, he jumps in to their
+defense.
+
+Observatory specialist   41604
+This man looks rather important.  He supervises the Observatory's workers
+and employees.  He is dressed in a white overcoat and has a small clipboard
+at his side.  It looks like he's having a meeting of sort, so you better
+not bother him.
+
+Observatory technician   38325
+A very skilled operator of the Observatory's telescope and other advanced
+equipment.  His main job is to keep things operating smoothly and to their
+fullest capacity.
+
+A Tour Guide who's way too happy     32647
+This tall young woman holds a whistle in one hand and a brochure in the
+other.  With each exhibit she passes, she reads word for word out of the
+brochure, about the signifigance and scientific facts about each display.
+Often her group of tourists leave her side and explore on their own, but
+does it matter that she has no one to talk to?  Hell no!  She keeps on
+babbling!  You wish someone would just shut her up.
+
+Cepheus the Stargazer   45580
+Cepheus seems hard at work, fiddling with the telescope.  A few tweaks here
+and a few adjustments there.  He looks over at you with an evil grin
+plastered to his face.  Looks like he wants you to take part in his
+experiments.  Talk to him, he may give you some valuable information you
+have been searching for.
+
+Carina the leading Astronomer    117104
+She seems busy at work, calculating formulae, drawing out sketches and
+astronomical figures on a sheet of paper.  A middle aged woman who seems to
+be very experienced in her work.  She is extremely friendly.  However,
+don't think she will go lightly by any aggression on your part.  Her
+speeches have been known to be quite fatal indeed.
+
+
+A 35mm super camera
+A small camera with dual flash bulbs, and an extra long lens for those
+distant shots.  The silver dial on the face of the camera glistens under
+the light.  Looking down at the film counter, you see the number 60.  You
+wonder what film the owner of this camera was using to have so many shots
+available.
+
+A camera with someone's initials on it
+A small camera with dual flash bulbs, and an extra long lens for those
+distant shots.  The silver dial on the face of the camera glistens under
+the light.  Looking down at the film counter, you see the number 57.  You
+wonder what film the owner of this camera was using to have so many shots
+available.
+
+A vivitar elite
+A small camera with dual flash bulbs, and an extra long lens for those
+distant shots.  The silver dial on the face of the camera glistens under
+the light.  Looking down at the film counter, you see the number 54.  You
+wonder what film the owner of this camera was using to have so many shots
+available.
+
+A polaroid camera
+A small camera with dual flash bulbs, and an extra long lens for those
+distant shots.  The silver dial on the face of the camera glistens under
+the light.  Looking down at the film counter, you see the number 30.  You
+wonder what film the owner of this camera was using to have so many shots
+available.
+
+A small clipboard
+The clipboard seems to have a small list on it of workers'
+schedules and appointments.
+
+A notebook
+The notebook reads:
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  Movement in the Antares system has grown
+ and we fear the transporter lock is drawing
+ the inhabitants back here.
+   We must shut down the beam before it is
+ too late.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Lab coat
+A small white lab coat that many observatory scientists wear.  It has a
+small pocket in it to hold whatever pens and pencils the scientists needs
+to record strange space anomilies.  It drapes down about to your knees and
+could offer some small protection against the elements.
+
+A silver whistle
+Just an ordinary silver whistle.  The observatory tourguide
+carries one around just like this one.  When she feels things
+are getting out of hand, she blows the whistle to calm down
+her group of tourists.
+
+Observatory brochure
+The brochure contains many galactic pictures of distant star
+constellations and proper nomenclature for each.  The exhibits
+of the observatory are highlighted and underlined for easy and
+detailed reading by the tourguide.
+
+A glass key
+A small crystal key that is as clear as glass.
+
+Carina's planisphere
+A planisphere is a useful tool in the astronomy field.  It is a device that
+helps you identify the constellations at any time on any night of the year.
+By rotating the disk, you expose through the tool, a view for the
+particular time and date you choose.  This one however seems to have a
+magical glow about it.
++1 Wis, +2 Int, -2 Cha
+
+A scrap of paper
+This is a crumpled scrap of paper that the scientist Carina
+was holding onto at the time of her death. Perhaps reading
+the scrap would give you some insight.
+	I have discovered a new asteroid in the Amara Sector today. We've
+	attempted to discover more about it, but we're having a hard time
+	getting the telescope to lock on to it. The last known coordinates
+	of the asteroid were x=45 and y=90.
+
+A star chart
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+              Explored Realms
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ Here is a listing of those outer galaxies that
+ we have been fortunate enough to discover.
+
+   1) Draco       (40,35)
+   2) Serpens     (30,30)
+   3) Hercules    (50,10)
+   4) Aquarius    (70,40)
+   5) Perseus     (100,5)
+
+ The list seems to end, but keep checking.  We
+ are searching the stars everyday for some new
+ galaxy to explore.
+
+Al Armstrong spacesuit
+The embroidered letters N.A.S.A have been sew into the suit on
+both the collar and left front pocket.  A large patch with a solar
+wave and satelite on the right front breast pocket signifies the
+emblem of the NASA Corporation.  The ever present American flag
+on the left shoulder shows who is in charge of the Space race.
+You are amazed at the condition of this Al Armstrong rendition
+spacesuit.  Even the attaching hood looks like the original.
+
+XL75-A Transponder
+  This small electronic device looks rather like something you might
+  have seen on old episodes of Star Trek.  Fitting within the palm of
+  your hand, you wonder whether it operates in the same fashion.
+  You see a small touch-pad screen roughly the size of your thumb along
+  the face of the device.  Perhaps you simply press your thumb-print
+  upon it to engage its internal circuits.
+
+The Observatory T-shirt
+Upon the back of the T-shirt is a globe of the Earth in the center, and the
+other 8 planets of the solar system surrounding it.  Upon the front you see
+in felt lettering the phrase; 'I visited the great Observatory of Chaos'.
+The bold lettering crosses over from one side to the other.  This is just a
+small item to remember your visit.
+
+A pouch of moon-rocks (glowing)
+The radioactive moon-rocks within the clear lining bag
+glow luminously.  You are just chagrined at having a
+little something from the moon that lights up the night
+sky.  You watch as the flickering light illuminates the
+room around you.
+
+An Observatory laser pen
+The Observatory laser pen is used by Tourguides and the like, to point out
+any interesting artifacts on star maps and charts.  The pen glows with a
+red light and is apparently internally charged.  You might be able to use
+this in battle.  Imagine blinding your foes with the laser beam.
+
+A model of 'Challenger'
+The model rocket has a self-attaching stand that is used to
+launch it out into space.  The white colored shuttle has the
+N.A.S.A insignia painted across its fuselage.  You could target
+someone if you wanted to.  It would be nice to see the space
+shuttle 'Challenger' lift off once again.  If needed, the
+shuttle targetting can be blocked with 'targetblock'.
+
+A little, yellow rock  - Suphur Marble
+This is a little yellow rock that looks like it is from another
+world. It is perfectly round, but it smells REALLY bad. Perhaps
+somebody could identify it for you so you can learn more about it.
+

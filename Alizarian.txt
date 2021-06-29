@@ -1,0 +1,289 @@
+Alizarian / Alizarian Helmet
+
+ _______________________________
+ |                             |
+ |    Teleuteiu  Teleisthai    |
+ |                             |
+()  To Die is to be Initiated  ()
+()_____________________________()
+
+
+once inside, search rug to leave.
+
+                               #
+                               |\
+                             #-# #
+                            /    |
+                         M-#     |            M:  search ground,search rune/trace rune (rune 2)
+                                 |
+                           #-J-J-L            J:  search bloodwort to get bloodwort
+                           |                  L:  climb cliff to go north
+                 H-H-H     I-#-#-#            I:  search branches to go east
+                 |X|X|\    |   | |
+      cavity-> H-H-H-H-H   #   #-#            H:  search grass/search gravsetone/search hole/search roots/pick goldenrod
+                \|X|X|X|  /    | |       cavity:  A glass jar, It contains:  White element
+                 W-H-H-H-#     #-#
+                 |X|X|X|X|     | |
+                 H-H-H-H-#     #-#
+                          \     /        random:  acorn, shred of birch bark
+                           #-# #
+                           |  \ \
+                           #   # #   Y        Y:  pick hemlock
+                            \  | |  / \
+                           F-E-# # # K #      K:  search rune/trace rune.  rune 4
+                           | | | | | | |      
+                           # C-# # #-#-#      F:  pick nightshade, climb hill here to go east.
+                           | | | | |X|/       C:  search slope and takes you to D.
+                           #-E-# #-#-#        E:  search slope takes you west.
+                            / /|
+                          -C #-#-G            C:  search slope and takes you to D.
+                           |   |X|            G:  exa rune/trace rune, rune 1
+                           B-# #-#            B:  search tongue to get Adder's Tongue (food)
+                             |
+                             #
+                             |
+                       Z   # #                Z:  tasset
+                      / \ /| |
+                   D #   < #-#                D:  bench, also, C moves you here
+                   | |   |
+                   # #-@-A                    A:  journal on skeleton.
+                   |                          @:  search rug to leave
+                   #-#-X
+                       |
+
+       @:  search rug to leave
+       X:  inspect trunk to go west, pick berry, pick a flower, recite teleuteiu to enter
+       A:  journal on skeleton.
+       A:  search fireplace/skulls/center skull/close jaw, search gap, get tome. 
+   --  B:  search tongue and get Adder's Tongue (food)
+       C:  search slope and takes you to D.
+       D:  bench, also, C moves you here
+       E:  search slope takes you west.
+       F:  search nightshade, climb hill here to go east.
+       G:  exa rune/trace rune
+       H:  search grass/search gravestone/search hole, pick goldenrod
+       I:  search branches to go east
+  --   J:  search bloodwort to get bloodwort
+       K:  search rune/trace rune?
+       L:  climb cliff to go north
+       M:  search rune/trace rune
+       Y:  pick hemlock
+       X:  ?
+
+krank had a Shred of birch bark, from somewhere.
+
+       Z:  wait here and see:
+
+The room shimmers briefly.
+
+  ` : | | | |:  ||  :     `  :  |  |+|: | : : :|   .        `    
+      ` : | :|  ||  |:  :    `  |  | :| : | : |:   |  .          
+  *      .' ':  ||  |:  |  '       ` || | : | |: : |   .  `      
+                `'  ||  |  ' |   *    ` : | | :| |*|  :   :      
+ . .    *    *       `  |  : :  |  .      ` ' :| | :| . : :      
+             .`            | |  |  : .:|       ` | || | : |: |   
+      '          .         + `  |  :  .: .         '| | : :| :   
+         .                 .    ` *|  || :       `    | | :| | : 
+ .                .          .        || |.: *          | || : : 
+        .            .   . *    .   .  ` |||.  +        + '| ||| 
+     .             *              .     +:`|!             . |||| 
+ +                      .                ..!|*          . | :`||+
+     .                         +      : |||`        .| :| | | |.|
+       *     +   '               +  :|| |`     :.+. || || | |:`||
+                            .      .||` .    ..|| | |: '` `| | |`
+  .       +   +   +                ||        !|!: `       :| |   
+              +         .      .    | .      `|||.:      .||    .
+          '                           `|.   .  `:|||   + ||'     
+  .    +      *      .                   `'       `'|.    `:     
+
+You see thousands of sand particles coalescing before you into
+four runes which settle upon the circle.        
+
+               ^
+   rune 1     / \
+             /   \
+            /_____\
+
+             _____
+            \     /
+             \   /
+   rune 2     \ /
+              / \
+             /   \
+            /_____\
+
+            -------
+            \     /
+             \   /
+   rune 3     \ /
+               |
+             --|--re 
+             --|--
+
+              ___
+               |
+   rune 4      |
+            |-----|
+
+see ansi THEN, exa/search rune 1, rune 2, rune 3, rune 4
+summons:  Planar Spirit, 13k, Lesser Demon 41k, Greater Demon 83k, Planar Fiend 110k
+
+2nd floor:
+                    B   @
+                    |   |
+                    A-#-#
+
+       @:  search torches, pull torch, can't go up.
+       A:  open window
+       B:  search joica's left arm/right arm, set ???.  berry?
+       B:  joica, veilmont, tsumekah, lyrra
+
+put tongue on lyrra's left hand
+put goldenrod on tsumekah's left hand
+put hemlock in veilmont's left hand
+put nightshade in joica's left hand
+
+Joica's right arm is held high above his head.  He holds several
+stalks of nightshade in his skeletal grasp.  The nightshade is carved
+out of the same marble as the statue.  Its detail is impeccable.
+
+Tsumekah's right arm is held high above his head.  He grasps several
+stalks of goldenrod in his hand.  The goldenrod is carved out of the
+same marble as the statue.  Its detail is impeccable.
+
+Lyrra's right arm is held high above her head.  She holds several
+stalks of adder's tongue in her hand.  The adder's tongue is carved
+out of the same marble as the statue.  Its detail is impeccable.
+
+Veilmont's right arm is held high above his head.  He grasps a branch
+of hemlock in his hand.  The hemlock is carved out of the same marble
+as the statue.  Its detail is impeccable.
+
+3rd floor:                         #   <--- rune
+                                  /|\
+                 2 runes --->    #-#-#    <-- put element in depression, gives alizarian marble and alizarian helmet
+                                  \|/         
+                                   #   <--- rune
+                                   |
+                C-> @              #
+                |   |              |
+                B-A-#          D > D
+
+         @:  search floor, search block, lift block, k demon, search cavity, see scroll below
+         A:  k demon, search shelves, gives quill, gems, bag (A crimson red gem {6}.), ball, un'id'ed
+         B:  search walls, search block, search rune, trace rune (rune 4)  (2-corpse DEATHSAVE)
+             search rugs, search switch, step on switch - moves to C
+         C:  switch on floor
+         D:  up/down staircase
+
+read scroll
+         O<)=-=-=-=-=-=-=-=-=-=-=-=-=-=(>O
+          /                             \  
+         {      Beware .. ... ......     }
+         -=}    tau, as it rendered    {=- 
+         {          me .........!        }
+         {                               }
+         -=}   Seek out t.e .....      {=-
+         {    Element, close the well.   }
+          \                             /
+         O<)=-=-=-=-=-=-=-=-=-=-=-=-=-=(>O
+
+parchment:
+
+Erthorpion.  I could kill him.  I roam the realms for him like
+a petty slave, searching for his benefit.
+
+Today I have stumbled upon a tower hidden well in the forest.  I
+don't see it on any current maps that we have.  Sections of the
+base are stained a red color and the upper areas are black
+granite.
+
+The rest of the page has been destroyed.
+
+I am amazed at the power Necromancers wield.  Erthorpion was right
+in attempting to find out more about them.  Their power could quite
+possibly change the tides of this war in our favor.
+
+Entering this tower proved to be a challenge.  I believe it was
+secured for two reasons.  The first is to keep whatever secrets
+that are inside secure and the second is to keep prying eyes out.
+I must investigate more....
+
+I have investigated the tower a bit.  It appears that this tower
+was, or is, used for rituals or summonings of some type.  It also
+houses a beautiful library and scribing chamber.  Most of the books
+seem to have been relocated, but I found a few here to study.
+
+One of the books appears to be some sort of theogony about one of
+their gods.  It seems to have some good information, but a lot of
+it may be based upon fables and lore.
+
+Another book I've paged through speaks of ancient runes and symbols
+and their uses in rituals and summonings.  Now this looks like what
+we may be seeking.
+
+I begin the long journey back to Erthorpion to report my findings.
+I will also restock supplies and request for assistance.  I am
+confident this will be worth the expen.....
+
+The bottom portion of this page is torn off...
+
+Tonight I meet with Erthorpion to discuss my findings at the
+Alizarian Tower.  Meager as they might be, I have faith that this
+will propel us to victory.
+
+I have returned to my quarters after meeting with Erthorpion.  He
+appeared very excited about my findings.  Alas, not excited enough
+to commit to sending me a small contingent of troops.  So, tonight
+I prepare myself for the long journey back to the tower and the
+beginning of my studies there.
+
+-----------
+
+tome:
+ ___________________________________
+|                                   \
+|  Symbols and runes have been used f\
+|  until very recently have we been ab\_
+|  unlocking the power of these runes ha\_
+|                        ___              \_
+|  I cannot possibly cov/   \l of the runes \
+|  will focus on severa/     \powerful ones |
+|  that allow us to tel\      \far off lands|
+|    __ especially in th\_____|of the summon|     /\
+|  W/  \ave these chambers located throughou|   _/  \___
+|  | ___|                                    \_/        \___
+| / /r main concern with the handling of these ancient symbo|
+||_/s their proper representation in whatever medium is cho/
+|                                                         |
+|_________________________________________________________|
+
+ __________________________________
+|                                  \
+|  The first rune I would like to di\
+|  The Triple-tau represents the unde\_
+|  I will discuss in a later chapter th\
+|                      ___              \_
+|        ___          /   \               \
+|         |     The t/     \u is represent|
+|         |     with \      \crosses perpe|
+|    __|-----|        \_____|             |     /\
+|   /  \                                  |   _/  \___
+|  | ___|                                  \_/        \___
+| / /e must keep in mind to use this rune properly in ritu|
+||_/ailure to do so will lead to grave harm to oneself.  /
+|                                                        |
+|________________________________________________________|
+
+
+
+Alizarian helmet.
+This helmet is constucted from hundreds of small, rust-red colored
+scales.  They are put together very tightly and form an extremely
+rigid helmet.  The helmet fits over your head and covers your face
+almost entirely, leaving a space down the front for breathing and
+sight.  The crown of the helmet has two hollow horn-like structures,
+probably to fit the previous owner's horns.
+The helmet is in perfect condition.
+It has a magical glow about it.
+It doesn't look too heavy.

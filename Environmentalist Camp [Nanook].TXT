@@ -1,0 +1,110 @@
+science,enter,u,3e,d,e,path,14e,17n,3e,nw
+
+     x
+     |
+     x
+      \
+       x
+       |
+   x-x-x
+   | | |
+   x-1-x
+   | | |
+   x-x-x
+        \
+         x
+          \
+           E
+
+
+1: enter
+2: Misha the gunsmith
+
+
+A hardened survivalist    7108
+The woman before you is quite attractive despite the Uzi III she points
+your direction.  Her camouflage pants are weighted down with plenty of ammo
+in her pockets.  Her sweat soaked tank top only distracts you from the
+muzzle of the machinegun momentarily.
+
+Militant Environmentalist      7597
+The man before you is gaunt, almost skeletal.  His eyes blaze with a
+fanatical fire as they bore into you.  He wears loose fitting camouflage
+pants, dusty black combat boots and a black t-shirt.  He also holds a
+sawed off shotgun pointed right at you!
+
+Desmond Trent   24081
+Desmond Trent is the leader of this small band of outlaw environmentalists
+who have made their home out here in the mountains.  He stands tall and
+confident among them as he preaches against the giant megacorps which
+wreak havoc on the land.
+
+Trent's personal guard    14759
+This man is incredibly huge!  Despite their purity of nature views, you
+can't imagine anyone this big without serious chemical help.  He doesn't
+look terribly friendly either.
+
+A crazed environmentalist    7281
+This man glares at you with an angry stare.  His fingers tense about the
+trigger of his uzi as he turns to fill you with lead.  His black t-shirt
+is drenched with sweat and his camouflaged pants are torn and tattered
+from living in the mountains.
+
+A crazed environmentalist    14274
+The man's eyes burn into you with a fanatical light.  His muscles ripple
+as he swings a nasty looking length of chain.  His black clothes make him
+look like a security guard of some kind.  Perhaps he is?
+
+Misha the gunsmith     21405
+Misha wears a ragged pair of camouflage pants tucked into the tops of her
+battered combat boots.  A black t-shirt is covered by her camo field
+jacket.  Her brown eyes squint at you from beneath her tangled black hair.
+She has an array of guns lying about, and you get the feeling that she
+knows how to use them.
+
+
+
+
+
+
+Tattered combat boots
+These are standard issue synthetic leather combat boots.  They are
+tattered and worn, scuffed and torn.  They've probably marched halfway
+across the Appalacians.
+
+Uzi III
+This sleek looking machinegun is the great grandchild of the Isreali
+Uzi.  It is a large heavy weapon with incredible performance and stopping
+power.  It has integrated laser sights, a fold away composite stock and
+built in silencer.  What a great piece of workmanship.
+
+Uzi III A14
+This combination of plastic and steel is a modified version of the
+standard issue Uzi III.  It has a slighlty longer barrel than the standard
+weapon, and has a vented muzzle rather than the integrated silencer of its
+cousin.
+
+An extended ammo clip
+An ammunition clip, standard issue.
+A digital counter on the side displays the number "75"
+
+A worn camouflaged jacket
+A standard military surplus camouflaged field jacket.  Its pockets
+hang torn and tattered from too often stuffing cold hands in them, or
+reaching for a spare ammo clip.  It still looks warm, but beyond that,
+not overly stylish.
+
+A sawed off shotgun
+An angry looking combination of plastic and steel, this weapon looks truely
+fearsome.  It's black matte finish and barrel magazine are the least of
+its intimidating features.
+
+A bayonette
+A long sharp knife able to be fitted on the barrel of a gun.
+
+A weighted length of chain
+This length of chain is weighted at both ends by a small steel ball about the
+size of your fist.  It appears it would be very deadly in the right hands.
+
+
+.

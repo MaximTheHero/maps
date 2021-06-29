@@ -1,0 +1,41 @@
+Rampage of the Piggies [Wizwise]
+Dirs: Chaos, s, turn flag
+
+               L
+               |
+               x
+               |
+           x-x-x-x
+               |
+               C
+
+
+     J-x
+       |
+       x
+      /
+   x-x
+   |
+   x-x   x
+     |  / \
+     x-x   x-1
+
+L: Leave (Entrance/Exit)
+C: Climb
+   You climb into a hayloft, then when you jump you end up in a new area Marked J
+1: Jump pile to leave the area and end back into chaos
+
+
+
+Monters:
+J. Crosby
+Shelby the young lady
+Gordon the guard
+Grundy
+A little piggie
+Candie the sow
+
+Items:
+A rusty shovel.
+A beautiful flower.
+ 

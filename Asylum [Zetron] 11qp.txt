@@ -1,0 +1,91 @@
+Asylum [Zetron]
+Dirs: Chaos, w, 3n
+
+     1
+     |
+     x-x
+       |
+       x
+       |
+     2-x-x
+       |
+       x
+       |
+       E
+       |
+
+E: Entrance/Exit
+1: Alfonzo's bed
+   search bed, get and keep the pillow, then sleep bed
+2: sit on the bean bag chair, then dive in the pool for the
+   polystyrene marble
+
+Alfonzo's Nightmare:
+
+
+     x x x-x
+     | | | |
+   W-x-x-x 7
+     | | |
+     1 x |
+         |
+       2 |
+        \|
+       4-x-3 
+         |
+       5-x-6
+
+W: Wake
+1: Trunk [hide trunk to enter]
+2: The Cafeteria
+   grab tray, search tray for 1 of 4 gifts for your mate
+3: down to get to the bully, search the pocket of his jacket
+   for gift 2 of 4 for your mate
+4: Arts & Crafts Room
+   search pictures for gift 3 of 4 for your mate
+5: search locker, deflower notebook for gift 4 of 4 for your mate
+6: Principal Alcock, has binaca blast
+7: Your Ideal Mate, give all 4 gifts to her, push button on blast
+   (for minty fresh breath), then kiss mate
+
+Monsters:
+
+Skipper
+Fred
+Batman
+Bozo
+Nurse
+The Boogieman
+A scary wolfman
+A scurrying cockroach
+Monster under the bed
+Meany Bird
+A laughing student
+Lunch lady
+Biff the Bully
+Mr. Kargo
+Principal Alcock
+Your ideal mate
+
+Items:
+
+Comfy pillow.
+A red tray.
+A sharpened pencil.
+Gown.
+Tennis Racquet.
+A thermometer.
+Boogieman's mask.
+A Boogieman's knife.
+Wolfman claws.
+Shield.
+A monster's ring.
+Jean jacket.
+A notebook.
+A yardstick.
+Binaca Blast.
+Fresh breath.
+A love letter.
+A perfect gift.
+A pretty picture.
+A box of chocolates.

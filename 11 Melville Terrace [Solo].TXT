@@ -1,0 +1,149 @@
+chaos,3w,2n,visit flat
+
+       x x x
+        \|/
+       x-1-x
+        /|\
+       x u x
+         |
+         E
+
+1: oldbog and newbog exits
+
+
+The lovely Andrea is doing her stretches    1786
+Andrea has blond hair, currently tinted orange, and a lightly freckled
+elfin face.  She is very attractive and her innocent manner and
+willingness to talk to anybody means she is often the object of many a
+male's sad longings.  She has a habit of doing warm-up exercises and
+stretches in the hall-way.  She is quite limber.  This creates mini
+traffic-jams as the boys in the flat gather in their doorways to watch
+her bend over a lot in her revealing and tight exercise gear.
+
+Ian is demonstrating a magic trick    1432
+Ian is a prestidigitator.  He is tall thin and dextrous and can
+perform all manner of magic tricks and sleight of hand.  He also has a
+big nose.  He is currently demonstrating a trick where he makes a coin
+jump straight up from one hand to the other.  You have no idea how he
+does this.
+
+James is here doing Doug's homework    786
+James is quite tall and thin, he has short brown hair and has a
+vaguely southern look to him.  He is working on Doug's homework
+because he lacks the mad Micro Machine Skillz he needs to compete with
+the rest of the Team Supreme on level terms.
+
+Richard is wandering about, brushing his teeth   3053
+Richard is wandering around the flat in his boxers and a shirt,
+brushing his teeth.  He is trying to get ready to go out with his
+girlfriend, Cat.  This typically takes him 2 or 3 hours.  Richard is
+too fond of animals.
+
+Cat is watching telly and drinking wine    1227
+Cat is Richard's girlfriend.  She is 5'9" and has long dark hair.  She
+is quite pretty but has a strangely pointy face, which can give her an
+almost predatorial look.  She is waiting for Richard to get ready so
+they can go out.  She is drinking red wine.
+
+Jennie is sitting watching tv     1197
+Jennie is about 5'4" with quite long mousey blond hair.  She is
+wearing quite thick glasses and has a grey cardigan on.  She has a
+cute, friendly face and smiles at you as you walk in.  She is eating
+dinner and drinking cider before she goes out to get plastered with
+friends from work.
+
+Doug watches while he waits for his turn    2663
+Doug is watching the game of Micro Machines, waiting on one of the
+drivers to lose so he can take over.  Doug is shorter than the other
+people playing. In fact, he looks shorter than he really is.  Doug has
+a long torso and comically short legs.  He also has a square jaw,
+round glasses and designer stubble and women throw themselves at him,
+much to the annoyance of the others.
+
+Nick is convinced it is all a lie    1366
+Nick is about 6'2" and has blond-ish hair and glasses.  He is slightly
+more fashionably dressed than the people who actually live here.  He
+is driving the red car and whenever it explodes it's a blatant lie
+brought about by people who treat animals poorly.  Nick refuses to tie
+his shoelaces because shoes that stay on your feet are not
+fashionable.
+
+Richard concentrates intently on the screen    2750
+Richard is about 6'2" and has dark wavy hair.  His face is a rigid
+mask of concentration as he stares fixedly at his yellow car as it
+screams around the track.  His expression only changes to mutter abuse
+at his fellow racers.  Rumour has it that Richard likes animals... a
+lot.
+
+Andrew is locked in Micro Machines combat    2038
+Andrew is quite tall, about 6'4" but you can't easily tell that
+because he is hunched over the keyboard of his PC.  His face is intent
+on the screen as he guides his little blue car around the track.  He
+is wearing blue jeans and a t-shirt and looks like he needs a haircut.
+
+The dreaded Turd-Grinder    6596
+This evil crap-covered monstrosity has been lurking behind the new
+bog, waiting to attack.  It's just your bad luck you happened to be
+here when it picked its moment.
+
+
+
+
+A half-crown coin
+This half-crown coin is no longer legal tender.  It's quite large and
+heavy for a coin, and is a dull silvery colour.  Ian uses this coin
+for his famous Gravity Defying Coin Trick.
+
+A red foam frisbee
+This frisbee is made of red foam and is designed for safe indoor use.
+The only damage caused by using it inside has been due to
+over-enthusiastic catch-attempts.  You can throw this frisbee to
+somebody by typing "chuck <player>"
+
+An Immense Every-Ingredient Super Sarnie
+This is the Holy Grail of sandwiches.  Every single ingredient that
+could be found in the kitchen has made its way into this mighty meal
+wrapped in two slices of bread.
+
+A bottle of cheap red wine
+This is a bottle of cheap red wine from the Off-Licence just round the
+corner.  You can drink it.
+
+A 175 gram bright red Frisbee
+This shiny red disc of destruction has been used outside so often that
+the edge has become sharp and deadly due to repeated impacts with the
+pavement.  The frisbee is capable of delivering a weltering blow to
+the unwary and can even hurt when caught properly.
+
+Nick's Supah Stylish Skate Shoes
+These are no ordinary shoes.  These shoes elevate the wearer into
+something more than mortal, more than the average scruffily dressed
+student.  These shoes justify their outrageous price tag by providing
+the wearer with a sense of belonging to an elite fraternity.  They
+look cool too.  These shoes have fat white shoelaces.
+
+Richards scabby brown coat
+This is Richard's scabby brown coat.  It's as old as the hills, and
+yet he refuses to part with it.  This coat has survived snowboarding
+excursions and countless frisbee impacts.
+
+A Glock 9mm BB gun
+This blunt nosed Glock 17 9mm replica BB gun is frighteningly detailed
+in its reproduction of the real weapon.  As this gun belongs to
+Richard, the clip is full of little white pellets, half of which
+probably once belonged to other people.  The gun is capable of
+shattering light switches, destroying pizza tables and puncturing
+skin.
+
+A pint of water
+A pint glass full of water.  Almost certainly nicked from a nearby
+pub. It has "Guiness" written on one side in gold lettering.
+
+Chaotic Sinew
+A long strand of sinew, formed from the very essence of chaos.  It was
+once housed within the body of the chaos Lord Cthuhlu, no doubt holding
+together his very essence.  You wonder if it could be used for
+bonding together more than just osteomorphic anatomical structures...
+One must truly ponder how it got to where you found it...
+
+

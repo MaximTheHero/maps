@@ -1,0 +1,48 @@
+Elemental Area [Watson]
+Dirs: Road Portal, 12e, n, enter, u, portal
+
+Portal:
+
+        1   8   2
+         \ / \ /
+          x   x
+         / \ / \
+        7   P   5
+         \ / \ /
+          x   x
+         / \ / \
+        3   6   4
+
+1: Fire Elemental
+2: Air Elemental
+3: Water Elemental
+4: Earth Elemental
+5: Dust Elemental
+6: Mud Elemental
+7: Steam Elemental
+8: Smoke Elemental
+P: Portal, also if you kill the 4 prime elementals then you get jars.  
+   Place the jars on the altar at the portal and you open up the exit 
+   'winds'.  
+   Killing conglomeration opens up 'gateway' to 2.0 version.  same map
+
+Monters:
+A Smoke Elemental
+A Dust Elemental
+A Mud Elemental
+A Steam Elemental
+A Fire Elemental
+An Earth Elemental
+An Air Elemental
+A Water Elemental
+A Conglomeration of Energies
+
+Items:
+A small jar of fire
+A small jar of earth
+A small jar of air
+A small jar of water
+Armour of the Elements
+Armour of the Elements {Fluctuating}
+Armour of the Elements {Phasing}
+Greaves of the Elements

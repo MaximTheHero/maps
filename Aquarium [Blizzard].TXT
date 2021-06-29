@@ -1,0 +1,74 @@
+chaos,3e,2s,2e,n,3e,n,2w,3n,e
+
+   Top level  Mid level  Bottom Level
+
+     E-x-2     x-x-x       1-x-x
+     |X|X|     |X|X|       |X|X|
+     x-x-x     x-x-x       x-x-x
+
+
+E : exa equipment, get gear, breathe through scuba
+1: enter hole, get spit out at 2 with no SCUBA gear
+
+
+
+French Angelfish    8121
+This French Angelfish is huge, stretching nearly three feet from top
+to bottom.  His scales are mostly dark glistening grey, though streaks
+of bright yellow highlight his fins, making him a beautiful fish
+indeed.
+
+A Bottlenose Dolphin    8120
+One of the most beautiful and intelligent creatures of the sea, the
+bottlenose dolphin roams the shores of the coast searching for fish and
+adventure, playing with anything she encounters.
+
+A Sea Snake   8415
+
+A Green Moray Eel   9074
+The green moray before you looks like a six foot long fat snake.  His
+mouthful of razor-sharp teeth tends to tell most people to back away.
+You remember that the moray is near-sighted, and strange things may
+happen if you were to 'wiggle fingers'.
+
+A Mean-Looking Tiger Shark    7507
+The Tiger Shark is one of the most vicious predators of the ocean.  He
+is about sixteen feet long from the tip of his nose to the end of his
+massive tail, and has several rows of razor sharp teeth that can rend
+flesh more easily than a meat cleaver, although when they are finished
+with it, it looks more like hamburger than steak.
+
+Queen Triggerfish   8894
+The Queen Triggerfish is a very colourful denizen of the Caribbean.  She
+has two triangular shaped fins near her tail, one dorsal and the other
+ventral, resembling a trigger. This is where she gets her name.
+
+A Great White Shark     19183
+The 'terror of the deep', a Great White Shark, is truly one of the few
+misunderstood creatures of the ocean.  Although they usually attack and
+kill only for food, this shark seems perturbed about something, and it
+looks as though you will pay the price!
+
+A Bull Shark   8631
+Uh-oh.  You have stumbled upon one of the most voracious omnivores in
+the ocean.  Everything from license plates to rocks to small dogs have
+been found in the stomaches of these monstrous beasts.
+
+A Magnificent Manta Ray   8314
+The giant, bat-like manta ray is truly one of the most magnificent
+creatures that makes its home in the ocean.  With a wing-span of sixteen
+feet and greater, she is also one of the larger denizens of the sea.  As
+she moves along in the water, you get a feeling of true perfection and
+ultimate grace.  The beauty of this one here alone could out-do the
+photographs in almost any beauty magazine.
+
+
+
+SCUBA Gear
+SCUBA gear was designed by Jacques-Yves Cousteau in the 1940's.  It
+consists of an air tank, regulator, buoyancy vest, and weightbelt.  When
+used properly, people can visit the depths of the sea without too much
+worry about breathing.  Perhaps you could 'breathe through' it.
+
+Random ring of Lightning Protection
+.

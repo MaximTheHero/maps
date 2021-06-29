@@ -1,0 +1,168 @@
+chaos,3e,2s,w
+
+           x
+          / \
+       5 x 3 x
+      /|/ \| |
+     x x 4-x x-x
+            /
+           x-2
+          /
+         1
+         |
+         x-E
+
+1: buy ticket
+2: Big Top Shop
+3: pack powder,lift net,ignite cannon, enter cannon
+4: walk rope
+5: ride motorcycle
+
+A Happy Clown    14410
+
+A Midget Clown    13897
+A midget clown.  He has wild orange hair, a big red nose, big red
+shoes, and a wide ruffled collar.  He is only four feet tall but
+his presence demands attention.  He has on a little blue jumpsuit,
+with white polka dots.  He is busy making balloon animals for little
+kids.
+
+A Hobo Clown   14097
+A hobo clown.  He has a black wig, a little red nose, holey
+brown shoes, and a large ice cream in his hand.  He is wearing
+ragged blue jeans, with patches on them, an orange shirt and a
+squashed green hat.  He is running around with a large ice cream scoop.
+
+A Dancing Poodle   13767
+A cute, <color>, fluffy poodle.  He is wearing a miniature ruffled red collar around
+his neck.  He is completely shaved, save his paws, head, and tail.
+He is running around in circles and balancing a ball on his nose.
+
+A Prancing Horse   18822
+A beautiful white Arabian horse.  His mane and tail flow gracefully as
+he trots around the ring.  A beautiful sequined saddle sits on top of
+him.  You get a glimpse of his shod hooves as he kicks up some dirt.
+
+The Horse trainer   13052
+A tall and slender man in his 20's dressed in tight blue pants, and
+a long blue coat.  He's been working with horses all his life
+as it's been his life-long dream to work in the circus.
+
+A Juggler   8878
+A very talented juggler.  He is wearing tight striped pants, blue elf
+shoes, a brightly colored shirt and a jester hat on his head.  He is busy
+juggling five balls and a chainsaw high into the air.
+
+A Ring Master   44595
+The very showy and loud ring master.  He is dressed in a red tuxedo
+jacket with tails, a red cummerbund, white frilly shirt, and shiny
+black shoes.  A microphone is in hand.  His voice booms out over the
+noise of the crowd.  He is announcing the various acts being performed.
+
+The Human Cannonball    19336
+A giant of a man at six feet tall and 280 pounds. He has made a
+living being shot out of cannons since he was 15 years old. It's
+made him a very nasty person, and his hearing is 'shot' after so
+many stunts.
+
+A Tightrope Walker   16930
+A tightrope walker glides gracefully across the cable.  She has a balancing
+pole in her hands.  Small thin socks cover her feet.  She is dressed in
+pink tights and tutu.  She is doing small jumps and turns on the high
+wire.
+
+An Elephant Leader  26085
+A large African elephant.  He is a thick-skinned almost hairless mammal.
+He has short ivory tusks and smaller ears than its Asian counterpart.  This
+elephant is the leader of the pack and leads the others around the ring.  A
+little hat sits on top of his head.
+
+An Elephant Follower   8705
+A small African elephant.  He is a thick-skinned almost hairless mammal.
+He has short ivory tusks and smaller ears than its Asian counterpart.  This
+elephant is a follower and follows the others around the ring.  A
+little hat sits on top of his head.
+
+The Motorcycle Daredevil   11936
+A tall man wearing a blue and green jumpsuit side. A pair of goggles
+covers his eyes, and he dons a red, yellow, and blue helmet.
+His face is heavily scarred, making you think: 'Just how successful is
+this daredevil?'
+
+An albino tiger    95635
+A beautiful albino tiger.  The normal orange part of a tiger is
+replaced with gorgeous white fur.  Big blue eyes stare at you as
+if you were his next meal.  Large fangs and retractable claws make
+this creature a most formidable opponent.
+
+
+
+
+
+A red nose
+A clown's red nose.
+
+Cotton candy
+Pink cotton candy on a cardboard stick.  It's sugary, sticky, and
+sweet and you love it.  You can hardly wait to eat it.
+
+Circus peanuts
+A bag of orange, squishy circus peanuts.  The best part of this candy
+is smushing it between your fingers.  However, you've also found them
+to be very tasty.
+
+An inflatable rabbit on a stick
+A purple inflatable rabbit on a stick.  Its got long ears and it
+is holding a carrot in its hand.  The thin stick is connected to a
+small tab in the rabbit's head. A small plug seals the rabbit up
+and keep the air from leaking out, you wonder what would happen
+if you 'pulled' the seal out.
+pull plug
+Thppppppppttttttttttt!!! - The rabbit quickly starts deflating!
+The rabbit streaks off towards <random player>!
+
+A cup of lemonade
+A refreshing cup of freshly squeezed lemonade.  Just what you wanted to
+drink.
+
+A puffy poodle tail
+A puffy poodle tail.  It came off of a dancing poodle.  While it may
+look delicate, it can offer very good protection if worn.
+
+A sequined horse saddle
+A beautiful purple sequined horse saddle.  Perhaps you could wear
+it.
+
+A Chainsaw
+The jugglers chainsaw.  While it's not very easy to juggle, it makes
+a deadly weapon.
+
+A sack on a stick
+A hobo clown's sack on a stick.
+
+A ring master's top hat
+This is the ring master's top hat. It's covered with smooth black silk.
+It would look lovely on your head.
+
+A balancing pole
+A long balancing pole used by a tightrope walker to keep their balance.
+
+An elephant tusk
+A short, ivory elephant tusk.  It comes from the African elephant.
+
+An elephant trunk
+A short, grey elephant trunk.  It came from an African elephant.
+
+Stuntman's Helmet
+A sturdy motorcycle helmet, you could do anything with this.  It makes you
+wish you had something to use it for.  Have you ever thought about
+becoming a daredevil?
+
+Tiger Whip (enchanted)
+A long deadly whip used to train tigers with.  It is fast and
+frightening.  An inch thick leather strap makes up the whip part,
+while a hand carved piece of maple wood makes up the handle.  You
+can't imagine the pain it can bring.
+
+A diamond-studded tiger collar (enchanted)
+

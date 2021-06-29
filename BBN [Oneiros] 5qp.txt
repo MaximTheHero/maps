@@ -1,0 +1,27 @@
+BBN [Oneiros]
+Dirs: Chaos, 2w, lift lid
+
+        2
+        |
+      x-1-x
+        |
+      x-U-x
+
+1: Search wall
+2: kill tech, plug dcr.net into middle server
+
+Monsters:
+An anal-retentive technician
+A dirty technician
+An overweight technician
+A dorky looking technician
+A short, greasy technician
+A troll-like technician
+
+Items:
+
+A Technician's Toolbelt.
+A Pair of Technician's Diagonal Cutters.
+A Technician's Punchtool.
+
+

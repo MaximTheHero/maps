@@ -1,0 +1,63 @@
+
+
+                                                    x
+                                                    |
+                                                    x-x-x-D-x-x-x
+                                                    |           |
+                                                    x           x
+                                                    |          /
+                                                    x-5       x
+                                                    |        /
+                                                  6-x     4-x
+                                                    |      /
+                                                    x     x     x
+                                                    |    / \    |
+                                                    x   x   x-x x-x-x-x-x
+                                                    |  /      |         |
+                                                    x x       x-x-x-x-x-x-x
+                                                    |/                  | |
+                                                    x                   x-x
+                                                   /
+      x           x-x-x-x                         x
+      |           |      \                       / \
+      x-x-x-x-D-x-x       x-x-x-x-x-x-x-x   3   x   x
+            |     |           |          \  |  /     \
+      x-x-x-x     x-Shop      x           x-x-x       x
+        |   |     |          /|              /       /
+        JC  x     x         2 x       x-x-x-x       x
+            |     |           |      /     / \     /
+            x     x       x-x-x-x-x-x     x   x-x-x
+            |     |      /    |          /
+      x-x-x-x-x-x-x-x-x-x     x         x
+      |         |             |        /
+      x         x             D       D
+      |         |             |      /
+      Shop    1-x             x     x
+      |         |             |    /
+      D         x   8   9     x   x
+      |         |   |   |     |  /
+      x-x-D-x-x-x-x-x-x-x-x-x-x-x
+      |                     |  /
+      x                     7 x
+      |                      /
+      x                     x
+      |                    /
+      x-x-x-x-D-x-x-x-x-x-x
+      |
+     exit
+
+
+1: Global Merc (Detroit)
+2: Underground Bunker
+3: Silicon Wraiths HQ
+4: Drug Lab
+5: Subway
+6: European Robotics Survey Design and Development Office
+7: Detroit Metro Police Outpost
+8: Bank
+9: Bill Bonds Bar & Tavern
+
+
+In the shop is a pastry oven.  cook to get a Paastry Marble
+JC - Jerry Calderone.  couple places he can spawn - 2 multicomponent armour pieces
+D - sewers, when you try and go up usually get moved to random other sewer entrance. one has 'e' exit. multicomponent piece

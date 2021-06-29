@@ -1,0 +1,32 @@
+wanders, enter forest
+
+                     climb - canopy
+       x-x            x-x
+      /|X|\          /|X|\
+     x-3-8-x        x-x-x-x
+    /|X|X|X|\       |X|X|X|
+   1-x-4-7-9-x      x-x-x-x
+   |X|X|X|X|X|       \|X|/
+   2-x-5-x-x-x        x-x
+    \|X|X|X|/
+     x-x-6-x
+      \|X|/
+       E-x
+   
+
+1: Witchwood Tree, climb tree - The Dragonbone Chair [Slick]
+2: A secluded inn (quiet) - The Tabard Inn [Barrayani]
+3: A purple tree with cream leaves - wanders
+4: before a strange altar
+5: A turquoise tree with purple leaves - wanders
+6: A beige tree with blue leaves - wanders
+7. A magenta tree with mossy leaves - wanders
+8: A writhing tendril
+9: A large tree, climb tree - Evil Squirrel Tree [Machina]
+E: Enter Gap (exit)
+
+
+
+
+
+.

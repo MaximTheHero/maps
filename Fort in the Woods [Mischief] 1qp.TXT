@@ -1,0 +1,52 @@
+magic,7w,8s,e,charter serinth
+3se,e,3s,w,6s,e,3s,5w,sw,w,2s,se,2e,2s,se,2s,3e,s,enter fort
+
+
+ u         d-x-x
+           |   |
+ 1-x-2     x   x
+   |       |   |
+   x       x-x-x
+   |
+   x
+   |
+   x
+   |
+   E
+
+
+1: door
+2: stables
+   clean pen - Canary Marble
+
+
+
+
+
+Fort Guard    15228
+The fort guard is a highly trained knight at the ready in a suit of
+full platemail.  His movements are calculated and his years of
+military training are evident.  The knights sturdy long sword is ready
+to slice whatever rabble gets in his way.  It would probably be best
+to keep your nose clean around him.
+
+Horse    5749
+A large horse that plays in the stables of the knights fort.  The
+horse grazes and runs around the pen.  Even through it seems harmless
+enough, the powerful muscles that ripple as it walks tells you that
+the horse is very strong.
+
+
+
+
+Knight's Sword
+A well polished sword.  A couple scratches on the blade tell you it's
+been well used in the past, but the sword is still in good enough to
+use to protect yourself.
+
+Knight Platemail
+A sturdy set of platemail armour.  While offering good protection,
+sneaking anywhere in this clanking armour would be impossible.
+Several scrapes and scratches show you that this armour has been well
+used in the past.
+

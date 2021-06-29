@@ -1,0 +1,31 @@
+chaos, w, climb ladder
+
+              x
+             / \
+            x   x
+           / \ / \
+  x   x   x   x   x   x   x
+   \ / \ / \ / \ / \ / \ /
+    x   x   x   x   x   x
+     \ / \ / \ / \ / \ /
+      x   x   x   x   x
+     / \ / \ / \ / \ / \
+    x   x   x   x   x   x
+   / \ / \ / \ / \ / \ / \
+  x   x   x   x   x   x   x
+           \ / \ /
+            x   x
+             \ /
+              L
+
+
+Mobs:
+A red chinese checker
+A green chinese checker
+A blue chinese checker
+
+Items:
+Shard of Blue Glass
+Shard of Red Glass
+Shard of Green Glass
+

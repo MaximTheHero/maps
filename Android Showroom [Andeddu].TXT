@@ -1,0 +1,182 @@
+Chaos,3e,2s,2e,2n,flick switch
+Monster class range since inception: 34 to 62,846,988
+
+Basement:      Floor 1:          Floor 2:
+
+               x-x-x   x-x-x     1-x-2   x-x-x
+               | | |   | | |     | | |   | | |
+   x   x       x-x-x   x-x-x     x-3-x   x-4-x
+   |   |       | | |   | | |     | | |   | | |
+   x-S-x       x-x-x-S-x-x-x     x-x-x-S-x-x-x
+                     |
+                     E
+
+
+S: Stairs/Elevator
+E: Entrance/Exit
+
+18 androids total.
+have to kill upstairs ones in order the first time
+elevator is a pain in the ass.
+
+
+Apple fanboy
+The intentions of this boy are quite obvious. He has an apple T-shirt,
+Apple cap, and an Apple cape. He carries an iPhone in one hand and an
+iPad in the other. His cap, cape and T-shirt are all white with a
+black apple symbol printed on it. He is chanting Apple propaganda as
+he stands at the entrance of the Android Showroom.
+
+Gingerbread
+The biggest gingerbread man you have ever seen is on display. He
+towers over you and gazes down on you with his beady blackcurrant eye.
+The lines on its wrists and ankles are yellow in color with sparks of
+electricity rippling through them. It has cyan buttons running down
+the center of its chest that appear to be loosely attached to the
+torso.
+
+Froyo
+Strangely enough you are looking at a tub of frozen yogurt. It has a
+set of mechanical arms and legs to help it maneuver around. It has an
+Android emblem imprinted on the front of the cup that is green in
+color. Two dead-like eyes that blend into the cup appear to be staring
+at you as you enter the room. He is holding a large metal spoon that
+is clearly very sharp judging by the light reflecting from the edges.
+
+Cupcake
+This particular android is shaped like a cupcake. It has a large
+fluffy top coated in green icing and the base is covered with a cyan
+wrapper. It has two glowing red eyes protruding from the cyan wrapper
+and two mechanical arms and legs to contain some form of human
+resemblance.
+
+Donut
+The android is quite large due to the circumference of the donut. It
+has two mechanical arms and legs to allow it to interact with its
+surroundings. The donut itself is coated with a aqua glaze that is
+incredibly shiny. It has two fierce red eyes embedded into the donut
+that appear to be tracking you around the room.
+
+KitKat
+This android is incredibly tall and skinny representing that of a
+single stick of kitkat. The very tip of its head is all broken up and
+you can see jagged wafer biscuit protruding from the chocolate
+exterior. It has two mechanical arms and legs and it is holding on to
+two batons that are also shaped like kitkats.
+
+Honeycomb
+This is quite an odd looking android. It is quite simply a large
+rectangular block of honeycomb with mechanical arms and legs attached
+to the appropriate places. It is bright yellow and seems to glow and
+crackle around the edges. Its eyes are sunken into the honeycomb and
+are a slightly different shade of yellow.
+
+Ice Cream Sandwich
+Initially as you walk into the room you see this android as a large
+square chocolate biscuit with two glowing red eyes, two legs and two
+arms. As you circle the display item you see it has a creamy white ice
+cream filling. The air temperature in this particular showcase is
+freezing in an attempt to keep this android intact.
+
+Lollipop
+This strange android is shaped like a large lollipop and is green in
+color. It has two arms but somehow no legs. It appears to be able to
+jump around and balance perfectly on a singular spring located at the
+base of a large plastic pole. It has a grimacing face and gazes upon
+you with vicious intent.
+
+Android 1.1
+The creators of this android attempted to shape it with human
+resemblance but if it wasn't for the two arms, two legs, a head and a
+torso it may be considered something else all together. It appears to
+be made of cheap parts that may have been collected from the scrap
+yard. It appears the developers have done their best to improve on the
+previous android but only managed to sharpen it up by painting it
+black.
+
+Android 1.0
+The creators of this android attempted to shape it with human
+resemblance but if it wasn't for the two arms, two legs, a head and a
+torso it may be considered something else all together. It appears to
+be made of cheap parts that may have been collected from the scrap
+yard.
+
+Alpha
+This particular android is quite plain in color and quite literally
+represents a massive capital 'A' with two arms and two legs. There is
+something strange about this creation as it appears to disappear and
+reappear quite frequently. It is apparent this android was never
+finished or was abandoned early in the piece for another project.
+
+Beta
+This particular android is quite plain in color and quite literally
+represents a massive capital 'B' with two arms and two legs. There is
+something strange about this creation as it appears to disappear and
+reappear quite frequently. It is apparent this android was never
+finished or was abandoned early in the piece for another project.
+
+Marshmallow
+This is quite literally an extremely large marshmallow that is split
+down the middle with each half representing your typical marshmallow
+colors, white and pink. It has a pink colored eye on the white side a
+a white eye on the other. The mouth is also alternatively color coded
+with white teeth and pink lips on one side while inverted on the
+other. How strange. It has two arms and two legs used to maneuver
+around the room.
+
+Nougat
+This android is a large, yellow block of what appears to be nougat. It
+has the odd chunk of pistachio but protruding from it's exterior. It
+stands on its platform in the center of the room lobbing a large whole
+pistachio nut from one hand to the other with an evil grin on its
+face. Its legs are made of solid hunks of nougat without any
+identifiable feet, how this android walks is a mystery. The pistachio
+nut appears to be electrified somehow and sparks flicker from its
+surface as it flies form hand to hand.
+
+Oreo
+This psychotic creation glares down at you from its podium. The
+chocolaty biscuit is far beyond the size of a traditional oreo. Its
+biscuity layers have seen better days as the ground is coated in
+biscuit crumbs. White creamy goo drips from its centre and glows with
+a strange pulse of energy where it resides underneath the android
+abomination. Be well prepared if you are crazy enough to attempt
+confrontation with this creature.
+
+Development
+This is a slick looking android. It has been crafted to resemble a
+human with two legs, arms and a head. Its armour shimmers and it has a
+faint glow surrounding it. Through the glow and the shimmering armour
+you can see its black metal plating with bright red eyes glaring at
+you. The glow and the shimmer are intermittently cutting out giving a
+sense of unpredictability with this android.
+
+Jellybean
+This android is quite a tough looking invention. It is shaped like a
+bean and is incredibly large. It has two large cannons for arms and
+two legs to hold it upright. It has two bulging eyes sticking out of
+the top of the bean and an incredibly cheeky smile.
+
+Eclair
+An extremely tall android stands perfectly still in front of you. It
+is tall because it is shaped like a vertically standing chocolate
+eclair. The right hand side of it is covered in a chocolate glaze and
+there is a split down the middle exposing what appears to be whipped
+cream. The cream is dripping onto the floor and has an aqua colored
+glow radiating from it.
+
+
+
+Apple iPhone
+An Apple iPhone. A smart phone designed and developed by Apple Inc.
+The model of this phone is indeterminable as the design has not
+changed much over the years. It has a hard cover protecting it with
+graphics of pink unicorns coating the externally facing side.
+
+Apple Cap
+A white cap with a large black apple symbol in the center of it. It
+has an adjustable strap on the back to assist with fitting on many
+different head sizes.
+
+Apple Cape.
+Apple T-shirt.

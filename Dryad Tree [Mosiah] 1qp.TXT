@@ -1,0 +1,39 @@
+magic, eforest, 5e,6s,clearing
+
+
+u -> top of tree. sleep until snakes stop coming
+u ->
+u ->
+  -> limb - search leaves
+u ->
+base -> climb tree
+
+
+A dryad stands here   400739
+Almost indistinguishable from this tree, a dryad stands glaring at
+you.  Her skin is the color and texture of tree bark, and her face
+is surrounded by a mass of green-tinted hair.
+
+A group of Kij vines   5789
+These shiny green vines have leaves formed in the shape of a heart
+and small thorn-like barbs on each curling and twining stem.
+
+A boa constrictor preying on small critters... or players    2569
+A large boa constrictor, about 10 feet long, slithers across the
+tree limb, looking for something tasty to eat.
+
+
+
+A bleached skull
+The bleached skull of a humanoid, type unknown.
+
+A rusty sword
+An old and rusted sword.  The blade is criss-crossed with scratches
+and has lost its edge.  A weapon of last resort.
+
+A beautiful piece of jade, about half an inch in diameter. It has been 
+polished until it is shiny, and is completely round.
+
+Golden acorn
+An acorn made of solid gold.
+.

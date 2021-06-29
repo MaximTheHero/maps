@@ -1,0 +1,934 @@
+
+Level 1:
+
+              x-x
+                |
+                x x-x
+                | | |
+              x-x-x x-A
+              |
+            x-x-x
+            | |
+            x x x-x-x-x
+              | |   |
+              x-x   x-x
+                      |
+                      x
+                      |
+                Z-x-x-x
+                      |
+                      x
+                      |
+                E-D   u(Out)
+			
+Level 2:
+
+                                          A
+                                          |
+                                          x
+                                          |
+                                          x   x-x-x
+                                          |     | |
+                                    x x-x-x     x x-x       d
+                                    | | | |     |   |       |
+                                    x-x x x-x-x-x   x       x
+                                      |   |         |       |
+                        x-x-x-x-x-x-Z x   x-x       x-x     x
+                       /              |     |         |     |
+                      x             x-x-x-x-x-x       x-x   x
+                     /                  | |             |   |
+                    x           I x-E D-x x   x x x   x-x   x-S
+                    |           | |       |   | | |   |
+                    x           x-x-x x x-x-x-x-x-x-x x
+                    |                 | | |           |
+              x-x-x-x                 x-x-x   x-x-x-x x-x C   d (Crystal Tunnel [Kohl])
+             /                          |       | | | | | |   |
+            x                     B-x-x-x-x-x-x-x x x-x x-x-x-x
+            |                       |         |
+            x                       x         x
+            |
+            x
+            |
+            x
+           /
+          x
+          |
+          x
+         /
+        Y
+
+Level 3:
+                       
+
+                                               G
+                                               |
+                                           x-x-x-x
+                                           |     |
+                                       x-x-x     x
+                                       |         |
+                                       x         x
+                                       |
+                                   x-x-x   F
+                                       |   |
+                                       x   x-x-x   S x   x-x
+                                       |       |   | |   |
+                                       x   x-x-x   x-x-x-x
+                                       |   | |           |
+                                       x   x-x           x-x-x-x
+                                       |   |                   |
+                                   x-x-x-x-x     x             x-u
+                                   |     |       |
+                                 x-x x x-x     x-x-x
+                                 | | | |       | | |
+                                 x x-x-x     x-x-E-x-x
+                                 |     |       | | |
+                                 x-x-x-x x     x-x-x
+                                       | |       |
+                                     I-x-x-x     x   x-x-x-x-x-x   S
+                                       |   |     |   |   |     |
+                                     x-x   x-x   x   x   x     x
+                                     |     |     |   |   |     |
+                                   x-x     x     x-x-x   x     C
+                                   |       |     | |     |
+                                   x   B-x-x-x-x-x x-x x-x
+                                   |         |       | |
+                                   x-x-x     x       x-x
+                                       |     |       |
+                                       x-x-x-x-x-x-x-x
+                                             |   |
+                                             x   x
+                                                 |
+                                                 x
+
+Level 4:
+                                                            
+                                                                                                     x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+                                                                                                    /                             \
+                                                                                                   x x-x-x-x-x-x-x-x-x-x-x-x-x-x-x x
+                                                                                                  / / \                         / \ \
+                                                                                                 x x   x-x-x-x           d-x-x-x   x x
+                                                                                                / /                                 \ \
+                                                                                               x x     x-x-x-x-x-x-x-x-x-x-x-x-x     x x
+                                                                                              / /     /                         \     \ \
+                                                                                             x x     x   x-x-x-x-x-x-x-x-x-x-x   x     x x
+                                                                                            / /     /   /                     \   \     \ \
+                                                                                           x x     x   x   x-x-x-x   x-x-x-x   x   x     x x
+                                                                                          / /     /   /           \ /       \   \   \     \ \
+                                                                                         x x     x   x   x-x-x-x-x-x x-x-x-x-x   x   x     x x
+                                                                                        / /     /   /   /|                   |\   \   \     \ \
+                                                                                       x x   x x   x   x x   x x-x-x-x x-x   x x   x   x     x x
+                                                                                      / /   / /   /   /  |  /   \     /   \  |  \   \   \     \ \
+                                                                                     x x   x x   x   x   x x     x   x     x x   x   x   x     x x
+                                                                                    / /   / /   /   /   / /      |   |      \|\   \   \   \     \ \
+                                                                                   x x   x x   x   x x-x-x     x-x-x-x-x     x x-x x   x   x     x x
+                                                                                  / /   / /   /   / /   /     /   \           \   \ \   \   \     \ \
+                                                                                 x-x   x-x   x   x x   x     x   x-x-x   x     x   x x   x   x     x x
+                                                                                   |\ / /   /   / /   /     /   /       / \     \   \     \        | |
+                                                                                 x x x x   x   x x   x     x   x   x-x x   x     x   x x-x-x x-x   x x
+                                                                                /| |   |   |   | |  /     /   / \  |\ / \   \        | |    /  |   | |
+                                                                               x x x   x   x   x x x     x x x   x x x   x   x     x x x   x   x   x x
+                                                                              /  | |   |   |   | | |\      |/   /     \   \   \   /| | |   |   |   | |
+                                                                             x   x x   x   x   x x x x x   x x x   x   x-x x   x x x x x   x   x   x x
+                                                                            /    | |   |   |    \  |  \|\  | |/   /|        \ /|/  |  /    |   |   | |
+                                                                           x     x x   x   x     x x   x x x x-x-x 1 x-x-x x x x   x x     x   x   x x
+                                                                          /      | |   |   |    /  |  /|/ \        |/   /| |  \|\  |  \    |   |   | |
+                                                                         x       x x   x   x   x x x x x   x x-x   x   x x x   x x x x x   x   x   x x
+                                                                        /        | |   |   |   | | |/   \   \   \     /   /|      \| | |   |   |   | | 
+                                                                       x         x x   x   x   x x x     x   x   x x x   x x x     x x x   x   x   x x
+                                                                       |         | |   |  /    | |        \   \ / \|  \ /   /     /  | |   |   |   | |
+                                                                       x         x x   x-x x-x-x x   x     x   x x-x   x   x     x   x x   x   x x x x
+                                                                       |         | |        \     \   \     \ /       /   /     /   / /   /   / / \| |
+                                             x-x-G-x-x-x-x-x-PF        x         x x     x   x   x x   x     x   x-x-x   x     x   x x   x   x-x   x x
+                                             |     |         |          \         \ \     \   \   \ \   \           \   /     /   / /   /   / /   / /
+                                           x-x     x         x-x         x         x x     x   x   x x-x x     x-x-x-x-x     x-x-x x   x   x x   x x
+                                           |       |           |         |          \ \     \   \   \   \|\      |   |      / /   /   /   / /   / /
+                                         x-x     x-x-x-x-x     x-x       x           x x     x   x   x   x x     x   x     x x   x   x   x x   x x
+                                         |       |       |       |      /             \ \     \   \   \  |  \   /     \   /  |  /   /   / /   / /
+                                         x     x-x       x-x     x-x   x               x x     x   x   x x   x-x x-x-x-x x   x x   x   x x   x x
+                                         |     |           |       |   |                \ \     \   \   \|                   |/   /   /     / /
+                                       x-x   F-x     x     x-x     x   x                 x x     x   x   x-x-x-x-x x-x-x-x-x-x   x   x     x x
+                                       |     |       |       |     |   |                  \ \     \   \   \       / \           /   /     / /
+                                   x-x-x     x     x-x-x     x     x   x                   x x     x   x   x-x-x-x   x-x-x-x   x   x     x x
+                                   |   |     |     | | |     |     |  /                     \ \     \   \                     /   /     / /
+                                 x-x   x     x   x-x-S-x-x   x   x-x-x                       x x     x   x-x-x-x-x-x-x-x-x-x-x   x     x x
+                                 |     |     |     | | |     |   |                            \ \     \                         /     / /
+                             x-x-x     x     x     x-x-x     x   x                             x x     x-x-x-x-x-x-x-x-x-x-x-x-x     x x
+                             |   |     |     |       |       |   |                              \ \                                 / /
+                             J   x-x   x-x   x-x     x     x-x   x                               x x   x-x-x-x           x-x-x-x   x x
+                                   |   | |     |           |     |                                \ \ /                         \ / /
+                                   x-x-x-x     x-x       x-x     x                                 x x-x-x-x-x-x-x-x-x-x-x-x-x-x-x x
+                                         |       |       |       |                                  \                             /
+                                         x-x     x-E-x-x-x     x-x                                   x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+                                         | |       |           |
+                                       x-x x-x     x         x-x
+                                       |     |     |         |        
+                                     x-x     x-x-x-x-x-x-x-x-x       S
+                                     |             |     |            
+                             x-x-x-x-x             x     x
+                             |       |             |     |
+                             x       x-x-x         x     x
+                             |       |   |               |
+                           x-x-x   x-x   x               x-H
+                             |     |     |
+                             x   x-x-x x-x-x
+                                   |     |
+                                 x-x-x   x
+                                   |
+                                 x-x-x
+                                   |
+                              Hive Queen   
+
+1: Crysmal (Glass Boots)
+
+
+Level 5:
+
+
+                     x-x             x-x             x-x-x-x-x
+                    /   \           /   \           /         \
+                   x x-x x         x x-x x         x   x-x-x   x
+                   |  \ /         / /  | |        /   /     \  |
+                   x   x         x x x-x x       x   x   x   x x
+                    \           /   \   /       /   /   / \  | |
+                     x         x     x-x       x   x   x x-x x x
+                      \       /               /    |    \   / /
+                       x-x-x-x             x-x     x     x-x x
+                      / \     \           /         \       /
+                 x   x   x x   x-x-x-x-x-x           x-x-x-x
+                / \  |   | |\  |\
+               x x x x   x x x x x                         x-x-x-x
+               | |\ \|   |X| | |\ \                       /       \
+               x x x x   x x x x x x                     x x-x-x-x x
+                \ /  |   | | | |\ \ \                   / /       \ \
+                 x   x   x x x x x x x                 x x x-x-x-x x x
+                      \ /   \ \ \ \ \ \               / / /      | | |
+                   x-x x-x-x-x x x x x x             x x x-x-x-2 x x x
+                   |  /       \ \ \ \   \             \ \       / / /
+                   x-x         x x x x-x x             x x-x-x-x x x
+                               |  \ \ \ \               \       / /
+                               x   x x x x-x-x           x-x-x-x x
+                               |    \   \ \ \ \                 /
+                               x     x-x x x x x-x-x-x-x-x-x-x-x
+                                \       \   \ \
+                                 x       x-x x x
+                                  \       \ \ \
+                                   x       x x x
+                                    \         \
+                                     x         x
+                                     |
+                                     x
+                                     |
+                                     x
+                                     |
+                                     x
+                                      \
+                                       x                          u
+                                       |                           \
+                                       x                            x
+                                       |                             \
+                                       x                              x-x-x-x-x
+                                       |                               \       \
+                                       x                                x       x
+                                       |                                 \       \
+                                       x                                  x       x-x-x-x-x-x-x-x
+                                      /                                   |                      \
+                                     x                                    x-x                     x
+                                     |                                    |  \                     \
+                                     x                                    x   x                     x
+                                     |                                     \   \                     \
+                                     x                                      x   x                     x-x-x-x-x-x-x-x
+                                     |                                      |    \                         \         \
+                                     x                                      x     x                         x         x
+                                     |                                       \     \                         \         \
+                                     x                                        x     x-x-x-x                   x         x
+                                      \                                        \           \                   \         \
+                                       x                                        x-x         x                   x         x
+                                        \                                          \         \                   \         \
+                                         x                                          x         x-x-x-x-x-x-x-x-x   x         x
+                                        /                                            \                         \  |          \
+                                       x                                              x-x                       x x           x
+                                      /                                                  \                       \ \           \
+                                     x                                                    x-x-x-x-x-x-x-x         x-x-x-x-x-x   x
+                                      \                                                                  \                   \   \
+                                       x                                                                  x-x-x-x-x-x-x-x     x   x
+                                       |                                                                                 \     \  |
+                                       x                                                                                  x     x x
+                                       |                                                                                   \     \|
+                                       x                                                                                    x-x   x
+                                       |                                                                                       \   \
+                                       x                                                                                        x-x-x-x
+                                       |                                                                                               \
+                                       x                                                                                                x
+                                      /                                                                                                /
+                                     x                                                        x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+                                     |                                                       /
+                                     x                                                      x
+                                     |                                                     /
+                                     x                                                    x
+                                     |                                                   /
+                                     x     x-x-x                                        x
+                                     |    /     \                                      /
+                                     x   x       Pitfall Landing Room                 d
+                                      \ /
+                                       x
+                                       |
+                                       x
+                                       |
+                                       x
+                                       |
+                                       x
+                                       |
+                                       x
+                                       |
+                                       x
+                                       |
+                                       x
+                                       |
+                                       x
+                                       |
+                                       x
+                                       |
+                                       x
+                                      /
+                                     x
+                                      \
+                                       x
+                                       |
+                                       x
+                                       |
+                                       x
+                                       |
+                                       x
+                                        \
+                                         x
+                                          \
+                                           x
+                                           |
+                                           x
+                                           |
+                                           x
+                                           |
+                                           x
+                                          /
+                                         x
+                                        /
+                                       x
+                                       |
+                                       x
+                                       |
+                                       x
+                                       |
+                                       x
+                                        \
+                                         x
+                                        /
+                                       x
+                                       |
+                                       x                   C
+                                       |                  /
+                                       x     x-x-x-x-x-C x x-x
+                                       |    /       /    |/   \
+                                       x   x x-x-x-x x-x-x-x-x x
+                                        \   /     /  |   |   |  \
+                                         x x x-x-x Q-x x x x x-Q x
+                                        /   /   /  |  /| | |\  |  \
+                                       x   x x-x x-x x C x x x x-x x
+                                       |    /  | |  /   /| |  \  | |
+                                       x   x   x x x-x-x x x C-x x C
+                                       |        \|       |  \    |
+                                       x       x-x-x-x-x-S-x-x-x-x-C
+                                       |      /  |    \  |       |\
+                                       x     x   x x-C x x x-x-x x x
+                                       |     |   |  \  | |/   /  | |
+                                     x-x   C C x x-x x x x C x x-x x
+                                     | |   |  / \  |  \| | |/  |  /
+                                 x-x-x-x   x-x   x Q-x x x x x-Q x
+                                 |     |          \  |   |   |  /
+                                 x     x           x Q-x-x-x-x x
+                                 |     |            \   /|    /
+                             J-x-x   x-x-x           x-x C C-x
+                                 |   |   |  
+                                 x-x-x   x-x                   x-x
+                                 |   |   | |                   | |
+                                 x   x-x-x-x-x               x-x x
+                                 |   |   |   |               |   |
+                                 x   x   x   x             x-x   x x
+                                 |   |   |   |                   | |
+                               x-x-x-x-x-x   x-x-x-x-x       x-x-x-x u (to pedes)
+                               |     |   |   |   |   |           |   |
+                               x     x   x-x-x   x   x   x-x-x   x-x-x
+                               |     |   |   |   |   |   |   |   |
+                             x-x-x-x-x-x-x   x   x-x-x   x   x x-x
+                             |     |     |   |   |   |   |   | | |
+                             x     x     x   x   x   x-x-x-H-x-x x-x
+                                   |     |   |   |   |   |   |     |
+                                 x-x-x-x-x-x-x-x-x-x-x   x   x   x-x
+                                 |     | |     | |   |   |   |   |
+                                 x     x-x     x-x   x   x-x-x x-x
+                                       | |     |               |
+                                       x x-x-x-x             x-x
+                                                            /
+                                                           x
+                                                           |
+                                                           x
+                                                           |
+                                                           x
+                                                           |
+                                                           x
+                                                           |
+                                                           x
+                                                           |
+                                                           x
+                                                           |
+                                                           x                                 3-x
+                                                          /                                     \
+                                                         x                                       x
+                                                        /                                        |
+                                                       x                                         x
+                                                        \                                        |
+                                                         x                                       x
+                                                         |                                       |
+                                                         x                                       x
+                                                         |                                       |
+                                                         x                                       x
+                                                         |                                      /
+                                                         x                                     x
+                                                          \                                     \
+                                                           x                                     x
+                                                            \                                   /
+                                                             x                 x               x
+                                                              \               /                 \
+                                                               x           x x                   x
+                                                                \         /  |                  /
+                                                                 x     x x x x x               x
+                                                                  \     \| | |/                 \
+                                                                   0     x x x       x x x       x
+                                                                  /|      \|/         \|/       /
+                                                             0-0-0 x       x       x-x-x-x     x
+                                                            /     /|\     /       /   /|\      |
+                                               x x x   x   0   x-x x x x-x-x-x   x   x x x     x
+                                                \|/     \   \   /|\   /   \   \ /              |
+                                               x-x-x-x-x-x   0 x x x x   x x   x               x
+                                                /|\     / \  |  /   / \ /   \ /|\              |
+                                               x x x   x x-x-0-x   x x x-x x x x x   x x x x   x
+                                                            / \    |/ \    |   |      \|/  |  /
+                                                     0-0-0-0 x x   0   x x-x x x 0   x-x-x x x
+                                                    /     / / /|  / \   / / / / / \ / /|\   \ \
+                                                 x 0 x-x-x x x x 0-x 0-0 x 0 x 0   0 x x x x-x 0-x
+                                                  \|  /|  / /| | |  \   \ / \ / \  |       |  /   \
+                                               x   0 x x x-x x x 0 x x-x 0 x 0   x 0   x-x-x 0 x x x
+                                                \ /|\           / /   /    |      / \ /      | |/
+                                               x-x x 0-0-0-0-0-0-x-x-x-x x-0-0-0-0 x x   x x 0 x x x x
+                                                 |\             \ \   \     \     / \ \  |/   \|/ / /|
+                                                 x x-x x x x x x x x x-x x-x 0-0 x 0-x x x-x x-0-x-x x
+                                                / \ \   \|/  |/  |  /   / \     \ / \     \   /|\ \
+                                               x   x x x-x-x-x-x x-x x-x x x x x 0-x 0-x   x 0 x x x
+                                                  / \   /         \ /   \ \ \ \ \   /|\   / / \
+                                                 x   x-x   x x x   x   x x-x x x-x x 0 x-x 0 x x-x x
+                                                    /   \   \|/   /|\ /    |   |    \ \   / / /   \|
+                                                   x     x x-x-x-x x x x-x x x x x x x 0-0 x x-x   x
+                                                  / \       /|\     \ / \   /  |/  | |     |    \
+                                                 x   x     x x x     x   x x   x   x-x   x-x     x-x
+                                                     |                \   /   / \   / \ / \      |\
+                                                     x                 x-x-x-x   x x   x   x-x-x x x
+                                                                          \     /      |        \
+                                                                           x   x       x         x
+
+
+
+
+
+
+2: Corrinsyl the Mosquito Daemoness
+3: Arachnus the Arachdaemon
+C: Centipedal of some sort.
+Q: special down exits (sw one goes to Centipedal Realm)
+
+
+Level 6:
+
+
+
+                               x
+                              /|\
+                             x x x
+                            / /   \
+                           x x x   x
+                          /  | |\   \
+                         x   x x x   x
+                        /   /  |  \   \
+                       x   x   x   x   x
+                      /   /   /|\   \   \
+                     x   x   x-x-x   x   x
+                    /   /   / \|/ \   \   \
+                   x   x   x x-x-x x   x   x
+                  /   /   / / /|\ \ \   \   \
+                 x   x   x x x x x x x   x   x
+                /   /   / / /  |  \ \ \   \   \
+               x   x   x x x   x   x x x   x   x
+              /   /   / / /   /|\   \ \ \   \   \
+             x   x   x x x   x-x-x   x x x   x   x
+            /   /   / / /   / \|/ \   \ \ \   \   \
+           x   x   x x x   x   x x-x   x x x   x   x
+          /   /   / / /   /|  /|\|  \   \ \ \   \   \
+         x   x   x x x   x x-x x x   x   x x x   x-x x
+        /   /   /|\|/   /|\ / \|/ \ /|\   \|/|\     \ \
+       x-x x-x-x-x-x-x-x-x-x-x-u-x-x-x-x-x-x-x-x-x-x x-d
+        \ \     \|/|\   \|/ \ /|\ / \|/   /|\|/   /   /
+         x x-x   x x x   x   x x x-x x   x x x   x   x
+          \   \   \ \ \   \  |\|/  |/   / / /   /   /
+           x   x   x x x   x-x x   x   x x x   x   x
+            \   \   \ \ \   \ /|\ /   / / /   /   /
+             x   x   x x x   x-x-x   x x x   x   x
+              \   \   \ \ \   \|/   / / /   /   /
+               x   x   x x x   x   x x x   x   x
+                \   \   \ \ \  |  / / /   /   /
+                 x   x   x x x x x x x   x   x
+                  \   \   \ \ \|/ / /   /   /
+                   x   x   x x-x-x x   x   x
+                    \   \   \ /|\ /   /   /
+                     x   x   x-x-x   x   x
+                      \   \   \|/   /   /
+                       x   x   x   x   x
+                        \   \  |  /   /
+                         x   x x x   x
+                          \   \| |  /
+                           x   x x x
+                            \   / /
+                             x x x
+                              \|/
+                               x
+
+
+                                         u/d                    
+
+
+
+Level 7:
+
+
+
+
+
+                                                                                                                            x-x-x-x-x-x-x
+                                                                                                                           /             \
+                                                                                                                x-x-x-x-x-x               x       x-x
+                                                                                                               /                           \     /   \
+                                                                                                              x                     x-x     x-x-x     x
+                                                                                                             /                     / X \              |
+                                                                                                            x     d               x x x x             x
+                                                                                                           /       \              |X X X|             |
+                                                                                                          x         x-x         x-x x x x             x
+                                                                                                         /|        / X \       / / \ X /             /
+                                                                                                    x-x-x x       x x x x     x x x-x-x             x
+                                                                                                   /| | |         |X X X|\    |  / X \             /
+                                                                                                x-x x x x         x x x x x   x x x x x           x
+                                                                                               /| | | | |          \ X /  |    \|X X X|           |
+                                                                                              x x x x x x       x-x x-x x x   x-x x x x           x
+                                                                                             /| |/ / / /|      / X \ \ / / \ / X \ X /             \
+                                                                                            x x x x x x x     x x x x x x x x x x x-x               x
+                                                                                            | |\ \| | | |     |X X X| |   | | |/ / X \               \
+                                                                                            x x x x x x x     x x x x x x x x x x x x x   x-x         x
+                                                                                             / /|    \| |      \ X /   \ X / \  |X X X|  / / \        |
+                                                                                            x x x x-x x x       x-x-x   x-x x x-x x x x-x x x-x       x
+                                                                                            | | |/  | | |        / / \ / X \ \ /|\ X / X \ / X \     /
+                                                                                            x x x x x x x       x x x-x x x x x x x-x x x x x x x   x
+                                                                                            | |\ /  | |\        |  / X \ \| | |/ / /|X X X|X X X|   |
+                                                                                            x x x x x x x       x x x x x x x-x x x x x x x x x x   x
+                                                                                            | |  /|\| | |        \|X X X|  / X \|  / \ X / \ X / \   \
+                                                                                            x x x x x x x         x x x x-x x x x x x x-x x x-x x x   x
+                                                                                            |  /| | | | |\         \ X X  |X X X|\| |\  |\|  / /| |   |
+                                                                                            x x x x x x x x         x-x   x x x x-x x x x x-x x x x   x
+                                                                                               \  |  \   /         / X \   \ X / X \ X /  |  \ X /    |
+                              x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x                                   x x   x x         x x x x   x-x x x x-x x x   x-x     x
+                             /                               \                                     \    |         |X X X|     |X X X|\ / /           /
+                            x   x-x-x-x-x-x-x-x-x-x-x-x-x-x   x                                     x   x         x x x x-x   x x x x x-x           x
+                           /   /                           \   \                                    |   |          \ X / X \ / \ X /               /
+                          x   x   x-x-x-x-x-x-x-x-x-x-x-x   x   x                                   x   x           x-x x x x x x-x         x-x-x-x
+                         /   /   /                       \   \   \                                   \                |X X X| |\  |        /
+                        x   x   x   x-x-x-x-x-x-x-x-x-x   x   x   x                                   x               x x x x x x x       x
+                       /   /   /   /                   \   \   \   \                                   \               \ X / \ X / \     /
+                      x   x   x   x   x-x-x-x-x-x-x-x   x   x   x   x                                   x               x-x   x-x   x-x-x
+                     /   /   /   /   /               \   \   \   \   \                                  |
+                    x   x   x   x   x   x-x-x-x-x-x   x   x   x   x   x                                 x
+                   /   /   /   /   /   /           \   \   \   \   \   \                                |
+                  x   x   x   x   x   x   x-x-x-x   x   x   x   x   x   x                               x
+                 /   /   /   /   /   /   /       \   \   \   \   \   \   \                             /
+                x   x   x   x   x   x   x   x-x   x   x   x   x   x   x   x                           x
+               /   /   /   /   /   /   /   /   \   \   \   \   \   \   \   \                         /
+              x   x   x   x   x   x   x   x     u   x   x   x   x   x   x   x                       u
+               \   \   \   \   \   \   \   \       /   /   /   /   /   /   /
+                x   x   x   x   x   x   x   x-x-x-x   x   x   x   x   x   x
+                 \   \   \   \   \   \   \           /   /   /   /   /   /
+                  x   x   x   x   x   x   x-x-x-x-x-x   x   x   x   x   x
+                   \   \   \   \   \   \               /   /   /   /   /
+                    x   x   x   x   x   x-x-x-x-x-x-x-x   x   x   x   x   x-x
+                     \   \   \   \   \                   /   /   /   /   /  |
+                      x   x   x   x   x-x-x-x-x-x-x-x-x-x   x   x   x   x   x
+                       \   \   \   \                       /   /   /   /    |
+                        x   x   x   x-x-x-x-x-x-x-x-x-x-x-x   x   x   x     x
+                         \   \   \                           /   /   /      |
+                          x   x   x-x-x-x-x-x-x-x-x-x-x-x-x-x   x   x       x
+                           \   \                               /   /        |
+                            x   x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x   x         x
+                             \                                   /         /
+                              x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x     4-x-x
+ 
+
+4: Toxylia the Wasp Daemoness
+
+
+
+Level 9:
+Phase A                                                     Phase B
+
+
+                         x-x-x-x
+                        /       \
+                       x x       x
+                      / / \       \
+                     x x F-x       x                                             x
+                      \ \ /         \                                           / \
+                 x-x-x x x     x     x-x-x                                     x   x
+                /     \ \|    / \         \                                   /     \
+               x x-x-x x x   x   x   x-x-x x                                 x   x   x
+              / /     \ \ \ / \ /   /     \ \                                 \   \ /
+             x x   x  -x x-x   x   x   x   x x                     x   x-      x   x       x
+            / /   / \     / \ / \ /   / \   \ \                   / \ /       / \         / \
+           x x   x   x   x   x   x   x   x   x x                 x   x   x   x   x   x   x   x
+           | |  / \   \ /   / \   \ /   / \  | |                  \     /   /     \   \ /   /
+           x x x   x   x   x   x   x   x   x x x                   x   x   x   x   x   x   x
+           | |  \   \ / \ / \ / \ / \ /   /  | |                    \ / \ / \ / \ / \ / \   \
+           x x   x   x   x   x   x   x   x   x x x                   x   x   x   x   x   x   x
+          /   \   \ / \ / \ / \ / \ / \ /  |/ / / \                 / \ / \ / \ / \ / \ / \  |
+         x     x   x   x   x   x   x   x   x x x x x           x   x   x   x   x   x   x   x
+        /       \ / \ / \ / \ / \ / \ / \   / / /|\ \         / \     / \ / \ / \ / \ / \
+       x     x   x   x   x   x   x   x   x x x-x F x x       x   x   x   x   x   x   x   x
+      /     / \ /   / \ / \ / \ / \ / \   \|/   \|/  |      /   /   / \ / \ / \ / \ / \ / \
+     x     x   x   x   x   x   x   x   x   x     x   x     x   x   x   x   x   d   x   x   x   x
+     |      \ / \ / \ / \ / \ / \ / \ / \ / \        |      \     /   / \ / \ / \ / \ / \   \ / \
+     x       x   x   x   x   u   x   x   x   x       x       x   x   x   x   d   d   x   x   x   x
+     |        \ / \ / \ / \ / \ / \ / \ / \ / \      |        \ / \   \ / \ / \ / \ / \ /   /     \
+     x   x     x   x   x   x   x   x   x   x   x     x         x   x   x   x   d   x   x   x   x   x
+     |  /|\   /|\   \ / \ / \ / \ / \ /   / \ /     /               \ / \ / \ / \ / \ / \ /   /   /
+     x x F x-x x x   x   x   x   x   x   x   x     x                 x   x   x   x   x   x   x   x
+      \ \|/ / /   \ / \ / \ / \ / \ / \ / \       /                   \ / \ / \ / \ / \ /     \ /
+       x x x x x   x   x   x   x   x   x   x     x                 x   x   x   x   x   x   x   x
+        \ / / /|  / \ / \ / \ / \ / \ / \   \   /                |  \ / \ / \ / \ / \ / \ /
+         x x x   x   x   x   x   x   x   x   x x                 x   x   x   x   x   x   x
+           | |  /   / \ / \ / \ / \ / \   \  | |                  \   \ / \ / \ / \ / \ / \
+           x x x   x   x   x   x   x   x   x x x                   x   x   x   x   x   x   x
+           | |  \ /   / \   \ /   / \   \ /  | |                  /   / \   \     /   /     \
+           x x   x   x   x   x   x   x   x   x x                 x   x   x   x   x   x   x   x
+            \ \   \ /   / \ / \ /     \ /   / /                   \ /         \ /       / \ /
+             x x   x   x   x   x-x x-  x   x x                     x       x   x      -x   x
+              \ \     /   / \ / \ \ \     / /                             / \   \         
+               x x-x-x   x   x   x x x-x-x x                             x   x   x
+                \         \ /    |\ \     /                               \     /
+                 x-x-x     x     x x x-x-x                                 x   x
+                      \         / \ \                                       \ /
+                       x       x-F-x x                                       x
+                        \       \ / /
+                         x       x x
+                          \       /
+                           x-x-x-x
+
+F: Flame  
+
+Centipedal Realm:
+
+
+
+                    x-x-x
+                   /     \
+            x-x-x-x-x-x   x
+           /     /     \   \
+          x     x       x-x-x-x-x
+          |\    |\     /         \
+          x x   x x   x   x-x     x
+                      |  /|  \    |
+                      x-x-x x-x   x           x
+                        | |/|    / \         /
+                        x x x-x-x   x   x-x-x-x
+                             \      |  /
+                            x-x-x-x-x-x         x
+                           /   /     \         /
+                    x-x-x-x   x       x   x-x-x-x
+                     /         \     /   /
+                    x         x-x-x-x-x-x         x
+                             /   /     \         /
+                      x-x-x-x   x       x   x-x-x-x
+                       /         \     /   /
+                      x         x-x-x-x-x-x         x
+                               /   /     \         /
+                        x-x-x-x   x       x   x-x-x-x
+                         /         \     /   /
+                        x         x-x-x-x-x-x       x
+                                 /   /     \       /
+                          x-x-x-x   x       x x-x-x-x
+                           /         \     / /
+                          x       x-x-x-x-x-x     x
+                                 / /     \       /
+                          x-x-x-x x       x x-x-x-x
+                           /       \     / /
+                          x     x-x-x-x-x-x     x
+                               / /     \       /
+                        x-x-x-x x       x x-x-x-x
+                         /       \     / /
+                        x     x-x-x-x-x-x       x
+                             / /     \         /
+                      x-x-x-x x       x   x-x-x-x
+                       /       \     /   /
+                      x       x-x-x-x-x-x         x
+                             /   /     \         /
+                      x-x-x-x   x       x   x-x-x-x
+                       /         \     /   /
+                      x         x-x-x-x-x-x         x
+                               /   /     \         /
+                        x-x-x-x   x       x   x-x-x-x
+                         /         \     /   /
+                        x         x-x-x-x-x-x         x
+                                 /   /     \         /
+                          x-x-x-x   x       x   x-x-x-x
+                           /         \     /   /
+                          x         x-x-x-x-x-x       x
+                                   / /     \         /
+                            x-x-x-x x       x x-x-x-x
+                             /       \     / /
+                            x     x-x-x-x-x-x       x
+                                 / /     \         /
+                          x-x-x-x x       x x-x-x-x
+                           /       \     / /
+                          x     x-x-x-x-x-x       x
+                               / /     \         /
+                        x-x-x-x x       x   x-x-x-x
+                         /       \     /   /
+                        x       x-x-x-x-x-x       x
+                               /   /     \       / 
+                        x-x-x-x   x       x x-x-x-x
+                           /       \     / /
+                          x       x-x-x-x-x-x       x
+                                 /   /     \       /
+                          x-x-x-x   x       x x-x-x-x
+                           /         \     / /
+                          x       x-x-x-x-x-x     x
+                                 / /     \       /
+                          x-x-x-x x       x x-x-x-x
+                           /       \     / /
+                          x     x-x-x-x-x-x
+                               /     /     \
+                        x-x-x-x     x       x
+                         /           \     /|
+                        x             x-x-x x
+                                       \   /
+                                        x-Q
+
+
+
+
+
+
+Newbie Ant Hole:
+                    
+                                                            x-x-Y
+                                                           /
+            x-x-d                                         x
+           /     \                                       /
+          x       x                           x-x-x-x-x-x
+         /         \                         /
+        x           x                       x
+        |           |                      /
+        x           x               x-x-x-x
+        |           |              /
+        x           x-x-x-x-x-x-x-x-x-x-d
+         \         /               /   \ 
+          x       x               x     x
+           \     /                |      \
+            x-d-x                 x       x-x-x-x
+                                 /               \
+      x                   x-x-x-x                 x-x-x-x
+     / \                 /       \                       \
+    x   x-x             x         x                       x-d
+    |   | |             |         |
+    x   x-x             x         x
+     \                 / \       /
+      x-x-x-x-x-x-x-x-x   x-d   x
+     /                           \
+    x                             x
+    |                              \
+    x                               x
+     \                               \
+      x                               x-x-d
+       \
+        x
+        |
+        x
+         \
+          x
+           \
+            d
+
+Newbie Ant Hole 2:
+
+
+   x-x                     x-x             x-x
+  /   \                   /   \           /   \
+ x     x-x   x-x   u-x   x-x   x         x     x
+ |    /   \ /   \ /   \ /   \  |         |     |
+ x   x     x     x     x     x x         x   x-x
+  \  |     |     |     |     |/           \ /   \
+   x-x     x     x     x     x-x           x     x
+    / \   / \   / \   / \   /   \          |     |
+   x   x-x   x-x x-x-x   x-x     x x-x   x-x   x-x   x-x
+   |     |\   /|/  |     | |     |/   \ /   \ /   \ /   \
+   x     x x-x x   x     x-x     x     x     x     x     x
+    \   / \   /|    \   /   \   /|     |     |     |     |
+     x-x   x-x x     x-x     x-x x     x-x   u     x     x-x   x-x
+    /|     |  / \   /   \    |    \   /   \ / \   / \   /   \ /   \
+   x x     x-x   u-x     x   x-x   x-x     x   x-x   x-x     x     x
+   |  \   /   \    |     |  /   \ /  |     |\    |     |     |     |
+   x   x-x     x   x     x-x     x   x     x x   x     x     x     x-x
+    \   /|     |  / \   /  |     |    \   /  |  /       \   / \   /   \
+     x-x x     x-x   x-x-x x     x     x-x   x-x         x-x   x-x     x
+          \   /       /   \ \   / \   / \   /                    |     |
+     x-x   x-x-x   x-x     x x-x   x-x   x-x                   x-u     x
+    /   \   /   \ /  |     |/   \ /   \ /   \                 /   \   /
+   x     x x     x   x     x     x     x     x               x     x-x
+   |     | |     |    \   /|     |     |     |               |     |
+   x     x-x     x     x-x x     u     x     x-x           x-x     x
+    \   /   \   / \   /   \ \   / \   / \   /   \         /   \   /
+     x-x     x-x   x-x     x x-x   x-x x-x-x     x       x     x-x
+       |     | |     |     |   |     |/   \|     |       |     |
+       x   x-x x     x     x   x     x     x     x-x   x-x     x
+        \ /   \ \   / \   /     \   /|     |\   /   \ /   \   /
+     x-x x     x x-x   x-x   x-x x-x-x     x x-u     x     x-x
+    /   \|     |/   \       /   \ /   \   /    |     |     |
+   x-x   x     x     x     x     x     x-x     x     x     x
+  /   \  |\   /|     |    /|     |     |        \   / \   /
+ x     x x x-x-x     x   x-x     x     x         x-x   x-x
+ |     |/   /   \   /   /   \   / \   /
+ x     x   x     x-x   x     x-x   x-x
+  \   /    |     |     |     | |     |
+   x-x   x-x     u-x   x     x-x     x   x-x     x-x
+        /   \   /   \   \   /   \   /   /   \   /   \
+       x     x-x     x   x-x     x-x   x     x-x     x
+       |     | |     |     |     |     |     |  \    |
+       x     x x     x-x   x     x   x-x     x   x   x-x
+        \   /   \   /   \   \   /   /   \   / \  |  /   \
+         x-x     x-x     x   x-x   x     x-x   x x-x     x-x
+                   |     |         |     |  \ / / /|     |  \
+                   x     x-x   x-x-x     x   x-x x x     x   x
+                    \   /   \ /   \ \   /    |   |/ \   /    |
+                     x-x     x     x x-x     x   x   x-x     x
+                       |     |     | |  \   /   / \ /   \   /
+                       x     x     x x   x-x-x x   x     x-x
+                        \   / \   / /     /   \|   |     |  \
+                         x-x   x-x-x     x     x-x x     x   x-x
+                                         |     |  \ \   /    |  \
+                                         x     x   x x-x     x   x
+                                          \   /    |    \   /    |
+                                           x-x     x     x-x     x
+                                              \   /         \   /
+                                     x-x-x     x-x           x-x
+                                    /     \       \
+                                 x-x       x-x-x-x-x-x-x-x
+                                /             /  |  \     \
+                               x       x-x-x-x   x   x     x
+                                      /         /    |\     \
+                               x-x-x-x     x-x-x     x x     x
+                              /       \             /   \    |
+                             x         x-x-x-x   x-x     x   x
+                                      /           /      |   |
+                                     x       x-x-x       x   x
+                                     |      /   /       /   /
+                                     x     x   x     x-x   x
+                                      \    |   |    /
+                                       x   x   x   x
+                                           |    \
+                                           x     x-x     x
+                                            \           /
+                                             x-x-x-x-x-x
+
+
+Spider/Arachnid/Man-Spider creature/beast/soldier   87949
+This hideous abomination looks like a cross between a spider and a
+human.  The arachnid being is huge and almost fills the entire cavern.
+Its eyes glow with a hellfire red and it attacks with a razor-sharp
+fury.  These creatures are trying to take over the caverns from the
+ant folk.
+
+Guardian ant    39312
+This strange creature looks like a giant ant standing on its hind
+legs.  It has quite a strong build to it and looks almost human.  Its
+antennae flicker about nervously as it sizes you up.
+
+Hellwasp/Wasp (hellswarm)/Swarm    1863
+A hideous little hellwasp that swarms about you.  It hisses and
+buzzes about you incessantly, burrowing into your mind with pain.
+
+A quartz/jade/spinel/sapphire creature/entity     102178
+You see a strange creature made from pure gemstone.  It shimmers with
+a whitish aura, its crystals radiating the light around you in a
+myriad of sparkles.  It creaks around the cavern, seeking to guard
+something further within the caverns.  The creature is slightly larger
+than a man, but appears much more powerful.
+
+
+Arachnus the Arachdaemon (deity)  3765482
+You see the most vile creature you could ever imagine towering before
+you now.  Some monstrous, beastly combination of humanoid and spider,
+the creature growls with the power of a god.  Poison drips from the
+slick mandibles of the creature and sizzles as it hits the ground.
+You stare in abject fear as the creature moves to attack.
+
+Corrinsyl the Mosquito Daemoness (horrid)   955749
+The hideous form of the queen of mosquitos looms before you.
+Dripping with caustic venom, the beastly creature stalks toward
+you on her massive hind legs.  Her wings, thick and glistening,
+buzz about her, causing your ears to ring out in pain.  Her face,
+that of a giant mosquito seems to not notice you yet.
+
+Toxylia the Wasp Daemoness (deadly)    1112660  
+Dripping with poison and thoroughly evil, the Daemon Patroness of all
+insects stands before you.  The lower half of her body is that of a
+monstrous, daemon-hornet, blending to the torso and breasts of a young,
+beautiful woman.  Her head is that of a hellwasp with pincers over
+one foot in length each.  Poison drips from her tail and boils on
+the floor where each caustic drop lands.  She regards you with a
+seemingly indifferent stare, just as she moves to attack!
+
+
+
+Spider mandibles
+A powerful shearing weapon used by the spider-folk.
+The blades are sharp as razors and just as deadly.
+
+Spider scale mail
+A suit of chitinous scales fitted together to form a very protective
+suit of armour.  This suit is of greater quality and protection than
+others you have seen.
+
+Ant splint mail
+A suit of ant scales fitted together to form
+a relatively protective suit of armour.
+
+Valor of Arachnus
+You hold the mighty armour of the spider daemon, Arachnus.  Powerful
+and cold, the armour seems to engulf you with a sense of lost honor.
+The breastplate is formed from a dark black material that appears to
+be chitinous in nature, polished to a glossy sheen.  Like bright stars
+in the night sky, small diamonds sparkle brightly from the valor.
+
+Proboscis of Corrinsyl (enchanted)
+You hold the proboscis of Corrinsyl, the Mosquito Daemoness.
+The huge spear drips with a caustic paste that burns and sizzles
+violently with every drop.  You feel power within the spear,
+pulsing and buzzing slightly, like that of a giant mosquito.
+
+Stinger of Toxylia (enchanted)
+You see the main weapon of the Wasp Daemoness, Toxylia.  As deadly as
+the daemoness was, her stinger is even deadlier.  Poison drips from
+the weapon and sizzles on the ground with each drop.  You are careful
+not to get any of the caustic fluid on yourself.
+
+

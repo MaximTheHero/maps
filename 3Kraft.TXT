@@ -1,0 +1,45 @@
+
+
+      5-x-x-x-x-E-x-4-x-x-2
+      |X|X|X|X|X|X|X|X|X|X|
+      x-x-x-x-2-x-x-x-x-x-x
+      |X|X|X|X|X|X|X|X|X|X|
+      x-x-x-x-x-x-x-x-x-x-x
+      |X|X|X|X|X|X|/ \|X|X|
+      x-x-x-x-x-x-x   x-x-x
+      |X|X|X|X|X|X|\ /|X|X|
+      x-x-x-x-x-x-x-x-x-x-x
+      |X|X|X|X|X|X|X|X|X|X|
+      x-x-x-x-x-x-x-x-x-x-x
+      |X|X|X|/ \|X|X|X|X|X|
+      3-x-x-x   x-x-x-2-x-x
+      |X|X|/ \ /|X|X|X|/ \|
+      x-x-x   x-x-x-x-x   x
+      |X|X|\ /|X|X|X|X|\ /|
+      x-x-x-2-x-x-x-x-x-x-x
+      |X|/ \|X|X|X|X|X|X|X|
+      x-x   x-x-x-x-x-x-x-x
+      |X|\ /|X|X|/ \|X|X|X|
+      x-x-x-x-x-S   x-x-x-1
+
+
+1: Dwarven Citadel
+   Dwarven Workshop
+   Dwarven mines
+   Berserker's Roost
+   Dwarven Temple
+   Dwarven Crossbow Range
+   Rogue's Guild
+   Dwarven Citadel
+2: A gold mine
+3: Dwarf Tower, Dwarven Citadel
+4: Dwarven Tower
+   Dwarven Citadel
+5: Dwarven Workshop
+   Dwarven mines
+   Berserker's Roost
+   Dwarven Temple
+   Dwarven Crossbow Range
+   Rogue's Guild
+   Dwarven Citadel
+S: Start

@@ -1,0 +1,60 @@
+Carnelian's Lair [Ryft]
+Dirs: Wayhaven Northgate, 3n, 8w
+
+
+    C-E
+
+
+C: Carnelian
+E: Entrance/Exit
+
+
+Monsters:
+
+39114 : Carnelian the Ravenous
+
+A glow surrounds the corpse of Carnelian.
+
+You recognize the form of the Keeper at Land's End in the aura!
+
+The Keeper says: I am sorry for attacking you, but I thought
+you were here to steal the source, but alas, now I am dead, and
+the real Carnelian is free to take the source. But
+before I pass to the next world, I must tell you of
+Carnelian's plot and deception.
+
+The Keeper says: Carnelian is not only a bugblatter beast but
+also a powerful illusionist. He lives only to cause
+misery in other people's lives. To destroy the source
+would have killed many innocent people and hurt their
+families and friends. Carnelian would have liked that.
+
+The Keeper says: When I learned of this plot, I took the source
+from the lamp to hide it from Carnelian, knowing that it would
+endanger the lives of many, but also knowing that if
+the source was lost, that the lives of many more
+would be lost.
+
+The Keeper says: Carnelian, enraged at my stealth, cast forth a powerful
+enchantment that sought my person and changed my appearance.
+He then took on my likeness to deceive those around me and to
+gain control over the source. My whereabouts, however remained
+hidden from him. You must return the source to the lamp
+or many more innocent people will be killed.
+
+The Keeper says: But remember, brave one, that should the
+source fall into Carnelian's hands, the lives of thousands will
+be at Carnelian's mercy.
+
+The Keeper says: There is one last thing.
+
+The Keeper says: In my haste, I forgot to bring
+the Sphere of the Keeper. Carnelian has it now, and it
+possesses much power. You must be wary, for he is
+a truly evil opponent, and will stop at nothing to
+satisfy his hunger for misery.
+
+The aura brightens.
+
+The Keeper says: Remember brave one, be wary!
+With a flash of light, the Keeper disappears.

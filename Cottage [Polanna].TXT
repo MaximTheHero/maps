@@ -1,0 +1,14 @@
+
+
+  shed - garden - entrance -x
+
+in the shed is 
+A rope
+A pail
+A shovel
+
+all needed for Mira quest.
+
+mobs:
+A gardener
+Nyette the servant

@@ -1,0 +1,70 @@
+chaos,3e,2s,2e,3n,trail
+
+   x-x-3
+   |   |
+   x 4 x
+   | | |
+   2-x-5
+     |
+     1
+    /
+   E
+
+1: climb gate
+2: search tree - A small plastic key
+3: unlock paperholder
+   turn paperholder
+   climb bench
+   stagedive rift
+   land outside @3
+4: Einstein
+   search desk, open drawer, search pot - Einsteinium Marble
+
+
+A huge braincell   31257
+This is one of Einstein's VERY famous braincells. You wonder what the
+heck its doing here though. You don't feel very good about this.
+
+A mean braincell   33379
+This is one of Einstein's VERY famous braincells. You wonder what the
+heck its doing here though. You don't feel very good about this.
+
+A large braincell   15065
+This is one of Einstein's VERY famous braincells. You wonder what the
+heck its doing here though. You don't feel very good about this.
+
+A small braincell   36113
+This is one of Einstein's VERY famous braincells. You wonder what the
+heck its doing here though. You don't feel very good about this.
+
+A manic braincell   39792
+This is one of Einstein's VERY famous braincells. You wonder what the
+heck its doing here though. You don't feel very good about this.
+
+Einstein, the master of brain usage   215970
+Woah! You are actually standing right in front of Einstein!!
+Introducer of <insert clever stuff here> and all that. You wish you
+had a brain as big as him! You also wish you had those cool pants he's
+wearing, but you'd NEVER admit that.
+
+
+
+A small plastic key
+A small plastic key from Einstein's garden. Wonder what it could
+unlock?
+
+A large plastic key
+This is a large version of the plastic key from Einstein's garden. You
+feel really lucky that you have one.
+
+Einstein's ugly pants
+This is Einstein's ugly brown pants, really really out of fashion.
+When Einstein wore them you thought they looked great... how strange!
+
+Einstein's brain
+Wow! Einstein's brain is actually even bigger than you imagined. Now
+if you could only find out how to use this thing, and you might become
+just as smart as him!
+*use brain* - +3 int for boot
+
+.

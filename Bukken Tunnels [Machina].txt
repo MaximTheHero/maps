@@ -1,0 +1,82 @@
+Bukken Tunnels [Machina]
+Dirs: Eforest, e, 4s, 2w
+
+Cave:
+
+             x-x
+             |X|
+       x   x-x-x
+        \ /
+         x-x
+        /
+     x-x
+        \
+         x-2-x
+        /
+       x
+      / \
+ 3-x-1   x
+     |
+     x
+     |
+     E
+
+E: Entrance/Exit
+1: Decaying corpse - note
+2: Stone
+    ;:7| ;:/+| '//VV q#+| '/7|+) ;:7| <?\;\;|+)
+    '//VV ~/\/| |\:|\/+) (-/~| '//VV +)|)(|~ 7#VL
+    ?\/ <|\q\; |\:|\/+) |\+)L ;:7| '/#~VL '//VV
+    ;+)#'/ #?~ )(|+):||\+)q|
+3: Push ground
+
+Underground River:
+
+
+        x
+        |
+        x
+        |
+        x
+       /
+      x
+      |
+      x
+      |
+      H
+      |
+      x
+
+
+
+
+H: Hole to get back to cave
+
+
+Monsters:
+
+A Bukken pack
+A Bukken
+An amphibious Bukken
+
+Items:
+
+A note.
+An old and crumpled note, the writing of which is blurred. You think
+you can manage to read it however.
+
+        I fear I do not have many days left in this world. It
+        has been a week now since Daridd went missing in the
+        Bukken tunnels, and alas it is my duty as a friend to
+        go after him. His dissappearance is a sure sign that
+        the Bukken have returned. For all my resistance to
+        Daridd's claims, I fear he would not have gone down
+        had it not been so. If you have found this note then
+        the likelihood is that I am with my friend. The Bukken
+        must be stopped at all cost! I believe at this time their
+        presence is small, but their capacity to grow is incredible.
+        There is a young scholar in the Wayhaven library who
+        knows something of them. If they are not stopped then
+        fantasy will once again be overrun until no one is safe...
+
+A jagged dagger.

@@ -1,0 +1,158 @@
+magic, icelands portal,s,w,n
+
+
+            3
+           /
+          x x-x
+         / / \ \
+        x x B x x
+       / /  |  \ \
+      x x   x   x x
+      |/    |    \ \
+    4 x A-x-6-x-C x 2
+     \ \    |    /|
+      x x   x   x x
+       \ \  |  / /
+        x x D x x
+         \|  / /
+          x S 1
+
+
+1: dip hands into liquid
+2: grasp sword
+3: grip wand
+4: place hands on altar
+S: Entrance/Exit
+   after you do 1 - 4, trace symbol
+6: where you start after 5
+   after you bathe portal in A - D
+   touch gem, summons Inyxx
+   touch gem again to teleport to pyramid entrance
+A: bathe portal
+B: bathe portal
+C: bathe portal
+D: bathe portal
+
+
+Isil, an Inyxx Warrior   64434
+Once an ordinary warrior, Isil has been favoured by Inyxx to be the
+guardian of the Altar of Rage.  His sable hair frames his face in
+curling tendrils, almost blending into the ebony of his skin.  His eyes
+glow green with an inner light, the true sign he has been touched by his
+God.
+
+Xtacth, the Inyxx Warrior   81969
+Xtacth's skin is ebony black, far darker than you have seen in a human
+before.  He is completely bald, you cannot even see eyebrows or
+eyelashes.  His figure is heavily muscled, and he moves with the silent
+grace of a panther.  His eyes transfix you, glowing a malicious green.
+
+Talon, the Inyxx Warrior   62339
+Talon was once a human thief, who knew the fear of those who must live
+in the cesspits of humanity.  When Inyxx touched his soul, he answered
+the call gladly.  He now serves as the Guardian of the Altar of Fear,
+spreading the black song of Inyxx's debilitating fear.  His luminous
+green eyes are the sure sign of the favour of Inyxx.
+
+Sharii, an Inyxx Warrior  78704
+Sharii's small frame almost seems to hum with life.  Her lithe, athletic
+form is never still as she paces the room, not from nervousness, but
+from sheer energy.  Her hair is flame red, but the part closest to her
+head is nearly black, as though the blackness of her heart is leeching
+into it.  Her eyes glow with a vile green radiance.  She was once a
+wife, and a mother, before her entire family was killed by a band of
+marauders.  It was then she heard the siren call of Inyxx, to serve and
+never suffer that despair again.
+
+The Avatar of Despair   86265
+This is the living embodiment of Despair.  Its form is almost
+transparent, making its features hard to ascertain.  It is vaguely
+humanoid, though its body is shrouded by a cloak-like garment that is as
+transparent as the rest of its form.  Its face is the most chilling of
+all.  As you watch its features, you are sure you recognize your father,
+until they shift into the features of your mother, then to your best
+childhood friend.  The face shifts between all the faces you know and
+love, but every single face bears an expression of unbelievable sadness,
+the eyes filled with the utter blackness of despair.
+
+The Avatar of Fear   78125
+This is the living embodiment of Fear.  At first it simply appears to be
+a mass of shadows, through which various shapes flicker in the darkness
+that is the Avatar.  Looking closer, you see the shapes of your family,
+your friends, your loved ones, being tortured horribly by undefined yet
+terrifying shapes.  You see the things you care most about being torn
+down and trod into the earth, desecrated and destroyed.  The shapes
+dance madly in wild contortions, following out their sickening motions
+until you feel physically ill.
+
+The Avatar of Hatred   77638
+This is the living embodiment of Hatred.  It has no definite form,
+shifting constantly between a bristling mass of swords to a cloud of
+chill darkness, and everything in between.  It radiates a miasma of cold
+hatred.
+
+The Avatar of Rage   60401
+This is the living embodiment of Rage.  It resembles a ravening beast,
+although its form constantly shifts.  Bony spikes push through its skin,
+until they disappear again moments later.  Its mouth grows teeth and
+absorbs them as its feet grow and retract claws.  The constant change of
+its form is almost dizzying, and is certainly terrifying.
+
+Inyxx, the Demon of Darkness   243560
+Inyxx stands about 12 feet tall.  His naked torso is heavily muscled,
+disappearing into loose-fitting black pants which mask his nether
+regions.  His skin is jet black, and he has no hair on his body that you
+can see.  Two large bull-horns sprout from his head, shining as if they
+were made of polished ebony.  His features are large and prominent,
+reminding you somewhat of a bull.  His eyes glow an eerie green, with
+bottomless pupils the colour of night.
+
+  -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+  -*              Medal Earned: Slay the Demon of Darkness               *-
+  -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+An inyxx sword
+This slender sword is made of a material that looks much like black ice,
+but the surface has a metallic sheen.  It appears to be one solid piece,
+although it is as exquisitely formed as the work of the finest
+blacksmith.  The edges of the sword are razor sharp, and the hilt fits
+easily in your hand.
+
+An inyxx wand
+This slender wand is made of a material that seems to be black ice,
+though it shows no sign of melting.  The surface has a strange
+iridescent sheen to it, but the wand shows no other signs of doing
+anything worthwhile.
+
+An inyxx potion
+This little black bottle is full of a black liquid that is as dark as
+the night.  There doesn't appear to be any way to get the liquid out of
+the bottle, however.
+
+A suit of inyxx armour
+This armour is made of a substance very like black ice, although it
+shows no signs of melting.  The armour seems strangely dead, as though
+something else were required to make it come alive.
+
+The Armour of Despair
+This armour is made of a substance very like black ice, although it
+shows no signs of melting.  The crystalline armour seems transparent,
+but instead of seeing through the black ice, you seem to see a great
+dark depth.  Looking into those depths, you get the feeling that
+something will come into view if you watch a minute longer...and you are
+sure you don't want to see what that something is.
+
+A lump of inyxx
+This small lump of inyxx is remarkably spherical.  It is a
+clear black, but deep in its heart burns a green flame.
+
+Inyxx Marble
+Exquisitely crafted/magicked, this pristine little inyxx bauble is the
+whimsical, residual aftermath of peeronic thought.  Sadly, the entropic
+tendencies of such mental energies are difficult to grasp or maintain.
+A marble will inevitably evanesce and reform in an infinite number of
+cryptic locations.  Deep in the heart of the clear black marble burns a
+green flame.
+
+.

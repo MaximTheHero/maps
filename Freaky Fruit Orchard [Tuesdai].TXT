@@ -1,0 +1,86 @@
+chaos,3e,s,2,ne,4n,enter
+
+
+    x-x x-x x
+    | | | | |
+    x x x x x
+    | | | | |
+    x x x x x
+    | | | | |
+    x x x x x
+    | | | | |
+    x x-x x-x
+    |
+    E
+
+
+
+
+Angry Apple   8614
+A large Red Delicious apple.  In fact, too large!  The apple's
+skin has turned from a beautiful deep red to a mushy gray
+color.  The yellow flesh inside has turned mealy and dry.
+Typically, the Red Delicious is sweet and juicy, but the months
+of neglect have left it bitter and bruised.
+
+Outrageous Orange     6635
+The thin-rind Valencia orange has grown to three times the
+normal size.  The rind is green with mold and what few seeds it
+had have dried up.  The once juicy and vibrant orange is
+nothing more than a giant ball of pulpy mush.
+
+Perilous Pear   8511
+An oversized Bartlett Pear lies on the ground.  The stem is
+covered with maggots and oozes a sickly white pus.  The
+yellow-green skin is cracked and browning.  A horde of small
+black bugs feed on the juice that leaks from the cracks.
+
+Callous Cherry    11995
+A giant Bing cherry has fallen from a tree.  The long green
+stem is slowly deteriorating and the cherry is showing signs of
+brown rot and bacterial canker from months of neglect.  A group
+of small beetles are burrowing into the cherry, trying to suck
+out what tart juice is left.
+
+Wacky Watermelon    26049
+A thick-rind, over-sized watermelon lies in a pile of rotting
+vines.  The outer skin is nearly white from sitting in the sun
+so long.  One of the ends has been eaten away by bugs and
+birds.  Pale red flesh and black seeds ooze out from the
+exposed hole.
+
+Crafty Cantaloupe    8590
+A large cantaloupe that has split open lies on the ground.  The
+orange flesh is mushy and covered with ants.  The rind is hard
+and cracked.  The seeds have virtually dried up from lack of
+water and overexposure in the sun.
+
+Silly Strawberry     12230
+Diseased strawberries cover the ground.  Each strawberry has
+been virtually stripped of its 200 seeds.  The leafy tops have
+been scavenged by the smallest of bugs.  The strawberry is
+black with mold.
+
+Goofy Grapes    15623
+A bunch of green seedless grapes roll back and forth on the
+ground desperately searching for water.  Most of the bunch is
+now brown and rotting. Fuzzy, white mold covers the stems and
+small green worms slime their way across the bunch.
+
+Frenzied Farmer's Wife   25830
+Like her lesser half, the farmer's wife has spent too many days
+smoking that crazy fertilizer.  Her once beautiful blonde hair
+has turned nearly white from years in the sun.  Her skin is
+like old leather, extremely tough and deeply tanned.  Her eyes
+have changed from a beautiful emerald green to a dull hazel.
+Her oversized blue muumuu stretches across her ample bosom.
+She is wearing worn tan sandals on her slightly deformed feet.
+
+
+
+Wacky Watermelon Helmet
+A piece of the wacky watermelon broke off.  It is large enough
+to wear as a helmet.
+
+Random ring
+.

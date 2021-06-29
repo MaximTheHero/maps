@@ -1,0 +1,134 @@
+Go through Alizarian Tower
+
+                   x
+                   |\
+                 x-x A
+                /    |
+             3-x     |
+                     |
+               x-B-B-A
+               |
+     H-H-H     C-x-x-x
+     |X|X|\    |   | |
+   4-H-H-H-H   x   x-x
+    \|X|X|X|  /    | |
+     H-H-H-H-x     x-x
+     |X|X|X|X|     | |
+     H-H-H-H-x     x-x
+              \     /
+               x-x x
+               |  \ \
+               x   x x   D
+                \  | |  / \
+               G-F-x x x 5 x
+               | | | | | | |
+               x Z-x x x-x-x
+               | | | | |X|/
+               x-F-x x-x-x
+                / /|
+               Z x-x-2
+               |   |X|
+               E-x x-x
+                 |
+                 x
+                 | 
+               1 x
+               | |
+               x-x
+
+
+1: Alizarian Tower [Darrkin]
+2: Granite remains
+ex rune
+                    ^
+                   / \
+                  /   \
+                 /_____\
+
+3: ex rune
+             _____
+            \     /
+             \   /
+              \ /
+              / \
+             /   \
+            /_____\
+
+4: search grass, search gravestone, search hole, search cavity, get jar
+   this is the 'element' you need.  leave it in jar until you're ready.
+5:ex rune
+             ___
+              |
+              |
+           |-----|
+
+A: climb cliff
+B: Bloodwort
+C: search branches - west
+D: pick hemlock
+E: search tongue - Adder's Tongue
+F: search slope - west
+G: pick nightshade
+H: search grass, search gravestone, search hole, pick goldenrod
+
+Z: search slope, takes you back to bench in Alizarian Tower [Darrkin]
+
+
+
+Undead Lich     140487
+The undead lich before you is cloaked in grayish-blue robes.  His
+desiccated body has withered to a skeletal form and icy-blue
+electricity flickers along his arms.  His skeletal hand clutches a
+rod-like septer with a glowing blue gem at the top.
+
+Undead Werebeast     127368
+The cloaked figure that stumbles before you is a grotesque
+representation of a human.  The cloak flows down the length of its
+body, thankfully covering up the rotted out mass underneath.  Under
+its cowl you see a rotted skull.  Looking closer, you notice that the
+rotted skull is not human.  It is in the form of a canine.
+
+Undead Vampire   142586
+The decomposing female vampire that stands before you in no way
+resembles the beauty she once was.  Her skin has rotted into leathery
+strips that hang on her bones.  Her dark clothing hangs off her in
+tattered pieces.  The only thing about her that remains one hundred
+percent intact are her sharp fangs.
+
+Undead Reaper    154678
+The undead creature before you is a true horror to look upon.  He is
+covered in black flowing robes and his head is covered with a black
+cowl.  You see two glowing red eyes staring out at you from underneath
+the hood.  His skeletal hand clutches a razor-sharp scythe.
+
+Undead Ghost     129568
+The decaying corpse that stands before you flickers in and out of
+view.  It is cloaked in shabby rotted robes that drape down its form
+and drag on the ground.
+
+Undead Mummy     130244
+The mummy that stands before you is covered with decaying bandages.
+Magical black flames flicker along his body and his eyes glow a deep
+fire-red.  His head is covered with a Nemes style headdress that
+covers the top of his head and drapes down the sides.
+
+
+
+Necromancer Rod
+This is an artifact which necromancers use to focus their magical energies.  It has a metal
+prong structure at the end where a gem or stone may once have been. The prongs are bent a bit
+and the stone is missing.
+
+Tattered Robe
+This cowled black robe is tattered and rotted.  It is made to cover
+the full length of a human body, and hide the owner's skull inside its
+deep cowl.
+
+shred of birch bark
+A shred of white bark from a birch tree.
+
+acorn
+An acorn from a Black Oak tree.
+
+
+

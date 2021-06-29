@@ -1,0 +1,65 @@
+wandering refrigerator,w,jump,2s,jump,e,enter socket
+
+
+
+     1-x-x
+     | | |
+     x-x-x
+     | | |
+     x-d-2
+
+1: search room - to find A bag of veggies
+   move veggies,stand veggies,climb tray
+2: search box - A twisty tie
+   
+
+Ice cube commando    35288
+Fear this block of frozen water. He is wearing a white beret
+and wielding no weapon!
+
+An ice cube    25369
+This frigid little trooper is a conscript for the Ice Army.
+
+Ice Cube Leader   25303
+Look out! This guy is bad news walking! He resembles a miniature
+glacier with a nasty disposition.
+
+Popsicle   36393
+
+
+
+Frost boots
+These boots are standard issue of the ice cube army. Chances are, it will
+defend quite effectively against frosty attacks.
+
+Frost cloak
+This cloak is standard issue of the ice cube army. Chances are, it will
+defend quite effectively against frosty attacks.
+
+Frost gloves
+These gloves are standard issue of the ice cube army. Chances are, it will
+defend quite effectively against frosty attacks.
+
+Frost amulet
+This frosty chain is usually worn by the Ice Cube head honcho. How did
+you get ahold of it bozo? Chances are though, that this chilly little
+necklace is a powerful defense item.
+
+Snowball
+This is a frozen snowball the ice cubes throw at their enemies.
+Man, i bet that hurts!
+
+A twisty tie
+A frozen twisty tie. It looks sturdy enough to pry the top open.
+
+The icicle knife
+Fear the Dagger of pure cold!
+
+Popsicle stick
+You hold the innards of a popsicle in your hands. Maybe it is a weapon.
+
+Crisp armour
+The popsicles were wearing this for protection. You
+wonder if the wrapper will protect you.
+
+.

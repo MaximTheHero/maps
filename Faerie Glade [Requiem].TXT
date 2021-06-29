@@ -1,0 +1,93 @@
+eforest, e,5s,enter
+
+
+         1
+         |
+       x-x
+      /
+     x   x     x
+      \ / \   /
+       x   x-x
+      /    |
+     E     x
+
+1: room for 'Scout the Realms' mission for Westersea
+   climb tree (up)
+
+
+A singing faerie (hovering)     6629
+Less than a foot in height, Jude could not hold out in a fight against
+any of the larger races of the world, but he has learned to survive
+through stealth, mischief and the bewitching power of his voice.  Like
+all his kin, he glows with a faint light due to his highly magical
+nature.  His delicate wings constantly flutter behind his back
+creating a tiny breeze that caresses your bare skin.  His features are
+soft and elfin, juxtaposing raw beauty with a cold distance that seems
+impenetrable.  Where he flies, flowers blossom and shoots erupt from
+the earth, this is truly a creature of nature.
+
+A curious faerie child (buzzing)   1961
+Alek the fae child is less than a half foot in height and flies
+erratically as if he was still becoming accustomed to his wings.
+Because of his small size, his wings buzz as he furiously flutters
+them to maintain altitude.  Upon your approach he dashes behind a
+nearby plant in the hopes that he isn't seen.
+
+A talkative faerie (hovering)    4774
+Rosalind looks to be more approachable than you would have initially
+expected.  You've heard that fae are self absorbed or bent on trickery
+but this faerie seems eager to meet new people and discover new
+things.  Her dress is moss green and she wears a violet in the silky
+auburn locks that flow gently over each shoulder.  Her pointed ears
+and elfin beauty complements the gentle grace of her flight.  You
+could sit entranced for hours watching her and presume that such a
+fate may have befallen other hapless mortals before you.
+
+A mischievous faerie (flying)    4781
+Isolde is no more than eight inches in height and buzzes around you
+curiously.  Faeries are known to find mankind intriguing and enjoy
+playing tricks to see how they will react.  This fae seems less stern
+than many of her male counterparts and a smile even breaks upon her
+lips as she looks at you mischievously.  She wears a tiny dress of
+brown and green that helps her blend in with her woodland home.  Her
+wings are smaller than those of a male and contain small splashes of
+colour that cascade over each other like a rainbow as she flies.  Like
+all other faeries, flowers bloom at her touch and trees shudder with
+joy at her passing.
+
+A brooding faerie (fluttering)    7896
+With a malevolent sneer on his lips, Spenser gives the impression of
+cold cruelty.  He is no less beautiful than the rest of his kin, yet
+he mars it with a dark brooding countenance.  Where other faeries seem
+indifferent to the other races, this fae looks upon you with contempt
+and superiority.  His wings have a slight shadow to them that you
+haven't seen among any other faeries in the glade.  The flora of the
+glade blossoms at his presence, but you notice that it is the willow
+and ivy that reacts strongest.
+
+A tiny fae princess (fluttering)   12073
+Fickle as a butterfly and everchanging as the seasons, the faerie
+princess is the guardian of nature and protector of the glade.  Seria
+cares little for mankind, preferring the beauty and simplicity of
+nature.  To be in her presence is an honor as the princess only
+reveals herself when she wants to be found.  Her beauty outshines that
+of all her people and rumours abound of travellers entranced by her
+diminutive radiance.  Two sets of gossamer butterfly wings larger than
+her body outline her dainty frame.  Blossoms bend toward her and
+branches make way for her as she moves about her kingdom with a grace
+and elegance unmatched throughout the realms.
+
+
+
+
+The Faerie Princess' Crown
+This silver crown is actually small enough to be worn as a bracelet.
+It is inlaid with tiny emeralds that glow with an unknown power upon
+each of the six points of the crown.  Each gem has a miniscule etching
+of a different tree from the forest glade that the princess once
+protected.  This precious item still retains some of the magical
+properties of the princess herself, but what they might be remains a
+mystery.
+
+
+

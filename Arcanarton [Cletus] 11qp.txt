@@ -1,0 +1,87 @@
+Arcanarton [Cletus]
+Dir's: Road Portal, 2w, s, sw, trail, enter
+
+Outside:
+
+     x-x-x
+     |   |
+     x U 1
+     | | |
+     x-x-x
+       |
+       E
+
+E: Entrance/Exit
+1: Down into the well, search the walls
+
+Inside:
+[Level 1]
+
+    U
+    |
+    E
+
+E: Entrance/Exit
+
+[Level 2]
+
+  D-U
+
+[Level 3]
+
+    D
+    |
+    x
+    |
+    U
+
+[Level 4]
+
+    S
+
+S: Stairs
+
+[Level 5]
+
+    S
+
+S: Stairs
+
+[Level 6]
+
+    1
+
+1: Arcanarton
+   If you attack Arcanarton the Imp heals him.
+   If you attack the Imp Arcanarton casts protection spells on
+   him and also defends him bringing you into combat with the lich.
+
+   After you kill him you read books to complete the quest.
+   If you already have the qp you get a random +int/wis boost.
+
+   If you Don't have the Bone Marbles you get a bone fragment
+   from killing him, you return that for yet another qp.
+
+Monsters:
+
+A vaguely human ghoul
+A dark elven ghoul
+A vaguely human ghoul
+An elven ghoul
+A dark elven ghoul
+An elven ghoul
+A dark elven ghoul
+An elven ghoul
+A Follower of Arcanarton
+A Dark Priest of Arcanarton
+A Dark Bishop of Arcanarton
+Animated corpse
+An evil imp
+Arcanarton the Arch-Lich
+A machination of Arcanarton
+
+Items:
+Staff of Arcanarton.
+Blue Key.
+Ring of Arcanarton.
+Random Armours and Weapons of crap quality, not worth mentioning.

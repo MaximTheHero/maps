@@ -1,0 +1,166 @@
+chaos,3w,s,u,slide spoon
+
+boat, say crunch, and wait
+
+S.S. Guppy
+
+              Nest    
+               |
+Aft Deck - Main Deck - Fore Deck - Plank
+               |
+             Cargo
+
+@foredeck - steer (takes you to Crunch Island)
+@plank - jump (you jump off onto island)
+
+
+          x
+          |
+      A-B x   x
+         \|  /
+          x-S
+         /|  \
+    x   x x   x
+    |  /  |
+    x-x   x
+
+
+A: Alien Cap'n Crunch - has Crunchberry Marble
+B: Hot-air Balloon - enter basket exits area
+
+
+
+1 ) Soggie War!          |  Kill Crunchberry Beast                   : 0/1
+                         |  Kill Alien Cap'n Crunch                  : 0/1
+                         |  Kill Sidney Soggy                        : 0/1
+                         |  Kill Sylvester Soggy                     : 0/1
+                         |  Kill Squish the Sogmaster                : 0/1
+                         |  Kill Jean La Foote, the Bare Foot Pirate : 0/1
+
+Congratulations!  You have completed the mission 'Soggie War!'.
+
+You have been awarded 30000 xp for your efforts.
+
+You have been awarded 2500 coins for your efforts.
+
+
+Tugboat Granny  -  unkillable
+This friendly woman seems eager to speak to you. With bright blue eyes
+and a crinkled smile, she looks ancient, but still strong enough to
+row a passenger out to the waiting ship if she was asked politely.
+
+Harry S. Hippo   21488
+Harry S. Hippo is a sea-going hippo in a mate's uniform. He has a big
+smiling face, pudgy cheeks and a cute white sailor hat.
+
+Seadog   8043
+Seadog serves as first mate on Cap'n Crunch's ship, the S.S. Guppy.
+He's a salty dog if there ever was one. Brown furred, whiskered and
+wearing a white sailor cap, he spends most of his time spying out the
+horizon from his spot atop the mast.
+
+Smedley the Elephant   16990
+Smedley can do anything (like roller-skate or ride a bicycle) to get
+his cereal, but he also usually squashes those things. You see,
+Smedley isn't any talented elephant, he's a fat talented elephant.
+Right now, he's wearing a red blanket over his bulk and doesn't look
+very happy about intruders in the cargo hold where he protects the
+Cap'n's cereal shipment.
+
+Cap'n Horatio Crunch   19994
+Cap'n Horatio Crunch is a fun-loving sea captain. He wears a blue
+captain's uniform, and a large blue captain's hat. The hat has a big
+yellow 'C' on the front and his uniform has impressive yellow shoulder
+patches and stripes, reminding you of his status as Captain of this
+vessel.
+
+Chockle the Blob   19363
+Chockle the Blob is a shape-shifting blob of chocolate chip cookie
+dough. He smells delicious, but looks like he is not happy to see you
+on this island. He stares at you with his googly eyes and grins
+widely, showing off his chocolate-stained teeth. He looks a bit
+insane.
+
+Wilma the White Whale   9477
+This giant whale has the prettiest blue eyes you've ever seen...on a
+whale that is.  She smiles sweetly at you and you'd swear that she was
+actually wearing red lipstick.
+
+Turtle   8605
+This smiling green turtle swims slowly around in circles, hoping his
+patience might pay off with some delicious Deep Sea Crunch cereal.
+
+Shark   9704
+This grinning pink shark circles you constantly, hoping to discern if
+you might have some Deep Sea Crunch cereal for him to eat.
+
+Crunchberry Beast   26303
+This strange looking creature is bright yellow with red spots and has
+a giant mop of red hair on the top of his head.  He has a long snout
+for sniffing out crunchberries and, from his crunchberry juice-soaked
+muzzle, you think you've found part of the reason for the barren
+fields.
+
+Jean La Foote, the Bare Foot Pirate     25161
+This evil looking man wears a black pirate hat with a skull and
+crossbones on the front. He looks like he hasn't shaved in days and he
+smells strongly of cinnamon. A large gold hoop earring hangs from his
+right ear and a black belt holds up his ripped breeches beneath his
+tattered red shirt. He has a large bag slung over his shoulder and, as
+his nickname suggests, his feet are bare... and also filthy.
+
+Sidney Soggy    16263
+This plump, big-nosed creature seems to be made of soggy cereal and
+sour milk. He smells horrible and doesn't look much better.
+
+Sylvester Soggy   17434 
+This plump, big-nosed creature seems to be made of soggy cereal and
+sour milk. He smells horrible and doesn't look much better.
+
+Squish the Sogmaster    29504
+
+Alien Cap'n Crunch   18014    
+A green, one-eyed, Cap'n Crunch Alien stands before you. He added
+Orange Space Dust to his fruit-flavored corn and oat cereal which
+turned milk green on his home world.  His cereal also took the shapes
+of moons, stars, and planets.  It was so successful in his world that
+he decided to come here to launch an earth cereal invasion.   You're
+not sure of his chances of success, but you are even more unsure of
+whether you care to take on this alien freak.
+
+
+
+Punch Crunch
+This is a bowl of Harry's favorite cereal.  Maybe you could eat it?
+
+Vanilly Crunch
+This is a bowl of Seadog's favorite cereal.  Maybe you could eat it?
+
+Peanut Butter Crunch
+This is a bowl of Smedley's favorite cereal, peanut butter flavored
+Cap'n Crunch. Maybe you could eat it?
+
+Captain's Hat
+A big blue hat with a big yellow 'C' on the front. I guess you're the
+captain now!
+
+Choco Crunch
+This is a bowl of Chockle's favorite cereal, chocolate flavored Cap'n
+Crunch. Maybe you could eat it?
+
+Red Crunchberry
+This delicious little red berry looks like it is fresh from the vine.
+Maybe you could eat it?
+
+Pirate Bag
+The bag looks like it could hold a lot of loot!
+
+Squish Hammer (enchanted)
+This hammer gleams with a magical inner light. It is made of a shining
+metal alloy that you're unfamiliar with. You feel tremendous power as
+you hold it.
+
+Green Crunchberry
+This less than appetizing looking little green berry doesn't seem to be
+ripe yet. Maybe you could still eat it?
+

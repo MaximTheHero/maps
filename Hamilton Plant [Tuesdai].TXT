@@ -1,0 +1,104 @@
+sci,enter,u,3e,d,e,path,22n,w,d
+
+                    x
+                    |
+                    x
+                    |
+                    u    d-x
+                    |
+u-x-x     x-x-x-x-x-x
+    |     |
+    x     x
+    |     |
+    x-x-x-x
+
+
+
+
+
+
+Loading Dock Worker   7349
+This loading dock worker is busy carrying bags of unknown
+substances from the back of a truck into the warehouse.  He has
+been working twelve hour shifts for the past three months and
+he is damn tired.  He's a fat man who spends his off-time choking
+down beer and jelly-filled powdered doughnuts.
+
+Processing Plant Guard    19352
+A hard-nosed, no-nonsense guard.  He doesn't take no crap from
+nobody.  All his orders come directly from the 'big man'.  He
+follows all rules and is a stickler for respecting authority.  He
+has no problem killing anyone for disobeying orders, or trespassing.
+He'd probably kill his own mother for looking at him sideways.
+
+Truck Driver   2536
+A truck driver.  He is employed by Hamilton Enterprises to haul
+stuff back and forth between designated locations.  He never
+questions what he is hauling.  He knows that that would be a
+big mistake.  He's a man around his mid-30's with deeply tanned
+skin and yellow teeth.  Despite the condition of his teeth, he
+has a great smile, and you can't help but like him.  You wonder
+how someone as seemingly nice as him could be doing any kind
+of shady work.
+
+Warehouse Supervisor   3859
+The warehouse supervisor is shouting out commands. He's a wiry thin
+man of about 40, but he pulls his weight around here and people
+shy away from his authority.  He reminds you of a little cockroach
+running little cockroach errands.  He's a big man in here, but out
+in the real world, what's left of it, he's a peon.
+
+Assembly line worker   13249  
+This assembly line worker is a young man in his early 20's.  He
+is a hard worker and very dependable.  His position on the assembly
+line changes every week to cut down on the sheer boredom.  He's
+handsome, in a grungy kind of way.  He does his job well, cuz he
+knows that he can be easily replaced, or worse put to death.
+
+Employee peeing   8183 
+A lucky employee getting a bathroom break.  All you see is his
+back, as he is taking a piss, draining his main vein, leaking his
+lizard, choking his chicken, shaking his monkey, making his bladder
+gladder....Sheesh, he's gonna be here all day.
+
+Martin O'Dell (supervising)   39159
+This is the plant's supervisor.  And second in command of Hamilton
+Enterprises.  He's in his mid 50's, and rather slimy looking.  His
+black hair is slicked back with too much gel.  He has beady brown
+eyes, and he sweats too much.  You figure he doesn't have enough
+intelligence to question anything that goes on here, and that's
+how he got his job.
+
+Jeffrey Hamilton (owner)   50719
+This is the owner of Hamilton Enterprises.  He has direct contact
+with Justin Strike of Strike Industries, although they have never
+met.  He's a good-looking young man in his late twenties, and it
+makes you think that he must really know his stuff to be running
+an operation like this at such a young age.  He's quite the ladies
+man and has an I.Q. of about 142.  People both respect and fear
+him for he is ruthless in his dealings.
+
+
+
+A KC-480 Rifle
+One of the most highly sophisticated rifles of this decade.  Powerful
+enough to shoot through ten inches of steel, but easy enough for a
+five-year-old to use.  You sure would hate to get shot by this.
+
+KC-480 rifle shells
+These shells were specificially designed for the KC-480 Rifle.
+Do not attempt to put them in another gun.
+
+A pair of geek glasses
+A pair of geek glasses.  You wonder who was geeky
+enough to wear these.
+
+A clipboard
+A clipboard that holds important papers.
+It appears someone has docked you one hour's pay.
+
+Jeffrey Hamilton's Brain
+The incredible brain of Jeffrey Hamilton.  You can't
+believe you have it in your hands.  Perhaps you could wield it
+and get into people's minds like he did.
+

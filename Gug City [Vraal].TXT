@@ -1,0 +1,23 @@
+
+
+
+
+      2
+      |
+  x 1-x x
+  |   | |
+  x-x-u-x-x
+    | | |
+    x S x-x
+      |
+      x
+     / \
+    x   x
+     \ /
+      3
+
+
+1: Butcher Shop
+2: Store
+3: stone archway covered in egyptian hieroglyphics
+u: u,u kill priest, get artifact (while wearing ring of unholy protection)

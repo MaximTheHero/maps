@@ -1,0 +1,88 @@
+Fuzzy Aliens [Ryft]
+Dirs: Science, 2u, enter shuttle/out, 4w, 2d, e
+
+
+   D
+   |
+   S
+
+D: Door (exit/entrance)
+S: Shuttle (enter)
+
+             
+           x-x-2
+          /| | |
+         x-x-x-x
+        /| | | |
+       x-x-x-x-x
+       | | | | |
+       x-x-x-P-1
+       | | | | |
+       x-x-x-x-x
+        \| | | |
+         x-x-x-x 
+          \| | |
+           x-x-x
+
+
+1: Enter
+2: search dust - Jet Marble
+
+      x
+      |
+      x-1
+      |
+      E
+      | |
+      x-x
+      | |
+      V 2
+
+1: A geneticist (despairing)
+V: Vault, insert stone into hole
+2: The Minkling Moon [bar]
+
+
+Monsters:
+
+1504 : A giggling, burgundy alien
+
+A giggling, burgundy alien.
+It bounces around cheerfully. The whole planet seems to be
+full of them.
+
+
+20758 : A geneticist (despairing)
+
+A broken man, this geneticist has become a slave to his own
+creations. He lives in despair, his only escape: death. Perhaps you
+should try to talk to him.
+
+
+
+
+The Grand Poobah is the biggest of the aliens you have seen
+on the planet. Although big, it still looks cute and fuzzy,
+to your dismay. Beware the Poobah though, he is more than he seems.
+
+
+Items:
+
+A bottle made of a strange material.
+A bottle made from a strange material. It contains
+a indigo liquid.
+
+A round stone.
+A round stone with some metallic patterns on it. It looks
+like it was meant to be put into something.
+
+Staff of the Grand Poobah.
+The staff of the Grand Poobah is a symbol of its authority.
+There is a slot on it for something. The staff is made of some
+strange metal what you can't quite identify.
+To power the staff, type <power staff>
+
+Power crystal.
+The power crystal of the aliens. Fashioned by the enslaved
+scientist, it holds the key to the power of the Grand Poobah's
+staff.

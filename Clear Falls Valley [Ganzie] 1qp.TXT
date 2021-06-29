@@ -1,0 +1,63 @@
+magic, wforest portal, e,3s,w,nw
+
+
+       x-x
+      /   \
+   x-x-x-1 x
+    \|\   /
+     x-x-x
+     |
+     x
+      \
+       x
+        \
+         E
+
+
+1: Hens
+
+a young boy (Bryan)
+A small boy stands here, looking at the waterfall.  While he appears fairly
+interested by it, he seems to also have a look of boredom.  His feet are
+bare and covered with mud, and his hair is gnarled and dirty.  He is
+wearing what appears to be an old and torn cloak, which appears to be in
+desperate need of cleaning.  For some reason he hasn't noticed you yet.
+You should try to talk to him, maybe he will tell you his name.
+
+A hungry fox
+The fox is staring intently westward, looking hungrily at the helpless
+chickens inside the coop.  She is pacing back and forth with her head
+lowered close to the grass and her bushy tail slightly tucked between her
+legs.  Licking her lips in anticipation, she seems to survey the fence as
+if trying to find a way inside.  The fox is concentrating so intently on
+her next meal that she doesn't seem to notice you.
+
+A young hen
+This young female chicken appears not to be overly concerned by your
+presence.  Clucking to herself, she wanders around the pen, stirring up the
+straw with her long bone-like feet.  She seems perfectly content living in
+this small caged in area.  You almost feel sorry for this ignorant, yet
+happy creature and wonder if you should even bother to harm it.
+
+An adult hen
+This adult chicken is a little larger and stronger than her younger
+relatives.  She walks slowly around the pen, cautiously turning her head to
+watch your every move.
+
+A large rooster
+This is a male chicken, who was previously hiding inside the hen house.
+However, now that you have lured him out with the chicken feed, he seems
+concerned only with his meal.
+
+
+
+
+A tiny egg
+This egg appears to be smaller than a normal sized egg.  Strangely enough,
+this seemingly flawless egg is completely spherical in shape.  As you look
+closely at the solid, white outer shell, you begin to wonder if perhaps
+this even is an egg after all.  Due to its strange shape and unusually
+small size, you consider that perhaps there is more here than meets the
+eye.
+
+.

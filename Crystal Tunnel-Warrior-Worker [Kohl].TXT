@@ -1,0 +1,95 @@
+
+          
+
+
+
+                        x-x
+                       /| |
+                  u   x-1-x
+                  |   |
+                  x   x
+                 /|\   \
+                x x x   x
+                | | |   |
+                x x x   x
+               /  |  \   \
+              x   x   x   x
+                 /     \ /
+                x       x
+                |
+                x
+                 \
+                  x
+                   \
+                    x
+                   /
+                  x
+                   \
+                    x
+                    |
+        x-x-x       x
+        |    \     /
+        x     x   x
+        |      \  |
+        x       x x
+       /|\      | |
+      x-x-x     x-x
+       \|/
+        x
+
+1: Onyxx, the Crystalline Overseer
+
+A Crystalline Warrior    34744
+At first glance, this could be merely a statuesque woman of extreme
+beauty. Looking more closely, however, it is apparent that she is made
+entirely from crystal. Her eyes are a clear sapphire, her cheeks the
+delicate pink of rose quartz, her lips the bold red of a ruby. She is
+clothed in armour of glowing crystal, and her hands themselves seem to
+be her weapons. She seems resolute in her determination to survive.
+
+A Crystalline Lady    38618
+This is a member of the nobility of the Crystal Palace. She looks
+somehow more delicate than the warrior who guarded her, but no less
+refined. Her features are just as angular, but the colours are paler,
+her eyes a sky blue, her lips rose-pink. She is a creature of a cold and
+hard beauty, resolutely determined to find any other survivors of the
+catastrophe that ruined her home.
+
+Onyxx, the Crystalline Overseer    122795
+This creature is made of completely black crystal, in stark contrast to
+the white caverns. He is bulky, gleaming in multiple shades of black
+from huge crystalline muscles. He keeps an eagle eye over his workers,
+and occasionally directs one to another area, but he never seem to need
+to rebuke or chastise the workers in any way.
+
+A Crystalline Worker     13751
+This creature resembles a man made of crystal, his skin a shade of
+dusky quartz. His eyes are a clear black, and his skin doesn't show much
+variation of colour. He goes about his tasks with a single minded
+efficiency, reminding you of an ant scurrying here or there.
+
+Quartz, the Crystalline Warleader   104071
+Quartz is a curious creature, coloured all shades of quartz.  Her
+lips are a deep ruby red, her cheeks flushed with the pink of rose
+quartz.  Her eyes are deep emerald green, and her skin glows with a soft
+light, giving the impression of translucence, though she seems very
+solid.  She stands over six feet tall, an imposing figure against the
+luminescent crystal of her home.
+
+
+
+
+Rod of the Overseer (enchanted)
+This weapon looks more like a whip or flail than a rod in the technical
+sense. Several flexible tails made of barbed crystal are attached to a
+hook at one end, looking very painful, if a bit fragile.
+
+Blood Red Quartz
+The Blood Red Quartz is a perfectly formed double terminated quartz
+crystal.  The ends are sharp enough to puncture flesh, but this doesn't
+appear to be intended as a weapon.  The crystal pulses with warmth,
+almost in the pattern of a beating heart, and you get the impression
+that it wants to 'feed'.
+
+
+.

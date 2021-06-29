@@ -1,0 +1,434 @@
+chaos,3e,2s,2e,s
+
+    Level 1        level 2
+
+      3               4
+      |               |
+    2-u-1 E           d
+     /|   |           |
+    x T-x-x           5
+          |
+          x
+
+1: Hotel Transylvania [Zan]
+2: Anchorman [Rumor]
+3: Pulp Fiction [Ploppy]
+4: Terror in the Isles
+5: Nightmare on Elm Street
+
+
+
+Terror in the Isles:
+
+     x-2    3
+     |      |
+  1<-u      x
+     |      |
+     E      A
+
+1: east takes you to A
+2: dive, swim to get back
+3: doghouse takes you to E
+
+
+Michael Meyers   8482
+He is a big guy who seems to like Halloween.
+
+The blob  16507
+This thing reminds you of a run-away bowl of jello. As it oozes
+its way about, you notice the bodies and skeletons of humans within.
+Some of them seem to be still alive, mouthing silent screams in your
+direction. Suddenly, you hear the scream. It's you.
+
+Leatherface   13513
+He is a large, husky man who wear another mans face over his!
+
+Chucky, the doll from hell    15081
+This guy looks like a cute little doll, but don't be fooled!
+
+Cujo   18316
+This is one BIG dog! He looks like he's got rabies also.
+
+Jason Voorhees
+He stands about six foot, four inches tall and is wearing a goalie's
+mask over his face.
+
+An innocent victim   1497
+One of those stupid people who always do the wrong thing at the wrong
+time.
+
+Jaws, the deadly shark   17578
+He's gotta be the biggest, meanest shark you've ever seen!
+
+Candyman   20867
+He's a tall man who wears a fur coat and has a hook for a hand.
+
+
+A carved pumpkin
+This is just your typical carved pumpkin that you see on halloween.
+
+A human face
+The skin off a human skull has been fashioned into a sort of mask.
+
+A gold-plated chainsaw (enchanted)
+This has got to be the biggest chainsaw you have ever seen! It's
+blade is at least 4 feet long alone. The entire chainsaw is plated
+in gold and gives off a bright shine.
+
+A large knife
+This is just a large butcher knife!
+
+A goalie mask
+This is a typical goalie's mask, with a red diamond painted above
+the eyes and centered on the mask.
+
+A large machete
+This is a long, large machete.  You also notice it is drenched
+in blood.
+
+Huge shark jaws
+These are the largest jaws you have ever seen!
+
+A fur coat
+This is a long, maroon fur coat with a soft black collar.
+
+A long narrow hook
+This is a long, narrow hook. It is covered with blood and looks like
+someone was using this in place of his hand.
+
+
+
+Nightmare on Elm Street:
+
+     |             Old House    Asylum      School
+     1    
+   | | | | |          d         level 1      x x x
+  -x-x-x-x-x-         |                      | | |
+   | | | | |        enter       x          E-x-x-x
+  -x-x-2 3-x-       mirror      |            | | |
+   |   | | |        (to tv)   E-x-u          x-x-d 
+ 4-x-x-x-x-x-                               to boiler
+   | | | | |                   level 2          
+  -x-5-x-6 x-
+   | | | | |                  x
+  -x-x-x-x-x-                 |
+   | | | | |                  x-x-u/d  d
+     1                          |
+     |                        crawl
+                              (to tv)
+
+1: Old House          Dolen's
+2: Asylum            
+3: Power Plant           x
+4: Shelter - enter tv    |
+5: Dolens Inferno      x-d-x
+6: School                |
+                         x
+
+Power Plant
+
+   SC2      (to tv)
+    |        enter
+ CR-ST         |
+             x-x
+  SC1	       |
+   |           x-CR-SC1
+   u             |
+ (town)         ST
+
+SC1 - back (south from sc1)
+    - forward (CR)
+SC2 - back - to school
+    - forward (CR)
+
+TV:
+
+        old    x-out-boiler
+        house  |
+         out x-x-x
+          |  |\|/|
+          x--x-u-x-x
+             |/|\| |
+             x-x-x out-shelter
+               |
+           out-x
+         asylum
+
+A random nightmare    187
+
+A Hanging Victim   417
+His face is blue. He has probably been 'hanging' (haha) around for a while.
+
+A pool of blood   149
+It's a large pool of blood and.. It's alive!! There's no way it should be
+alive.
+
+A Hack-n-Slash Victim   156
+It looks like she was severely cut up by razors.
+
+A Shredded Wizard   92
+A powerful wizard, or at least he thought so, who is now quite shredded.
+
+A victim of a hit and run   1732
+You look closely and.. OH MY! He's alive!!
+
+A chain   50
+
+A janitor   149
+It looks like he's trying to clean out the steam tunnels. He doesn't
+seem to be affected by the heat.
+
+A naked high school girl    331
+PERVERT!! SICKO!!! HOW DARE YOU LOOK AT THEM!! YOU KNOW YOU CAN BE SENT
+TO JAIL FOR DOING THIS!!!
+
+Freddy    80
+It looks like Freddy Kruger. A child murderer let off on a technicality.
+However the form is too shadowy to tell for sure.
+
+A severe burn victim   2224
+This is Christen. Once, a very powerful dreamer. Now, just another spirit.
+
+Motorcycle Fred   1226
+This motorcycle from hell is a nasty way to off yet another
+teen.
+
+A little girl, jumping rope   67
+A cute little girl dressed all in white. You wouldn't dare
+hurt her! Would you?
+
+A nurse    71
+Taking a closer look at the nurse, you notice that she has a glaze look
+in her eyes as if she's sleepwalking or possessed.
+
+An orderly    7945
+He's coming to take you away. Don't let him get that straight jacket on you.
+
+The victim of a bizzare TV accident   92
+It would appear that her head was smashed into the TV. When it exploded
+she was fried.
+
+TV Fred   1431
+Freddy disguised himself as a TV for this kill.
+He then picked up his victim and smashed her head
+into the screen. A rather odd way to die.
+
+A nasty looking wheelchair   2429
+This chair has spikes, razors, and chains hanging all over it. Not a
+pleasant seat.
+
+Super Freddy   3963
+
+One of the dream demons   5350
+
+A victim of a serious headache    92
+It looks like his head almost completely blew up.
+
+The victim of a severe drug overdose   338
+She was somewhat attractive. You notice small mouths on her arms.
+What is that all about?
+
+Another slasher victim   1226
+This guy is BIG! Despite that, his guts are hanging out of a large wound
+in his abdomen.
+
+A spiked victim   175
+It looks like this one was dropped on a large bed of spikes. Ouch, that's
+gotta hurt.
+
+The victim of deflation   92
+It looks like all the life has been sucked out of her. (Literally, haha)
+
+A decolorized comic book victim   1298
+Once a colorful comic book hero, now just an uncolored
+victim of a madman.
+
+The victim of a brutal slashing    734
+This is probably Nancy. She was a tough one to kill, but even she couldn't
+last forever against Freddy.
+
+Nurse Fred   1879
+This guy gives the nursing profession a bad name.
+
+A worm with Freddy's head    3405
+A very grotesque worm. Green and slimy, and with Freddy's head to top it
+off. It becomes downright sickening.
+
+A half-naked female  14213
+
+Freddy's Glove   2428
+Wait a minute. this glove is moving around on its own.
+There's more here than just the glove.
+
+Your waiter for this evening, Fred    1818
+
+Dr. Fred, MD    2747
+Who'd you expect? Doogie Howser?
+
+A puppet that looks like Freddy   1362
+
+A skeleton     1289
+
+The victim of a sleepwalking accident   92
+Well, it wasn't that much of an accident. It appears that his arteries have
+been ripped out.
+
+A severe burn victim    2278
+This is Christen. Once, a very powerful dreamer. Now, just another spirit.
+
+A video image of Freddy   1298
+Wait a minute. this glove is moving around on its own.
+There's more here than just the glove.
+
+Spencer    92
+It looks like he OD'ed but on a joint? Something is very fishy here.
+
+A victim of a roach motel   404
+She was rather pretty. That was before she was turned into a bug and got
+caught in a roach motel.
+
+The victim of an eating disorder   80
+Eating disorders are not funny. It killed this one.
+
+Another hack and slash victim   403
+This one fancied himself to be a Kung-Fu guy. He thought
+he was the best, but now he's died like all the rest.
+
+A Female Stripper   1299
+She would be quite attractive if she wasn't so badly burned.
+
+Dolen   2844
+Dolen is the man who alledgedly (yeah,right) burnt his own bar down which
+accidently killed an old man. What a dirtbag. He deserves to be here.
+
+A Male Stripper    2750
+Once Chippendale material, now just a large, dancing, male burn. Gross!!
+
+A Non-Human Stripper   1363
+A stripper of some strange species. It may be attractive to some non-human.
+
+
+
+A switchblade
+A switchblade covered in blood.
+
+A hangman's noose
+An effective noose made out of a bed sheet.
+
+A pair of headphones
+A pair of earphones covered with blood. You wouldn't want to
+wear them.
+
+A bloodied and torn night shirt
+A nightshirt that has been slashed apart.
+
+A Wizardmaster's Robe
+A once powerful robe, now ripped and covered in blood.
+
+The hubcap of a '57 Chevy
+You could wear it as a shield.
+
+A tire iron
+A bloody tire iron.
+
+A chain link
+The link of a chain. What else?
+
+A dirty mop
+A dirty mop.
+
+A dirty red and green sweater
+This is a copycat sweater. It did not belong to the real Freddy.
+
+A glove with razor fingers
+This is a copycat glove. It did not belong to the real Freddy.
+
+Handlebars of the motorcycle from hell
+A set of handlebars from when Freddy was a motorcycle.
+
+Jump rope
+A jump rope. What did you expect?
+
+A nurse's hat
+A hat worn by nurses, silly.
+
+A thermometer
+It's a thermometer. Something used to take people's temperature.
+
+A clipboard
+A clipboard with some a lot of scribbling writing on it. It must be a
+doctor's penmenship. You are unable to make any of it out.
+
+Rabbit ears antenna
+Used to improve TV reception. You could probably wear it as a hat, although
+you'd look pretty silly.
+
+A wheelchair wheel
+This wheel has spikes and razors on it. Not typical wheelchair issue.
+
+A Super Freddy Cape
+It's really just a cape. No super powers associated with it.
+
+A dirty fedora
+This fedora belongs to none other than Freddy Kruger, mass murderer
+extraordinaire. He would be very pleased to get it back. It's probably
+not worth very much.
+
+A hearing aid
+It looks like a hearing aid, but you probably don't want to put
+it in your ear.
+
+A tall mohawk
+It would make an interesting helmet.
+
+A switchblade
+A switchblade covered in blood.
+
+A muscle shirt
+A muscle shirt for the guy with huge muscles.
+It says, 'I'm a badass.'
+
+A bloody railroad spike
+A nasty looking spike covered with blood.
+
+A pair of glasses (broken)
+A pair of dorky glasses. No wonder someone broke them.
+
+A huge fragging gun (broken)
+A huge gun. It could probably blow big holes in stuff. Now all it's good
+for is to hit people with.
+
+A heavy longcoat
+The reason it's so heavy is because it's laced with kevlar. Tough stuff.
+
+A hypodermic needle
+This needle is HUGE. It is at least two feet long!
+
+A white, waiter's jacket
+A very white, starched jacket used by waiters.
+
+A serving spoon
+A silver serving spoon.
+
+A surgical mask
+The type of mask that surgeons wear when doing surgery.
+
+A wet towel (enchanted)
+A wet towel.  A nasty weapon when you're able to snap it at people.
+
+A joint (burnt out, BUMMER)
+There's hardly anything left. A mouse couldn't even get high
+off what's left.
+
+A Good-Sized Barbell
+A barbell. Heavy but nasty when you hit someone.
+
+A G-String
+A brief about the size of a g-string.
+
+An Empty Gas Can
+The gas can is empty because Dolen dumped it all over the bar. It would
+make a crude, but effective weapon.
+
+
+

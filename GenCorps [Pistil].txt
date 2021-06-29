@@ -1,0 +1,212 @@
+GenCorps [Pistil]
+Dirs: Science, u, 3e, d, e, path, 12n, road
+
+Level 1:
+
+         x-x-3
+         |
+   2-x-x x
+       | |
+       x-x-x-x-x-x-x
+           |     | |
+           x     1-x
+           |
+           x
+           |
+         x-x-x
+         | | |
+         x-x-x 
+           |
+           R
+
+1: GenCorps Sergeant.
+   exa desk, exa papers, straighten papers
+   You straighten up the papers, and upon moving the papers around you
+   notice that something is scratched into the surface of the desk.
+   It appears to be the numbers '1,2,6,7,1'.
+2: Heavy Barrel at boot
+3: Push Button to get to next level
+
+Level 2:
+
+      x-3
+      |  
+      x 2-1-D
+      |   |
+      x-x-x
+        |
+        x
+
+
+1: Insert Passcard
+2: Strike Team Battle Master
+3: Push button to go back to level 1
+
+Basement:
+
+         x
+          \
+           1-U
+          /
+         2
+
+1: Frost, Burn and Vitality
+2: Battle Glove and Multicomponent pieces
+U: Stairs up and control panel to punch in the # you found at the Gencorps Sergeant.
+
+Monsters:
+
+31805 : M516 Patroller
+
+This is a large robot that has triangular tank treads to
+give it movement. It has large red electronic eyes and large
+round objects where it should have hands. It is made out of a shiny
+silver like metal and has the emblem of GenCorps on it.
+
+
+15284 : Compound Guard
+
+This is a large man that doesn't look like he's too happy
+to see you here. By the look of the emblems on his equipment he
+is working for the GenCorps.
+
+
+22508 : GenCorps Officer
+
+This is an officer of the GenCorps. He is here to protect
+the GenCorps compound from being infiltrated by anyone trying
+to steal the plans for the GenCorps Strike team.
+
+
+30637 : GenCorps Sergeant
+
+This is a commanding officer for the GenCorps Officers. It
+is his job to make sure that the Officers keep intruders
+out of the compound. He doesn't look too happy to see you.
+
+
+29701 : Strike Guard
+
+This is a specially trained juinor member of the GenCorps strike
+team. She is very tall and lanky, but looks very muscular wearing her strike
+suit. She looks like every other strike guard that you've seen.
+Maybe GenCorps came up with a way to clone some of their better
+products. She has a very powerful sparkle in her eyes.
+
+
+119853 : Strike Team Battle Master
+
+This is the person who trains the GenCorps Strike Team.
+He is huge. He looks like he is about three times your size not
+counting the enourmous battle suit he's wearing. If he
+is the one who trains the Strike Team you have to know that he
+won't go easy on anyone who comes up against him. He also tests
+all new GenCorps equipment and prototypes that are produced for
+the Strike Team.
+
+
+36830 : Frost
+
+This woman is a member of the GenCorps Strike Team. You can
+tell how she got her code name of Frost from the small ice
+patches that you can see that are forming at her feet. She has pale
+blue eyes, and a bodysuit to match. Her hair is very short and almost
+blindingly white. Her icy stare makes shivers run down your spine. You
+get the idea that this woman is trained to withstand almost any kind
+of attack. Being in her presence may not be such a good idea.
+
+
+38195 : Burn
+
+This woman is a member of the infamous Strike Team. Her code
+name is Burn, and you can tell from the heat that is radiating off
+of her, that the name fits. Looking into her eyes sears your eyeballs
+and makes tears come to your eyes. She has long flowing red hair and
+is dressed in a yellow and red body suit. It looks like she's been
+trained to withstand almost every kind of attack. She doesn't look
+too happy to see you here either.
+
+
+46004 : Vitality
+
+This woman is obviously a member of the GenCorps Strike Team. She
+wears a blood red body suit, and has long flowing jet black hair, with
+large green eyes. Her outward appearance gives you the feeling of being
+helpless under her gaze. She is probably not a person you would want to
+toy with.
+
+Items:
+
+GenCorp Body Armour.
+This is stanadard issue GenCorps body armour. It has the emblem
+of GenCorps on the upper right side, and looks like it would
+cover most of your upper body.
+
+Ion Beam Emitter (enchanted).
+This is a long gun like weapon that takes two hands to wield.
+It is long and made out of some kind of black plastic. It has
+a radiation warning label on the side in red.
+
+Psi Shield.
+This piece of equipment looks like two bracelets connected by a long
+piece of metal. The metal that it is made out of shines and sparkles in the
+light.
+
+Shock Helmet.
+This helmet is roundish and has the emblem of GenCorps on the side.
+It looks like it could absorb attacking blows pretty well.
+
+Neuronal Armour.
+This armour looks like it would cover most of your upper
+body. It has many wires and circuits running through the fabric and
+plating. There is a small emblem on the upper right side that says:
+GenCorps.
+
+Kevlar Bracers.
+These bracers are made out of an extremely light weight fabric.
+You wonder if they'll give you any protection.
+
+Spaser.
+This is a rather large weapon that looks like a rifle, but
+is much more streamlined. It is made out of a durable white plastic
+and looks like it has some kind of internal power source.
+
+Passcard.
+This is a long piece of clear plastic with red pieces of wire
+running trough it. It looks like it would fit somewhere.
+
+Strike Suit.
+This body suit looks like it would fit any female very
+tightly. It is a very dark shade of blue and has the emblem
+of GenCorps in red on the upper right side. It looks like
+it won't protect anyone from much, but what can you tell from
+looks?
+
+Strike Team Battle Suit.
+This is a huge piece of armour. It looks like once you got
+into it, it would encase your entire body. It is made out of
+something that looks like black shining plastic. It looks like
+very good protection.
+
+Battle Glove.
+This glove is plated with some kind of metal that shines like
+stainless steal, but looks like it has much more strength.
+It looks like if you wore this it would fit around your
+fist and up your arm a ways. There are many little lights
+flickering on and off on the wrist portion of the glove and
+a small readout display reads: Strike What?
+
+MultiComponent Armour: Torso Component.
+This is a oblong piece of very light material. It feels like metal
+but is warm to the touch, and has the feel of fabric. It looks
+like it only would fit on the front of an individual, since it is
+open in the back of it. Alas, it's obvious that you would need
+the other components of this armour to assemble
+and use it.
+
+MultiComponent Armour: Leg Casing Component.
+This is a pair of long pieces of very light material. The material
+feels like metal but is warm to the touch, and has the feel of
+fabric. It looks like it only fit on the front of an individual,
+since it is open in the back. Alas, it's obvious that you would
+need the other components of this armour to assemble and use it.

@@ -1,0 +1,25 @@
+science,enter,u,3e,d,e,path,14e,18n,6e,bridge,e,2se,ne
+
+
+       x
+      /|
+   x-x-x
+    /
+   E
+
+
+Eddy   71
+White, late teens, and, frankly, speckled, Eddy gives off an air of
+being above the menial task of serving you. The thin-eyed scowl on his
+greasy face speaks derision and thoughts of escape, while his untucked
+shirt and smeared-upon slacks speak of his utter disdain for this
+necessary evil. Not the most pleasant kid in the world.
+
+
+
+a loaf of bread
+This is a twelve inch loaf of Subway(tm) bread. It looks like it was
+freshly made in 1987, and has been used to clock trainees upside the
+head ever since.
+
+.

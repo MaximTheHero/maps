@@ -1,0 +1,146 @@
+AREA NAME: Dundee Poachers [Andeddu]
+AREA RATING -> A Walk in the Park
+Monster class range since inception: 840,805 to 14,546,597
+Monster class range for this boot  : 2,691,949 to 14,119,345  (Average: 4,575,462)
+
+chaos,w,s,enter swamp
+
+
+
+    Swamp 2                     Swamp 3                 
+    x-x-x-x-x-x-x-x-x-x-x       x-x-x-x-x-x-x-x-x-x-x
+    |X|X|X|X|X|X|X|X|X|X|       |X|X|X|X|X|X|X|X|X|X|
+    x-x-x-x-x-x-x-x-x-x-x       x-x-x-x-x-x-x-x-x-x-x
+    |X|X|X|X|X|X|X|X|X|X|       |X|X|X|X|X|X|X|X|X|X|
+    x-x-x-x-x-x-x-x-x-x-x-x   x-x-x-x-x-x-x-x-x-x-x-x   
+    |X|X|X|X|X|X|X|X|X|X|  \ /  |X|X|X|X|X|X|X|X|X|X|
+    x-x-x-x-x-x-x-x-x-x-x   x   x-x-x-x-x-x-x-x-x-x-x        Swamp 5
+    |X|X|X|X|X|X|X|X|X|X|   |   |X|X|X|X|X|X|X|X|X|X|        x-x-x-x-x-x-x-x
+    x-x-x-x-x-x-x-x-x-x-x   |   x-x-x-x-x-x-x-x-x-x-x        |X|X|X|X|X|X|X|
+    |X|X|X|X|X|X|X|X|X|X|   |   |X|X|X|X|X|X|X|X|X|X|        x-x-x-x-x-x-x-x
+    x-x-x-x-x-x-x-x-x-x-x   |   x-x-x-x-x-x-x-x-x-x-x        |X|X|X|X|X|X|X|
+    |X|X|X|X|X|X|X|X|X|X|   |   |X|X|X|X|X|X|X|X|X|X|      x-x-x-x-x-x-x-x-x 
+    x-x-x-x-x-x-x-x-x-x-x   |   x-x-x-x-x-x-x-x-x-x-x     /  |X|X|X|X|X|X|X|
+    |X|X|X|X|X|X|X|X|X|X|   |   |X|X|X|X|X|X|X|X|X|X|    /   x-x-x-x-x-x-x-x
+    x-x-x-x-x-x-x-x-x-x-x   |   x-x-x-x-x-x-x-x-x-x-x   /    |X|X|X|X|X|X|X|
+                            |                          /     x-x-x-x-x-x-x-x
+    x-x-x-x-x-x-x-x-x-x-x   |                         /     
+    |X|X|X|X|X|X|X|X|X|X|   |     Swamp 4            /     Swamp 7       Swamp 8
+    x-x-x-x-x-x-x-x-x-x-x 5 x 4   x-x-x-x-x-x-x-x   /      x-H-x-x-x     x-x-x-x-x-x-x-x
+    |X|X|X|X|X|X|X|X|X|X| | |/    |X|X|X|X|X|X|X|  /       |X|X|X|X|     |X|X|X|X|X|X|X|
+  E-x-x-x-x-x-x-x-x-x-x-9-x-x-3   x-x-x-x-x-x-x-x x        x-x-x-x-x     x-x-x-x-x-x-x-x
+    |X|X|X|X|X|X|X|X|X|X| |X|     |X|X|X|X|X|X|X|/         |X|X|X|X|     |X|X|X|X|X|X|X|
+    x-x-x-x-x-x-x-x-x-x-x x-x-x-x-x-x-x-x-x-x-x-7-x-x------8-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+    |X|X|X|X|X|X|X|X|X|X| | |\    |X|X|X|X|X|X|X|\         |X|X|X|X|     |X|X|X|X|X|X|X|
+    x-x-x-x-x-x-x-x-x-x-x 1 2 6   x-x-x-x-x-x-x-x x        x-x-x-x-x     x-x-x-x-x-x-x-x
+    |X|X|X|X|X|X|X|X|X|X|         |X|X|X|X|X|X|X|  \       |X|X|X|X|     |X|X|X|X|X|X|X|
+    x-x-x-x-x-x-x-x-x-x-x         x-x-x-x-x-x-x-x   |      x-x-x-x-x     x-x-x-x-x-x-x-x
+    |X|X|X|X|X|X|X|X|X|X|                           |
+    x-x-x-x-x-x-x-x-x-x-x                           |   Swamp 6
+    |X|X|X|X|X|X|X|X|X|X|                           |   x-x-x-x-x-x-x-x
+    x-x-x-x-x-x-x-x-x-x-x                           |   |X|X|X|X|X|X|X|
+    Swamp 1                                         |   x-x-x-x-x-x-x-x
+                                                     \  |X|X|X|X|X|X|X|
+                                                      x-x-x-x-x-x-x-x-x 
+                                                        |X|X|X|X|X|X|X|
+                                                        x-x-x-x-x-x-x-x
+                                                        |X|X|X|X|X|X|X|
+                                                        x-x-x-x-x-x-x-x
+
+
+
+1: Shop
+2: Medic
+3: Master Hunter
+4: Nurse/Patient
+5: Filthy Hunter
+6: Mechanic
+7: Game Hunter
+8: Game Hunter
+9: Game Hunter
+A: search track, gold wedding band (swamp 1)
+
+
+
+Swamp 1
+Swamp Sparrow
+Swamp Crocodile
+Cane Toad
+Tricolored Heron
+Red-bellied Watersnake
+Marbled Reed Frog
+Drop Bear
+
+Swamp 2
+Marsh Rat
+Swamp Crocodile
+Caecilian
+Anhinga
+Short-tailed Shrew
+Marsh Snake
+Drop Bear
+
+Swamp 3
+Marsh Frog
+Swamp Crocodile
+Armadillo
+Platypus
+Black-bellied Snake
+Osprey
+Drop Bear
+
+Swamp 4
+Mature Swamp Crocodile
+Great Egret
+Salamander
+Crane
+Anaconda
+Drop Bear
+
+Swamp 5
+Golden-Crowned Snake
+Mature Swamp Crocodile
+Star-nosed Mole
+Three-toed Amphiuma
+Purple Swamphen
+Drop Bear
+
+Swamp 6
+Yello-Faced Whip Snake
+Mature Swamp Crocodile
+Bobcat
+Butcherbird
+Spring Peeper
+Drop Bear
+
+Swamp 7
+Exotic Swamp Crocodile
+Newt
+Red Tailed Hawk
+Drop Bear
+
+Swamp 8
+Exotic Swamp Crocodile
+Barred Owl
+Greater Siren
+Dark-Spotted Anaconda
+Drop Bear
+
+Rare Spawns
+Swamp Monster
+Crikey
+Three-headed Anaconda (?)
+
+metal detector: search swamp in swamp 1
+search in swamp 7
+
+
+      E-x-x
+        |X|
+        x-x
+
+search cliff
+dive into creek
+scan/search
+
+

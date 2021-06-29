@@ -1,0 +1,88 @@
+the mobs talk, nfc about what.  good luck
+
+
+magic,12n,leave,6n,3w
+
+
+     x-x-x-x
+     |\|    \
+     x-x-x x x
+     |/|    \|
+   E-x-x-x   x
+
+
+The ghost of a young girl - Rowena Dennis      4857
+The lower half of this little girl looks almost normal, if you don't
+count the translucency and ghostly shimmer. Her upper half, though, is
+covered with seaweed and grime, dark hair a tangled, muddy mess.
+Ghostly wisps of mist encircle her, leaving her form and outline
+blurry. The scent of basements and pancakes  clot around her, heavy
+and seductive and disorienting.
+
+The ghost of a young girl - Winnifred Gee    3849
+The lower half of this little girl looks almost normal, if you don't
+count the translucency and ghostly shimmer. Her upper half, though, is
+covered with seaweed and grime, dark hair a tangled, muddy mess. She
+is wearing a simple school uniform, brown dress and black leather
+shoes over a once-white shift. The shift is stained with dirt and
+blood. Butterflies swarm around the ghostly figure of the girl as she
+moves about.
+
+The ghost of a young girl - Theodosia Thomasson     4092
+This girl's curly red hair covers her shoulders in unmanageable
+cascades. It sets off her freckled skin and almost hides the rotten
+flesh which creeps up her neck and over one eye. As ghosts go, though,
+she's pretty sturdy-looking. Her clothing is obscured by thousands
+upon thousands of tiny insects, crawling up and down the fabric but
+never touching her skin. They tumble from her in droves when she
+moves, but there always seem to be more. The scent of basements and
+pancakes  clot around her, heavy and seductive and disorienting.
+
+The ghost of a young girl - Permelia Cooke    1676
+This girl's curly red hair covers her shoulders in unmanageable
+cascades. It sets off her freckled skin and almost hides the rotten
+flesh which creeps up her neck and over one eye. As ghosts go, though,
+she's pretty sturdy-looking. Her clothing is obscured by thousands
+upon thousands of tiny insects, crawling up and down the fabric but
+never touching her skin. They tumble from her in droves when she
+moves, but there always seem to be more. A tangled babble of
+children's voices whispers in the air around her, incomprehensible and
+sad.
+
+A skeleton of a young boy    16806
+This is the skeleton of a young boy, all but the bare remnants of
+flesh stripped from him. Tatters of an ancient school uniform hang
+from the age-stained and chipped bones. His pants, shoes, and shirt,
+barely recognizable as cloth, are dyed a blotchy brown from time and
+dirt. He clutches a pennywhistle in his bony fingers, holding it to
+his lipless face in a mockery of musical aptitude. Even in his
+breathless state, though, a ceaseless dirge issues from the whistle.
+
+
+A grandfather clock.
+An antique grandfather clock stands near the edge of the clearing,
+facing out into the woods. The case, seven feet tall at the very
+least, is dull with time and has lost most of its color; if there ever
+was glass to protect the face and workings, it is long gone. Now, the
+hands hang motionless, the pendulum seems to be stuck to the side of
+the case, and the weight chains dangle empty.
+
+A wooden bench.
+A wooden bench sits at the edge of the glade. It appears to be almost
+brand new; its wood is still a rich cherry color, with no scratches or
+dents of any kind. It also looks fairly sturdy. Wildflowers have grown
+up around its legs.
+
+A translucent merry-go-round.
+This merry-go-round, an unglamorous and rickety contraption of wood
+and metal, sits in a slight depression in the grass. The wooden base
+looks half-rotten through the peeling paint, and the metal arms are
+patchy with rust. It spins in eerie silence.
+
+a tin whistle (enchanted)
+A tin whistle, tarnished with years of neglect. At nearly two feet long, it is
+much longer than the usual penny-whistles. It looks fairly sturdy, despite the
+thinness of the metal. The dents along its length suggest that it has seen some
+abuse in the past. The mouthpiece is jammed with dirt and grime.
+*clean whistle*
+

@@ -1,0 +1,50 @@
+chaos,3e,2s,2e,n,3e,n,2w,sw
+3/6 rooms
+
+out/enter
+   |
+closet - out/jump
+   | 
+ceiling - d
+
+
+Beavis is here picking his nose    4933
+Wearing a dark blue Metallica shirt and grey shorts, this babbling idiot
+should be in a mental home. His blondish hair suits his mentality. He is
+fairly skinny, probably from all the nachos he eats. The evidence is on
+his shirt. He has a VERY prominant jaw.
+
+Butthead is standing here, scratching his butt    3940
+This has got to be one of the ugliest people you have ever seen. He is a
+skinny boy with braces, and dark unkempt hair. He is wearing a blue
+shirt emblazoned with AC/DC, and red shorts. Constantly laughing to
+himself, he must be mentally unbalanced, or just plain stupid.
+
+Stewart wants to come out of the closet now    7817
+One of Beavis and Buttheads 'friends', Stewart looks out of place here,
+being reasonably normal. He has short dark hair, and a black shirt and
+shorts to match. He is a little chubby, so either he eats well, or he's
+just big boned.
+
+Cornholio, the Almighty Bunghole
+This guy looks kinda like Beavis, except for the fact that his shirt is
+pulled over his head, and his arms are constantly raised, as if he were
+being held up or something. There is a tiny bit of blondish hair poking
+out from underneath the shirt, and there are some letters on his shirt,
+but you can't make them out.
+
+
+
+
+An AC/DC shirt
+A dark blue shirt emblazoned with the letters AC/DC. It is very casual
+looking.
+
+An empty can of Jolt Cola
+A small red and black can with the words Jolt Cola written on it. In
+smaller letters beside that it reads : Twice the Caffeine of Coke. Pity
+it's empty, you could do probably do with a caffeine burst to keep you
+going.
+
+
+.

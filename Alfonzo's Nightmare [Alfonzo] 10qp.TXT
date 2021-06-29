@@ -1,0 +1,122 @@
+chaos,w,7n,w,n,search bed, sleep bed
+
+
+
+        x x x-x
+        | | | |
+   Wake-x-x-x 1
+        | | |
+        6 x |
+            |
+          5 |
+           \|
+          4-x-d
+            |
+          3-x-2
+
+1: Your ideal mate
+   give gift to mate.  she wants 1 of the 4 possibles.
+   make sure you have fresh breath, kiss mate
+2: Principal Alcock - need Binaca Blast from him
+3: open locker, search locker
+4: search table
+5: grab tray, search tray
+6: hide trunk
+
+The Boogieman   97
+
+A scary wolfman   101
+
+Monster under the bed   97
+
+Meany Bird   74
+
+Your ideal mate
+This is your ideal mate!  Maybe you should give her a kiss!
+
+A laughing student    92
+This student is laughing at you!
+
+Mr. Kargo    758
+This is the teacher, Mr. Kargo.  He is a real ass.
+
+Principal Alcock   953
+The principal hates students, and loves to make them
+miserable.
+
+Biff the Bully    342
+
+A scurrying cockroach  22
+Ew, yuk!  A cockroach!  And it's scurrying!
+
+
+
+comfy pillow
+This pillow helps you sleep.  Keep it with you!
+
+Wolfman claws
+These are the claws from the wolfman who likes to chase young folks
+around.  They are very sharp!
+
+Boogieman's mask
+This is the mask the boogieman wears.  It is made of very strong material.
+
+A Boogieman's knife
+This knife is different than most knives you have seen.  It has one curved blade and
+one ragged edged blade.
+
+A monster's ring
+A monster's ring that fits on your finger perfectly!  You think it
+will make a good gift, but decide it is too ugly and you would rather
+keep it for yourself.
+
+A sharpened pencil
+This is a very sharp pencil!  You could give someone lead poisoning
+with this thing!
+
+A yardstick
+It's a yard long.
+
+Binaca Blast
+This is Binaca Blast breath spray.
+      There is a button on the top that you can push.
+*push button*
+
+fresh breath
+Fresh breath.
+
+A notebook
+It's your English Composition notebook.  Usually you just doodle
+in it.  One page seems to be sticking out.  There's some kind of
+flowery writing on it.  Perhaps you could deflower it and
+find out what it is.
+*deflower notebook*
+
+A love letter
+It's a beautiful love letter for your beautiful mate!
+
+jean jacket
+A tough guys jean jacket.  Now YOU feel tough!
+Something seems to be hanging out one of the pockets.  Perhaps
+you could search through it, and find out what it is.
+*search pocket*
+
+A perfect gift
+It's the perfect gift for the perfect mate!
+
+A red tray
+A red tray, that you carry your lunch on.  Someone
+has left something on it!
+*search tray*
+
+A box of chocolates
+A yummy box of chocolates, your sweetheart's favorite!
+
+Alfonzine Crested Shield
+This the Alfonzine family crested shield.  It is a nice sturdy
+  shield with a large green cone on it.
+
+
+
+
+

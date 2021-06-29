@@ -1,0 +1,81 @@
+Care Bears [Groosh]
+Dirs: Chaos, 3e, s, climb rainbow, path
+
+Town:          Forest:          Castle:
+   5           x      u-x
+   |           |        |
+   x           x-x-x-7  x
+   |           |        |
+ x-x-6         x        x            E
+ |             |        |            |
+ |   3-b       7  x     x            x
+ |   |            |     |            |
+ 4-1-3-2          x-E-x-x          x-C-x
+   | |           
+   R x
+
+R: Rainbow (exit/entrance)
+1: Tenderheart's House
+2: Bedtime Bear's House
+3: grumpy bear, search table (for key)
+b: lift latch, down, search bed, unlock lock for lavender marble
+4: Secret Bear's House
+   open drawer
+5: care-o-meter
+6: rainbow roller
+   fly forest
+   fly castle
+   fly town
+7: rainbow roller|enter forest
+
+Monsters:
+Birthday Bear
+Tenderheart
+Cheer Bear
+Share Bear
+Bedtime Bear
+Grumpy Bear
+Hugs
+Tugs
+Secret Bear
+Wish Bear
+Luck Bear
+Sunshine Bear
+Lots-a-Heart Elephant
+Cowardly Heart Bear
+Weak Heart Bear
+Gramms Bear
+Champ Bear
+Brave Heart Lion
+Bright Heart Raccoon
+Bathroom Bear
+TreatHeart Pig
+Swiftheart Rabbit
+Swedish Heart Bear
+Professor Cold-Heart
+Playful Heart Monkey
+Beastlie
+Screetchie
+NoHeart
+
+Items:
+A birthday present.
+Tenderheart's Heart-shaped Shield.
+Cheer Bear's gloves.
+Cupcake.
+Pillow.
+A small storm cloud.
+Grumpy's galoshes.
+A lock.
+A cloud key.
+A wishbone.
+The green furry hide of Luck Bear.
+A four leaf clover.
+Champ Bear's Headband
+Brave Heart Lion's Mane
+Bathroom Bear's Gloves
+Swiftheart's Running shoes
+Professor Cold-Heart's Ray Gun
+A trans metallic super conducting choker of suspense
+Screetchie's Mirror
+NoHeart's Amulet

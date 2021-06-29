@@ -1,0 +1,83 @@
+Great Lighthouse [Ryft]
+Dirs: Eforest, 2e, 12s
+
+
+
+
+Monsters:
+
+25045 : A small bugbear
+
+A cross between a bug and a bear, this monster is pretty ugly
+by any stretch of the imagination. It is however, much smaller than
+its bigger relatives.
+
+
+41217 : A large bugbear
+
+A cross between a bug and a bear, this monster is pretty ugly
+by any stretch of the imagination. It is however, much larger than
+its smaller relatives.
+
+
+
+
+The Keeper at Land's End.
+Before you stands the lighthouse keeper at Land's End. His face is
+weary from worry and fear. It is clear that something has gone
+desperately wrong. But don't let his appearance fool you. The
+Keeper at Land's End has always been more than he seems.
+You should NOT kill this man if you wish to live.
+Perhaps you should <ask> him what the matter is.
+
+
+Items:
+
+Boots of the Bugbear.
+The Boots of the Bugbear offer protection and speed to the wearer.
+They are made of a material that you can hardly feel, but they are
+quite hardy.
+
+Cloak of the Bugbear.
+The Cloak of the Bugbear offers warmth and protection to the wearer.
+The cloak is made of some light shifting material that you can hardly
+feel, but it feels very sturdy.
+
+
+
+
+
+ask keeper
+The Keeper says: My soul is weary with fear and anxiety.
+The Keeper sighs wearily.
+
+The Keeper says: I am the Keeper of the Lighthouse at Land's End.
+As Keeper, the task of guarding the Source from harm is mine. Without
+the Source, those that would return from journeys beyond Land's
+End would have no guiding beacon to help them. Alas, the
+Source has been stolen.
+
+The Keeper says: One night as I lay sleeping, Carnelian the Ravenous
+tore open the doors to the Lighthouse and overpowered me. He ripped
+the Source from its place in the lamp and ran away. To
+insure his safe retreat, he left those bugbears you met in your
+ascent. As I grieved over the loss of the Source, I could
+make out his form running through the forest. I suspect
+that he has taken refuge in the great western forest of Fantasy.
+
+The Keeper shifts uneasily.
+
+The Keeper says: You must find Carnelian and return the source to
+the lamp. Without the source, many innocent people will perish, and
+thousands more will suffer in the loss of their loved ones.
+
+The Keeper's eyes burn with determination.
+
+The Keeper says: You must find the Source! Please! If I were not
+so weak, I would have sought it myself, but I was unable
+to defeat even the weakest of the bugbears below.
+
+The Keeper says: Go! Find the Source! The lives of many depend
+on it!
+
+<go to Carnelian's Lair>

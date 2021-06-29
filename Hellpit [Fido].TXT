@@ -1,0 +1,49 @@
+4w,e,s,w,s,2e,2n,enter whirlpool,d,enter portal,2n,2w
+
+
+
+    d-d-d-d-d
+             \
+    u-u-u-u-u x
+   /| | | | |\ \
+  x-x-x-x-x-x-u d
+  | | | | | | | |
+d u-x-x-x-x-x-u d
+| | | | | | | | |
+d u-x-x-x-x-x-u d
+| | | | | | | | |
+d u-x-x-x-x-x-u d
+ \ \| | | | |/ /
+  x u-u-u-u-u S
+   \         /
+    d-d-d-d-d
+
+
+
+
+
+
+S: enter circle to leave
+
+
+
+
+
+An Executioner   27406
+This is one of the people responsible for all those bones in the pit.
+His job is to remove any armour and skin from its victim and place
+the bones into the pit.  He is nothing but a small orc carrying his
+most prized item, his executioner's axe.
+
+
+
+
+An executioner's axe (enchanted)
+The axe is four feet long with a thick wooden handle. The top
+is made into two thick blades made for easy swinging. In the
+right hands this weapon could do some good damage.
+
+
+
+
+.

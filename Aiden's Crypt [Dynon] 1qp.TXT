@@ -1,0 +1,57 @@
+magic,eforest portal, 2s,sw,w,nw,enter mist,
+n,nw,n,ne,n,nw,n,ne,n,5w,11n,11w,n,3w,2n,w
+
+
+          1-F
+
+F: Treant Forest [Tensor]
+1: exa trunk, search niche, push button
+
+
+     3
+     |
+     x
+     |
+   4-2-x
+
+
+2: Exit
+3: require 6 light
+   push lid - for Aiden
+4: search dust - pearl
+
+
+Aiden Tremayne, Fallen Prince of the Clan Dracul   211661
+Before you stands the awe inspiring form of Aiden Tremayne, Highlord
+and Prince of the once great Clan Dracul.  This fallen leader of the
+undead armies has remained banished to this dark hole of centuries.
+Even from his stone tomb he has never ceased his plots for revenge
+against the people who had trapped him here.  Even now he paces with
+dark thoughts on his mind. Do you dare interrupt his brooding
+meditation?
+
+
+
+
+The Obsidian Rapier (ensharpened)
+The sleek, obsidian blade shimmers with an unholy power.  The basketed
+hilt is made of perfectly-crafted strands of polished silver steel.  The
+strands have been forged into an elegant design centering on an obsidian
+plaque.  The plaque contains a deep etching of the dragon symbol of the
+ancient Clan Dracul.  A delicately woven crimson thread winds its way up
+the handle ensuring a firm grasp on this unholy weapon.  The pommel
+contains another large obsidian stone cut into a perfect spherical
+ellipse. The stone has been set into a silver, dragon-clawed setting
+acting as a perfect balance for a virtually weightless feel.
+
+A small obsidian pearl
+It is unlike any pearl you have seen before.
+
+Obsidian Marble
+Exquisitely crafted/magicked, this pristine little obsidian bauble is
+the whimsical, residual aftermath of peeronic thought.  Sadly, the
+entropic tendencies of such mental energies are difficult to grasp or
+maintain.  A marble will inevitably evanesce and reform in an infinite
+number of cryptic locations.
+
+

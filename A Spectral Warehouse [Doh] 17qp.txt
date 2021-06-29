@@ -1,0 +1,132 @@
+Perfection [Doh]
+Dirs: Chaos, 4w, e, s, w, s, 2e, n
+
+--------------------------------------------------------------------
+E
+
+The dust beneath your feet is grey and calm...more still than
+the corpse of a brown flower.  It looks up at you as the flower
+and tells you to tease it...to swish it around with your feet
+and tussle it between your toes.  
+
+hole (enter to leave)
+tease flower (1)
+tussle flower (2)
+
+--------------------------------------------------------------------
+1
+
+The set of giant panels before you presents a live and
+autochthonous view of life in the warehouse.  To the
+right, there is a panel that is torn and ripped, defiled by
+time and what the sun knows as its lifelong companion.
+To the right (and therefore left) of this imperfect panel
+is another panel, this one brilliant and untouched, a
+symbol of perfection more lunar and suave than anything else
+in the warehouse.  Particles swirl around and sniff you.
+
+ride particles (E)
+enter perfect panel (5)
+imperfect panel (6)
+
+------------------------------------------------------------------
+2
+
+The tensions around you are maddening, forcing your body into
+mild thought and distilled pensiveness.  The translucent hues
+of brown and a pale green filter through your nostrils as you
+see the scent of burning lumber.
+
+
+taste experience (3)
+
+-------------------------------------------------------------------
+3
+
+Beneath a dark ceiling of flesh waiteth you, surrounded by
+these brooding maroon caverns that conduct their own experi-
+ments upon themselves, daring you to conduct your own.  The
+lines of your own figure are blurred here, and strange shapes
+around you shiver as if discontent with your eyes.
+
+caress tulips (4)
+*conduct experiment*
+
+-------------------------------------------------------------------
+4
+
+You encompass that which deceived you, the nail that
+once was the shape of your friend.  You see the details on its
+surface, the bumps that forever denote it as completely imperfect.
+
+*be perfect*
+do nothing (E)
+
+--------------------------------------------------------------------
+5
+
+The face of your love, you will find, will forever be perfect.  
+Things you previously considered flaws...things that in others 
+you would detest...are now as dear to you as life itself.  Around
+you lie the red expanses of love, the meatus of the throbbing 
+heart that you once took for granted, but which now makes itself
+known like nothing you have felt before.  Blood pulses around
+you like tidal waves of energy as you stand within your lover's
+existence.
+
+up (7)
+ride waves (E)
+
+-----------------------------------------------------------------------
+6
+
+The segmented windows beside you belong to the spectral warehouse
+outside of which you now float.  Your consciousness is dragged 
+involuntarily towards an unimaginably brilliant source of light
+which, in the blue space above, sits in yellow splendor.  It is
+said that he who touches the sun shall be he who survives the
+impossible.  In your sensory-deprived state, there is no ground
+below towards which to fall.  The gravity pulls you upwards.
+
+*touch sun*
+lick dust
+
+------------------------------------------------------------------------
+7
+
+It is the manifestation of perfection before you, the heart of
+your lover.  Blood enters and exits, flows and retracts, moves
+everywhere in this cataclysm of creation.  Within the heart is 
+the pure, the benevolent...the sacrifices that make you perfect.
+The heart has experienced everything that can ever be endured,
+it has conducted its own experiments and is fully something which
+can never be without care or faith.
+
+enter heart (8)
+retract (5)
+----------------------------------------------------------------------
+8
+
+*for the one who brings forth from you the greatest sacrifice,
+you must feel your love forever.  after forever completes its 
+circle, what will be left but your love?  when the chair of the
+domain cleaves your sight from your expectancies, what will be left
+but that which, for your lover, you sacrificed?  now that you stand
+inside the very heart of the thing you admire the most, there is
+only one thing you can do...and you must do it briefly.  spare
+no time as you glance about the love*
+
+out (7)
+
+
+
+Monsters:
+Nail
+Tulip
+
+Items:
+Everything.
+Nothing.
+
+
+

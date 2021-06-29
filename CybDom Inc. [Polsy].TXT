@@ -1,0 +1,34 @@
+science,enter,u,3e,d,e,path,14e,8n,3e,enter
+
+
+   E-x
+     |
+     x
+
+
+A cyberized guard    7752
+This guard stands before you, blocking your way into the main building.  He
+wields a sharp humming blade, obviously mechanized in some way.  His cyber
+body gleams powerfully in the light and you hear various whirrings from
+inside it.  He looks like he likes his job.
+
+A Cybernetic Leader     33058
+You see a powerful cyber before you.  His body has been substantially
+upgraded, most particularly a nasty-looking particle cannon attached to his
+arm.  He seems intelligent, certainly considerably more so than the guard
+outside.  From all this, you judge him to be the leader of this operation.
+
+
+
+Humming knife
+This warm, short knife hums gently in your hand as you hold it.  It seems
+to have its own self-contained power supply, which causes the blade to
+vibrate rapidly.  It's a pretty sharp knife as it is, but the vibrating
+blade could cut deeply.
+
+Particle cannon
+This lethal-looking cannon straps neatly onto your arm, ready for firing
+straight away.  The built-in power supply ensures that it'll never fail to
+deliver that killing blast.
+
+.

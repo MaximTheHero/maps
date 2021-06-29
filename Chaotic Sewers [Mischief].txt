@@ -1,0 +1,103 @@
+Chaotic Sewers [Mischief]
+Dirs: Chaos, 2e, s, 2e, exa hole, 2n, 4e, 3n, enter
+
+ u-x-x-x-x-x-x-x-x-x x-x-x-x-x x-x x-x-x x-x x-x-x-x x-x-x-x-x x-x-x x-x x-x x-x-x-x-x x-x-x x-x-x-x x-x-x-x x x-x-x-x x-x x-x-x u
+         |         | |     |   | | |   | | |   |   | |     | | |   |   | |   |       | |   | | |     | |   | |       | |   |   | |
+ x-x-x x-x x-x-x x x x-x-x x-x x x-x x x-x x-x x-x x x-x-x x x-x x x-x-x x x-x x-x-x-x x-x x-x x-x-x-x x-x x-x-x-x-x x x-x-x x-x x
+ |   | |   |   | | |     |   | |     |       |   | |     | |     | | |   | |   | |       |     |                   | |       |   |
+ x-x x x x x-x x-x x x-x x-x x-x x-x x-x x-x x x-x x x-x x x-x x-x x x x-x x-x x x-x x-x x x-x x u-x-x x-x-x x-x-x x-x x-x x x x-x
+     | | |   |     | |         | | |   | |   | |   | |   |   | |   | | | |     |   | | |   | | | |   | |   | |     |   | | | | | |
+ x-x x x x-x-x x-x-u x x-x-x-x-x x x-x-x x-x x x-x x-x x-u x x x-x-x x x x-x x-x x-x x x-x-x x x-x x-x-x-x x x x-x x x-x x-x-x-x x
+ | | | |     | |     | |         |   |   | | |   | | | |   | |         |   | |   |   |       |             | | | | | |           |
+ x x-x-x-x x-x x x-x-x x x-x-x-x-x x x-x x x x x-x x x-x x-x x-x-x-x-x-x x-x x-x-x x-x x-x x-x-x-x-x x-x-x x-x x x-x x x-x x-x-x-x
+ |       | |   | |     |         | |   | | | | |   |     |   |           |   |   |     | | |   |   |   | | | | |   | |   | |
+ x x x-x-x x-x x x-x-x-x-x-x x-x x-x x x-x x x x x-x x-x-x x-x-x-x x-x x x-x-x-x x-x-x-x x x-x x x-x x-x x x x-x x-x x-x-x x x-x-x
+ | | |       | |     |     | | |     |   |   |   | | |         | | | | |       |         |   |   |   |   | |     |   | |   |     |
+ x x x-x-x-x x x x x-x x-x x-x x x-x-x x-x x-x x-x x-x-x-x-x x-x x-x x-x-x x-x x x-x-x-x x-x x-x x-x x-x x x-x-x x-x-x x x-x-x-x-x
+   |       | | | | | |   | | |   |     |   |   |           | |           | | |   |   | |       |   |   | |   |         | |
+ x-x x-x-x-x x-x x-x x-x-x x x-x-x x-x x-x x-x x x x-x x-x-x x x-u-x-x x-x x x-x x x-x x-x-x x-x x x-x-x x x-x x-x-x-x-x x x-x-x x
+ |   | |         | |   |   | |   | |     | | | | | | | |     | |     | |   |   | |         | | | |     | | |   |     |     |   | |
+ x-x x x-x-x x-x-x x-x x x-x x x-x x-x-x x-x x-x x-x x x-x-x x-x x-x-x x-x x x-x x-x-x x-x x-x x x-x-x-x x-x x-x-x x-x x-x-x x x x
+   | |     |         | | |   | |   | | |   |   |     |     |     |     |   | |       | | |         | |           | |   | |   | | |
+ x-x x x-x x-x-x-x-x-x x x x-x x x-x x x-x-x-x x-x x-x x-x-x-x x-x x-x x-x-x x-x-x-x-x x x-x-x-x x-x x-x x-x-x-x-x x-x-x x-x-x x x
+ | |   |   |       |       |   |                 | |   |     | |   |     |       |             | | |   | |         | |     |   | |
+ x x-x-x-x-x x-x-x x-x x-x-x x-x x-x-x x x-x x-x x x-x-x x-x-x x-x-x x-x x-x x-x-x x-x x-x-x-x-x x x-x x-x x-x-x-x x x-x-x x x-x-x
+ |           |   |   | |         |   | | | | | | |     |     |     | |     | |     | | |         |   |       |     | | |   | |   |
+ x x-x-x x-x x x x x x x-x-x-x-x x x x x-x x-x x-x x-x x-x x-x x-x x-x x-x x x x-x x x-x x-x-x x-x x-x x-x x-x-x x x x x-x x x x-x
+ |     | |   | | | | |   |     | | | | |       |     |   | |   |   |   | | | | |   |     |   |     |     |     | | |     |   | |
+ x-x-x-x x-x x x-x x x-x x x-x x x-x x x x-x x x x-x-x x-x x-x x-x x-x-x x-x x x-x x-x-x-x x-x x-x-x-x-x-x x-x-x x-x x-x-x x-x x-x
+     |     | |     |   | |   | |   | | | | | | | |     |   | |   |           |   |   |     |   |   | |     | |       |   | |
+ x-x x x x-x x-x-x x-x-x x-x-x x-x-x x x-x x x x x x x-u x-x x-x x-x x-x-x x-x x-x-x x-x x-x x-x x-x x-x-x-x x x-x-x x-x x x x x-x
+   | | | |   |   |       |             |   | | | | | | | |     |   |     |     |   |   | |   |   |   |         |   | | |   | | | |
+ x-x x x x x x-u x-x-x x-x x-x-x x-x-x-x x-x x-x x-x-x x x-x-x x-x-x x-x-x-x-x-x-x x x x x x-x x x x x-x x-x-x-u x-x x x x-x-x x x
+ |   | | | | | |     | | | |   | |       |       |     |     |       | |         | | | | | |   | | |   |   |     |     | |     | |
+ x-x x x x-x-x x x-x x-x x x x x x x-x-x-x x-x-x-x x x-x x-x x x-x-x-x x x-x x-x-x x x x x x-x x x x-x x-x-x x-x x-x-x x x-x-x x x
+ |   | |     | | |       | | | |   |       |       | |   | | | |       | |   | | | | | | |   | | | | |       | |     | | |   | | |
+ x x-x x x-x-x x x-x-x x-x x-x x x-x-x x x-x x x-x-x x-x-x x x x-x x-x-x x x x x x-x-x x x-x-x x-x x x-x x-x-x x-x-x x-x x-x x-x x
+ | |   | | |   |     | | | | | | |   | | |   | |   |       | |   | | |   | | | | |     | |         | | | | |       |       | | | |
+ u-x-x-x x x-x x-x-x-x x x-x x-x x-x x-x-x x-x-x x-x-x-x-x-x x-x-x x x-x-x x-x x x-x-x-x x-x-x-x-x-x x x-x x-x-x-x x-x-x-x-x x x-u
+
+
+
+
+
+
+
+
+
+Monsters:
+
+15268 : Venomous sludge
+
+A dark brown semi-solid patch of sludge which oozes poison.  The
+sludge hides well in the dark shadows of the sewer maze, waiting to
+leap upon its victims.  Small bubbles of some acidic substance rise to
+the top of the sludge, and burst with a slight hiss.  The sludge seems
+to track your movements as you invade its dwelling.
+
+
+37900 : Mudman
+
+A huge pile of living mud flails madly about.  Standing over nine feet
+tall, its arms made of dirt swing wildly at you in an attempt to pummel
+you into submission.  The mudman has large black rocks for eyes and
+roars out of a deep hole where one would think the mouth would be.
+
+
+48488 : Muck Monster
+
+A large pile of dirt and grime somehow animated to life.  The muck
+monster has a horrid stench as its arms made of mud flail about the
+room.  It howls, as if angered or in pain, as it looks to vent its anger
+on you.
+
+
+48202 : Thorn beast
+
+A huge living vine like plant with deadly thorns throughout.  The
+plant has no visible way of noticing you, but it does seem to follow
+your movements so you better be on guard.  The plant is a dark green
+color, with a bright red at the tips of its thorns.  The vines appear
+to grab at you even as if to steal objects from you.  Who knows what
+this plant has captured over the years down in the sewer.
+
+
+19582 : Living Fungus
+
+A huge green pile of fungus shakes and quivers as it sizes you up.  The
+fungus has no visible appendages but somehow is sentient as it obviously
+reacts to your movement.  The fungus seems to capture seems to engulf
+things, digest what it likes, and simply buries the rest as they rot in
+its acid filled belly.
+
+
+17939 : Grimy Beast
+
+This large monster looks as if it could have been a man at one time.
+Standing over six feet tall and covered in slime its hard to tell.  The
+face of whatever this is us half eaten away with decay and mold.  Its
+eyes bulge out, and its mouth is filled with some kind of disgusting
+black froth.
+
+
+

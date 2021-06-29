@@ -1,0 +1,58 @@
+Global Merc(Detroit)  [Dayln]
+Dirs: Science, 8e, 17n, e, enter, 3n, 5e, 2n, w
+
+
+First Floor:
+
+
+     |
+   x-x-E
+   |
+   u
+
+E: Entrance/exit
+
+
+Second Floor:
+
+    2
+    |
+  x-x
+  | |
+  S 1
+
+S: Stairwell
+1: Identiy Card Maker
+2: Blast Doors
+
+
+Third Floor:
+
+
+   x-x
+   |
+   S
+
+S: Stairwell
+
+
+
+Monsters:
+Karyn Al'Ander, Global Merc Special Enforcer
+Guard Roberts, Global Merc Information Technician
+Global Merc Rapid Response Guard (Detroit Office)
+Mr. Yuan Shu's Personal Secretary
+
+Items:
+Scarlet and Gold Uniform.
+Modern Katana.
+G14 Advanced Combat Rifle (enhanced).
+G14 Clip.
+Scarlet and Gold Bodysuit.
+Scarlet and Gold Gloves.
+Scarlet and Gold Helmet.
+Scarlet and Gold Boots.
+Model 93RS Pistol (enhanced).
+Model 93RS Clip.
+
+

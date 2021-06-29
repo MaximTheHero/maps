@@ -1,0 +1,129 @@
+sci,enter,u,3e,d,e,path,14e,11n,4e
+
+
+         x-x-x-4-x-5
+         | | |   |
+         x-x-x   x
+             |   |
+             1   6
+             |
+             x
+             |
+   E-x-x-x-x-2
+       |   | |
+       3   x u
+
+1: door - needs brass key
+2: control tower - need electronic keycard
+3: search desks - A small brass key
+4: Plane - has up then south rooms also
+   A cracked gyro-compass
+5: Plane
+6: Plane
+   An electronic keycard
+
+A lean member of the Talons     7969
+
+A member of the Talons, a tough street gang which has just
+recently moved up to hijacking and contract wet work.  From
+this guy's appearance, you get the distinct impression that
+they're probably really good at it.
+
+A lanky Talon gang member   7968
+A member of the Talons, a tough street gang which has just
+recently moved up to hijacking and contract wet work.  As you
+look this guy over, you decide that you would probably hire
+them for your killing too.
+
+A Talon gang chick    12258
+A member of the Talons, a tough street gang which has just
+recently moved up to hijacking and contract wet work.  As you
+glance at her hardware, you decide that she just might be tougher
+than she looks.
+
+The leader of the Talons    24342
+This is the man who leads the Talons.  He's huge!  Well over
+six feet tall and not an ounce of fat that you can see on him.
+You prolly don't want to mess with him, but if you're going to,
+best be ready for a pounding.
+
+A Mistsama security drone    26863
+A squat drone equipped with two manipulative arms armed with
+stunners.  The drone's armoured body is covered with a series
+of sensor ports.  It's a sure thing he knows you're here, and
+an even better bet that he's gonna try and stop you.
+
+
+A black beret
+A black felt beret with a patch picturing the talons of some
+bird of prey.
+
+A black synth-leather jacket
+A black jacket of the newest syntetic leather on the market.
+It has a picture of some bird of prey's talons on the back.
+
+A Colt Gangland Special
+This small handgun was first made for the police as a
+backup weapon in the supression of gang violence.  It has
+since become a favorite of the gangs themselves.
+
+An ammo clip
+An ammunition clip, standard issue.
+A digital counter on the side displays the number "25"
+
+Crowbar
+A long steel rod with a hooked end.  It looks like it'd hurt quite
+a bit to get hit with it.
+
+A small brass key
+A small brass key.  It probably opens something.
+
+A small wooden crate
+This is a small wooden crate.  The top has been pried off and
+the contents removed.  It looks like it might be useful in storing
+things, if you feel like carrying it around.
+
+A large wooden crate
+This is a sturdy wooden crate.  The top has been pried off and
+nothing but packing foam seems to remain in it.  It looks like
+it might be useful in storing things, if you feel like carrying
+it around.
+
+Stun Rod
+This long thin rod is often used by law enforcement groups to handle
+riots or simply to subdue prisoners for questioning.  It seems to consist
+of a set of electrodes and a power source, and you're sure it delivers
+on heck of a sting.
+
+A pair of leather welding gloves
+A pair of thick leather welding gloves.  They appear to be
+quite sturdy and barely used.  They have a few black marks
+where sparks may have landed, but otherwise seem to be in
+shape.
+
+A Warpig 9000 SMG
+A small gun by most standards, the Warpig 9000 can spray a
+six round burst faster than most standard military issue
+weapons.  This version is quite popular in the ganglands.
+
+A military style flak jacket
+This jacket is lined with kevlar and filled with a tempered
+plastic, all in an attempt to stop bullets and flying
+schrapnel.
+
+An electronic keycard
+A small plastic card encoded for use with an electronic
+lock.
+
+A cracked gyro-compass
+The backup compass in most aircraft, this gyro-compass is completely
+destroyed.  The casing is cracked and dented to prevent proper motion
+of the internal mechanism
+
+An Ares Macrotech Static Suit
+A full body suit made of some shiny silver material.  It
+seems to cover your entire body, zipping up the front with
+a plastic zipper.  It appears to be paper thin, and probably
+not all that durable.
+
+

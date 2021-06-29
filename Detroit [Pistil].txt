@@ -1,0 +1,134 @@
+Detroit [Pistil]
+Dirs: Science, u, 3e, d, e, path, 8e, 17n, e
+
+
+
+
+                                                   x
+                                                   |
+                                                   x-x-x-2-x-x-x
+                                                   |           |
+                                                   x           x
+                                                   |          /
+                                                   x-C       x
+                                                   |        /
+                                                 9-x     D-x
+                                                   |      /
+                                                 B-x     x
+                                                   |    / \
+                                                   x   x   x-x
+                                                   |  /      |
+                                                   x x       x-x-x-x-x-x-x
+                                                   |/                  | |
+                                                   x                   x-x
+                                                  /
+     x           x-x-x-x                         x
+     |           |      \                       / \
+     x-x-x-x-2-x-x       x-x-x-x-x-x-x-x   8   x   x
+           |     |           |          \  |  /     \
+           x     x-3         x           x-x-x       x
+           |     |          /|              /       /
+           x     x         7 x       x-x-x-x       x
+           |     |           |      /     / \     /
+           x     x       x-x-x-x-x-x     x   x-x-x
+           |     |      /    |          /
+     x-x-x-x-x-x-x-x-x-x     x         x
+     |         |             |        /
+     x         x             2       2
+     |         |             |      /
+     A       4-x             x   B-x
+     |         |             |    /
+     1         x   5   6     x   x
+     |         |   |   |     |  /
+     x-x-2-x-x-x-x-x-x-x-x-x-x-x
+     |                        /
+     x                       x
+     |                      /
+     x                     x
+     |                    /
+     x-x-x-x-2-x-x-x-x-x-x
+     |
+     E
+
+
+E: Entrance/Exit
+1: The Detroit Metro Express Annex
+2: Manhole
+   In the dark manhole you can go east to get to Simon
+3: Shop
+4: Global Merc(Detroit)  [Dayln]
+5: MetroBank of Detroit
+6: Bill Bond's Bar and Tavern
+7: Underground Bunker [Nermal]
+8: Silicon Wraiths HQ [Nermal]
+9: European Robotics - Survey, Design and Development Office [Nermal]
+A: Patisserie [Indium]
+B: Random Dark Alley
+   Kill Jerry, search seats
+C: Subway
+D: Drug Lab [Morin]
+
+
+Monsters:
+
+E.D. 260
+E.D. 280
+E.D. 1000
+Cyber Enforcer
+Metro Cop
+Baglady
+Homeless Man
+A Ford Fiction 128XL
+A GM Good Idea
+A '72 Plymouth Duster
+Crysler C.O.F. turbo
+Punk
+Nuke Addict
+Nuke Dealer
+A huge Metallaskull gang member
+A stocky Metallaskull gang member
+Jerry Calderone (mechanic)
+A large black spider gang member
+A small black spider gang member
+Patrol Officer
+O.C.P. Riot Officer
+Alligator (glowing)
+Simon Kendrick
+
+Items:
+E.D. 1000 Plasma Cannon.
+E.D. 280 Rotating Laser.
+E.D. 260 Arm Gun.
+CyberCorp Dura-Armour.
+A Peacemaker 130K-5.
+CyberCorp Gloves.
+An ammo clip.
+An ammunition clip.
+Police Helmet.
+A Cyber Hellfire 4060.
+Body Armour.
+Cyber Knife.
+Nuke injector.
+Nuke.
+Arc Welder.
+Fuel Cell Battery Backpack.
+Dark grey welding mask.
+Thick black rubber gloves.
+Thick black rubber chest shield.
+Thick black rubber boots.
+MultiComponent Armour: Boot Casement Component.
+MultiComponent Armour: Helmet Casement Component.
+MultiComponent Armour: Upper Arm Encasement Component.
+Iron Chain.
+Goggles.
+A Concussion Rifle.
+Patrol Flak Jacket.
+A concussion round.
+O.C.P. Riot Shield.
+O.C.P. Gas Mask.
+A 350-X gas launcher.
+O.C.P. Bullet Proof Vest.
+A gas canister.
+Taser.
+
+

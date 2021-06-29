@@ -1,0 +1,352 @@
+
+
+
+Floor 1:
+
+
+       E                       E
+        \                     /
+         x-x-x---x---x---x-x-x
+         |   |           |   |
+         x-x-x---x---x---x-x-x
+         |   |           |   |
+         x-x-x---x---x---x-x-x
+         |   |           |   |
+         x-x-x---x---x---x-x-x
+         |   |           |   |
+         x-x-x---x---x---x-x-x
+         |   |           |   |
+       x-x-x-x---x---x---x-x-x-x
+       | |   |           |   | |
+       x x-x-x---x---x---x-x-x x
+        \ \  |           |  / /
+         x x-x---x---x---x-x x
+          \  |           |  /
+         1-x-x---x---x---x-x-2
+             |           |
+             x---x---x---x
+            /|\ /|\ /|\ /|\
+           u | X | X | X | u
+            \|/ \|/ \|/ \|/ 
+             E---E---E---S
+
+
+
+
+E: Exit
+1: Women's Restroom
+2: Men's Restroom
+
+
+
+
+Floor 2:
+
+
+
+     x-A               A-x
+     |                   |
+     x-A               A-x
+     |                   |
+     x-A               A-x
+     |                   |
+     x   A   A   A   A   x
+      \  |   |   |   |  /
+     1-x-x---x---x---x-x-2
+         |           |
+         x---x---x---x
+        /|\ /|\ /|\ /|\
+       S | X | X | X | S
+        \|/ \|/ \|/ \|/
+         x---x---x---x
+
+
+
+A: Billy Crystal *throws you over the balcony
+A:
+A: Woody Allen/Soon-Yi
+A: Mel Brooks - Black Onyx Ring  *throws all non-worn gear over the balcony
+A: 
+A: Fire and Police Chiefs - Fire Ax
+A: Trixie Hilton (seven-chained diamond necklace)
+A: Al Pacino Jr.  *blasts you over the balcony
+A: U2 - kill L A E B or they assist, A Pair of Purple Shades(bono), a small black beanie(edge)
+A: Jay-Z, Beyonce (titanium roboglove)
+
+
+
+
+Floor 3:
+
+
+          x------------x--x--x--x-x--x--x--x-------------x
+          \            |        | |        |            /
+           \           x--x--x--x-x--x--x--x           /
+            \          |        | |        |          /
+             \         x--x--x--x-x--x--x--x         /
+              \        |        | |        |        /
+               \       x--x--x--x-x--x--x--x       /
+                x      |        | |        |      x
+                 \     x--x--x--x-x--x--x--x     /
+                  \    |        | |        |    /
+                   \   x--x--x--x-x--x--x--x   /
+                    \  |        | |        |  /
+                     \ x--x--x--x-x--x--x--x /
+                      \                     /
+                       x---x---x---x---x---x
+                      /|\ /|\ /|\ /|\ /|\ /|\
+                     d | X | X | X | X | X | d
+                      \|/ \|/ \|/ \|/ \|/ \|/
+                       x---x---x---x---x---x
+
+
+
+
+An Usher
+This is one of the many ushers here at Carnegie Hall.  Most of them are music
+students at Julliard or Manhattan School of Music.  He loves his job and is
+prepared to do just about anything to keep you from sneaking in to hear the
+performance.
+
+A man in a hurry to find his seat
+This audience member is rushing to get to his seat before the concert starts.
+He is your typical New Yorker.
+
+A bodyguard (ex-mafia)
+This bodyguard was once a hitman for a prominent crime family.  The organized
+crime rings of New York and New Jersey came under heavy investigation by the
+FBI and he decided it was in his best interests to go to work for the feds.
+After he helped put his mafia buddies in jail he got a job as bodyguard for
+the Mayor of New York.  He is very intimidating. Are you sure you can take
+him on and survive?
+
+Michael Rudolph Guilioomberg (taking a dump)
+This is Mayor Michael Rudolph Guilioomberg, the most popular mayor of New
+York City since Jimmy Durante.  After a succession of increasingly corrupt
+leaders, several of the city's megacorporations joined forces to create the
+ultimate genetically perfect mayor and the country's first acknowledged
+artificially generated politician. It looks like you caught him off guard.
+You had better not harm the Mayor.  The city is the Mayor and the Mayor is
+the city.
+
+A Lady (waiting to use the toilet)
+This Lady is waiting in line to use the restroom.  Like all New Yorkers, she
+avoids eye contact and never smiles.  She is sneering at you while she chats
+to her high society girlfriends.
+
+A lady in a hurry to find her seat 
+This audience member is rushing to get to her seat before the concert starts.
+She is your typical New Yorker.
+
+A sleeping audience member
+This audience member is trying to get some rest in her seat here.  She is
+quite elderly and you understand why she might easily doze off while
+listening to the concert.
+ 
+An angry audience member
+This audience member is extremely agitated that you are disturbing him.  He
+was just trying to enjoy the concert when you barged in.  He must have had a
+rough week at his job.
+
+A polite audience member
+This audience member is enjoying the concert very much.  He sees you coming
+down the row but acts like he doesn't notice you.
+
+An audience member rushing to get to his seat
+This audience member is rushing to get to his seat before the concert starts.
+He is your typical New Yorker.
+
+A sleeping audience member
+This audience member is trying to get some rest in her seat here.  She is
+quite elderly and you understand why she might easily doze off while
+listening to the concert.
+
+A Large Usher
+This is one of the many ushers here at Carnegie Hall.  Most of them are music
+students at Julliard or Manhattan School of Music.  He loves his job and is
+prepared to do just about anything to keep you from sneaking in to hear the
+performance.  He looks as if he has been working out!
+
+Jay-Z
+This is Howard Liebowitz, grand prize winner of the 89th annual
+Weehawken Rap-O-Rama. His remarkable impersonation of the rapper Jay-Z
+has become a thing of legend, and gets him invited to supermarket
+openings, bar-mitzvahs and all manner of other a-list social events.
+
+Beyonce
+Mavis Rierson, Howard Liebowitz's long suffering fiancee, has apparently
+agreed to yet again dress up as Beyonce Knowles to accompany him. She
+evidently hasn't put in that much effort though. Her mousey hair is
+escaping from under one side of a particularly unconvincing wig and her
+bulging drum-tight lycra catsuit is probably creaking at the seams!
+
+Mel Brooks
+At first glance this looks like another bad impersonator of the
+director, screenwriter, composer, lyricist, comedian, actor and producer
+Mel Brooks. Looking closer you realize that this is actually HIM!
+Apparently Mel made some astute investments in gerontology research
+during his heyday, and thanks to some black market viral gene therapy he
+is evidently still going strong over a hundred years later!
+
+New York Chief of Police
+You seem to have caught the Chief of Police doing things she really
+shouldn't be doing with the New York Fire Chief, especially during a
+concert! She is partially undressed, and trying to cover herself up to
+preserve some shred of her dignity.
+
+New York Fire Chief
+You seem to have caught the Fire Chief doing things he really shouldn't
+be doing with the New York Chief of Police, especially during a concert!
+He is partially undressed, and trying to cover himself up to preserve
+some shred of his dignity.
+
+Trixie Hilton
+Trixie Hilton is the latest in a long line of over-entitled, excessively
+wealthy heiresses to the Hilton family fortune. She is immaculately
+dressed in an outfit the size of a handkerchief, with a pair of the
+latest nine inch designer stilettos on her recently pedicured feet. Over
+one arm she has a large, very expensive handbag which seems to be
+vibrating slightly and occasionally growling.
+
+Bono
+Bono (former identity redacted) is the current lead singer of U2.0, one
+of the Megatech Corp "Reboot Bands"(tm). Megatech currently leases the
+Bono persona to 17 separate commercial ventures, but this is currently
+regarded as the most authentic reproduction.
+
+The Edge
+"The Edge"(c) is the lead guitarist of U2.0. His trademarked black
+beanie hat (available at any good Megatech stockist) is as always jammed
+firmly down on his head so you cannot see how bald he is going.
+
+Larry Mullen Jr
+Larry Mullen Jr is the drummer for the band U2.0. This happens to be the
+fifth Larry the band has employed in the last 3 years, having lost the
+previous four to a series of freak gardening accidents.
+
+Adam Clayton
+You are surprised to find out that Adam Clayton, the bass guitarist for
+U2.0, is currently a woman. Apparently the Megatech marketing dept. has
+currently decided to cast a woman in the role to monopolize on the "sexy
+bassist" appeal for the mid-to-late teenage boy demographic.
+
+Woody Allen
+This is the infamous film director and comedian Woody Allen, who is
+attending the concert tonight with his wife Soon-Yi. Well, to be more
+precise, this is Woody Allen's reanimated preserved brain embedded
+within a polycarbon steel cybernetic host body, attending the concert
+tonight with his wife Soon-Yi.
+Known for centuries as the king of autobiographical comedy, Woody is
+normally a social recluse but occasionally you'll see him out and about.
+
+Soon-Yi
+This is Soon-Yi, Woody Allen's daughter / wife / bodyguard. She
+appears to be in her mid forties, but you happen to know that she and
+Woody began their relationship in the 1990s when she was 21. That
+would now make her well over 150 years old! She is remarkably well
+preserved for a woman of her age.
+
+Billy Crystal
+
+After Billy Crystal's death in the mid 21st Century in the middle of
+hosting his 19th consecutive live Oscar ceremony, the New York Yankees
+bought the merchandising rights to his image to use as their mascot. The
+animatronic marvel you see before you is the result of years of
+subsequent research and development.
+Unfortunately for the Yankees, Animatronic Billy became sentient during
+his first game after being hit by a flying hotdog, escaped and has
+resisted all attempts at recapture.
+
+
+
+
+
+X53.6 high-voltage taser baton (enchanted)
+This is a civilian issue X53.6 collapsible high-voltage auto recharge taser
+baton. Designed to cause neuromuscular incapacitation (and associated
+debilitating pain), it is technically regarded as a non-lethal weapon. Anyone
+who has been on the receiving end of one of these vicious little glorified
+cattle prods would probably be inclined to disagree.
+
+A bottle of pepper spray
+
+This is a caustic bottle of pepper spray, mainly used for protection or defense.
+The police strongly recommend that people who are going to be out after dark own
+a few of these.
+The bottle is completely full of pepper spray!
+
+An expensive pearl necklace
+This is a very expensive necklace with six strings of perfect large white
+pearls. The irridescent pearls seem to shimmer in the light, reflecting back
+hints of yellow and green.
+
+An expensive diamond ring
+This is a very expensive white gold ring with six diamonds embedded into the
+middle of the band which throw out sparkles of red and blue.
+
+An expensive wool skirt
+This is a very well tailored knee length skirt made from the finest quality
+Merino wool, with six pleats at the hemline. A slit in the side of the skirt
+reveals a blue silk lining hand stitched with pink thread.
+
+An expensive pair of stilettos
+This is a very expensive pair of patent leather stilettos with pink and purple
+stitching and a six inch spike heel.
+
+An expensive pair of suit pants
+This is a very well tailored pair of black suit pants made from the finest
+quality Merino wool, with a thirty-six inch waistband. The aqua and dark green
+designer label seems to have been torn at some point, it is now unreadable.
+
+An expensive mens wristwatch
+This is a very expensive gold wristwatch with six different dials set into the
+black ceramic face. The hour hand has been accented with a line of blue and a
+touch of pink helps the minute hand to stand out.
+The time is currently one twenty-five am.
+
+An expensive titanium ring
+This is a very expensive titanium ring with six gold bands running around it. An
+unusual pink lustre to the gold is offset nicely by the slightly red sheen of
+the titanium.
+
+An expensive pair of loafers
+This is a very expensive pair of patent leather shoes, hand stitched in blue and
+yellow, each one adorned with six gold trimmed tassles.
+
+An expensive suitcoat
+This is a very expensive six button jacket with a yellow and green silk lining.
+Somebody must have paid an arm for this thing.
+
+A shiny titanium roboglove
+This is a highly polished articulated metal glove constructed from tiny panels
+of thin titanium. On the back of the hand is an abstract scroll pattern of seven
+gold wires surrounding a bold tribal design in purple and yellow enamel.
+
+A black onyx ring
+This ring is a thin titanium band with a pure black polished onyx gemstone set
+into it. Mounted on the face of the gem is a letter S in platinum highlighted
+with seven tiny diamonds which throw out sparkles of pink and aqua.
+
+A large red fireaxe (enchanted)
+This is a well used, well cared for firefighter's axe. The steel head of the axe
+has a wide razor-sharp blade on one end, balanced by a tapered seven inch pick
+on the other. The red enameled head is mounted firmly onto an elegantly curved
+hickory wood shaft which is shaped perfectly for a one or two handed grip,
+although it is likely to be more effective held with two hands. When you touch
+the axehead, the heat seems to be rapidly drawn from your hand into the steel!
+
+A seven chain diamond necklace
+This stunning necklace has seven delicate gold chains with ten colored teardrop
+shaped diamonds. The clasp of the necklace appears to contain a very densely
+packed electronic device of some kind.
+The black diamond is glowing steadily. The white, blue, yellow, pink and aqua
+diamonds are glowing dimly. The purple diamond is glowing faintly.
+
+a pair of purple shades
+These purple wrap-around shades are huge, and make you look like a fly when you
+have them on! Thick aqua and pink composite plastic arms help hold the oversized
+sunglasses to your face.
+
+
+
+

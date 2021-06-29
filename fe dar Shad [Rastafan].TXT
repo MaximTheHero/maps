@@ -1,0 +1,511 @@
+eforest, 3e,8s,3w,6s,2w,2s,3d,3n,ne,d
+
+Level 1:
+
+     u-x-x-x-x 3 x-x-x
+     |     | | | |   |
+     x x-x-x x-x x-x x
+     | | |     |     |
+     x-x x-x-2 x-x x-x
+       | | |     |   |
+     x x-x x-x x-x-x-x
+     | | | | |       |
+     x-x x-x-x-x-x-x x
+     |   | |   | |   |
+     x 1 x x-x-x x-x-x
+     | |   | | | |   |
+     x-x-x-x x d x-x V
+     |     | |     |
+     x-x x-x x-x-x x x
+     | | |     |   | |
+     x-x-x-x-x-x-x-x-x
+                   |
+                 x-x-x
+                 | | |
+                 4 x x
+
+1: Small White Dragon
+2: Small Blue Dragon
+3: Small Black Dragon
+4: 
+V: search corner, Vortex to Neutral Dragon Realms [Rastafan]
+
+
+Level 2:
+
+
+              x-x-x-P
+              |   |
+              x-x x
+              |   |
+              x x-x
+              | | |
+              x x x
+              |   |
+    x-x-x x-x x-x x
+    | | |   |   | |
+    u x x-x-x-x-x x
+      | |   |     |
+    1-x x-x x-x x x
+              | | |
+              x-x x
+                | |
+              x-x 2
+              |
+              x-x-x
+              |   |
+              x-d x
+
+1: Red Dragon spawn location
+2: Markings hanging on the wall
+P: Portal to exit
+
+
+Level 3:
+
+
+     |
+     1 x-x x-x
+     | |   | |
+     x-x x-x x
+       | |   |
+   u-x-x d-x x-x-x
+   |       |   | |
+   x x-x-x x x-x x
+   |     |       |
+   x-x-x x-x x-x-x
+       |   | |
+       x x-x x
+       | |   |
+       x-x-x-x
+
+1: fe dar Shad [Ink]
+
+
+level 4:
+
+
+
+           x-x-x
+           | | |
+         x-x-x-x-x
+         | |   | |
+       1-x-x x-x u-x
+         |     |   |
+     x x-x x-x-x x-x-x
+     | | | |   | |   |
+   x-x-x-x-x x x-x x-x x
+     |   |   |   | |   |
+   x-x-x-x x-x-x x-x-x-x
+     | |   |   |   | |
+     x-x-x x 2 x-x-x x
+       | | | | |   |
+       x-x-x-x-x-x-x
+         |
+         x-x-x-x-x-x
+           | | |
+         d-x-x-x
+
+1: Dusty Corner
+2: The Abyss [Rastafan]
+d: Mail of the Titans
+
+Sneaky Thief     38170
+An evil, evil thief.  Trying to steal all that you own.
+
+Small White Dragon   19218
+A large and vicious looking Dragon, but small as dragons go.
+
+Small Blue Dragon     19253
+A large and vicious looking Dragon, but small as dragons go.
+
+Small Black Dragon    19290
+A large and vicious looking Dragon, but small as dragons go.
+
+Small Red Dragon   49254
+An enormous Red dragon.  He towers over you like a Mountain of
+hatred and pain.  Fiery tendrils escape his mouth and nostrils,
+burning the very air.
+On the scale of things, this is a pretty small dragon.
+He looks battered and weakened like he was recently in a terrible battle...
+
+Umber Hulk     29808
+A large and vicious looking Umber Hulk, I wouldn't look
+at him too long if I were you, you're liable to get confused.
+
+Hell Hound     16451
+A beast with a fiery breath and vicious teeth.  Perhaps it was
+once a dog, but not anymore.
+
+Two-Headed Troll     49765
+A large and vicious looking Troll, with two heads.
+
+Deformed Creature      60084
+A malformation of evil and corruption has created this creature.
+
+Large Beholder    14197
+An enormous gruesome looking eye, with big teeth
+and a bunch of little eyes connected to eye-stalks
+on the top of its 'head'.
+
+Whip Snake    25203
+This is a long, thin snake.
+
+Flailing Beast    17385
+A terrible looking beast, with many arms and terrible teeth.
+
+Brave Elven Warrior    23593
+A brave elven warrior, down here cleaning up.
+
+Demon Mite    20506
+A demon mite, quite large for a mite, and rather vicious as parasites go.
+
+Drow Prison Guard   291966
+This slender, female guard is efficiently guarding her post.  She will
+undoubtedly trounce up-and-down anyone that crosses her.
+
+Shook Shirek   43573
+A foul demon from the Abyss.  He is roughly humanoid in shape with
+a crested Skull protrusion and wickedly sharp teeth.
+
+Bandriggan Predator Demon    58922
+A foul dragon/demon from the Abyss, with a fiery breath.
+
+Gor Shirek     64502
+A foul demon from the Abyss, much larger then the Shook.
+
+Armed Demon     114034
+This grotesque creature towers above you, staring down through two
+glowing eyes.  Spikes line its appendages that barely qualify as arms
+except that they end in a 3 taloned claw.  There are 5 of these
+appendages, and each of them looks like it could tear through human
+flesh with great ease and efficiency.
+
+Armored Demon    72269
+A vile demon from the depths of hell.
+
+Bashnadderei    98655
+This is the largest Gor Shirek demon you have ever seen.
+He stands here in confidence of his authority.
+Don't fight him, lest you do not value your limbs.
+
+Drow Palace Guard    62237
+This is a Palace Guard, she appears to be here to prevent people from
+sneaking into the palace through the various traps and secret passages
+that abound in such a place.
+
+Arriana, Drow Princess    111141     
+This is Arriana, one of the 4 drow Princesses.  She is the strongest of the
+four and perhaps the greatest warrior in fe dar Shad (save the Queen).
+She is dressed in ornate robes and a beautiful sapphire pendant hangs
+from her neck.  The sapphire shines a radiant glow against the
+obsidian background of her chest.
+
+Eleari, Drow Princess      132666
+This is Eleari, one of the 4 drow Princesses.  She is the wisest of the 4
+and perhaps the greatest spell caster in fe dar Shad (save the Queen).
+She is dressed in ornate robes and a beautiful golden locket hangs
+from her neck.  The golden locket shines a radiant glow against the
+obsidian background of her chest.
+
+Oranin Kerar, Drow Princess     2091987
+This is Oranin Kerar, one of the 4 drow Princesses.
+She is perhaps the most beautiful creature in all of creation.  Even
+the drow queen shows distaste for her most popular daughter.
+She is dressed in shimmering silver lace, carefully sewn together with
+golden bands of silk.  Adorning her wrists and neck are bands of pure
+diamond, magically put in place as they each are cut from a single
+diamond, without break nor clasp.  The diamonds shimmer with an obsidian
+glow, reflections of the skin beneath.
+
+Urys, Drow Princess      150516
+This is Urys, one of the 4 drow Princesses.  She is the quickest of the 4
+and perhaps the greatest thief in fe dar Shad (save the Queen).
+She is dressed in ornate robes and a beautiful silver bracelet adorns
+her right wrist.  The silver bracelet shines a radiant glow against the
+obsidian background of her arm.
+
+Strong Drow Warrior      38668
+A very strong looking drow warrior, guarding something.
+
+Drow Soldier       51786
+A Drow Soldier guarding the area.
+
+Drow Cleric      31973
+A Drow Cleric, the local healer.
+
+Demon Guard      32335
+A towering Demon, helping to protect the area.
+
+Big Ugly    878321
+This enormous creature is so hideous that it's known only as the 'Big
+Ugly' for it defies classification.  It stands at least 5 meters high,
+covered in a wirey, black matted hair and sharp boney structures like
+horns.  It has two enormous arms that stretch to the ground with
+plenty of length to spare, and two short, stubby legs to support its
+great bulk.  At the end of its unusual arms are 3 razor sharp claws
+and 2 opposing, grasping fingers.  It has 3 eyes, 2 that appear to
+face forward and one on the back of its head thus making this creature
+unable to be surprised.  It has no neck that you can see, its head
+just sorta attaches to its enormous torso.  A more hideous creature is
+hard to find.
+
+Ghost of a Titan     87292
+This is an enormous ghost.  It appears to have once been a Titan.  But
+what it's doing here, you don't know.
+
+Vasyrach, Demon Spider       
+This is possibly the largest spider you have ever seen.  It stands
+fully 8 feet at the shoulder and has fangs that could skewer an
+elephant.  It would likely be a painful death to attack this creature.
+Close examination of this beast makes you feel it has intelligence
+beyond that of even a typical magical creature, it 
+
+sword spider      105274
+This enormous spider has (of course) 8 legs, however these legs are
+metallic and sharpened like 8 enormous swords.  Luckily for you it can
+only attack with 4 of them at a time...  The rest of the spider is
+black as night with course hairs covering the body.  Dozens of eyes
+adorn the front of this spider's face and two huge fangs dominate the
+rest.
+
+Drow Magistrate (deadly)      426569
+This is a drow Magistrate.  The most powerful of the spell casters
+within the drow realms.  They are definitely not to be messed with.
+She eyes you with steady confidence.
+
+Branatharus, The Death Demon      290208
+This man-sized creature has an elongated snout filled completely with
+row upon row of deadly teeth.  Its two wire-thin, extra long arms end
+in 4 talons each, with the talons easily 7 inches in length.  The body
+of this creature looks like an emaciated humanoid, with the skin
+stretched extra tight against several bones that jut forth from the
+abdomen.  Two eyes sit upon the snout of this creature and glare
+through you, judging your strength not by the items you carry or the
+garb you wear, but by the power in your soul.
+
+Fire Elemental    91498
+A being native to the plane of Fire, why it is down here, you don't know.
+
+
+
+
+
+Black Leather Armor
+A suit of slick black leather armor.
+
+White Dragon Tooth
+This is the tooth from a White Dragon.
+
+Blue Dragon Tooth
+This is the tooth from a Blue Dragon.
+
+Black Dragon Tooth
+This is the tooth from a Black Dragon.
+
+Red Dragon Tooth
+This is the tooth from a Red Dragon.
+
+Umber Hulk Eye
+This is the eye of an Umber Hulk, it looks like it could be useful.
+But right now it doesn't work, check back later.
+
+Dirty Leather Armor
+A suit of dirty brown leather armor.
+
+Heavy Club
+This is a very heavy and strong looking club.
+
+Bone Whip
+The spinal column of a very long and thin snake.
+
+Demon Armor
+A very strong looking Banded Mail armor, it feels evil.
+
+Demon Sword (enchanted)
+A spiked and heavy looking Bastard Sword, it feels evil.
+
+Small Silver Pyramid
+This is a small, shiny pyramid, apparently made out of silver.  A nice
+little treasure with seemingly no magical properties.
+
+Stiletto of Pain
+A medium size, evil looking stiletto, it feels strangely heavy.
+
+Magical Bastard Sword (enchanted)
+This is an extremely well made, magical looking Bastard Sword.
+
+Ring of Peace
+A swirling blue, tranquil feeling ring.  Your mind feels clear
+and unhindered under the influence of this ring.
+
+Dark Black Ring
+A dark black ring.
+
+Dark Black Shield
+A dark black shield.
+
+Dark Black Armor
+A suit of dark black armor, it almost seems to absorb the surrounding light.
+
+Dark Black Boots
+A pair of dark black boots, they almost seem to absorb the surrounding light.
+
+Dark Black Gloves
+A pair of dark black gloves, they almost seem to absorb the surrounding light.
+
+Dark Black Helmet
+A dark black helmet, it almost seems to absorb the surrounding light.
+
+Dark Black Cloak
+A dark black cloak, it almost seems to absorb the surrounding light.
+
+Dark Black Amulet
+This is a dark black amulet, it seems to absorb light and other
+energies.  Perhaps it is a ward against magics?
+
+Demon Hide Armor
+This was once the skin of a grotesque and powerful creature.  It is
+a deep, dark black, with the interior being a shiny, somewhat slimy
+surface that sticks to your clothing and your skin.  The exterior
+is diamond-hard and impervious to cuts and scrapes.  It seems a
+suitable protective device, tho it almost radiates evil.
+
+Demon Blade
+A wicked looking blade that radiates evil and power.
+
+Ring of the Sapphire Maiden
+This small silver ring has inset a tiny sapphire in the shape of a
+beautiful maiden.
+
+Ornate Robe
+A very ornate robe, decorated in dark colors and evil looking shapes.
+There are designs of spiders all over it.
+Waves of light flow in and around it.
+
+Sapphire Pendant
+This is the Sapphire Pendant worn by Arriana.
+It has a mystical glow within it, perhaps you could find some use for it?
+
+A golden statue
+This statue is about eight inches tall.  Judging by the weight, it is
+made of solid gold.  The statue depicts a spider-like being with a
+woman's head.  Runes line the base, but they are in a language you don't
+understand.  However, they suggest breaking chains and prisoners being
+set free.
+
+Grand Gauntlets
+This supple leather gauntlets are plated in a gold alloy that flexes
+and bends without damage.  They come up nearly to your elbow, hugging
+your arm like a gentle cloth but are quite durable.  A powerful magic
+protects these gauntlets as well, also providing the wearer with great
+physical strength.  The light reflects brilliantly off the gauntlets.
+
+Grand Boots
+These boots are very comfortable; the soft leather provides excellent
+cushion for your feet and the boots fit perfectly.  The leather is
+coated in a gold alloy that bends and moves with the boots with no
+resistance.  The magic in these boots not only protects them from
+damage but also provides the wearer with great agility.
+
+potion of extra healing
+This is a Potion of Extra Healing, you drink it.
+
+Golden Locket
+This is the Golden Locket worn by Eleari.
+It has a mystical glow within it, perhaps it is useful?
+
+Dark Green Helmet
+A dark green glowing helmet.  It is pulsing weakly.
+
+Dark Green Cloak
+A dark green glowing cloak.  It is pulsing weakly.
+
+incredibly dense tome
+This ancient tome is remarkably heavy for its size.  It is quite small
+but weighs more than a set of full plate armour.  The pages are
+covered with minute writing.
+
+Diamond Bracelet
+This is one of the diamond bracelets worn by Oranin Kerar.
+It's very likely magical, unfortunately you cannot tell how to
+wear it, as it has no clasp nor break from which to open it.
+
+Silver Lace
+This is the silver lace 'outfit' that Oranin Kerar wore.
+It is sewn carefully together using golden silk, an as of yet
+undiscovered fabric.  You muse on where such silk might originate...
+
+Diamond Necklace
+This is one of the diamond necklaces worn by Oranin Kerar.
+It's very likely magical, unfortunately you cannot tell how to
+wear it, as it has no clasp nor break from which to open it.
+
+Adamant Dagger
+A small, dark black, wicked looking dagger, it is made from the most
+ magical substance in all the realms.
+
+Adamant Platemail
+A suit of platemail made from the most magical substance in the realms.
+It is dark black and almost glows with power.
+
+Silver Bracelet
+This is the silver bracelet worn by Urys.
+It shines exquisitely in the light.  In fact, it almost seems to
+create its own light...
+
+Light Blue Potion
+This is a light blue, milky viscous potion.
+
+Dark Blue Potion
+This is a dark blue, milky viscous potion.
+
+Staff of Curing (charges remaining: 6)
+A shiny black staff with runes of power carved upon the shaft.
+Perhaps a cleric could get some use out of it.  It appears to
+have something written on it.
+
+crystal blue stone
+This little stone is almost perfectly round and quite spectacular.  It
+is a dark blue stone with white and light blue highlights throughout.
+It's smooth and shiny like glass, but much heavier.  It feels warm to
+the touch and is likely magical.  You could try throwing this stone to
+draw forth its effect.
+
+Bag
+A bag.
+You can put things in it.
+
+Maul of the Titans
+The fabled Maul of the Titans, once able to destroy the most powerful
+monster in a single strike, it appears to have lost most of its magic.
+Perhaps it could still magically dig, like it once could.
+
+spider sword
+This is a long, metallic, sharpened spider's leg.  It and 7 others
+just like it once belonged to an enormous sword spider.  This is a
+formidable weapon, if you had 7 others and 8 arms.  Otherwise it's
+just decent.
+
+Demon Spider Carapace
+This is an enormous carapace to a giant spider.  It has a shiny black
+exterior and the interior is slimy and gross.  This carapace is so
+large you could easily wear it around your body by just attaching a
+bit of rope to the top of it.  This carapace stinks like mad though.
+
+torn scroll
+This is a small, bone colored scroll, slightly torn at the corner. It
+contains a magical spell of some sort, or at least some form of
+incomprehensible writing.  This scroll appears to be magically
+enchanted, making it heavier than it would seem.
+
+Wand of Fireballs
+A wicked looking red wand, perhaps you could blast things with it.
+
+
+
+1st is h
+2nd is r
+Green dragon is in Neutral Dragon Realms, up at entrance
+4th is w
+5th is c

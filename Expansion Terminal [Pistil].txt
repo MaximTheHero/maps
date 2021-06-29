@@ -1,0 +1,68 @@
+Expansion Terminal [Pistil]
+Dirs: Science, 15n, 3w
+
+Top Floor:
+
+     d
+     |
+   d-T-d
+     |
+     d
+
+d: stairs down
+T: Train station
+
+
+Bottom Floor:
+
+ 5-4 u 1
+    \|/
+   u-x-u
+    /|\
+   3 u 2
+
+1: Syderman's Drink Shop
+2: Syderman's Merckentile and Trade
+3: Syderman's Light Shop
+4: Syderman's Ammo Dump
+5: Michelle Syderman
+
+Monsters:
+
+
+
+This is a normal sized woman who looks like she's ready to take on the world.
+From the looks of it, she doesn't really seem like she could
+take on too much, since she does look a little scrawny, but she does have a
+rather determined look in her eye. On the sleeve of her uniform you can
+see the emblem of the Houston Transportation Center. HTC.
+
+
+
+Items:
+
+An ammo clip.
+An ammunition clip, standard issue.
+
+An HTC rifle.
+This is a standard issue Houton Transporation Center rifle.
+It is made out of black shiny plastic and metal, and is rather long and
+vicious looking. It looks like it would fit pefectly up
+against your shoulder or hip and make for a good weapon.
+
+PlasmaCutter (broken) (spent).
+This is a large piece of construction equipment. It is made out of
+a shiny thick black plastic and towards the barrel of it there are lots
+of yellow stripes. It looks rather squat thick and would probably snug
+up close to your shoulder rather well. It has the word 'STRIKE' written
+in blue letters across one side. This piece of equipment could probably
+cut through solid rock, or be used as a rather mean weapon if it wasn't
+broken and out of power.
+
+MultiComponent Armour: Lower Arm Casing Component.
+This is a a pair of oblong pieces of very light material. It feels like
+metal but is warm to the touch, and has the feel of fabric. It looks
+like it only would fit on the front of an individual, since it is
+open in the back of it. Alas, it's obvious that you would need
+the other components of this armour to assemble
+and use it.

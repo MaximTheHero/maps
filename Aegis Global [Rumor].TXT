@@ -1,0 +1,279 @@
+sci,enter,u,3e,d,e,path,14e,18n,6e,bridge (to New York), e
+3se,n,e,enter
+
+Level 1:
+
+  E-x-x     x-x-d
+    | |     | |
+    x-x-x-x x-x
+        | |   |
+    x-x x-x   x-x
+    | | |     | | 
+    x-x-x   x-x-x
+      | |   | 
+      x-x-x-x x-x
+        | | | | |
+        x-x x-x-x
+
+
+Level 2:
+
+        x-x-x-x   x-x-x
+          | | |   | |
+          x-x-x-x-x-x-u
+          |   | | |   |
+        x-x-x-x-x-x-x-x-x
+        | | |   |   | | |
+        x-x-x-x-x-x-x-x-x
+          | | |   | | |
+          x-x-x-x-x-x-x
+          | | |   | | |
+          x-x-x-d-x-x-x
+            | |   | |
+            x-x   x-x
+
+
+Level 3:
+
+      x-x-x-x-x x x-x
+          |     | |
+      x-x-x-x-x x-x-d-x-x
+          |       |
+    x-x-x-x-x-x-x-x-x-x-x
+        | | | | | | |
+    x-x-x-x x x x x x-x-x
+        | | | | | | |
+    x-x-x x x x x x x-x-x
+        | |         |
+        x x-x-u x-x-x-x-x
+          | |       |
+          x x-x   x-x
+
+
+Level 4:
+
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | |   | |
+   x-x-x-x-x-x-x-S-x-x
+   | | | | | | |   | |
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x
+
+
+Level 5:
+
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | |   | |
+   x-x-x-x-x-x-x-S-x-x
+   | | | | | | |   | |
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x
+     | | | | | | | | |
+   2 x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-1-x-x-x-x-x-x-x-x
+
+1: pry plate
+2: Nod (rep based)
+
+
+Level 6:
+
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | |   | |
+   x-x-x-x-x-x-x-S-x-x
+   | | | | | | |   | |
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x
+   | | | | | | | | | |
+   x-x-x-x-x-x-x-x-x-x
+
+
+Level 7:
+
+       u         5-x
+       |         | |
+     x-x-x     x-x-x-x
+       |       | | | |
+     x-3-x     x-x-x-x
+      /          | |
+     x   4     x-x-x-x
+               | | | |
+               x-x-x-x
+                 | |
+               x-x-x-x
+               | | | |
+               x-x-x-x
+
+
+3: swipe card
+4: Calvin Mechler (kill for his eye)
+   push button (to get out)
+   scan eye (to get into vault)
+5: push button (to get back to Calvin's office)
+
+
+Zombie    96013
+This pathetic creature has nothing but a stump for a left arm.  It
+looks like he may have chewed off the rest of it in his desperation
+for the taste of human flesh.  He now walks the halls of Aegis Global
+mindlessly seeking more flesh to devour.
+
+Aegis Sentry Model 60-FT     117088
+A product of Aegis Global, this sentry robot is programmed to protect
+and serve.  It appears the robot's logic matrix has been tampered
+with, as it shouldn't be aggressive to humans.  It stands over seven
+feet tall and moves on roto-cylinders that resemble the wheel
+mechanism of a military tank.  It is armed with a flame thrower and a
+tear gas grenade launcher.
+
+Aegis Sentry Model 62-CC    187581
+Another fine product of Aegis Global, this sentry robot is programmed
+for crowd control.  Typically, it would only fire rubber bullets upon
+aggressive personnel, but it looks like someone has overridden its
+logic matrix and upgraded its arsenal.  It stands over seven feet tall
+and moves on roto-cylinders.  It is armed with two machine guns and
+has belts of armor-piercing ammunition hanging from its sides.
+
+Aegis Sentry Model 64-CC   275948
+This product of Aegis Global is a sentry robot with enhanced fire
+power for anti-theft and security precautions.  It boasts upgraded
+armor plating that is resistant to almost all forms of attack and a
+faster processor than earlier models for better response times.  It
+stands over seven feet tall and moves on roto-cylinders.  It is armed
+with two flame throwers and has a selection of high-powered grenades.
+
+Aegis Sentry Model 65-SE  216047
+This advanced sentry-model is one of the latest innovations to come
+out of the labs of Aegis Global.  Sleek in design, it moves with
+lethal grace on its roto-cylinders as it prowls whatever rooms it is
+set to monitor.  With its advanced arsenal of auto-loading machine
+guns and array of grenades, this robot is built to subdue virtually
+all forms of biological opposition.  It stands over seven feet in
+height and its reinforced steel plating gleams in the fluorescent
+light as it moves silently around the building.
+
+Aegis Soldier Model 66-SO   362078
+One of the more lethal Aegis Global products, this robot is a killing
+machine.  It stands slightly taller than a man but is made of
+reinforced steel and probably weighs over a ton.  It rolls silently
+though the building on its roto-cylinder base and has a guidance
+system that allows it to track anything that moves or makes the
+slightest of sounds.  It wields two massive auto-loading machine guns
+and an array of grenades.  This metallic menace is capable of
+destroying just about anything it comes across.  You might want to get
+out of its way.  Quickly.
+
+Aegis Assembler Model 68-AS   408479
+This monstrous robot stands well over eight feet tall and is as big as
+a tank.  Built to work on the assembly lines of Aegis Global, its size
+is necessary in order to have the power to manipulate the heavy parts
+used to build other robots and weapons.  It's made from steel and
+temperature resistant polymers and moves very slowly across the floor
+on its massive roto-cylinder base.  It has four arm-like extensions.
+One resembles a huge hammer, one looks like a giant set of pincers,
+another seems to be a built-in blow torch and the last one is some
+sort of electric wand.  Normally disinterested in humans, it now
+appears to be programmed to use these arms as weapons against anything
+human that it comes in contact with.
+
+Aegis Guardian Model 66-GU      889038
+Manufactured to survive virtually all forms of attack, this robot is
+nearly indestructible.  As the most expensive of the Aegis Global
+product line these robots are rarely seen, but touted by their owners
+as the very best in protection.  Standing at seven feet tall and
+bearing a host of weapons, this titanium alloy killing machine has
+apparently been programmed to kill all intruders in the building.  You
+probably ought to run.  Chances of surviving a battle with this thing
+are very slim.
+
+Calvin Mechler      68915
+
+Aegis Genocide Trooper       1146407
+This top secret robot has never been seen by the public and for good
+reason.  Developed under Calvin Mechler's direct supervision, this
+trooper has been designed for one purpose: The destruction of the
+human race.  Swift, strong, and nearly indestructible, this robot
+wields an array of weapons, and is protected by both the very best in
+armours as well as an energy field that deflects most damage types.
+Once it's armed with its tetrodoxmaphin bombs, it will be released
+into the general population to carry out its apocalyptic mission.  Now
+you're the only one that can stop it!
+
+
+
+Items:
+Tear gas canister
+This tear gas canister can be used as a grenade if tossed at an
+enemy.  Although only about five inches long, the light green
+cylinder packs a mean punch if used against anything that isn't
+immune to poison.
+
+Nerve gas canister.
+This nerve gas canister can be used as a grenade if tossed at an
+enemy.  Although only about five inches long, the bright yellow
+cylinder packs a mean punch if used against anything that isn't
+immune to nerve agents.
+
+Aegis Global level 7 clearance passcard.
+This plastic passcard provides access to the CEO's office in the
+Aegis Global underground complex.  It has a metallic stripe on one
+side that must be swiped at the proper door.
+
+360 ammo belt.
+This long belt of ammunition is meant to be loaded in an MH-360
+assault rifle.  The belt can hold a ton of bullets and these shells
+are special.  They each hold a tiny microchip that guides them toward
+a target for maximum efficiency.  This ammo is made for serious
+combat.  Use it wisely.
+A digital counter on the side displays the number "10000"
+
+MH-360 Assault Rifle (enhanced).
+This belt-fed machine gun is relatively light in weight, but it
+utilizes a revolutionary type of ammunition that hardly ever jams and
+carries a small microchip in every round.  These 'smart bullets' are
+self guided, making aiming a breeze.  This gun is the very latest
+innovation in handheld arms from Aegis Global and is capable of doling
+out a vast amount of carnage.
+
+Mechler's Eye.
+Disgusting!  This detached eyeball seems to have been ripped out
+of the head of Aegis Global's CEO, Calvin Mechler.  God only knows
+why anyone would want this foul souvenir.
+It looks light.
+
+
+

@@ -1,0 +1,503 @@
+magic,portal,12n,leave,10n,3w,nw
+
+
+
+   u    d - cave, say help, trace symbol
+  /
+ x
+  \
+   E
+
+
+                                    4 x-x-x-x-x
+                                    | |       | 
+                    x-x-x-x   x-x-x-x-x       x
+                    | | | |   |               |
+    x-x-x-x-x-x-x-x-x-x-x-x-x-x               x
+      | | | | | | | | | | | |                 |
+      x-x-x-x-x-x-x-x-x-x-x-x                 x
+      | | | | | | |         |                 |
+    x-x-5-x-x-x-x-x   x x   |                 |
+      | | | |         | |   |                 |
+      x-x-x-x        -x-x x-x   x-x-x-x       x
+                        |   |   |     |       |
+                      x-x x-x-x x     x       x
+                        | |\|/| |     |       |
+              x-x-x-u-x-x-x-x-x-x     x-x-x-x-x
+              |         | |/|\| |     |
+          x-x-x         x x-x-x x     x
+                            |   |     | 
+                          2-x-1 x-x-x-x
+                            |
+                          3-x x-x x
+                            |   | |
+                            x-x-x-x-x-x-x
+                                |   |
+                                x   x-u
+                                    |
+                                  x-x
+                                  | |
+                              x-x-x-x-x
+                              | | | |/
+                            x-x-x-x-x
+                            | |/| |
+                            x-x-x-x
+                            | | |
+                        x-x-x-x-x
+
+
+1: Harfain Trading Hall (Shop)
+2: Kaynbee's Tavern (Pub)
+3: Harfain Curio Shop
+4: move table, open trapdoor
+5: An Old Crumbling Tower
+   search stone, push button
+   all up, search bookshelves (A research journal)
+
+
+A Snarling Lierbeast   66127
+The creature is large enough to swallow a regular human in one bite.
+It seems to be all fangs and fur with a ravenous appetite.  It hovers
+in the air with some unknown form of propulsion and seems to feel that
+you would make a nice side snack.
+
+An Old Traveler   26123
+You see an old traveler with a long greying beard and a faded
+hat.  He nods solemnly to you as you pass by him.  He squints at
+the road through the many wrinkles on his face.
+
+An Eager Merchant   34709
+This merchant has his eyes on your purse.  His feeble attempts to get
+your attention don't seem to be working very well either.  Nonetheless,
+he persists vigilantly.  His booth does not interest you at all, it
+looks like more junk.
+
+A Townsperson    44437
+This townsperson appears somewhat wealthy. He browses the different.
+items available in the marketplace with a cheerful disposition.
+He does not seem particularly phased by your presence.
+
+A Brightly Dressed Troubadour    34492
+A brightly dressed troubadour sits in the corner on a stool.
+He holds a lute made of polished grey wood. He's a handsome man
+with a winning smile. He seems very friendly to all the inn's
+guests.
+
+A pudgy innkeeper    37120
+The innkeeper stands sternly with his arms folded across his chest.
+He surveys his domain proudly.  He probably built this place up from
+the sticks.  He rents out rooms.  Type 'list' if you'd like to know
+what's available.
+
+The innkeeper's wife   52924
+The innkeeper's wife scurries around preparing food for the inn
+customers.  Right now she's basting a fresh roasted pheasant.  She's
+a pretty little woman with slightly curled hair.  The steam from the
+boiling water has condensed on her brow.
+
+A Stout Sheriff    20868
+The sheriff rests back tipping his chair with his feet propped up on
+his desk.  He doesn't seem too ready to tackle all the paperwork
+in front of him.  He sums you up with a good long look, then shrugs.
+He appears to be a portly man, it is unlikely that he is the sole
+hand of the law in this town, or the robbers would run rampant.
+
+A Carpenter    41049
+A carpenter with a weathered face in old sawdust-filled clothing tips
+his hat to you when you look his way.  He looks like a hardworked man.
+Someone who's worked long hours all his life.
+
+A Young Man   34604
+A young man wanders idly through the town streets.  His gaze does not
+meet yours.  He seems somewhat downtrodden and depressed.
+
+A Farmer    31440
+A farmer seems to be in a hurry to get somewhere; it is hard to know
+where exactly, but he has a determined look on his face.  The
+farmer's old dusty overalls make them stand out among the usual town
+throng.
+
+A Wealthy Merchant   42452
+This merchant has a large belly.  He eyes you with a calculative air.
+You can tell by his clothing that he does quite well for himself in the
+marketplace.
+
+A Young Woman   33232
+The young woman notices your gaze and smiles in a friendly way.  She
+seems to be busy shopping in the marketplace.  She's wearing a new
+dress that matches the ribbons in her hair.
+
+A Madman (raving)    58260
+A very ancient-looking madman sits here raving on and on.  His clothes
+are rags.  He seems somehow more substantial than anything else in
+the marketplace.  He stares at the world through half closed eyes
+rejecting everything he sees.  He does not even acknowledge you.
+
+A little girl in pigtails   7813
+Humming a nursury song and cradling a doll you see a girl who looks
+to be four or five years old.  She has a look of mischief in her eye as
+you approach.  She looks lost; maybe you can help her?
+
+A Harfain Guard
+A guard stands sternly by the entrance to the Duchess's mansion.  His
+eyes survey all that happens in front of him in case anything should occur.
+
+A Rabbit   14447
+A fluffy little bunny rabbit wiggles its nose in your general direction.
+You imagine the gardeners have a hard time keeping rabbits like this
+one under control. They seem to have truly set up a residence here
+in the courtyard.
+
+A Gardener   29915
+A gardener works hard at maintaining these grounds. The hot sun beats
+down relentlessly plying creases into the gardener's face, particularly
+around the eyes.
+
+Rivald the Ranger   57361
+Rivald is a sad-looking man, his hair is unkempt and his eyes
+seem to tell you that he is a mere shadow of the man he once
+was. The abject state of his home is a reflection of the pain in
+his heart. In addition to that, he seems terrified of something.
+
+A Quiet Deer   27330
+A lithe beautiful creature trods gracefully across your path.
+For a moment you are awed by its splendor in its forest home.
+It pauses for just a moment, long enough to snap a twig off a nearby
+shrub then hurry away.
+
+A Snake   26241
+A simple tree snake slithers along under the thick forest underbrush.  It
+startles you when you first see it before you realize that it really is very
+small and not much of a threat at all.
+
+A Pheasant   27821
+An ugly, drab looking bird with a nice full body.  It looks like a stupid
+animal.  It'd probably make a nice meal to anyone quick enough to catch it.
+
+Mean Beastie    27536
+This is a mean beastie, one of those unnamable things that lurks in the
+darkness.  Its body is jet black with coarse wiry hairs and long
+needlesharp fangs.  It gnashes at you ferociously grasping to tear
+your heart out with its claws.  Such things are the spawn of pure evil
+and chaos.
+
+Gwenyth the Priestess (loving)   28489
+Gwenyth is a middle aged woman in a thick white robe.  She smiles
+serenely at you as you approach.  A twinkling bell sound comes from a
+string of tiny bells that hang from the gold cord belt at her waist.
+
+A Young Mother   44444
+A beautiful young mother with a glowing smile and a cheerful
+disposition is here tending her young babe. She is not at all
+pleased at your having entered her house unexpected and
+uninvited.
+
+A cute little baby  34
+This is a sweet adorable baby, innocent to the ways of the world
+and helpless to the cruelties of man. It looks up at your with
+bright blue eyes and a slight smile comes to its cherub face.
+
+A Very Large Woman   41773
+A hefty woman-and-a-half stands here eyeing you suspiciously. She
+looks like she's eaten people more vicious than you in her day.
+You swear that you can almost see smoke pouring out of her flared
+nostrils.
+
+Chester Felman, a Carpenter   44412
+Chester is a friendly looking guy wearing loose, sawdust-covered
+overalls.  He squints through the wrinkles of his face at you.  He
+looks like he's been hard at work today.
+
+The older brother  25723
+The older brother, and the more responsible of the two, Matt
+feels that he is the man of the house while their father is
+out, especially since their mother is sick. You can vaguely hear
+her coughing in the next room.
+
+The younger brother   21891
+The younger brother, follows his brother's every command. They
+are like two small allies in the great war of life. Little Nate
+is hardly higher than your knees, but he eyes you with stern
+distrust.
+
+A Very Sick Mother    32848
+A woman lies shivering in bed. Her eyes appear quite sunken and
+her skin clammy and pale. She looks very concerned as you enter
+the room. She pushes her sticklike figure to a sitting
+position.
+
+
+
+Lierbeast Jaws
+Strange needled sharp spiraling jaws that clench in and out. You
+notice that you can work them manually as a formidable weapon.
+
+an old weathered cane
+A long spindly cane of rough wood which looks as if it's known
+better days.  The hand grip part of it is worn smooth from years
+of use.
+
+A small pouch
+This is a little pouch used to carry assorted belongings and
+items used for trade in the marketplace.
+
+A brass key
+A long polished brass key. It appears to be fairly new and has
+an inticrately engraved handle.
+
+An iron key
+It's a little iron key with the number two engraved in it.
+
+A Roasted Pheasant
+A hunk of roasted pheasant, carefully basted to perfection.
+
+A Kitchen Apron
+It is a simple green kitchen apron with big white flowers all over
+it.  There is single ornamental embroidered pocket on the front.
+
+A Heavy Leather Vest
+A sturdy leather vest with thick lacings holding it together.  It
+looks to be a fine piece of armour for what it is.
+
+Harfain Sword
+A gleaming shiny, silvery sword etched with the seal of Harfain
+town.  The handle is made of a darker gold-toned metal with a
+roughened grip.
+
+Harfain armour
+Gleaming silver armour bearing the seal of Harfain town.  It is very new
+looking, and reflects an almost true image of everything around it.
+
+Harfain Shield
+A shining silvery shield bearing the seal of Harfain town.  It is very
+reflective showing nearly a true reflection of everything around it.  The
+craftsmanship is stunningly beautiful.
+
+a carpenter's hammer
+This is a worn out carpenter's hammer on a faded, worn smooth wood
+handle. The edge of the hammer is rounded off with a dip in the
+middle, probably from hammering nails.
+
+a rake
+A long thin black rake.  It looks as if it has been used a lot since
+its metal is worn in places and its rungs are bent.
+
+A Pretty Green Hair Ribbon
+A soft silky hair ribbon of a bright vibrant green.  It looks
+like it would make a fine addition to any lady's wardrobe.
+
+A New Dress
+A beautiful new dress made of soft fabrics.  It appears to be of
+an older fashion not worn anywhere but Harfain these days.  It
+looks like it would look very nice on a lady.
+
+A Simple Red Flower
+A little red flower slumps limply in your grip.  Its stem is a
+bit mangled but other than that is by far one of the most
+beautiful flowers you have ever seen.
+
+A Pair of Scuffed Shoes
+These shoes look as if they've seen better days.  Long hours of
+puttering along and dragging of feet has completely ruined the
+soles and made them virtually useless.
+
+A Dark Reddish Pouch
+This is a small dark reddish pouch containing a thin powdery
+substance.  The powdery substance shimmers in the light.  The
+powder itself looks like it would feel neat between your fingers.
+You are tempted to reach in and touch it.
+
+A cute little doll
+It's a pretty yellow haired doll with button eyes and a big smile
+embroidered on it.  Its rusty brown dress is faded in spots and
+it looks like it has been through hell and back.
+
+A carved rock key
+This is an interesting key carved out of mountain rock. Its
+surface is very smooth to the touch.
+
+A Silverwood Bow
+A beautiful silverwood bow. Light seems almost to reflect from
+its smooth, perfect surface. The bowstring appears to shimmer in
+the light. Surely this is not an ordinary bow.
+
+A bundle of 100 arrows.
+Used to stock all sorts of bows.
+If you have a bow, you may load the
+weapon by typing 'stock bow'
+
+a deerskin cloak
+This is a beautiful deerskin cloak. The seams are nearly
+invisible between the carefully cured pelts and hides. The
+deer skin appears suitably thick to make it a fine protection.
+
+A lock of flaxen hair
+A long lock of flaxen hair, it appears sun gold and absolutely
+beautiful to your eyes. The silken strands are tied together by
+a small blue ribbon.
+
+A Jeweled Necklace
+A woman's delicate jeweled necklace with what appear to be
+tiny diamonds strung by pearls. It appears to be slightly
+greened by having been left in dampness for a long time.
+
+A collection of love letters
+A stack of love letters between Rivald and a woman by the name of
+Celestine. You peruse the contents and only find the first and
+last letters of particular interest.
+
+read first letter
+The first letter, written in an elegant script, is slightly
+crumpled and reads as follows:
+
+My Dearest Rivald,
+
+     How I rue the day when first I laid
+ eyes on thee. Thine face, thine hair, thine
+ eyes, they enchant and delight me as no other.
+ Yet how can I allow for such feelings for a
+ mortal? I feel so strongly that I love thee,
+ yet I know that it could never be. My people
+ have many a tale of such a union which has gone
+ awry for mortal foolishness. But how can love
+ so great be so bitterly wrong? I shall meet thee
+ tonight and thou shalt tell me then if thou
+ accept my love. If so then I will call on my
+ sire so that we might be bound as man and wife
+. Every part of my being longs to be known as
+ thine loving wife. Meet me at the river at
+ twilight and give me your love.
+                               Your Fairest,
+                               Celestine
+
+read last letter
+The last letter is marred by blurred round patches and is written in the
+same elegant script as the first letter. It reads as follows
+
+My Dearest Rivald,
+
+     I love thee still. How cruel fate has been to
+ rend us apart. In leaving thee, I die. My sire's
+ conditions have been met. How foolish thou hast been
+ to allow such human emotions to come between us. Now
+ I must leave, the magicks that allow me to remain
+ among your people weaken as I write this farewell.
+ Soon there will be nothing at all to bind me here
+ and I shall be lost to thee forever. I shall do one
+ more thing for thee my love. My sire already knows
+ what has happened and he predicts a horrible fate
+ will befall your people. The fates have converged
+ and great magicks will tear at the lands. If you
+ value thine life and thine soul Rivald, leave
+ Harfain, pack thine belongings and go far away. To
+ remain here is to endure a death without dying, an
+ eternity of pain. I love thee still my love. Please
+ go. I shall be safe with my people. The dryads are
+ fearful, they also know that something bad is coming.
+ Comfort them some, then get thee to safety! Goodbye
+ my love.
+                         Your loving Wife,
+                         Celestine
+
+A Soft Deer Skin
+A smooth soft deer skin which might be used to make shoe
+leathers or a leather jacket of some kind.  It might sell
+for a decent price in town.
+
+Love Potion
+This is a bright pink potion in a pretty silvered flask.  You feel giddy
+just holding it.  There is a little seal on the outside of the flask
+which identifies it as having originated in Vermin's Potion Emporium
+in Harfain.
+
+Super Love Potion
+This is a pale pink potion that seems to have tiny dried rose petals
+floating in it.  It radiates with an energy which causes you to feel
+somewhat blissful.  There is a little seal on the outside of the gold-
+rimmed crystal flask which identifies it as having originated in Vermin's
+Potion Emporium in Harfain.
+
+Firebomb Potion
+This is a thin clear potion in a pottery flask with flecks of metal
+imbedded in it. The liquid itself has fumes that sting your nose.
+There is a little seal on the outside of the flask which identifies
+it as having originated in Vermin's Potion Emporium in Harfain.
+
+Potion of unsatiation
+This is a cloudy, white potion in an odd-looking speckled flask.
+There is a little seal on the outside of the flask which identifies it
+as having originated in Vermin's Potion Emporium in Harfain.
+
+Snake Fangs
+A pair of nasty looking sharp snake fangs.  They are narrow and
+pointy with just a touch of venom at the tips.
+
+Raw Pheasant
+This is the corpse of that pheasant you killed awhile ago.  What
+do you plan to do with it now?  You'd better decide quick before
+it rots away.
+
+black demon claws
+Shiny black demon claws that you can strap onto your fists.  They
+shimmer strangely seeming to absorb light.
+
+A research journal
+An old research journal that was written by Saldibas years ago.
+It contains pages of notes on magical spells and items that he
+did experiments with.
+
+a honeywood staff
+A narrow staff made of gold-tinted wood with a long twined design
+carved in it.  It feels warm to the touch and seems to radiate a sense of
+serenity.
+
+A White Robe
+A soft linen white robe of simple design.  It clings smoothly to the skin
+providing an alluring sillohuette.  It appears to be cut in a design more
+fashionable for women than men.
+
+A Gold Cord Belt
+A narrow rope belt of a golden color with little chimes tied on the end
+tassles, it is a pretty lady's belt meant to be worn over a robe.  The
+chimes on the belt seem to jingle at the slightest provocation.
+
+A brightly colored baby rattle
+Colorful stenciled patterns cover the surface of this porcelain
+rattle. Shaking it causes the slightest little clinking noise.
+
+a baby blanket
+A soft delicate baby blanket, colored with soft pastel colors
+in whimsical designs, it makes your mind feel at ease.
+
+a baby diaper
+A simple clean cloth baby diaper. There are little pins in the
+sides that you use to fasten it closed.
+
+A small diamond
+This is a beautiful small diamond, truly an elegant gem.  It would
+look wonderful on a ring.
+
+a large scarf
+A broad piece of colorful cloth, probably meant as a woman's
+clothing ornamentation or something. This one seems particularly
+large as if intended for a huge woman.
+
+A Dusty Pair of Overalls
+These are old, worn out overalls.  The knees are nearly threadbare
+but the rest of them are made of thick sturdy cloth that may well
+last through quite a bit more beating.
+
+A tarnished key
+This is a scratched and old tarnished key with a few nicks in
+its surface. The grip is worn smooth from being held.
+
+a small cap
+It's a little boy's cap made of a woven dark blue cloth. It is a
+bit small for you, but you could still pull it on if you really
+wanted to.
+
+a luck ring
+This is a ring that is supposed to bring you luck when you wear
+it. It's simply a wooden ring with a few lucky symbols carved in
+its surface.
+

@@ -1,0 +1,127 @@
+Basement 1:
+
+   x-x
+     |
+     x-x-x
+     | |
+     x x     d
+       |     |
+       x-x-x-x-x
+         |   |
+         x   x
+         |   |
+       x-x-x-x
+         |    \
+         x     x
+         |
+         u
+        / \
+       2   3
+
+Basement 2:
+
+          x-x-u
+          |   |
+        x-x   x-x x-x
+          |     | |
+          x     x-x
+          |     |
+        d-x-x-x-x
+          |   |
+        x-x-x-x-x
+            |
+            S-x
+
+Basement 3:
+
+                  x
+                  |
+              x-x-x-x d-x
+              |     |   |
+              u-x-x-x-x x
+              | |     | |
+              x x-x x-x x
+              |   |     |
+              x-x-x-x-x-x
+                  |   |
+                  x x-x
+
+Basement 4:
+invisible ghoul spy has Ring of Invisibility 100% of the time
+                 x-x   x
+                 | |   |
+             x-x-x x x-x-x
+             |     |   |
+           1-x x-x-u-x-x-x
+             | |   |     |
+           x-x x   x x x-x
+           |   |   | | |
+           x-x-x-x x-x-x-x
+                       |
+                       x-x
+
+1: Archway
+2: Shop
+3: Tavern
+S: Sorceress, Armour of the Magus
+
+
+
+A Guide of Catacombs    28658
+This aging adventurer seems right at home here in the ruins of
+the dwarven citadel.  He's probably lived here for ages, fending
+for himself amid the dangerous tunnels you've entered.  He smiles
+at you with a mischievious gleam in his eye.
+
+A large Rat     68703
+A monstrous rat scurries out of the circle of light you carry with
+you.  The thing is huge, nearly three feet long and that doesn't
+include the tail.  You can't imagine what magics or freaks of
+evolution produced these hideous creatures, but they're here and
+they're hungry.
+
+A goblin warrior     71112
+A tough looking little creature.  His green skin and sickly yellow
+eyes are totally repulsive to look upon.  A stench like years without
+a bath comes from the little creature.  Your sense of horrified
+wonder is all that forces you to look a second time, and it is then
+that you notice that aside from the scraps of armour the creature
+has scrounged together, it is totally naked.
+
+A Goblin Lord    117253
+This guy's gotta be the ugliest damn goblin you've ever come
+across.  He's a little bigger than the other goblins, but that's
+probably a good thing, or else he'd surely have been clubbed to
+death as an orc-goblin crossbreed.
+
+
+
+A small crystal key
+A key of cloudy white crystal, almost like ice.  It is about the
+width of your palm and isn't cold to the touch like you'd expect
+it to be.  Wonder what it opens.
+
+a chalky white club (glowing)
+A short handled mace of chalky white.  A dense knobby head curls
+up and out of the shaft leaving an strangely asymmetrical weapon.
+The end of the handle is jagged, as if broken off of some longer
+shaft.  All of a sudden it hits you.  This isn't just some strange
+goblin forged weapon, it is the femur of some poor soul who has
+rotted away here in the darkness.
+
+a suit of tattered leather armor (glowing)
+A scarred and torn suit of leather armour.  It smells rather bad and
+probably isn't worth a whole lot when it comes to protection, but it's
+better than nothing.
+
+a rusty sword (glowing)
+A rusty shortsword.  The pommel is worn smooth from use.  This once
+proud weapon has been brought low through neglect and abuse.
+
+a worm eaten shield (glowing)
+An ancient wooden shield gone to waste.  The once sturdy wood is
+crumbling with age and losing its battle with termites and worms.
+
+
+
+

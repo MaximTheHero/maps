@@ -1,0 +1,63 @@
+eforest,6e,n
+
+            x
+            |
+          x-x-x
+          |   |
+        1-x   2
+          |
+          E
+
+
+
+
+1: Hacketoff's Bridge [Stelari]
+2: search dirt - Ultramarine Marble
+
+
+
+a tiny faerie, fluttering above your head    177
+Her tiny wings sparkling in her own light, this faerie wears a tiny, but
+nevertheless exquisitely made gown of a deep burgandy gossamer. Her eyes
+twinkle with merriment as she smiles at you.
+
+A glossy blue-black bower bird, hovering protectively    92
+His feathers a deep shiny bluish black colour, he has beady black eyes,
+rimmed with a bright yellow, and a sharp long beak.
+
+
+
+
+a tiny golden bow
+A tiny golden bow, with magical arrows that have the power to make
+unsuspecting mortals fall hopelessly in love with each other.
+It has 4 arrows left in the quiver.
+
+a tiny silver necklace
+Far too small for you to wear, this looks like it might belong to one of
+the little people.
+
+Ultramarine Marble
+Exquisitely crafted/magicked, this pristine little ultramarine bauble is
+the whimsical, residual aftermath of peeronic thought.  Sadly, the
+entropic tendencies of such mental energies are difficult to grasp or
+maintain.  A marble will inevitably evanesce and reform in an infinite
+number of cryptic locations.
+
+a slender long stemmed rose
+A long stemmed red rose in full bloom, droplets of morning dew still nestling
+in amongst its petals, its tiny thorns barely able to tickle your skin.
+There is a card attached to the stem by a silver ribbon.
+
+a bold bright sunflower
+Large golden leaves splay out from the deep brown core of the sunflower, and
+its huge strong stem is slightly rough against your hands.
+There is a card attached to the stem by a silver ribbon.
+
+a fragile violet
+Tiny sparkles of purple, gold and a touch of white form into a violet,
+its fragile stem barely able to hold the weight, it moves gently in the
+breeze.
+There is a card attached to the stem by a silver ribbon.
+
+

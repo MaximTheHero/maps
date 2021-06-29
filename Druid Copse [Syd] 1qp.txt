@@ -1,0 +1,40 @@
+Druid Copse [Syd]
+Dirs: Eforest, 5w, 5s, w
+
+
+     E
+      \
+       x-x-x
+       |   |
+       x 1 x
+       |  \|
+       x-x-x
+
+
+1: Taliesin, Phantarch of the Realm. {trace pattern}
+   plant sapling for Oak Marble later
+   mald staves to make Staff of Nawglan
+ 
+Monsters:
+Hen Dallpen, a Celtic Druid
+Torach, A Celtic Druid
+Brgwin, A Celtic Druid
+Megellau, A Celtic Druid
+Gorswyn, A Celtic Druid
+Twrch, A Celtic Druid
+Maelwys, A Celtic Druid
+Baach, A Celtic Druid
+Taliesin, Phantarch of the Realm
+
+Items:
+A Staff of Oak.
+A Staff of Ash.
+A Staff of Willow.
+A Staff of Hazel.
+A Staff of Alder.
+A Staff of Yew.
+A Staff of Elm.
+A Staff of Birch.
+Oak Sapling.
+A Staff of Rowan.
+The Staff of Nawglan.

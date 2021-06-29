@@ -1,0 +1,36 @@
+chaos, e,climb
+
+
+  x-x-x-x-x-x-x-x
+  | | | | | | | |
+  x-x-x-x-x-x-x-x
+  | | | | | | | |
+  x-x-x-x-x-x-x-x
+  | | | | | | | |
+  x-x-x-x-x-x-x-x
+  | | | | | | | |
+  x-x-x-S-x-x-x-x
+  | | | | | | | |
+  x-x-x-x-x-x-x-x
+  | | | | | | | |
+  x-x-x-x-x-x-x-x
+  | | | | | | | |
+  x-x-x-x-x-x-x-x
+
+
+
+S: climb down to chaos, up to Archon
+
+A War Correspondent - energy
+Red Cross Medic     - acid
+Foot Soldier        - ice
+King                - ?
+Charioteer          - edged
+Counsellor          - energy
+Horseman            - fire
+Priest              - mental
+Refugee             - poison
+
+
+A Medkit
+A Camera

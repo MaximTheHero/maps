@@ -1,0 +1,116 @@
+
+
+
+
+
+
+
+
+
+    -1-B-x-A
+           |
+           P
+
+
+
+A: search grass - A scythe
+B: pedal, sharpen scythe
+P: path (exit/entrance)
+   - (with sharpened scythe) harvest summer wheat X3
+
+
+
+Find Nyess in the Wayhaven Bazaar, say hel, involved, beauty, brother,
+ imprisoned, crett, persisted, arrested, cityguard, jaamis, cell, bars.
+
+Now head 9n from Wayhaven north gate, and go path. It's a hidden exit.
+
+Go north, search grass. You may find a scythe. If you can't find it here, it 
+may well be in another room. If not, scythes from areas such as rampage 
+as long as they are a 'polearm' will also work, I'm told. 2w, pedal, sharpen 
+scythe, 2e, s, harvest summer wheat (you can do it three times, and you'll 
+probably want to).
+
+The most annoying aspect of this quest is room resets. Which will undo 
+various things you've done, and you may not notice, because it doesnt 
+affect everything. Most notably, it may make the milling stone /undress 
+itself/. You'll see underprocessed wheat if it has undressed through a reset.
+
+In the same room as the scythe, search bushes, collect blueberries.
+
+w, search desk, (swipe ledger), swipe tongs, pickup ember. get 
+coal, w, untie rope, open trapdoor, hook myself lower 
+myself  push wall, e, talk to the npc for a backstory. It's 
+actually not relevant to the quest. Theres some bottles of wine in here, 
+also not relevant to the quest. Perhaps it might be, I'll explain later.
+
+
+w, double-check sacks/pallets/inventory. Pallets should say it was out of 
+whack, and you'll find a recipe to make bread. I'm told you don't need the 
+recipe, but there's where you find it.
+
+w, u, open door, u, lower chain, d, hookup set 1, u, raise chain, unhook 
+set 1, dress set 2, hookup set 2, lower chain, d, unhook set 1.
+
+This will put a fully dressed flouring millstone on the miller.
+
+Find master Aruwin, and talk to him for a while. To get his key you can 
+either kill him, or whisper deal, and bribe him with 200 coins. For questing 
+diversity, it is possible that he will want a bottle of wine for the key. Thus `
+the hidden wine cellar with the back story about Aruwin being an Alcoholic.
+
+Get his key, head into the kitchen, unlock door, e, L/S bookshelves, 
+peruse titles. Read the milling book you recieve. All the details matter in 
+this quest. West, search cabinets (yeast), search pantry (jar), get milk 
+(also in pantry, but you have to get it), search dishes (bowl). w, search 
+nesting area (egg), open/search footlocker for a note relating to the 
+inventorying of sacks that we already did earlier. Also look at the cot, 
+and 'take and empty the pillow'. This gets you a fine canvas sack.
+
+By now you should have some coal, a ledger, a recipe, an egg, a bowl, 
+some bread dough, honey pot, jar of milk, blueberries, a key, book on 
+milling principles, tongs with ember in it.
+
+You'll need a chisel now. There's at least two locations for it, and with 
+different syntax. You can use my strategy, look at chisel in every room, or 
+you can actually give a toss and try to find it properly. One set is in the 
+storage room upstairs - nab chisel, one set is near the fireplace, forget the 
+syntax. You'll see it in a pile of tools.
+
+Now go to the storage room (one of the chisel locations) and search cases 
+for a scroll, break seal.
+
+Down a bit, to the prepared milling room. swivel chute (over the mill), 
+swing gate open, open door, e, pull lever, w, all up.
+
+look/search mechanism, 'disengage brake', climb ladder (hidden exit). 
+
+Look at the weathervane for the direction of the wind. turn crank clockwise 
+or counter-clockwise to match - unlike real weather, if wind is 
+blowing /from/ the south east (meaning its blowing northwest) you don't 
+face the sail northwest. Face it also south east. Its bad wording, not poor 
+coding.
+
+Wait for at least a firm gust. A strong gust is best. Then read the scroll 
+(once), you don't need to read it twice. Put the sail in Full Sail (raise sail 
+many times) and keep checking the weathervane and crank shaft to see 
+how fast you're going and if you're in the right direction.
+
+When it has been adequate for a while (I don't know if spinning quickly is 
+too fast) adequate and /still accellerating/ just to be safe, go to the grain 
+hopper, load wheat, head west and wait a few rounds whilst still checking 
+that crank. After it emotes once, saying it has processed some of the 
+grain, it is in fact finished. Go down, look in the cone to see if you have 
+perfect wheat, and pull cord.
+
+Perfectly milled wheat will appear in your sack. Or underprocessed if you're 
+using the wrong stone or the stone undressed itself over a room reset. I 
+had no success processing wheat twice. I doubt it would work well, as thats 
+why you can get multiple wheat when harvesting.
+
+Right, the horribly annoying milling process is over. 
+
+u,open door,e,e,start fire,mix ingredients (wait for it to tell you to insert 
+stuff), insert chisel, bake bread (wait), go to Wayhaven, find the woman, 
+and 'give bread to nyess'. If you attempt to 'give bread to woman', you'll 
+screw up the quest and have to do the wind all over again. Haahhha. Cry.

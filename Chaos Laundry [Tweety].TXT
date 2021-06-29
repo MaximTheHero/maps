@@ -1,0 +1,36 @@
+chaos,2e,2s,grab box
+
+
+open trapdoor
+
+        x
+       /|\
+      x x x
+      | | |
+      | x |
+      | | |
+      x x x
+       \ /
+        E
+
+
+The Lint Commando    8039
+A huge pile of lint, shaped into humanoid form! Various scraps of cloth
+cover him, giving him the appearance of 'wearing' something. Glowing
+green eyes stare intently at you.
+
+The Pants Nazi    26817
+The infamous Pants Nazi, despoiler of conventional clothing! A huge
+humanoid covered in layers upon layers of pants! This might be the
+person responsible for the disappearance of all the pants in the world!
+
+The Static Cling Medic   15485
+A ball of immense electricity, with pieces of cloth clinging to it.
+Glowing red eyes stare at you with pure hatred.
+
+
+A pair of Pants
+A pair of denim pants, freshly washed and pressed. They probably offer
+only limited protection.
+
+.

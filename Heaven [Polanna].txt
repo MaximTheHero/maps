@@ -1,0 +1,98 @@
+Heaven [Polanna]
+Dirs: Road Portal, 12e, n, enter, u, s, closet, u, out, 3w, s, portal, pray
+      [if there's no bar to get up in the closet it's west of the entrance to
+      the tower, 'remove bar' from there and 'install bar' in closet]
+
+           G
+           |
+           x
+           |
+           x
+           |
+           x
+           |
+       D   S
+        \  |
+         A-x
+         | |
+     R   x-A             E
+     |  /                |
+     x-A                 x-x-V
+       |                /
+       x               x
+       |              /
+       x M       x   x
+       | |        \ /
+       x-C         x
+         |        /
+       P-O-K-x-x-x
+                  \
+                   x
+                    \
+                     x
+
+G: God, if you're evil he'll port you straight to the devil
+S: Saint, has the key to get into the Garden of Eden
+R: Rainbow, enter and there's 7 unique mobs guarding a chest that has 10k in it
+P: Pegasus, mount to get to the clouds
+O: Exit
+K: Golden Gates to the Garden of Eden
+E: Eve, 'accept' the apple for a port straight to the devil
+V: Adam, dive pool and dive down to the bottom, tadpole has 'Cross Ring'
+A: Angel
+D: Dove
+C: Choir Conductor
+M: Choir Members, Sing to go up and kill some notes
+
+Clouds:
+
+                     G
+                     |
+                     W
+                     |
+                     x
+                     |
+                 P-x-A
+                   |
+                   x   S
+                   |   |
+                   A-x-A
+
+G: Golden Angel, has golden harp (4 charges of 150/150 and resets) angel resets slowly
+W: weak cloud, sit on it too long and you'll fall to the dove
+P: Pegasus
+A: Angel
+S: The Holy Spirit
+
+
+Monsters:
+God
+A choir member
+The choir conductor
+A music note
+A golden angel
+An angel
+The holy spirit
+A thornless rose
+A tame zebra
+A gentle lion
+Eve
+A squirrel
+Adam
+A <color> fish
+A tadpole
+
+Items:
+A hymn book.
+A golden key.
+Dove wings.
+A rosary.
+A wooden harp.
+A golden harp.
+Small flute.
+A spiritual aura.
+Zebra cloak.
+Lion gloves.
+Lion boots.
+Death Shroud.
+Cross Ring.
